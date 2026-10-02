@@ -1515,6 +1515,34 @@
               "url": "https://ugcnet.nta.ac.in/"
             }
           ]
+        },
+        {
+          "date": "2026-10-02",
+          "q": "What is the idea of ad-hoc professors? Friends say they are 'Associate Professors' but not permanent, renewed semester-wise, and told me to stay away. True or rumour?",
+          "a": [
+            "**Half true. Temporary teaching jobs are real and insecure. But a non-permanent 'Associate Professor' does not exist in DU's UGC system.**",
+            "- **Ad-hoc (the idea):** a stop-gap teacher hired against a vacant permanent post while the college delays permanent hiring. 4-month terms, renewed again and again, full workload, no job security. In DU many served 10-15 years this way; the 2022-24 permanent drive replaced most of them (reports: ~70% displaced in early rounds).",
+            "- **Associate Professor is a senior rank:** you reach it only by (a) CAS promotion from a permanent Assistant Professor post (PhD + about 12 years), or (b) direct recruitment (PhD + 8 years + 7 publications + research score 75). Both mean a permanent post. So in a DU / government-funded college, 'Associate Professor on semester contract' is not a real category.",
+            "- **What your friends most likely are (ESTIMATE):** (1) private university/college staff where 'Associate Professor' is a designation on a contract renewed per semester/year; or (2) ad-hoc, guest or contractual Assistant Professors loosely calling themselves professors; or (3) teachers in self-financed courses on contract. Ask them: which institution, and what does the appointment letter say (regular / ad-hoc / contractual / guest)?",
+            "- **What 'stay away' should mean:** don't treat ad-hoc/guest/contract as a road to permanency. Years spent there do not convert into a permanent post; only a fresh interview for a permanent advert does. Experience adds at most 10 screening points (2/year), and only if paid at least UGC minimum basic + DA, so guest teaching adds 0.",
+            "- **When temporary work is useful:** teaching practice, interview confidence and contacts while you clear NET/PhD. Fine as a stepping stone, never as the plan.",
+            "**PGT comparison:** Delhi govt schools have guest teachers (renewed per session, no security) - the same trap. A DSSSB PGT selection is permanent from day one (after probation), just like a permanent DU Assistant Professor post."
+          ],
+          "open": [
+            "Current DU ad-hoc pay terms and whether new ad-hoc appointments are still being made after the 2022-24 drive",
+            "Which institutions Ashish's friends work at and what their appointment letters say",
+            "Delhi guest-teacher pay and renewal terms (for the PGT comparison)"
+          ],
+          "sources": [
+            {
+              "title": "UGC Regulations 2018: Associate Professor via CAS (PhD + 3 yrs at Level 12) and direct recruitment (PhD + 8 yrs + 7 pubs + score 75)",
+              "url": "https://thc.nic.in/Central%20Governmental%20Regulations/UGC%20(Minimum%20Qualifications%20for%20Appointment%20of%20Teachers%20and%20other%20Academic%20Staff%20in%20Universities%20and%20Colleges%20and%20other%20measures%20for%20the%20Maintenacne%20of%20Standards%20in%20Higher%20Education)%20Regulations,%202018.pdf"
+            },
+            {
+              "title": "DU college screening guidelines 2022: experience 2 pts/yr, max 10, only if paid at least UGC minimum + DA",
+              "url": "notifications/2022_DU-College-AsstProf-Screening-Guidelines.pdf"
+            }
+          ]
         }
       ]
     }
