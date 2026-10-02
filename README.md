@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (15)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (16)
 
 ## Eligibility & Documents
 
@@ -1231,3 +1231,29 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 **Sources**
 
 1. [DU college screening & shortlisting guidelines (Hindu College copy, 2022), Table I and section III](notifications/2022_DU-College-AsstProf-Screening-Guidelines.pdf)
+
+### So after clearing NET I'm eligible; I apply whenever there's an advert, and if I clear the interview I get the job? No prior teaching experience needed? Ad-hoc maybe?
+*Asked 2026-10-02*
+
+**Yes, that's right, with three small corrections.**
+
+- **Correct NET result:** only Category 1 (JRF) or Category 2 makes you eligible. Category 3 (PhD only) does not.
+- **Order:** you don't wait for an interview call. You apply to each college advert online first. Screening (50+) then decides whether you get called, and the interview decides the job.
+- **After selection:** appointment as permanent Assistant Professor, then 1-year probation, then confirmation.
+**No prior teaching experience is required** for Assistant Professor (UGC 2018 lists only Master's 55%/50% OBC-NCL + NET or PhD). Experience only adds screening points (2/year, max 10, and only at UGC pay).
+
+**Ad-hoc is optional, not a step you must take.** Useful for teaching practice and interview confidence; it never converts into a permanent post by itself.
+
+**Practical points:** adverts come college by college at irregular times, so you must keep watching DU's recruitment page and college websites. DU is a central university, so OBC posts use the central OBC-NCL certificate (the format you hold, with a fresh NCL).
+
+**PGT comparison:** PGT is the same idea but with an exam instead of an interview: B.Ed + Master's, apply to the DSSSB ad, and the written-exam rank decides the job. No experience needed there either.
+
+
+**Still to verify**
+
+- Current DU / college recruitment portal and how adverts are announced in 2026
+
+**Sources**
+
+1. [DU Advt R&P/316/2026: Assistant Professor qualifications](notifications/2026-03-17_DU-Advt-316-AsstProf-Qualifications.pdf)
+2. [DU college screening guidelines 2022](notifications/2022_DU-College-AsstProf-Screening-Guidelines.pdf)
