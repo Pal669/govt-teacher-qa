@@ -1855,6 +1855,58 @@
               "url": "https://hinducollege.ac.in/download/2024/Teaching-Advertisement/Provisionaly%20shortlisted%20list%20Economics.pdf"
             }
           ]
+        },
+        {
+          "date": "2026-10-02",
+          "q": "My plan: study, give NET + PGT (DSSSB) + KVS exams; take whichever government job I crack (permanent), do a part-time (or full-time) PhD alongside, then with my higher score apply to DU, give the presentation, submit papers, and move to university teaching. Is this right, or is there a catch?",
+          "a": [
+            "**The plan is sound as a safety-net strategy: permanent job first, PhD alongside, DU later. Every step is allowed by the rules. But there are 8 catches.**",
+            "- **1. B.Ed (Bachelor of Education) gate:** PGT (Post Graduate Teacher) via DSSSB (Delhi Subordinate Services Selection Board), KVS (Kendriya Vidyalaya Sangathan) and EMRS (Eklavya Model Residential Schools) all need a B.Ed, which you don't have. NET (National Eligibility Test) is the only exam you can take right now. The school jobs are realistically 2029-30 (ESTIMATE).",
+            "- **2. Advisory business ends:** a government teacher falls under the CCS (Central Civil Services) Conduct Rules. Rule 15 bars private business without sanction, so the advisory book and AUM (Assets Under Management) fees can't continue. Rule 16 bars frequent trading (F&O, Futures and Options).",
+            "- **3. School years count zero at DU:** UGC (University Grants Commission) Regulations 2018, clause 10, count past service only as Assistant Professor or equivalent grade in a university, college or research body. DU screening counts experience only at UGC pay or above. PGT is Level 8 (Rs 47,600 basic), below Level 10, so 0 screening points, and no carry-over into CAS (Career Advancement Scheme) promotions.",
+            "- **4. Part-time PhD needs employer permission:** UGC PhD Regulations 2022 allow part-time, but your employer must give an NOC (No Objection Certificate) confirming time for research and release for coursework. CCS Conduct Rules say higher-study permission is 'not normally denied', but it can be withdrawn if duties suffer. DU allows part-time PhD under its amended Ordinance VI.",
+            "- **5. KVS/EMRS postings can kill a DU PhD:** both are all-India transferable (EMRS mostly in tribal areas). A part-time PhD at a Delhi university is only workable if you are posted in or near Delhi. DSSSB PGT (Delhi only) fits this plan best.",
+            "- **6. JRF (Junior Research Fellowship) and a job don't mix:** if you win JRF and then join PGT, you can't draw the fellowship. The JRF letter lapses after 3 years.",
+            "- **7. Switching jobs:** while a government employee, you apply to DU through 'proper channel' with an NOC. Then you resign 'technically' so past service is protected (FR 22-B, Fundamental Rules). Usually up to 4 outside applications a year are allowed.",
+            "- **8. Time:** B.Ed 2027-29, PGT ~2030 (age ~35), part-time PhD ~2030-36, DU applications ~2036+ (age ~41) (all ESTIMATE). DU has no upper age limit and retirement is 65, so it still works, but it's the slow road.",
+            "**Upsides confirmed:** a PhD lifts your score to 19+23+25 = 67 even without NET, or 75 with NET (UGC 2018 lets a PhD replace NET). That clears the 55 floor everywhere and the 65 floor for departments. Research papers are allowed for government teachers (neutral, own views).",
+            "**Faster alternative to weigh:** NET/JRF in Dec 2026, then (a) apply to DU colleges directly with JRF + 2 papers (56), and/or (b) a full-time JRF-funded PhD (2027-32), then DU ~2031-32 (age ~37). Keeps the advisory book only if JRF rules allow outside income (open question).",
+            "**PGT comparison:** this plan uses PGT as the safety net and DU as the target. Both tracks are covered, but the advisory-book conflict applies to both government jobs (PGT and DU Assistant Professor are both bound by conduct rules)."
+          ],
+          "open": [
+            "Delhi DoE (Directorate of Education) procedure and track record for granting NOC for a part-time PhD",
+            "Does DU admit part-time PhD scholars in Economics specifically (Department of Economics / DSE)? Check the 2026-27 PhD bulletin",
+            "DU PhD 2026-27 admission route: NET-score based or entrance + interview",
+            "Can a probationer (first 2 years in DoE/KVS) apply outside or get PhD permission?",
+            "JRF rules on outside income (advisory book)",
+            "Do DU's conduct rules for teachers also restrict a private advisory business (likely yes; confirm)"
+          ],
+          "sources": [
+            {
+              "title": "UGC Regulations 2018, clause 10 (counting of past service) and the PhD-in-lieu-of-NET rule (saved in notifications/)",
+              "url": "https://thc.nic.in/Central%20Governmental%20Regulations/UGC%20(Minimum%20Qualifications%20for%20Appointment%20of%20Teachers%20and%20other%20Academic%20Staff%20in%20Universities%20and%20Colleges%20and%20other%20measures%20for%20the%20Maintenacne%20of%20Standards%20in%20Higher%20Education)%20Regulations,%202018.pdf"
+            },
+            {
+              "title": "Vajiram & Ravi: UGC PhD Regulations 2022, part-time with employer NOC",
+              "url": "https://vajiramandravi.com/current-affairs/part-time-degrees-no-need-to-publish-research-what-new-phd-regulations-say/"
+            },
+            {
+              "title": "DU Ordinance VI amendments (PhD, part-time permitted), Aug 2025",
+              "url": "https://www.du.ac.in/uploads/new-web/08082025_OrdinanceVI.pdf"
+            },
+            {
+              "title": "Referencer: CCS (Conduct) Rules, GoI decisions (higher studies permission, Rule 15)",
+              "url": "https://www.referencer.in/CS_Regulations/CCS(Conduct)Rules1964/GOI_Decisions_15.aspx"
+            },
+            {
+              "title": "StaffNews: DoPT on forwarding applications for outside posts / technical resignation",
+              "url": "https://www.staffnews.in/?p=130445"
+            },
+            {
+              "title": "DU 2023 screening guidelines (experience only at UGC pay)",
+              "url": "https://www.du.ac.in/uploads/images/01102025-bharti-Guidelines%20for%20Screening%20and%20the%20Shortlisting.pdf"
+            }
+          ]
         }
       ]
     }
