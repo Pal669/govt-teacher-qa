@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (16)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (17)
 
 ## Eligibility & Documents
 
@@ -1257,3 +1257,30 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 
 1. [DU Advt R&P/316/2026: Assistant Professor qualifications](notifications/2026-03-17_DU-Advt-316-AsstProf-Qualifications.pdf)
 2. [DU college screening guidelines 2022](notifications/2022_DU-College-AsstProf-Screening-Guidelines.pdf)
+
+### Will my OBC reservation help me in the DU interview? Will there be a specific seat for me?
+*Asked 2026-10-02*
+
+**Yes, there are specific OBC seats. But OBC gives no extra marks in the interview.**
+
+- **Reserved posts:** under the Central Educational Institutions (Reservation in Teachers' Cadre) Act 2019, DU colleges run a 200-point roster with the whole college as one unit. OBC gets 27% of posts. Each advert lists posts by category, e.g. Economics: UR 2, OBC 1, EWS 1.
+- **Who you compete with:** for an OBC post, only other OBC-NCL candidates. You can ALSO compete for UR posts on merit. So OBC widens your chances; it never narrows them.
+- **The catch:** because the roster is college-wide, a given college's Economics advert may have zero OBC posts that round. Check each advert's category break-up.
+- **Eligibility relaxation:** 5% at Bachelor's and Master's for OBC-NCL (DU Advt 316/2026). The 50-point screening floor has NO OBC relaxation (only SC/ST/PwD get 5 marks).
+- **In the interview:** the same panel and the same questions. A reserved-category member sits on the panel, but there are no bonus marks.
+- **Risk, 'Not Found Suitable' (NFS):** a panel can declare no OBC candidate suitable and leave the post vacant. DU teacher bodies have raised this before a parliamentary committee. Being clearly strong in the interview is the only defence.
+- **Certificate:** central-format OBC-NCL (DU is a central university), with a fresh NCL valid as per the advert.
+**PGT comparison:** DSSSB also reserves OBC posts (21 of 60 Economics posts in Advt 10/2024), but needs the OBC (Delhi) format certificate. Selection is by exam rank within the category, so there's no NFS risk.
+
+
+**Still to verify**
+
+- Confirm DU colleges apply the 2019 Act roster with the college as one unit (check a college roster PDF)
+- NCL validity window required in DU adverts
+
+**Sources**
+
+1. [DU Advt R&P/316/2026: 5% relaxation for OBC-NCL at Bachelor's and Master's](notifications/2026-03-17_DU-Advt-316-AsstProf-Qualifications.pdf)
+2. [Careers360: DU teachers flag vacant reserved seats, NFS and roster anomalies before parliamentary committee](https://news.careers360.com/du-teachers-flag-issues-of-vacant-reserved-seats-roster-anomalies-parliamentary-committee)
+3. [Zakir Husain Delhi College teaching roster (example of a college roster)](https://www.zakirhusaindelhicollege.ac.in/wp-content/uploads/2025/04/Teaching-Roster.pdf)
+4. [DU college screening guidelines 2022 (5-mark relaxation only for SC/ST/PwD)](notifications/2022_DU-College-AsstProf-Screening-Guidelines.pdf)
