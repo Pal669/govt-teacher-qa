@@ -1490,6 +1490,31 @@
           "open": [
             "Confirm the Master's 55% rule, final-year provision and 4-year UG (75%) scope in the official NTA UGC NET Dec 2026 information bulletin"
           ]
+        },
+        {
+          "date": "2026-10-02",
+          "q": "To sit UGC NET, do I need a Master's (MA) degree, or is it not required?",
+          "a": [
+            "**Yes, a Master's is the normal requirement, and you already have it.**",
+            "- **Master's route:** 55% in the Master's (50% for OBC-NCL/SC/ST/PwD). This makes you eligible for all three NET outcomes, including Assistant Professor.",
+            "- **Final-year Master's students** can also sit, but must finish the Master's within 2 years of the result.",
+            "- **4-year UG (honours/research) with 75%:** can sit NET, but only for JRF/PhD. NOT eligible for Assistant Professor, which still needs the Master's 55%.",
+            "- **Plain 3-year graduation with no Master's:** cannot sit NET.",
+            "**PGT comparison:** PGT also needs the Master's (50%), plus a B.Ed. NET needs no B.Ed."
+          ],
+          "open": [
+            "Confirm the 4-year UG (75%) rule and the 2-year completion window in the official NTA Dec 2026 bulletin"
+          ],
+          "sources": [
+            {
+              "title": "UGC Regulations 2018 qualifications (Master's 55%, 5% relaxation for OBC-NCL)",
+              "url": "https://thc.nic.in/Central%20Governmental%20Regulations/UGC%20(Minimum%20Qualifications%20for%20Appointment%20of%20Teachers%20and%20other%20Academic%20Staff%20in%20Universities%20and%20Colleges%20and%20other%20measures%20for%20the%20Maintenacne%20of%20Standards%20in%20Higher%20Education)%20Regulations,%202018.pdf"
+            },
+            {
+              "title": "UGC NET official site (NTA): eligibility in the information bulletin",
+              "url": "https://ugcnet.nta.ac.in/"
+            }
+          ]
         }
       ]
     }

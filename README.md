@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (11)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (12)
 
 ## Eligibility & Documents
 
@@ -1123,3 +1123,24 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 1. [PW: UGC NET eligibility (55%/50%, final-year PG)](https://www.pw.live/exams/ugc-net/ugc-net-eligibility)
 2. [iPleaders: UGC NET eligibility incl. 4-year UG 75% rule](https://blog.ipleaders.in/eligibility-criteria-for-ugc-net-exam/)
 3. [DU Advt R&P/316/2026 (local copy): Asst Prof = Master's 55% + NET or PhD](notifications/2026-03-17_DU-Advt-316-AsstProf-Qualifications.pdf)
+
+### To sit UGC NET, do I need a Master's (MA) degree, or is it not required?
+*Asked 2026-10-02*
+
+**Yes, a Master's is the normal requirement, and you already have it.**
+
+- **Master's route:** 55% in the Master's (50% for OBC-NCL/SC/ST/PwD). This makes you eligible for all three NET outcomes, including Assistant Professor.
+- **Final-year Master's students** can also sit, but must finish the Master's within 2 years of the result.
+- **4-year UG (honours/research) with 75%:** can sit NET, but only for JRF/PhD. NOT eligible for Assistant Professor, which still needs the Master's 55%.
+- **Plain 3-year graduation with no Master's:** cannot sit NET.
+**PGT comparison:** PGT also needs the Master's (50%), plus a B.Ed. NET needs no B.Ed.
+
+
+**Still to verify**
+
+- Confirm the 4-year UG (75%) rule and the 2-year completion window in the official NTA Dec 2026 bulletin
+
+**Sources**
+
+1. [UGC Regulations 2018 qualifications (Master's 55%, 5% relaxation for OBC-NCL)](https://thc.nic.in/Central%20Governmental%20Regulations/UGC%20(Minimum%20Qualifications%20for%20Appointment%20of%20Teachers%20and%20other%20Academic%20Staff%20in%20Universities%20and%20Colleges%20and%20other%20measures%20for%20the%20Maintenacne%20of%20Standards%20in%20Higher%20Education)%20Regulations,%202018.pdf)
+2. [UGC NET official site (NTA): eligibility in the information bulletin](https://ugcnet.nta.ac.in/)
