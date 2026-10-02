@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (4)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (5)
 
 ## Eligibility & Documents
 
@@ -894,7 +894,7 @@ Status: NET not held as of 2026-10-02. The next cycle is Dec 2026; the form usua
 
 - **Paper 1 (common to all subjects), 50 Q / 100 marks:** teaching aptitude, research aptitude, reading comprehension, communication, mathematical reasoning, logical reasoning, data interpretation, ICT, people/development/environment, the higher education system. About 5 questions per unit.
 - **Paper 2 (Economics), 100 Q / 200 marks, 10 units:** (1) Microeconomics (2) Macroeconomics (3) Statistics & Econometrics (4) Mathematical Economics (5) International Economics (6) Public Economics (7) Money & Banking (8) Growth & Development (9) Environmental Economics & Demography (10) Indian Economy.
-- **Result:** to be eligible for Assistant Professor you must clear the minimum (40% aggregate General; 35% OBC-NCL) AND fall in the top 6% category-wise. Landing in the 'PhD only' category is not enough.
+- **Result:** to be eligible for Assistant Professor you must clear the minimum (40% aggregate General; 35% OBC-NCL) AND rank inside your category's share of the national 6% pool (see the next Q). Landing in the 'PhD only' category is not enough.
 **Compared with PGT:** DSSSB PGT is also 300 marks but has 0.25 negative marking (Section I general 100 + Section II Economics + teaching methodology 200). KVS is two-tier plus an interview/demo. NET is only the eligibility gate; the actual DU job is decided by interview.
 
 **Overlap:** NET Paper 2 and the PGT Economics section share most of the core syllabus (micro, macro, Indian economy, money & banking, public finance), so one preparation serves both tracks. NET goes deeper on econometrics and mathematical economics; PGT adds pedagogy and general awareness.
@@ -930,3 +930,28 @@ Status: NET not held as of 2026-10-02. The next cycle is Dec 2026; the form usua
 
 1. [PW: UGC NET exam pattern 2026](https://www.pw.live/ugc-net/exams/ugc-net-syllabus)
 2. [EMRS ESSE-2025 Information Bulletin (saved in notifications/)](https://nests.tribal.gov.in/)
+
+### Is the NET 'top 6%' the top 6% of OBC candidates, or of the overall pool?
+*Asked 2026-10-02*
+
+**Neither exactly. The 6% sets the total number of seats, and those seats are then split by category. You compete only with OBC candidates for the OBC seats.**
+
+- **Step 1, minimum marks:** at least 35% aggregate across both papers for OBC-NCL (40% for General).
+- **Step 2, total seats:** total qualifiers = 6% of ALL candidates who appeared in both papers (the overall pool, all subjects and categories).
+- **Step 3, split:** those seats are divided by Govt of India reservation policy (OBC 27%, UR, SC, ST, EWS, etc.), and per NTA bulletins also subject-wise. The OBC seats in Economics go to the highest-scoring OBC-NCL Economics candidates.
+Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qualify; about 27% of those (~162) are OBC seats. You need to rank within the top ~162 of the OBC Economics candidates, which is why the OBC cut-off is usually lower than the General one.
+
+**Your certificate matters:** this is a central exam, so the CENTRAL-format OBC-NCL certificate applies (the format you hold), with a fresh NCL per the bulletin's validity rule.
+
+
+**Still to verify**
+
+- Confirm the exact 3-step wording (including the subject-wise split) in the official NTA Dec 2026 bulletin
+- Recent Economics cut-offs for OBC vs General (last 2-3 cycles)
+- NCL validity window required by NTA for the Dec 2026 cycle
+
+**Sources**
+
+1. [Careers360: UGC NET result declaration criteria](https://www.careers360.com/question-what-is-the-result-declaration-criteria-for-nta-ugc-net)
+2. [Pagalguy: UGC NET qualifying criteria (6% slots, category-wise as per reservation policy)](https://www.pagalguy.com/articles/ugc-net-december-2019-result-to-be-released-soon-on-ntanet-nic-in-check-qualifying-criteria-here?amp=1)
+3. [Careers360: how UGC NET cut-off marks are calculated](https://competition.careers360.com/articles/how-calculate-cut-off-marks-for-ugc-net)
