@@ -7,7 +7,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Age Limits](#age-limits) (3)
 - [Exams & Timelines](#exams-timelines) (3)
 - [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (4)
-- [Pay & Perks](#pay-perks) (2)
+- [Pay & Perks](#pay-perks) (3)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (1)
@@ -342,6 +342,34 @@ Age 45 means roughly 13 years of chances once the B.Ed is done.
 
 
 ## Pay & Perks
+
+### How much will a PGT (Level 8) salary grow over 10 years after the 8th Pay Commission?
+*Asked 2026-10-02*
+
+**Estimate only. The 8th Pay Commission fitment factor has not been announced.** Base case below uses 1.92, the most-quoted estimate.
+
+- **8th CPC status:** reference date 1 Jan 2026; report due around May 2027; arrears expected from 1 Jan 2026. DA was 60% on 1 Jan 2026 under the 7th CPC and resets to 0 under the 8th.
+- **Entry basic:** Rs 47,600 x 1.92 = about **Rs 91,400**.
+- **If you join in July 2029:** DA about 21% by then, so gross pay is about **Rs 1.41 lakh/month** (basic + DA + Delhi HRA 24% + TA).
+- **Growth engine:** 3% increment every July + DA rising about 6 points a year (tracks inflation). HRA steps up to 27% and 30% as DA crosses 25% and 50%.
+- **Year 10 (July 2038):** about **Rs 2.57 lakh/month** without a 9th Pay Commission, about **Rs 3.19 lakh/month** if a 9th CPC lands in Jan 2036 with a 15% real raise (pure assumption).
+- Range: fitment 1.83 gives Rs 1.34 lakh at joining; 2.28 gives Rs 1.67 lakh.
+- NPS: you put in 10% of (basic + DA), the government adds 14%.
+The full personal 10-year projection (with expenses, other income and net worth) is in the local output folder, not on this portal.
+
+
+**Still to verify**
+
+- Actual 8th CPC fitment factor and new pay matrix (report ~May 2027)
+- Whether HRA percentages (24/27/30%) change under the 8th CPC
+- Timing and size of a 9th Pay Commission
+
+**Sources**
+
+1. [DSSSB Advt. 10/2024, Combined PGT (Level 8 pay)](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf)
+2. [8th Pay Commission timeline (GConnect)](https://www.gconnect.in/8th-pay-commission-timeline)
+3. [8th Pay Commission status, fitment estimates (Indian Pay Calculator)](https://www.indianpaycalculator.in/8th-pay-commission)
+4. [Cabinet approves 8th CPC ToR (Tribune)](https://www.tribuneindia.com/news/india/8th-pay-commission-cabinet-approves-terms-of-reference-likely-to-come-into-effect-from-jan-2026)
 
 ### How do the perks, benefits and holidays compare: DSSSB (Delhi govt) vs KVS?
 *Asked 2026-10-01*
