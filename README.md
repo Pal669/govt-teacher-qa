@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (6)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (7)
 
 ## Eligibility & Documents
 
@@ -983,3 +983,35 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 1. [PW: UGC NET Economics cut-off (Jun 2024 to Dec 2025, with qualified counts)](https://www.pw.live/ugc-net/exams/ugc-net-economics-cut-off)
 2. [Testbook: UGC NET Economics cut-off (incl. Jun 2026)](https://testbook.com/ugc-net-economics/cut-off)
 3. [Careers360: 7.35 lakh appeared in Dec 2025](https://news.careers360.com/nta-ugc-net-december-2025-exam-7-35-lakh-attendance-results-answer-key-cut-off-jrf-assistant-professor-subjects/amp)
+
+### If I score 75% in NET, what happens next? Do I give an interview for a PhD, for Assistant Professor, or do I get a permanent job directly?
+*Asked 2026-10-02*
+
+**75% = 225/300. That's above the recent OBC JRF cut-off (212-216), so you'd likely land in Category 1 (JRF).** But NET is an eligibility certificate, **not a job**. Nobody appoints you on the NET score alone.
+
+**What 225 unlocks (three doors, all through an interview):**
+
+- **Door 1, Assistant Professor (the permanent job):** lifetime eligibility. Apply to each DU college advert, screening (about 52 with JRF), then an **interview**. The interview decides the permanent job.
+- **Door 2, PhD with JRF:** JRF holders get into a PhD on **interview only** (no entrance test), under the UGC PhD Regulations 2022. Pay: Rs 37,000/month (JRF, years 1-2), then Rs 42,000 (SRF, years 3-5), plus HRA. You must join a PhD within the 3-year validity of the JRF letter.
+- **Door 3, PhD without JRF:** Category 2/3 admissions are 70% NET score + 30% interview. Not relevant at 75%.
+**The trade-off:** JRF is for full-time PhD scholars, so you generally can't hold a job while drawing it. If you get a permanent Assistant Professor post first, you give up the fellowship but can do a PhD while teaching (you'll need it later for Associate Professor).
+
+**Suggested sequence (ESTIMATE):** clear NET with JRF, then apply to DU college adverts straight away AND apply for a PhD (e.g. Delhi School of Economics, JNU). If a permanent post comes first, take it and do the PhD while working. If not, take the JRF-funded PhD: it raises your screening score to about 77 (PhD = 25 points), which makes the next interviews far easier.
+
+**PGT track:** NET doesn't count for PGT. The B.Ed is still required, but the Economics preparation overlaps.
+
+**Open point:** JRF rules on outside income would affect the advisory book and your job. Check before you accept JRF.
+
+
+**Still to verify**
+
+- JRF terms: are outside income (advisory book, current job) and part-time work allowed while drawing JRF?
+- DU / DSE / JNU PhD Economics admission process for JRF holders (dates, interview format)
+- Whether the JRF fellowship can be held alongside a part-time PhD (generally no; confirm)
+
+**Sources**
+
+1. [Careers360: NET scores for PhD admissions from 2024-25 (3 categories, 70/30)](https://news.careers360.com/ugc-net-scores-can-be-used-for-phd-admissions-from-2024-25-session-decides-commission)
+2. [Careers360: UGC revises JRF to Rs 37,000 / SRF Rs 42,000](https://news.careers360.com/ugc-revises-fellowship-amounts-for-jrf-srf-post-doctoral-other-schemes/amp)
+3. [UGC fellowship page](https://www.ugc.gov.in/Fellowship/stu_Fellowship1)
+4. [DU college screening guidelines (PhD 25, JRF 10, NET 8 points)](https://www.hinducollege.ac.in/download/2022/ad/4-Guidelines%20for%20Screening%20&%20Shortlisting%20Candidate.pdf)
