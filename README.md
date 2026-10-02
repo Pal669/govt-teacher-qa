@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (18)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (19)
 
 ## Eligibility & Documents
 
@@ -1307,3 +1307,19 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 **Sources**
 
 1. [DU college screening guidelines 2022, Table I and tie-break rule III(2)](notifications/2022_DU-College-AsstProf-Screening-Guidelines.pdf)
+
+### If my interview goes well and they like me, can I be selected even though my screening score is 50 and someone else has 70?
+*Asked 2026-10-02*
+
+**Yes. In DU colleges the screening score is only a ticket into the room.** The guidelines say screening marks 'shall not have any weightage/credit or merit' in the interview. Once called, a 50 and a 70 start level, and the panel picks on interview performance.
+
+**The honest caveat:** the 70-scorer usually has a PhD, papers or experience, and the panel sees and asks about those in the interview. So the advantage moves from the score sheet into the conversation. You beat them by being clearly stronger on subject depth, teaching ability and a clear research direction.
+
+**Applies to colleges only:** university departments need 65+ just to be called, so a 50 never reaches that interview.
+
+**PGT comparison:** no such swing in DSSSB. The exam rank alone decides, so a lower scorer cannot overtake a higher one.
+
+
+**Sources**
+
+1. [DU college screening guidelines 2022, section III(4): screening marks carry no weightage in the interview](notifications/2022_DU-College-AsstProf-Screening-Guidelines.pdf)
