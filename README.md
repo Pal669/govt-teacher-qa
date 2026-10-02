@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (14)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (15)
 
 ## Eligibility & Documents
 
@@ -1198,3 +1198,36 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 2. [PW: UGC NET Economics cut-offs and qualified counts](https://www.pw.live/ugc-net/exams/ugc-net-economics-cut-off)
 3. [The Quint: ad-hoc teachers removed at IP College, 8 posts (Oct 2023)](https://www.thequint.com/news/education/delhi-university-indraprastha-college-sociology-department-teachers-removed)
 4. [Outlook: struggle of ad-hoc teachers (DU, ~4,500 ad-hocs, 2023)](https://www.outlookindia.com/national/equal-work-unequal-benefits-the-struggle-of-ad-hoc-teachers-for-permanence-and-dignity-news-288857)
+
+### What is this '50+' screening score? How is it calculated from percentages, and does clearing NET give everyone 50?
+*Asked 2026-10-02*
+
+**NET does NOT give you 50. NET gives you 8 points. The 50 is the TOTAL of your graduation marks + PG marks + NET.** So people have different scores.
+
+**DU college screening table (out of 100):**
+
+- **Graduation:** 80%+ = 21 | 60-80% = 19 | 55-60% = 16 | 45-55% = 10
+- **Post-graduation:** 80%+ = 25 | 60-80% = 23 | 55-60% (50% for OBC-NCL/SC/ST/PwD) = 20
+- **M.Phil:** 60%+ = 7 | 55-60% = 5
+- **PhD:** 25 (M.Phil + PhD together max 25)
+- **NET with JRF:** 10 | **NET:** 8 (max 10)
+- **Awards:** national/international 3 | state 2 (max 3)
+- **Research publications:** 2 each in peer-reviewed / UGC-listed journals (max 6)
+- **Teaching / post-doc experience:** 2 per year (max 10), only if paid at least the UGC minimum basic + DA
+**Cut-off:** colleges call everyone at 50+; university departments need 65+. SC/ST/PwD get a 5-mark relaxation (not OBC). Ties go to higher Master's marks. The score is only for shortlisting and carries no weight in the interview.
+
+**Examples:** grad 80%+ and PG 80%+ with NET = 21+25+8 = 54. Grad 55-60% and PG 55-60% with NET = 16+20+8 = 44, which is NOT called. **Ashish (60-80% in both, to confirm from marksheets) = 19+23+8 = 50, exactly the floor.**
+
+**How Ashish can raise it:** JRF (+2, 52); 1-3 research papers (+2 each, up to 58); a PhD (+25, about 77 with JRF); paid teaching at UGC scale (+2/year).
+
+**PGT comparison:** DSSSB has no screening score. Your written-exam marks decide everything.
+
+
+**Still to verify**
+
+- Exact graduation and PG percentages from marksheets (decides whether Ashish is at 50 or above/below it)
+- Whether the 2022 screening table is still used in 2026 college adverts
+
+**Sources**
+
+1. [DU college screening & shortlisting guidelines (Hindu College copy, 2022), Table I and section III](notifications/2022_DU-College-AsstProf-Screening-Guidelines.pdf)
