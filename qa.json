@@ -16,7 +16,10 @@
             "Pay: Level 8, Rs 47,600 – 1,51,100, Group B. Exam: one tier, 300 marks, 0.25 negative marking."
           ],
           "sources": [
-            {"title": "DSSSB Advt. 10/2024, Combined PGT (official PDF)", "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf"}
+            {
+              "title": "DSSSB Advt. 10/2024, Combined PGT (official PDF)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf"
+            }
           ]
         },
         {
@@ -32,11 +35,26 @@
             "Without a valid OBC (Delhi) certificate, DSSSB treats you as General, with an age limit of 30."
           ],
           "sources": [
-            {"title": "DSSSB Advt. 10/2024, para 7 (iv)-(v)", "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf"},
-            {"title": "LawBeat: central OBC certificate can't be used for Delhi govt posts (Delhi HC)", "url": "https://lawbeat.in/news-updates/obc-certificate-meant-for-central-govt-jobs-cant-be-used-for-delhi-govt-posts-delhi-hc-1500880"},
-            {"title": "Delhi OBC list (Delhi Assembly document)", "url": "https://delhiassembly.delhi.gov.in/sites/default/files/2023-06/viia-obc-1r.pdf"},
-            {"title": "Delhi OBC Commission citizen charter", "url": "https://obc.delhi.gov.in/obc/citizen-charter"},
-            {"title": "Edudel deficiency memo showing NCL timing rule", "url": "https://www.edudel.nic.in/upload/upload_2025_26/E2drc_DEFICIENCYMEMOPGTPhysicsMaleunderpostcode80623_dt_26052026_369.PDF"}
+            {
+              "title": "DSSSB Advt. 10/2024, para 7 (iv)-(v)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf"
+            },
+            {
+              "title": "LawBeat: central OBC certificate can't be used for Delhi govt posts (Delhi HC)",
+              "url": "https://lawbeat.in/news-updates/obc-certificate-meant-for-central-govt-jobs-cant-be-used-for-delhi-govt-posts-delhi-hc-1500880"
+            },
+            {
+              "title": "Delhi OBC list (Delhi Assembly document)",
+              "url": "https://delhiassembly.delhi.gov.in/sites/default/files/2023-06/viia-obc-1r.pdf"
+            },
+            {
+              "title": "Delhi OBC Commission citizen charter",
+              "url": "https://obc.delhi.gov.in/obc/citizen-charter"
+            },
+            {
+              "title": "Edudel deficiency memo showing NCL timing rule",
+              "url": "https://www.edudel.nic.in/upload/upload_2025_26/E2drc_DEFICIENCYMEMOPGTPhysicsMaleunderpostcode80623_dt_26052026_369.PDF"
+            }
           ]
         },
         {
@@ -48,8 +66,44 @@
             "That clause is gone from the current rules. It would matter again only if Delhi restores the old rules, or for NDMC posts if NDMC still uses its old rules (to verify)."
           ],
           "sources": [
-            {"title": "DSSSB Advt. 01/2014, PGT eligibility incl. first-division clause", "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/ad_14.pdf"},
-            {"title": "DSSSB Advt. 07/2023, PGT Economics (old rules)", "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_07-23_advt_combined_pgts.pdf"}
+            {
+              "title": "DSSSB Advt. 01/2014, PGT eligibility incl. first-division clause",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/ad_14.pdf"
+            },
+            {
+              "title": "DSSSB Advt. 07/2023, PGT Economics (old rules)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_07-23_advt_combined_pgts.pdf"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "q": "What are the different ways I can become a government PGT Economics teacher?",
+          "a": [
+            "Your Master's in Economics covers the subject. What every route still needs is a **B.Ed** from an NCTE-recognised college (simple: a teaching degree approved by India's teacher-education regulator). CTET is not needed for PGT; it only covers classes 1-8.",
+            "The recruitment routes:",
+            "- **DSSSB PGT Economics:** Delhi govt schools (Directorate of Education, plus NDMC). Delhi-only posting. Best fit for staying in Delhi.",
+            "- **KVS PGT:** Kendriya Vidyalayas (central govt). Transferable anywhere in India. Recent drives run jointly with NVS through CBSE.",
+            "- **NVS PGT:** Navodaya Vidyalayas, residential, mostly rural campuses. Hardest on lifestyle.",
+            "- **EMRS PGT:** Eklavya Model Residential Schools (NESTS, Ministry of Tribal Affairs), tribal areas across India.",
+            "- **State recruitment** (e.g. Uttarakhand UKPSC, Himachal HPRCA): state schools, posting within that state. See Other Routes.",
+            "Pay for PGT is Level 8 everywhere: basic Rs 47,600 rising to Rs 1,51,100.",
+            "B.Ed options: regular 2-year B.Ed (entrance tests like DU B.Ed, IPU CET). A 1-year B.Ed for postgraduates was announced by NCTE but is not confirmed as started. IGNOU distance B.Ed needs 2 years of teaching experience first, so it does not work for you now.",
+            "Rough timeline without a B.Ed: 1-2 years for B.Ed, then the next notification, then a 6-12 month selection cycle, so about **2.5-3.5 years** to actually get posted.",
+            "**Correction (checked 2026-10-01):** the \"36\" age limit for DSSSB is NOT notified. Every official DSSSB PGT ad through Oct 2025 says not over 30 (OBC Delhi 33). See the Age Limits section."
+          ],
+          "open": [
+            "Whether the 1-year B.Ed for postgraduates is actually notified for 2027-28"
+          ],
+          "sources": [
+            {
+              "title": "Delhi PGT Recruitment Rules 2022 (Gazette PDF)",
+              "url": "http://edudel.nic.in/upload/upload_2021_22/rr_pgt_dt_20102022.PDF"
+            },
+            {
+              "title": "DSSSB Advt. 10/2024, Combined PGT (official PDF)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf"
+            }
           ]
         }
       ]
@@ -70,12 +124,30 @@
             "Also watch: NCTE's proposed **1-year B.Ed for postgraduates**. Announced, but not confirmed as notified."
           ],
           "sources": [
-            {"title": "Collegedunia: IPU CET 2026 spot round", "url": "https://collegedunia.com/articles/e-342-ipu-cet-2026-spot-round-eligibility-registration-and-how-to-participate-after-phase-3"},
-            {"title": "Collegedunia: DU B.Ed via CUET PG", "url": "https://collegedunia.com/exams/du-bed-entrance-exam"},
-            {"title": "Collegedunia: CRSU admission 2026", "url": "https://collegedunia.com/university/57081-chaudhary-ranbir-singh-university-crsu-jind/admission"},
-            {"title": "Sardar Patel Education: Haryana B.Ed 2026-27 schedule", "url": "https://sardarpateleducation.com/b-ed-m-ed-spl-b-ed-m-ed-admission-2026-27-revised-schedule-counseling-dates/"},
-            {"title": "CollegeDekho: UP B.Ed counselling 2026", "url": "https://www.collegedekho.com/colleges/bundelkhand-university/up-bed-counselling-article-86080"},
-            {"title": "Careers360: NCTE 1-year B.Ed draft rules", "url": "https://news.careers360.com/ncte-rules-1-year-b-ed-masters-education-nta-admission-test-syllabus-eligibility-teacher-training-itep-degree"}
+            {
+              "title": "Collegedunia: IPU CET 2026 spot round",
+              "url": "https://collegedunia.com/articles/e-342-ipu-cet-2026-spot-round-eligibility-registration-and-how-to-participate-after-phase-3"
+            },
+            {
+              "title": "Collegedunia: DU B.Ed via CUET PG",
+              "url": "https://collegedunia.com/exams/du-bed-entrance-exam"
+            },
+            {
+              "title": "Collegedunia: CRSU admission 2026",
+              "url": "https://collegedunia.com/university/57081-chaudhary-ranbir-singh-university-crsu-jind/admission"
+            },
+            {
+              "title": "Sardar Patel Education: Haryana B.Ed 2026-27 schedule",
+              "url": "https://sardarpateleducation.com/b-ed-m-ed-spl-b-ed-m-ed-admission-2026-27-revised-schedule-counseling-dates/"
+            },
+            {
+              "title": "CollegeDekho: UP B.Ed counselling 2026",
+              "url": "https://www.collegedekho.com/colleges/bundelkhand-university/up-bed-counselling-article-86080"
+            },
+            {
+              "title": "Careers360: NCTE 1-year B.Ed draft rules",
+              "url": "https://news.careers360.com/ncte-rules-1-year-b-ed-masters-education-nta-admission-test-syllabus-eligibility-teacher-training-itep-degree"
+            }
           ]
         }
       ]
@@ -95,12 +167,30 @@
             "If 36 is ever notified: 36 + 3 (OBC Delhi) = 39."
           ],
           "sources": [
-            {"title": "DSSSB Advt. 10/2024 (official)", "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf"},
-            {"title": "DSSSB Advt. 01/2025 (official)", "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_no_012025.pdf"},
-            {"title": "DSSSB Advt. 06/2025 (official)", "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/advertisement_no_06-2025.pdf"},
-            {"title": "Tribune: Fine Arts PGT rules, May 2026", "url": "https://www.tribuneindia.com/news/delhi/delhi-government-notifies-recruitment-rules-for-fine-arts-pgts/"},
-            {"title": "Testbook: exams postponed, age limit likely to increase (2026)", "url": "https://testbook.com/news/dsssb-exam-2026-postponed-for-tgt-pgt-prt-age-limit-likely-to-increase/"},
-            {"title": "Adda247: Delhi govt seeks one-time TGT age relaxation", "url": "https://www.adda247.com/teaching-jobs-exam/dsssb-tgt-age-limit-2025-26-delhi-govt-seeks-one-time-relaxation-check-latest-status/"}
+            {
+              "title": "DSSSB Advt. 10/2024 (official)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf"
+            },
+            {
+              "title": "DSSSB Advt. 01/2025 (official)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_no_012025.pdf"
+            },
+            {
+              "title": "DSSSB Advt. 06/2025 (official)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/advertisement_no_06-2025.pdf"
+            },
+            {
+              "title": "Tribune: Fine Arts PGT rules, May 2026",
+              "url": "https://www.tribuneindia.com/news/delhi/delhi-government-notifies-recruitment-rules-for-fine-arts-pgts/"
+            },
+            {
+              "title": "Testbook: exams postponed, age limit likely to increase (2026)",
+              "url": "https://testbook.com/news/dsssb-exam-2026-postponed-for-tgt-pgt-prt-age-limit-likely-to-increase/"
+            },
+            {
+              "title": "Adda247: Delhi govt seeks one-time TGT age relaxation",
+              "url": "https://www.adda247.com/teaching-jobs-exam/dsssb-tgt-age-limit-2025-26-delhi-govt-seeks-one-time-relaxation-check-latest-status/"
+            }
           ]
         },
         {
@@ -112,8 +202,14 @@
             "36 was last used in an ad that closed on 7 Feb 2024. It applied because those posts had been requisitioned (formally requested by the department) before the new rules came in."
           ],
           "sources": [
-            {"title": "DSSSB Advt. 07/2023 (official)", "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_07-23_advt_combined_pgts.pdf"},
-            {"title": "DSSSB Advt. 02/2020 (official)", "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/advt_02-2020_pdf_1.pdf"}
+            {
+              "title": "DSSSB Advt. 07/2023 (official)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_07-23_advt_combined_pgts.pdf"
+            },
+            {
+              "title": "DSSSB Advt. 02/2020 (official)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/advt_02-2020_pdf_1.pdf"
+            }
           ]
         },
         {
@@ -130,13 +226,34 @@
             "- **Mar 2026:** the minister says 36 is being 'considered'. **May 2026:** new Fine Arts rules still say 30."
           ],
           "sources": [
-            {"title": "DSSSB Advt. 01/2014 (official)", "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/ad_14.pdf"},
-            {"title": "DSSSB Advt. 02/2017 (official)", "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/advertisement_no_02-2017.pdf"},
-            {"title": "DSSSB Advt. 02/2020 (official)", "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/advt_02-2020_pdf_1.pdf"},
-            {"title": "DSSSB Advt. 07/2022 (official)", "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/07-2022_dsssb_advt._new_0_1.pdf"},
-            {"title": "DSSSB Advt. 02/2023 (official)", "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/advt_no_02-23_1.pdf"},
-            {"title": "ETV Bharat: aspirants protest age-limit cut (Oct 2022)", "url": "https://www.etvbharat.com/english/state/delhi/delhi-govt-reduces-upper-age-limit-for-teacher-recruitment-job-aspirants-agitated/na20221020144936494494274"},
-            {"title": "Adda247: CAT challenge and 1975 origin", "url": "https://www.adda247.com/teaching-jobs-exam/will-dsssb-pgt-age-limit-be-revised/"}
+            {
+              "title": "DSSSB Advt. 01/2014 (official)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/ad_14.pdf"
+            },
+            {
+              "title": "DSSSB Advt. 02/2017 (official)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/advertisement_no_02-2017.pdf"
+            },
+            {
+              "title": "DSSSB Advt. 02/2020 (official)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/advt_02-2020_pdf_1.pdf"
+            },
+            {
+              "title": "DSSSB Advt. 07/2022 (official)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/07-2022_dsssb_advt._new_0_1.pdf"
+            },
+            {
+              "title": "DSSSB Advt. 02/2023 (official)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/advt_no_02-23_1.pdf"
+            },
+            {
+              "title": "ETV Bharat: aspirants protest age-limit cut (Oct 2022)",
+              "url": "https://www.etvbharat.com/english/state/delhi/delhi-govt-reduces-upper-age-limit-for-teacher-recruitment-job-aspirants-agitated/na20221020144936494494274"
+            },
+            {
+              "title": "Adda247: CAT challenge and 1975 origin",
+              "url": "https://www.adda247.com/teaching-jobs-exam/will-dsssb-pgt-age-limit-be-revised/"
+            }
           ]
         }
       ]
@@ -155,17 +272,82 @@
             "Pattern: ad in late Dec/Jan, closing in mid-Feb, Economics exam in July. Only the **closing date** matters for eligibility."
           ],
           "sources": [
-            {"title": "DSSSB Advt. 07/2023 (official)", "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_07-23_advt_combined_pgts.pdf"},
-            {"title": "DSSSB Advt. 10/2024 (official)", "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf"},
-            {"title": "Testbook: DSSSB PGT 2026 exam dates", "url": "https://testbook.com/news/dsssb-tgt-pgt-prt-exam-date-2026-out/"},
-            {"title": "FreeJobAlert: PGT Economics result 2025 (809/23)", "url": "https://www.freejobalert.com/articles/dsssb-pgt-economics-result-2025-3022650"},
-            {"title": "GovernmentJobCentre: DSSSB PGT 2020 exam dates", "url": "https://www.governmentjobcentre.com/2021/04/dsssb-pgt-2020-exam/"}
+            {
+              "title": "DSSSB Advt. 07/2023 (official)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_07-23_advt_combined_pgts.pdf"
+            },
+            {
+              "title": "DSSSB Advt. 10/2024 (official)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf"
+            },
+            {
+              "title": "Testbook: DSSSB PGT 2026 exam dates",
+              "url": "https://testbook.com/news/dsssb-tgt-pgt-prt-exam-date-2026-out/"
+            },
+            {
+              "title": "FreeJobAlert: PGT Economics result 2025 (809/23)",
+              "url": "https://www.freejobalert.com/articles/dsssb-pgt-economics-result-2025-3022650"
+            },
+            {
+              "title": "GovernmentJobCentre: DSSSB PGT 2020 exam dates",
+              "url": "https://www.governmentjobcentre.com/2021/04/dsssb-pgt-2020-exam/"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-01",
+          "q": "Can you get me the PGT Economics question papers for the last 10 years?",
+          "a": [
+            "Found papers from **6 exam years (2014-2024)**, saved as 11 PDFs in `syllabus/previous-papers/` with a README listing each file's source. A full 10 years doesn't exist because DSSSB holds a PGT Economics exam only every 2-3 years.",
+            "- 2014 and 2015 (Tier-II): Economics section only, solved (YCT)",
+            "- 2018 Male and Female Shift 1: full official papers with answer keys (+ Hindi copy, + solved version)",
+            "- 2021 Male + Female: full official papers with keys, straight from dsssb.delhi.gov.in",
+            "- 2023 Female Shift 2: full official paper with key (+ solved version)",
+            "- 2024 Shift 2: full paper",
+            "EMRS PGT papers (2023 and 2025 Tier-I with official key) are in `previous-papers/EMRS/`.",
+            "**Trust:** files marked `official-with-key` use DSSSB's own answers. `solved-YCT` files come from a book publisher; explanations useful, answers occasionally wrong. Start timed practice with the full official papers.",
+            "**Gaps:** the newest exam (Post Code 829/24) paper isn't public yet (shown only via candidate login). 2023 Male and other 2024 shifts not found online."
+          ],
+          "open": [
+            "Download the Post Code 829/24 paper once DSSSB makes it public"
+          ],
+          "sources": [
+            {
+              "title": "DSSSB previous papers listing (PW)",
+              "url": "https://www.pw.live/teaching/exams/dsssb-previous-year-question-papers"
+            },
+            {
+              "title": "DSSSB previous papers (Adda247)",
+              "url": "https://www.adda247.com/teaching-jobs-exam/dsssb-previous-year-question-paper/"
+            },
+            {
+              "title": "SarkariTeachers subject-wise collection",
+              "url": "https://sarkariteachers.com/dsssb-all-pgt-previous-years-solved-papers-pdf-download-subject-wise-collection/"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-01",
+          "q": "What is the meaning of Shift 1 and Shift 2?",
+          "a": [
+            "A shift is a time slot on exam day. When too many candidates apply for one sitting, DSSSB runs the exam more than once that day:",
+            "- **Shift 1:** morning, usually around 9 am-12 noon.",
+            "- **Shift 2:** afternoon, usually around 2-5 pm.",
+            "You get one shift, printed on your admit card; you don't choose it. **Each shift has a different question paper** (same syllabus, pattern and difficulty), so morning candidates can't leak questions.",
+            "**Normalisation (score adjustment):** with several shifts, DSSSB adjusts marks so someone with a slightly harder paper isn't disadvantaged.",
+            "For practice, any shift's paper is equally useful. Male and Female PGT Economics are separate posts, so their exams are sometimes on different days."
+          ],
+          "sources": [
+            {
+              "title": "DSSSB official site",
+              "url": "https://dsssb.delhi.gov.in"
+            }
           ]
         }
       ]
     },
     {
-      "name": "Other Routes (KVS, EMRS)",
+      "name": "Other Routes (KVS, EMRS, Other States)",
       "items": [
         {
           "date": "2026-10-01",
@@ -178,9 +360,18 @@
             "- **Catch:** ads come every 2-3 years, and the post is transferable all-India."
           ],
           "sources": [
-            {"title": "Testbook: KVS PGT 2026", "url": "https://testbook.com/kvs-pgt"},
-            {"title": "PW: KVS PGT eligibility", "url": "https://www.pw.live/teaching/exams/kvs-pgt-eligibility"},
-            {"title": "KVS Recruitment Rules (KV IFFCO Bareilly copy)", "url": "https://iffcobareilly.kvs.ac.in/sites/default/files/Recruitment_Rules_1.pdf"}
+            {
+              "title": "Testbook: KVS PGT 2026",
+              "url": "https://testbook.com/kvs-pgt"
+            },
+            {
+              "title": "PW: KVS PGT eligibility",
+              "url": "https://www.pw.live/teaching/exams/kvs-pgt-eligibility"
+            },
+            {
+              "title": "KVS Recruitment Rules (KV IFFCO Bareilly copy)",
+              "url": "https://iffcobareilly.kvs.ac.in/sites/default/files/Recruitment_Rules_1.pdf"
+            }
           ]
         },
         {
@@ -195,9 +386,87 @@
             "- **ESSE-2025:** 155 PGT Economics posts. Tier I qualifying; merit on Tier II (Economics) only."
           ],
           "sources": [
-            {"title": "NESTS (official)", "url": "https://nests.tribal.gov.in"},
-            {"title": "PW: EMRS PGT recruitment 2025", "url": "https://www.pw.live/teaching/exams/emrs-pgt-recruitment-2025"},
-            {"title": "PW: EMRS eligibility", "url": "https://www.pw.live/teaching/exams/emrs-eligibility"}
+            {
+              "title": "NESTS (official)",
+              "url": "https://nests.tribal.gov.in"
+            },
+            {
+              "title": "PW: EMRS PGT recruitment 2025",
+              "url": "https://www.pw.live/teaching/exams/emrs-pgt-recruitment-2025"
+            },
+            {
+              "title": "PW: EMRS eligibility",
+              "url": "https://www.pw.live/teaching/exams/emrs-eligibility"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-01",
+          "q": "How do I become a government PGT Economics teacher in Uttarakhand, and can I apply being from Delhi?",
+          "a": [
+            "The way in is the **UKPSC Lecturer (Pravakta) exam**, for Classes 11-12 in Uttarakhand Government Inter Colleges.",
+            "**Last cycle (notified Dec 2025, from aggregator sites, unverified):**",
+            "- 808 lecturer posts; **72 Economics in the General Branch** (the one open to men)",
+            "- Qualification: Master's in Economics 50%+ AND B.Ed (compulsory)",
+            "- Age: 21-42 as on 01-07-2025 (OBC 45, SC/ST 48)",
+            "- Applications: 31-12-2025 to 20-01-2026. No TET needed for lecturers.",
+            "**From Delhi: probably yes, but as a General candidate.** State reservation and age relaxation are normally for Uttarakhand domiciles only, so expect no OBC benefit and an age limit of 42. That still gives roughly 10 years of chances once the B.Ed is done. 30% of seats are reserved for Uttarakhand women, which shrinks the open pool a little.",
+            "Posting: inside Uttarakhand, often hill districts. Order of steps is the same: **B.Ed first**."
+          ],
+          "open": [
+            "Read the domicile clause in the official Dec 2025 UKPSC notification (psc.uk.gov.in)"
+          ],
+          "sources": [
+            {
+              "title": "UKPSC official site",
+              "url": "https://psc.uk.gov.in"
+            },
+            {
+              "title": "UKPSC Lecturer 808 posts, fee table (ProJobAlert)",
+              "url": "https://www.projobalert.com/2025/12/ukpsc-lecturer-recruitment-808-posts.html"
+            },
+            {
+              "title": "UKPSC Lecturer Recruitment 2026 (PW)",
+              "url": "https://www.pw.live/ugc-net/exams/ukpsc-lecturer-recruitment-2026"
+            },
+            {
+              "title": "UKPSC Lecturer 808 posts (eKumaon, Hindi)",
+              "url": "https://www.ekumaon.com/2025/12/ukpsc-lecturer-bharti-2025.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-01",
+          "q": "Same question for Himachal Pradesh: how do I become a PGT Economics teacher there?",
+          "a": [
+            "**Same kind of post, also needs a B.Ed, and the recruiter seems to have changed.**",
+            "- **Up to 2023:** HPPSC recruited \"Lecturer (School-New) Economics\" for Classes 11-12. The 2023 ad (No. 12/10-2023) had 17 Economics posts.",
+            "- **2026:** HPRCA (Hamirpur) ran \"Teacher Economics\", Post Code 26030, **86 posts**. CBT 06-07-2026, result 10-08-2026, document check 29-08-2026.",
+            "- **Eligibility (2023 ad, via aggregators):** Master's in Economics 50%+ AND B.Ed 50%+. **Age 18-45**, the most generous of all your options.",
+            "**From Delhi:** likely open to all citizens, but reservation and age relaxation are for HP bonafide residents only, so you'd apply as General. HP rules usually mention \"knowledge of customs, manners and dialects of HP\" (a standard line, not a test).",
+            "**Watch:** HP now hires many recruits as **Job Trainees** (about 2 years on fixed pay before regularisation). Check if it applies to teachers. Posting: within HP, often remote hill areas.",
+            "Age 45 means roughly 13 years of chances once the B.Ed is done."
+          ],
+          "open": [
+            "Confirm from the official HPRCA ad: post level (PGT?), domicile rule, age limit, job-trainee terms (hprca.hp.gov.in)"
+          ],
+          "sources": [
+            {
+              "title": "HPRCA official site",
+              "url": "https://hprca.hp.gov.in"
+            },
+            {
+              "title": "HPPSC Lecturer School New 2023 (Cracku)",
+              "url": "https://cracku.in/latest-govt-jobs/?p=24724"
+            },
+            {
+              "title": "HPRCA Teacher Economics result 2026 (MySarkariNaukri)",
+              "url": "https://www.mysarkarinaukri.com/en/hprca-teacher-result-2026/"
+            },
+            {
+              "title": "HPRCA PGT Recruitment 2026 (ToppersExam)",
+              "url": "https://toppersexam.com/govt-jobs/hprca-pgt-teacher-recruitment-2026,--apply-online-for-himachal-pgt-posts,-eligibility-and-syllabus_12135.html"
+            }
           ]
         }
       ]
@@ -222,11 +491,68 @@
             "Items marked unverified in the source file are standard govt rules still to be confirmed."
           ],
           "sources": [
-            {"title": "GConnect: CGHS extended to KVS employees (15-07-2024)", "url": "https://www.gconnect.in/orders-in-brief/cghs/page/2"},
-            {"title": "GConnect: KV admission guidelines (staff wards)", "url": "https://www.gconnect.in/orders-in-brief/kv-orders-in-brief/kendriya-vidyalaya-admission-2018-19.html"},
-            {"title": "Business Standard: UPS notified", "url": "https://business-standard.com/finance/news/centre-notifies-unified-pension-scheme-for-govt-employees-under-nps-125012500941_1.html"},
-            {"title": "Business Today: Delhi govt schools summer vacation 2026", "url": "https://www.businesstoday.in/amp/education/story/extended-summer-vacations-for-govt-schools-in-delhi-check-dates-and-more-530550-2026-05-08"},
-            {"title": "StaffNews: KVS vacations and breaks", "url": "https://www.staffnews.in/2025/01/vacation-and-breaks-schedule-for-the-session-2025-26-in-kendriya-vidyalayas.html"}
+            {
+              "title": "GConnect: CGHS extended to KVS employees (15-07-2024)",
+              "url": "https://www.gconnect.in/orders-in-brief/cghs/page/2"
+            },
+            {
+              "title": "GConnect: KV admission guidelines (staff wards)",
+              "url": "https://www.gconnect.in/orders-in-brief/kv-orders-in-brief/kendriya-vidyalaya-admission-2018-19.html"
+            },
+            {
+              "title": "Business Standard: UPS notified",
+              "url": "https://business-standard.com/finance/news/centre-notifies-unified-pension-scheme-for-govt-employees-under-nps-125012500941_1.html"
+            },
+            {
+              "title": "Business Today: Delhi govt schools summer vacation 2026",
+              "url": "https://www.businesstoday.in/amp/education/story/extended-summer-vacations-for-govt-schools-in-delhi-check-dates-and-more-530550-2026-05-08"
+            },
+            {
+              "title": "StaffNews: KVS vacations and breaks",
+              "url": "https://www.staffnews.in/2025/01/vacation-and-breaks-schedule-for-the-session-2025-26-in-kendriya-vidyalayas.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "q": "What pay will I get as a Delhi PGT when I join, and how much will it grow year on year?",
+          "a": [
+            "**Joining salary, Pay Level 8 (Delhi rates, my calculation, not an official figure):**",
+            "- Basic pay: Rs 47,600",
+            "- DA at 60% (rate since Jan 2026): Rs 28,560",
+            "- HRA at 30% (Delhi): Rs 14,280",
+            "- Transport allowance (Rs 3,600 + DA): Rs 5,760",
+            "- **Gross: ~Rs 96,200 a month.** Less pension contribution (10% of basic + DA) Rs 7,616, so **take-home ~Rs 88,000**.",
+            "Under the new tax regime, income tax should come to roughly zero at this level (my calculation). Coaching sites quote Rs 65-82k take-home, but they use older DA and HRA rates.",
+            "**Growth:**",
+            "- **Annual increment:** 3% of basic every year (1 Jan or 1 July). Basic reaches roughly Rs 62,000 by year 10.",
+            "- **DA:** raised twice a year with inflation, usually 2-4 percentage points each time.",
+            "- **8th Pay Commission:** set up Nov 2025, report expected around mid-2027. Estimates of the jump are 17-23%, nothing final.",
+            "- **MACP (guaranteed upgrades without promotion):** move to a higher pay level at 10, 20 and 30 years of service if not promoted (central rule; Delhi generally follows it).",
+            "**Pension:** new joiners are on NPS (market-linked). The central govt added UPS (50% of last basic after 25 years) from April 2025."
+          ],
+          "open": [
+            "Exact pay-step amounts against the official pay matrix",
+            "Whether MACP is confirmed for Delhi DoE teachers",
+            "Whether Delhi govt teachers get the UPS option"
+          ],
+          "sources": [
+            {
+              "title": "DA raised to 60% from 1 Jan 2026",
+              "url": "https://x.com/8thpaycommision/status/2046927618910675305"
+            },
+            {
+              "title": "8th Pay Commission status (ClearTax)",
+              "url": "https://cleartax.in/s/8th-pay-commission"
+            },
+            {
+              "title": "KV PGT gross pay 2026 (IndianPayCalculator)",
+              "url": "https://www.indianpaycalculator.in/govt-news/teachers-day-kv-teacher-salary-prt-tgt-pgt-2026"
+            },
+            {
+              "title": "UPS for new recruits (Outlook Money)",
+              "url": "https://www.outlookmoney.com/retirement/invest/nps/switching-from-nps-to-ups-pfrda-clarifies-option-availability-for-new-govt-employees"
+            }
           ]
         }
       ]
@@ -248,9 +574,18 @@
             "Realistic path: first posting outside Delhi, then request Delhi, then likely many years there, with some displacement risk."
           ],
           "sources": [
-            {"title": "GovtStaff: KVS Transfer Policy 2023 (30-06-2023)", "url": "https://www.govtstaff.com/2023/07/transfer-policy-2023-for-officers-teaching-and-non-teaching-staff-of-kvs-notification-f-no-1-1-2023-kvs-hq-estt-ii-12166-69-dated-30-06-2023.html"},
-            {"title": "Adda247: KVS revised transfer guidelines", "url": "https://www.adda247.com/teaching-jobs-exam/kvs-teaching-recruitment-check-revised-transfer-guidelines-for-teaching-and-non-teaching-posts/"},
-            {"title": "KVS official transfer policy page", "url": "https://kvsangathan.nic.in/en/transfer-policy/"}
+            {
+              "title": "GovtStaff: KVS Transfer Policy 2023 (30-06-2023)",
+              "url": "https://www.govtstaff.com/2023/07/transfer-policy-2023-for-officers-teaching-and-non-teaching-staff-of-kvs-notification-f-no-1-1-2023-kvs-hq-estt-ii-12166-69-dated-30-06-2023.html"
+            },
+            {
+              "title": "Adda247: KVS revised transfer guidelines",
+              "url": "https://www.adda247.com/teaching-jobs-exam/kvs-teaching-recruitment-check-revised-transfer-guidelines-for-teaching-and-non-teaching-posts/"
+            },
+            {
+              "title": "KVS official transfer policy page",
+              "url": "https://kvsangathan.nic.in/en/transfer-policy/"
+            }
           ]
         },
         {
@@ -267,11 +602,170 @@
             "Tip: in small towns the HRA is low, so a staff quarter is often the better deal. Ask about quarters when you report."
           ],
           "sources": [
-            {"title": "Lok Sabha reply on housing for KVS teachers (12-02-2014), via StaffNews", "url": "https://www.staffnews.in/2014/02/housing-facilities-to-teachers-working.html"},
-            {"title": "Parliament reply on KV staff quarters and sponsoring agencies (Rajya Sabha)", "url": "https://rsdebate.nic.in/bitstream/123456789/66688/1/PQ_202_19072004_S198_p53_p54.pdf"},
-            {"title": "Indian Kanoon: KVS v. D. Sarala (2006): quarters allotted under KVS (Allotment of Residence) Rules 1998; HRA disallowed on refusal", "url": "https://indiankanoon.org/doc/11175218/"},
-            {"title": "GConnect: KV amenities to teachers (Rajya Sabha, 03-05-2013)", "url": "https://gconnect.in/orders-in-brief/kv-orders-in-brief/kendriya-vidyalayas-amenities-and-facilities-to-teachers-and-staff.html"},
-            {"title": "PW: KVS teacher salary and HRA rates", "url": "https://www.pw.live/teaching/exams/kvs-teacher-salary"}
+            {
+              "title": "Lok Sabha reply on housing for KVS teachers (12-02-2014), via StaffNews",
+              "url": "https://www.staffnews.in/2014/02/housing-facilities-to-teachers-working.html"
+            },
+            {
+              "title": "Parliament reply on KV staff quarters and sponsoring agencies (Rajya Sabha)",
+              "url": "https://rsdebate.nic.in/bitstream/123456789/66688/1/PQ_202_19072004_S198_p53_p54.pdf"
+            },
+            {
+              "title": "Indian Kanoon: KVS v. D. Sarala (2006): quarters allotted under KVS (Allotment of Residence) Rules 1998; HRA disallowed on refusal",
+              "url": "https://indiankanoon.org/doc/11175218/"
+            },
+            {
+              "title": "GConnect: KV amenities to teachers (Rajya Sabha, 03-05-2013)",
+              "url": "https://gconnect.in/orders-in-brief/kv-orders-in-brief/kendriya-vidyalayas-amenities-and-facilities-to-teachers-and-staff.html"
+            },
+            {
+              "title": "PW: KVS teacher salary and HRA rates",
+              "url": "https://www.pw.live/teaching/exams/kvs-teacher-salary"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "q": "How many holidays and leaves does a Delhi PGT get? Is there a two-month summer vacation?",
+          "a": [
+            "**Yes, about 7 weeks off in summer.**",
+            "- **Summer vacation 2026:** 11 May - 30 June (51 days). Teachers usually report back 2-3 days early.",
+            "- **Autumn break:** about 3 days. **Winter break:** about 1-15 January.",
+            "- **Public holidays:** Delhi's official list, plus 2 optional holidays and up to 5 special school holidays.",
+            "Catch: principals can call 2-3 teachers in during summer for admissions or office work. If called in, you get earned leave in exchange.",
+            "**Leave:**",
+            "- Casual leave: 8 days a year (+2 optional holidays)",
+            "- Earned leave: **none in a year you take the full vacation** (only if vacation is cut short). This is the trade-off for long breaks.",
+            "- Half-pay leave: 20 days per year of service (can become 10 full-pay days for medical reasons)",
+            "- Child care leave: 730 days over the career (women, and single fathers)",
+            "- Paternity leave: 15 days. Special casual leave: up to 15 days a year for set purposes."
+          ],
+          "sources": [
+            {
+              "title": "Summer vacation 11 May - 30 June 2026 (BW Education)",
+              "url": "https://www.bweducation.com/article/doe-announces-delhi-school-summer-break-from-11-may-606051"
+            },
+            {
+              "title": "DoE 2025-26 school calendar (Careers360)",
+              "url": "https://news.careers360.com/delhi-doe-issues-school-calendar-for-2025-26-academic-session-lists-holidays/amp"
+            },
+            {
+              "title": "DoE leave circular, vacation-department rules",
+              "url": "http://it.delhigovt.nic.in/writereaddata/Cir2015521661.pdf"
+            },
+            {
+              "title": "Delhi School Teachers Forum: leave types",
+              "url": "https://www.dstf.in/p/leave.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "q": "Where will I be posted in Delhi, what is the actual work, what are the hours, and are Saturday-Sunday off?",
+          "a": [
+            "**Posting:**",
+            "- About 1,050 Delhi govt schools plus 37 specialised-excellence schools (2023-24); about 1,250 counting govt-aided.",
+            "- The Directorate of Education decides after selection: **anywhere in Delhi, Narela to Najafgarh**. You don't pick. Never outside Delhi.",
+            "- Transfers: apply online once a year, after 2 years in a school.",
+            "- **Double-shift schools:** girls in the morning (~7 am-12:30 pm), boys in the evening (~1-6:30 pm). As a man you'd often teach the evening boys' shift.",
+            "**The work:**",
+            "- Economics for Class 11-12 plus CBSE board prep; sometimes lower classes when short-staffed.",
+            "- Class teacher duties, PTMs (big ones on Saturdays), admissions, board invigilation and copy checking, trainings, data entry.",
+            "- Govt duties outside teaching: election duty, BLO voter-list work (leave given in exchange on holidays), Census 2026-27 work. A NIEPA study found teachers spend only about 19% of time on teaching.",
+            "**Hours:** about a 6-6.5 hour school day plus some prep at home. **Sundays off. Saturdays usually off but not guaranteed** (PTMs, remedial classes, trainings; the law needs 220 working days).",
+            "**Work-life balance, honestly:** very good among govt jobs (long holidays, short fixed day, security, no targets). Downsides: paperwork, extra duties, possible evening shift, long commute to a school you didn't choose."
+          ],
+          "sources": [
+            {
+              "title": "Number of Delhi govt schools (Careers360)",
+              "url": "https://news.careers360.com/number-of-students-in-delhi-government-schools-decreases-over-30000-rti-reply/amp"
+            },
+            {
+              "title": "DoE transfer policy 2025 (Careers360)",
+              "url": "https://news.careers360.com/doe-invites-online-transfer-applications-from-teachers-from-june-21-july-4/amp"
+            },
+            {
+              "title": "Double-shift timings (Amar Ujala)",
+              "url": "https://results.amarujala.com/admission/admission-diary/delhi-government-to-run-schools-in-double-shifts"
+            },
+            {
+              "title": "Census duty workload (Business Standard)",
+              "url": "https://www.business-standard.com/india-news/census-duty-piles-on-the-workload-for-government-school-teachers-126050701310_1.html"
+            },
+            {
+              "title": "Leave in exchange for BLO duty (Careers360)",
+              "url": "https://news.careers360.com/delhi-school-teachers-get-leave-benefits-for-election-duty-blo-during-holidays/amp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Career Growth",
+      "items": [
+        {
+          "date": "2026-09-29",
+          "q": "What are the career prospects after becoming a PGT?",
+          "a": [
+            "- **PGT:** Level 8 (Rs 47,600 basic), enter via DSSSB.",
+            "- **Vice Principal:** Level 10 (Rs 56,100). Half by promotion, half by direct UPSC recruitment.",
+            "- **Principal:** Level 12 (Rs 78,800). By promotion or UPSC direct; about 10 years' experience needed.",
+            "- **Beyond:** Education Officer / Deputy Director of Education, or teacher-training posts at SCERT and DIETs.",
+            "**The opening:** 828 principal and vice-principal posts are vacant in Delhi, and UPSC is recruiting 124 principals and 704 vice-principals directly. The realistic faster route is PGT, then the UPSC vice-principal exam, then principal. Otherwise promotion is mostly by seniority and can take 10-15 years.",
+            "**Limit:** no way to earn more by performing better; pay follows the pay table, and paid side work is restricted (see Service Rules)."
+          ],
+          "open": [
+            "Service years needed for Vice Principal / Principal in Delhi (older sources only)"
+          ],
+          "sources": [
+            {
+              "title": "Delhi PGT Recruitment Rules 2022 (Gazette PDF)",
+              "url": "http://edudel.nic.in/upload/upload_2021_22/rr_pgt_dt_20102022.PDF"
+            },
+            {
+              "title": "828 principal/VP vacancies (Free Press Journal)",
+              "url": "https://www.freepressjournal.in/education/delhi-govt-schools-face-leadership-crisis-as-828-principal-vice-principal-posts-remain-vacant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Service Rules & Side Work",
+      "items": [
+        {
+          "date": "2026-09-30",
+          "q": "As a PGT, can I publish research papers and give my opinion on government policies?",
+          "a": [
+            "**Research: yes. Criticising government policy: no.** Delhi govt teachers come under the CCS (Conduct) Rules, 1964 (simple: the code of conduct for central and Delhi govt employees).",
+            "**Allowed:**",
+            "- Research papers in journals, with a note that the views are your own and no official information used.",
+            "- Books and explainers (occasional literary/academic work needs no prior sanction if teaching doesn't suffer; royalty may need declaring).",
+            "- Neutral explainers (\"how the repo rate works\"); seminars and guest lectures (take permission for paid or organised ones).",
+            "**Not allowed:**",
+            "- **Rule 9:** any statement with the effect of adverse criticism of current or recent government policy, in print, TV, online or speech.",
+            "- **Rule 8:** running or editing a newspaper, periodical or media channel needs prior sanction; a regular YouTube channel or newsletter can fall under this.",
+            "- **Rule 15:** paid advisory, AUM fees, RIA work, monetised content without sanction. In practice the advisory book can't continue.",
+            "- **Rule 16:** frequent buying and selling of securities (F&O, intraday) counts as speculation and is prohibited. Long-term investing is fine.",
+            "- **Rule 5:** no political participation.",
+            "**For you:** the job would take away your public policy voice, your advisory book and option trading while in service. Neutral research and data explainers survive."
+          ],
+          "open": [
+            "Delhi DoE-specific circulars on teachers' YouTube / social media use"
+          ],
+          "sources": [
+            {
+              "title": "CCS (Conduct) Rules, Rule 8 (referencer.in)",
+              "url": "https://www.referencer.in/cs_regulations/CCS(Conduct)Rules1964/Print_Rule_08.aspx?pf=true"
+            },
+            {
+              "title": "CCS (Conduct) Rules, Rule 9 (referencer.in)",
+              "url": "https://referencer.in/CS_Regulations/CCS(Conduct)Rules1964/Rule_09.aspx"
+            },
+            {
+              "title": "CCS Conduct Rules (NTIPRIT PDF)",
+              "url": "https://ntiprit.gov.in/pdf/vigilancematters/CCS_Conduct_Rules.pdf"
+            }
           ]
         }
       ]
