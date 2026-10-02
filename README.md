@@ -10,7 +10,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Pay & Perks](#pay-perks) (5)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
-- [Service Rules & Side Work](#service-rules-side-work) (1)
+- [Service Rules & Side Work](#service-rules-side-work) (2)
 
 ## Eligibility & Documents
 
@@ -603,6 +603,33 @@ Catch: principals can call 2-3 teachers in during summer for admissions or offic
 
 
 ## Service Rules & Side Work
+
+### What is the probation period for a PGT, and how does it differ across recruiters (DSSSB/Delhi DoE, KVS, NVS, EMRS)?
+*Asked 2026-10-02*
+
+**It's 2 years everywhere, and every recruiter can extend it.** No recruiter on your list has a shorter one.
+
+- **Delhi DoE (via DSSSB):** 2 years, extendable by the Appointing Authority. You're made regular only after you complete it successfully. During this time either side can end the job with one month's notice. Recent DSSSB ads also require at least 2 weeks of induction training to complete probation.
+- **NDMC (via DSSSB):** follows its own recruitment rules. Probation not yet checked.
+- **KVS:** 2 years. You're treated as a trainee, and you're posted as per your preference after it.
+- **NVS (Navodaya):** 2 years, extendable. Residential duties (housemaster, supervision) are assessed along with teaching.
+- **EMRS (NESTS):** 2 years, extendable. You can be terminated at any time without a reason given. You must also learn the local language of your posting and pass a NESTS language test within probation.
+Plain English: probation (simple: a trial period). You get full pay, but the job isn't permanent yet and is easier to end.
+
+
+**Still to verify**
+
+- KVS/NVS: confirm the probation clause in the official CBSE/KVS/NVS notification (current source is a KV school site + aggregator mirror)
+- NDMC PGT: probation period under NDMC's own recruitment rules not checked
+- Delhi DoE: confirm 2 years in the PGT Recruitment Rules themselves (current source is an official offer letter)
+
+**Sources**
+
+1. [Delhi DoE offer of appointment, PGT English (Male), 27-05-2026 (official, edudel.nic.in)](https://www.edudel.nic.in/upload/upload_2025_26/E2_OfferOfAppointmentToThePostOfPGTEnglish_Male_dt_27052026_529.PDF)
+2. [DSSSB Advt. 01/2025 (induction training note, saved in notifications/)](https://dsssb.delhi.gov.in/)
+3. [EMRS ESSE-2025 Information Bulletin, 19-09-2025, para 16 and section q](https://nests.tribal.gov.in/)
+4. [KVS PGT eligibility criteria 2024-25 (KV Nadaun site)](https://nadaunhp.kvs.ac.in/sites/default/files/Eligibility%20criteria%202024-25.pdf)
+5. [KVS + NVS detailed notification, 13-11-2025 (aggregator mirror)](https://aagebadho.org/KVS_2025/pdfs/Detailed_Notification_KVS_NVS_2025_13112025.pdf)
 
 ### As a PGT, can I publish research papers and give my opinion on government policies?
 *Asked 2026-09-30*
