@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (8)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (9)
 
 ## Eligibility & Documents
 
@@ -1038,3 +1038,31 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 1. [DU Advt R&P/316/2026: Assistant Professor qualifications](https://www.du.ac.in/uploads/2026/17032026-3Advt.%20316%20Qualifications%20for%20(Asstt.%20Prof.).pdf)
 2. [UGC Regulations 2018 qualifications (55%, 5% relaxation for OBC-NCL)](https://mail.rlacollege.edu.in/pdf/3.%20Qualifications.pdf)
 3. [DU college screening guidelines (graduation points)](https://www.hinducollege.ac.in/download/2022/ad/4-Guidelines%20for%20Screening%20&%20Shortlisting%20Candidate.pdf)
+
+### How can I become the Principal of a DU college?
+*Asked 2026-10-02*
+
+**A DU college Principal is selected through an advert and interview, not promoted by seniority. UGC 2018 eligibility (Professor's grade, Level 14):**
+
+- PhD (mandatory)
+- Already an Associate Professor or Professor, with **at least 15 years** of teaching/research in universities, colleges or higher-education institutions
+- At least **10 research publications** in peer-reviewed / UGC-listed journals
+- A **research score of 110+** (UGC Appendix II, Table 2)
+**Tenure:** 5 years, extendable once by 5 years after a performance review. After that you return as a Professor. The Vice Principal is a senior teacher the Governing Body designates for 2 years, not a separate post.
+
+**Realistic path for Ashish (ESTIMATE):** NET with JRF (2027), then Assistant Professor + PhD (permanent post realistically around age 34-38), then CAS to Associate Professor (about 12 years in; PhD mandatory), with publications accumulating along the way, then eligible for Principal at about 15 years of service, i.e. around age 49-53. DU teachers retire at 65 (to verify), so there's roughly a 12-16 year window to compete for Principal posts.
+
+**What decides it:** the PhD + research record (publications, research score, PhD students guided), administrative experience (committees, coordinator/Vice Principal roles), and the Governing Body / selection committee interview.
+
+**PGT comparison:** a school Principal (Level 12) is reached mainly by promotion (PGT, then Vice Principal, then Principal), with no PhD or publications needed. The DU Principal post is a higher grade (Level 14) but much more research-heavy.
+
+
+**Still to verify**
+
+- DU-specific Principal selection procedure (Governing Body + selection committee composition) from a recent DU college Principal advert
+- Delhi DoE / KVS school Principal route: share of promotion vs direct recruitment
+- UGC Regulations 2025: any change to Principal eligibility
+
+**Sources**
+
+1. [UGC Regulations 2018, cl. 4.1-V College Principal (saved in notifications/)](https://thc.nic.in/Central%20Governmental%20Regulations/UGC%20(Minimum%20Qualifications%20for%20Appointment%20of%20Teachers%20and%20other%20Academic%20Staff%20in%20Universities%20and%20Colleges%20and%20other%20measures%20for%20the%20Maintenacne%20of%20Standards%20in%20Higher%20Education)%20Regulations,%202018.pdf)
