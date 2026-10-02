@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (5)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (6)
 
 ## Eligibility & Documents
 
@@ -955,3 +955,31 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 1. [Careers360: UGC NET result declaration criteria](https://www.careers360.com/question-what-is-the-result-declaration-criteria-for-nta-ugc-net)
 2. [Pagalguy: UGC NET qualifying criteria (6% slots, category-wise as per reservation policy)](https://www.pagalguy.com/articles/ugc-net-december-2019-result-to-be-released-soon-on-ntanet-nic-in-check-qualifying-criteria-here?amp=1)
 3. [Careers360: how UGC NET cut-off marks are calculated](https://competition.careers360.com/articles/how-calculate-cut-off-marks-for-ugc-net)
+
+### What were the UGC NET Economics cut-offs (OBC vs General) in the last few cycles, and how many qualified?
+*Asked 2026-10-02*
+
+**Assistant Professor cut-off, out of 300:** Jun 2024: UR 182 / OBC 160 | Dec 2024: UR 180 / OBC 162 | Jun 2025: UR 170 / OBC 150 | Dec 2025: UR 200 / OBC 180 | Jun 2026: UR 196 / OBC 178.
+
+**JRF cut-off:** Jun 2024: UR 210 / OBC 198 | Dec 2024: UR 206 / OBC 192 | Jun 2025: UR 198 / OBC 184 | Dec 2025: UR 232 / OBC 216 | Jun 2026: UR 224 / OBC 212.
+
+**Trend:** the OBC Assistant Professor cut-off jumped from about 50-54% (2024 to Jun 2025) to about 60% (last two cycles). OBC stays about 18-22 marks below UR.
+
+**Number qualified (OBC, Assistant Professor, per PW):** Jun 2024: 578, Dec 2024: 536, Jun 2025: 500, Dec 2025: 625. JRF OBC: 41 / 45 / 38 / 56.
+
+**Not published:** candidate names (NTA never publishes them) and the number who appeared for Economics. Only the all-subject total is known: 7,35,592 appeared in Dec 2025.
+
+**Target for Ashish (ESTIMATE):** 190+/300 (about 63%) for Assistant Professor; 220+/300 (about 73%) for JRF. Workbook: output/UGC-NET-Economics-Cutoffs.xlsx
+
+
+**Still to verify**
+
+- Verify against the official NTA cut-off PDFs (ugcnet.nta.ac.in) for each session
+- Jun 2026 figures come from one source (Testbook) only
+- Economics-only appeared count per session (not found)
+
+**Sources**
+
+1. [PW: UGC NET Economics cut-off (Jun 2024 to Dec 2025, with qualified counts)](https://www.pw.live/ugc-net/exams/ugc-net-economics-cut-off)
+2. [Testbook: UGC NET Economics cut-off (incl. Jun 2026)](https://testbook.com/ugc-net-economics/cut-off)
+3. [Careers360: 7.35 lakh appeared in Dec 2025](https://news.careers360.com/nta-ugc-net-december-2025-exam-7-35-lakh-attendance-results-answer-key-cut-off-jrf-assistant-professor-subjects/amp)
