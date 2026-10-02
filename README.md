@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (9)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (10)
 
 ## Eligibility & Documents
 
@@ -1066,3 +1066,38 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 **Sources**
 
 1. [UGC Regulations 2018, cl. 4.1-V College Principal (saved in notifications/)](https://thc.nic.in/Central%20Governmental%20Regulations/UGC%20(Minimum%20Qualifications%20for%20Appointment%20of%20Teachers%20and%20other%20Academic%20Staff%20in%20Universities%20and%20Colleges%20and%20other%20measures%20for%20the%20Maintenacne%20of%20Standards%20in%20Higher%20Education)%20Regulations,%202018.pdf)
+
+### Explain the whole DU professor saga step by step: NET, JRF ('GRF'), PhD, Assistant Professor, Associate Professor, Professor. My only aim is to become a permanent professor at DU.
+*Asked 2026-10-02*
+
+**'GRF' is JRF (Junior Research Fellowship).** It's the top result band in UGC NET: a paid PhD (Rs 37,000/month for years 1-2, then Rs 42,000 as SRF for years 3-5, plus HRA) on top of Assistant Professor eligibility.
+
+**The pieces, in plain English:**
+
+- **UGC NET:** an eligibility test, not a job. Category 1 = JRF + Asst Prof + PhD admission; Category 2 = Asst Prof + PhD admission; Category 3 = PhD admission only (does NOT make you eligible for Asst Prof).
+- **PhD:** a 3-6 year research degree (UGC PhD Regulations 2022). NOT needed to become Assistant Professor; MANDATORY for Associate Professor and above. Can be done part-time while teaching (with employer NOC).
+- **Assistant Professor:** the entry rank and the only realistic door into a permanent DU job. Master's 55% (50% OBC-NCL) + NET (or PhD). Selection by interview after screening.
+- **Associate Professor:** middle rank. Reached by CAS promotion (PhD + 3 yrs at Level 12), or by direct recruitment (PhD + 8 yrs teaching + 7 publications + research score 75).
+- **Professor:** top rank. CAS: 3 yrs as Associate + PhD + 10 publications + research score 110. Direct: PhD + 10 publications + research score 120 (+10 yrs experience). Senior Professor (Level 15) exists only in university departments.
+**The pay ladder (UGC 2018, entry pay):** Asst Prof Level 10 Rs 57,700, then Level 11 Rs 68,900 (after 4 yrs with PhD / 6 yrs without), then Level 12 Rs 79,800 (after 5 more yrs), then Associate Level 13A Rs 1,31,400 (after 3 more yrs, PhD required), then Professor Level 14 Rs 1,44,200 (after 3 more yrs). Minimum about 15 years from joining to Professor, with a PhD.
+
+**'Permanent professor':** colloquially any permanent teacher is called 'professor'. Practically, 'permanent' means getting a regular (substantive) Assistant Professor post; after 1-year probation it is secure to age 65, and Associate/Professor then come by CAS promotion from inside.
+
+**Screening score (DU colleges, out of 100; floor 50):** Ashish with NET = 50, with JRF = 52, with PhD + JRF = about 77. Departments need 65+, so a PhD is effectively needed there.
+
+**Sequence for Ashish (ESTIMATE):** (1) NET Dec 2026 / Jun 2027, aim for JRF (OBC JRF age limit 35, ~Feb 2030); (2) apply to every DU college Economics advert immediately; (3) register for a PhD in parallel (JRF-funded full-time, or part-time once employed); (4) permanent post realistically 3-8 years out; (5) CAS: Associate ~12 yrs in, Professor ~15 yrs in.
+
+**PGT comparison:** PGT ladder is PGT (Level 8) to Vice Principal (Level 10) to Principal (Level 12), mostly seniority, no PhD or publications. DU ladder goes to Level 14/15 but is research-gated from the Associate stage.
+
+
+**Still to verify**
+
+- Retirement age for DU college teachers (65 believed; verify current DU rule)
+- Status of UGC draft regulations 2025 (Jan 2025 draft) on teacher qualifications/promotion: notified or still draft?
+- JRF age-limit cut-off wording in the Dec 2026 NTA bulletin (exact date he ages out)
+
+**Sources**
+
+1. [UGC Regulations 2018, CAS for college teachers + direct recruitment eligibility (saved in notifications/)](https://thc.nic.in/Central%20Governmental%20Regulations/UGC%20(Minimum%20Qualifications%20for%20Appointment%20of%20Teachers%20and%20other%20Academic%20Staff%20in%20Universities%20and%20Colleges%20and%20other%20measures%20for%20the%20Maintenacne%20of%20Standards%20in%20Higher%20Education)%20Regulations,%202018.pdf)
+2. [DU college screening & shortlisting guidelines (PhD 25, JRF 10, NET 8; college floor 50, departments 65)](notifications/2022_DU-College-AsstProf-Screening-Guidelines.pdf)
+3. [Careers360: UGC revises JRF to Rs 37,000 / SRF Rs 42,000](https://news.careers360.com/ugc-revises-fellowship-amount-jrf-srf-csir-net-ugc-net-phd-students)
