@@ -2,7 +2,7 @@
 
 Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-02.
 
-- [Eligibility & Documents](#eligibility-documents) (4)
+- [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (3)
 - [Exams & Timelines](#exams-timelines) (3)
@@ -14,6 +14,28 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (21)
 
 ## Eligibility & Documents
+
+### What is EWS? (And the full forms of the abbreviations used so far.)
+*Asked 2026-10-02*
+
+**EWS = Economically Weaker Section.** It is a 10% reservation for people who are NOT covered by SC, ST or OBC reservation (i.e. general category) and whose family income is below Rs 8 lakh a year, with asset limits. It was introduced by the 103rd Constitutional Amendment (2019).
+
+**Does it apply to Ashish?** No. He is OBC-NCL, and EWS is only for people outside SC/ST/OBC. His reserved seats are the OBC ones.
+
+**Full forms used in this portal:**
+
+- **UR:** Unreserved (general merit; anyone can compete) | **OBC-NCL:** Other Backward Classes, Non-Creamy Layer | **NCL:** Non-Creamy Layer certificate | **SC:** Scheduled Caste | **ST:** Scheduled Tribe | **PwD / PwBD:** Persons with (Benchmark) Disabilities
+- **UGC:** University Grants Commission | **NET:** National Eligibility Test | **NTA:** National Testing Agency | **JRF:** Junior Research Fellowship | **SRF:** Senior Research Fellowship | **PhD:** Doctor of Philosophy | **M.Phil:** Master of Philosophy
+- **CAS:** Career Advancement Scheme (promotion system) | **NFS:** Not Found Suitable | **UGC-CARE:** Consortium for Academic and Research Ethics (UGC's approved journal list) | **NOC:** No Objection Certificate | **DSE:** Delhi School of Economics | **VC:** Vice Chancellor | **DUTA:** Delhi University Teachers' Association
+- **DA:** Dearness Allowance | **HRA:** House Rent Allowance | **NPS:** National Pension System
+- **PGT:** Post Graduate Teacher | **B.Ed:** Bachelor of Education | **DSSSB:** Delhi Subordinate Services Selection Board | **DoE:** Directorate of Education (Delhi) | **KVS:** Kendriya Vidyalaya Sangathan | **NVS:** Navodaya Vidyalaya Samiti | **EMRS:** Eklavya Model Residential Schools | **NESTS:** National Education Society for Tribal Students | **NDMC:** New Delhi Municipal Council | **CBSE:** Central Board of Secondary Education | **NCTE:** National Council for Teacher Education
+**PGT comparison:** DSSSB also has EWS seats (6 of the 60 Economics posts in Advt 10/2024). They are not for Ashish either.
+
+
+**Sources**
+
+1. [DSSSB Advt 10/2024 (category-wise posts incl. EWS)](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf)
+2. [Hindu College Economics shortlist (EWS list example, 3-3-2025)](https://hinducollege.ac.in/download/2024/Teaching-Advertisement/Provisionaly%20shortlisted%20list%20Economics.pdf)
 
 ### What do I need to become a Delhi Government PGT (Economics) teacher?
 *Asked 2026-10-01*
