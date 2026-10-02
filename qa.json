@@ -909,6 +909,53 @@
             "NDMC PGT: probation period under NDMC's own recruitment rules not checked",
             "Delhi DoE: confirm 2 years in the PGT Recruitment Rules themselves (current source is an official offer letter)"
           ]
+        },
+        {
+          "date": "2026-10-02",
+          "q": "During PGT probation, is there a target? What do they check, and what do I need to do to clear it?",
+          "a": [
+            "**There is no written numeric target (like a fixed pass %) for clearing probation.** The Appointing Authority judges whether you are suitable for the job, using these checks:",
+            "- **Induction training:** at least 2 weeks. It is mandatory, and probation can't be completed without it (DoPT rule; also printed in recent DSSSB ads).",
+            "- **Probation report + APAR:** your Principal/supervisor writes a separate probation report on top of the yearly APAR (Annual Performance Appraisal Report; simple: your yearly report card). Per DoPT, it covers your work, \"outlook, character and aptitude\".",
+            "- **Documents and verification:** certificates checked against the originals, plus the OBC/NCL certificate, medical fitness, and police verification of character and antecedents. A discrepancy found at any stage cancels the appointment. The Delhi DoE has extended probation by 6 months just to finish this verification.",
+            "- **Clean record:** no vigilance case, no departmental enquiry, no penalty.",
+            "- **Results (in practice, not a written probation rule):** board results in your subject matter. Delhi DoE has served show-cause notices to schools/teachers for poor results.",
+            "- **EMRS extra:** pass the NESTS language test for the local language. Residential duties are assessed too (also in NVS).",
+            "**Outcomes:** confirmed, OR extended (max 1 year at a time; never beyond double the normal period, so at most 4 years), OR discharged with no compensation. The decision should come within 6-8 weeks after probation ends. If no order is issued, you simply stay on probation; you are not confirmed automatically.",
+            "**Practical checklist:** finish induction training; keep the original certificates + a fresh OBC/NCL ready; get good results in your Class 11-12 Economics sections; no disputes or complaints; take on school duties (exam, admission, events) willingly; make sure your Principal files your APAR/probation report on time; and once 2 years are up, follow up for the confirmation order."
+          ],
+          "sources": [
+            {
+              "title": "DoPT: Probation & Confirmation, consolidated instructions (summary, gconnect)",
+              "url": "https://www.gconnect.in/orders-in-brief/service-rules/probation-confirmation-consolidated-instructions.html"
+            },
+            {
+              "title": "DoPT Master Circular on Probation (official)",
+              "url": "https://documents.doptcirculars.nic.in/D2/D02est/Master%20Circular%20Probation%20MGEUu.PDF"
+            },
+            {
+              "title": "Delhi DoE offer of appointment, PGT, 27-05-2026",
+              "url": "https://www.edudel.nic.in/upload/upload_2025_26/E2_OfferOfAppointmentToThePostOfPGTEnglish_Male_dt_27052026_529.PDF"
+            },
+            {
+              "title": "Delhi DoE order dt 19-08-2025 (probation extension / vigilance clearance)",
+              "url": "https://edudel.nic.in/upload/upload_2025_26/982_987_dt_19082025.PDF"
+            },
+            {
+              "title": "HT: Delhi teachers served notices over poor pre-board results (2018)",
+              "url": "https://www.pressreader.com/india/hindustan-times-gurugram/20180216/281543701395083"
+            },
+            {
+              "title": "EMRS ESSE-2025 Information Bulletin (saved in notifications/)",
+              "url": "https://nests.tribal.gov.in/"
+            }
+          ],
+          "open": [
+            "Read the official DoPT Master Circular (24-11-2022) PDF directly; the points above come from the gconnect summary",
+            "Delhi DoE: is there a specific confirmation-of-probation circular for teachers (format of the probation report, who signs it)?",
+            "KVS: probation criteria in the KVS Education Code (official text not found yet)",
+            "Whether increments continue during an extended probation (Delhi DoE / KVS)"
+          ]
         }
       ]
     }

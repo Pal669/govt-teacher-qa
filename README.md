@@ -10,7 +10,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Pay & Perks](#pay-perks) (5)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
-- [Service Rules & Side Work](#service-rules-side-work) (2)
+- [Service Rules & Side Work](#service-rules-side-work) (3)
 
 ## Eligibility & Documents
 
@@ -630,6 +630,38 @@ Plain English: probation (simple: a trial period). You get full pay, but the job
 3. [EMRS ESSE-2025 Information Bulletin, 19-09-2025, para 16 and section q](https://nests.tribal.gov.in/)
 4. [KVS PGT eligibility criteria 2024-25 (KV Nadaun site)](https://nadaunhp.kvs.ac.in/sites/default/files/Eligibility%20criteria%202024-25.pdf)
 5. [KVS + NVS detailed notification, 13-11-2025 (aggregator mirror)](https://aagebadho.org/KVS_2025/pdfs/Detailed_Notification_KVS_NVS_2025_13112025.pdf)
+
+### During PGT probation, is there a target? What do they check, and what do I need to do to clear it?
+*Asked 2026-10-02*
+
+**There is no written numeric target (like a fixed pass %) for clearing probation.** The Appointing Authority judges whether you are suitable for the job, using these checks:
+
+- **Induction training:** at least 2 weeks. It is mandatory, and probation can't be completed without it (DoPT rule; also printed in recent DSSSB ads).
+- **Probation report + APAR:** your Principal/supervisor writes a separate probation report on top of the yearly APAR (Annual Performance Appraisal Report; simple: your yearly report card). Per DoPT, it covers your work, "outlook, character and aptitude".
+- **Documents and verification:** certificates checked against the originals, plus the OBC/NCL certificate, medical fitness, and police verification of character and antecedents. A discrepancy found at any stage cancels the appointment. The Delhi DoE has extended probation by 6 months just to finish this verification.
+- **Clean record:** no vigilance case, no departmental enquiry, no penalty.
+- **Results (in practice, not a written probation rule):** board results in your subject matter. Delhi DoE has served show-cause notices to schools/teachers for poor results.
+- **EMRS extra:** pass the NESTS language test for the local language. Residential duties are assessed too (also in NVS).
+**Outcomes:** confirmed, OR extended (max 1 year at a time; never beyond double the normal period, so at most 4 years), OR discharged with no compensation. The decision should come within 6-8 weeks after probation ends. If no order is issued, you simply stay on probation; you are not confirmed automatically.
+
+**Practical checklist:** finish induction training; keep the original certificates + a fresh OBC/NCL ready; get good results in your Class 11-12 Economics sections; no disputes or complaints; take on school duties (exam, admission, events) willingly; make sure your Principal files your APAR/probation report on time; and once 2 years are up, follow up for the confirmation order.
+
+
+**Still to verify**
+
+- Read the official DoPT Master Circular (24-11-2022) PDF directly; the points above come from the gconnect summary
+- Delhi DoE: is there a specific confirmation-of-probation circular for teachers (format of the probation report, who signs it)?
+- KVS: probation criteria in the KVS Education Code (official text not found yet)
+- Whether increments continue during an extended probation (Delhi DoE / KVS)
+
+**Sources**
+
+1. [DoPT: Probation & Confirmation, consolidated instructions (summary, gconnect)](https://www.gconnect.in/orders-in-brief/service-rules/probation-confirmation-consolidated-instructions.html)
+2. [DoPT Master Circular on Probation (official)](https://documents.doptcirculars.nic.in/D2/D02est/Master%20Circular%20Probation%20MGEUu.PDF)
+3. [Delhi DoE offer of appointment, PGT, 27-05-2026](https://www.edudel.nic.in/upload/upload_2025_26/E2_OfferOfAppointmentToThePostOfPGTEnglish_Male_dt_27052026_529.PDF)
+4. [Delhi DoE order dt 19-08-2025 (probation extension / vigilance clearance)](https://edudel.nic.in/upload/upload_2025_26/982_987_dt_19082025.PDF)
+5. [HT: Delhi teachers served notices over poor pre-board results (2018)](https://www.pressreader.com/india/hindustan-times-gurugram/20180216/281543701395083)
+6. [EMRS ESSE-2025 Information Bulletin (saved in notifications/)](https://nests.tribal.gov.in/)
 
 ### As a PGT, can I publish research papers and give my opinion on government policies?
 *Asked 2026-09-30*
