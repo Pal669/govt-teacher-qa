@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (1)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (2)
 
 ## Eligibility & Documents
 
@@ -282,7 +282,6 @@ Master list lives in EA Demo/Govt_Jobs_By_Category_Ashish_Pal.xlsx, tab '3 Teach
 
 **Still to verify**
 
-- Has Ashish qualified UGC NET Economics? (decides whether all the college rows are open now)
 - State commission Assistant Professor age limits: check UPHESC/HPSC/RPSC adverts individually
 - UGC Regulations 2025: notified final or still a draft? Check whether NET/PhD rules changed for Economics
 - Sainik School and AWES: confirm the 2026 adverts' age and B.Ed rules
@@ -851,7 +850,6 @@ Full table: output/PGT-vs-DU-Assistant-Professor.xlsx
 
 **Still to verify**
 
-- UGC NET status: Ashish says he has the credentials, but NET is not yet confirmed
 - DU retirement age 65: confirm from the current DU ordinance
 - Official weekly teaching periods for PGT (DoE, KVS)
 - UGC Regulations 2025: final or draft, and any change to CAS/NET
@@ -863,3 +861,28 @@ Full table: output/PGT-vs-DU-Assistant-Professor.xlsx
 3. [Delhi DoE PGT offer of appointment, 27-05-2026](https://www.edudel.nic.in/upload/upload_2025_26/E2_OfferOfAppointmentToThePostOfPGTEnglish_Male_dt_27052026_529.PDF)
 4. [Delhi govt school summer vacation 2026 (Business Today)](https://www.businesstoday.in/amp/education/story/extended-summer-vacations-for-govt-schools-in-delhi-check-dates-and-more-530550-2026-05-08)
 5. [DU summer vacation squeezed (Careers360)](https://news.careers360.com/du-revises-academic-calendar-postpones-summer-vacation-june-14-unacademic-unnecessary-say-teachers/amp)
+
+### I don't have NET yet. Once I qualify, is it valid for life?
+*Asked 2026-10-02*
+
+**Yes, for Assistant Professor eligibility the NET certificate is valid for life.** You clear it once and can apply for posts for the rest of your career (no upper age limit for Assistant Professor).
+
+**The catch:** since June 2024, NET results come in 3 categories:
+
+- **Category 1, JRF:** Assistant Professor eligibility (lifetime) + funded PhD + PhD admission. The JRF award letter is valid for 3 years.
+- **Category 2, Assistant Professor + PhD admission:** Assistant Professor eligibility valid for life.
+- **Category 3, PhD admission only:** valid 1 year, and it does **NOT** make you eligible for Assistant Professor. Landing here is not enough.
+So the target is Category 2 at minimum. Category 1 (JRF) is worth aiming for: the JRF age limit is 35 for OBC, so you have until about Feb 2030, and JRF adds 2 screening points (52 vs 50) plus a paid PhD route.
+
+Status: NET not held as of 2026-10-02. The next cycle is Dec 2026; the form usually opens around October.
+
+
+**Still to verify**
+
+- Confirm the 3-category rule and validity periods in the official NTA UGC NET Dec 2026 information bulletin
+- Dec 2026 NET form dates (watch ugcnet.nta.ac.in)
+
+**Sources**
+
+1. [Careers360: UGC NET certificate validity (Asst Prof lifetime, JRF 3 years)](https://news.careers360.com/ugc-net-2024-june-certificates-out-at-ugcnetntaacin-required-credentials-validity)
+2. [PW: UGC NET certificate validity by category](https://www.pw.live/ugc-net/exams/ugc-net-certificate-2025)
