@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (3)
 - [Exams & Timelines](#exams-timelines) (3)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (5)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (6)
 - [Pay & Perks](#pay-perks) (5)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
@@ -294,6 +294,40 @@ Master list lives in EA Demo/Govt_Jobs_By_Category_Ashish_Pal.xlsx, tab '3 Teach
 3. [AWES CSB 2025 notice](https://awesindia.com/pdf/2025/JAN/Web%2007.PDF)
 4. [Sainik School Mainpuri PGT advert (2024)](https://sainikschoolmainpuri.com/files/news/NEWS_20240618_6670fdc0db085.pdf)
 5. [DSSSB Advt 10/2024 (PGT age 30)](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf)
+
+### DU Assistant Professor (Economics) vs guest / ad-hoc lecturer: what is the difference, what is the route to a PERMANENT post, how long does it realistically take, and what does it depend on?
+*Asked 2026-10-02*
+
+**Three different things:**
+
+- **Permanent Assistant Professor:** a regular post at Academic Level 10 (Rs 57,700 basic + DA/HRA). Job security, pension (NPS), increments, and promotions up to Professor.
+- **Ad-hoc:** fills a vacant post on 4-month terms, renewed again and again. Full workload (about 16 hours/week) but no security. DU replaced most ad-hocs in its 2022-24 permanent drive (about 4,500 ad-hocs; reports said about 70% were displaced in early rounds), so few ad-hoc slots are left.
+- **Guest faculty:** paid per lecture (Rs 1,500, capped at Rs 50,000/month), about 8 hours/week max. DU now allows guests only against leave vacancies (maternity, study leave, etc.).
+**The route to permanent (DU colleges):** UGC NET in Economics, then apply to every college advert, then a screening score of 50+ (out of 100) gets you called, then **selection on the interview alone** (screening marks carry no weight in the interview).
+
+**Ashish's estimated screening score (based on self-reported first divisions; check against the marksheets):** graduation 60-80% = 19 + PG 60-80% = 23 + NET = 8, total **50**. That is exactly the college floor, so NET alone gets him interviews. With JRF: 52. With a PhD: about 75+. University DEPARTMENTS need 65+, so they are effectively closed without a PhD.
+
+**A trap:** guest/ad-hoc experience earns screening marks only if the pay was at least the UGC minimum basic + DA. Guest pay (max Rs 50,000) is below that, so guest teaching usually adds 0 points. It is still worth doing for teaching practice and contacts.
+
+**Realistic timeline (ESTIMATE):** NET takes 6-18 months (only the top 6% of those who sit the exam qualify; many need 2-3 attempts). From NET to a permanent post: 2-5 years of applying and interviewing if it goes well. If he needs a PhD to stand out, add 4-6 years. A fair overall expectation is 3-8 years, with no guarantee.
+
+**What it depends on:** (1) clearing NET; (2) Economics vacancies, especially the OBC-reserved roster points; (3) interview performance: subject depth, a teaching demo, a research/area of interest; (4) PhD + publications (decisive for departments and many state colleges); (5) the panel's discretion, which is opaque. The 2022-24 displacement of long-serving ad-hocs shows experience alone doesn't decide it.
+
+
+**Still to verify**
+
+- Confirm the graduation and PG percentages from the marksheets (the screening score depends on them)
+- Is the 2022 screening table (50-mark college floor, everyone above it called) still in force for 2026 college adverts?
+- How many Economics Assistant Professor posts DU colleges advertised in 2025-26 (vacancy flow after the big drive)
+- Current guest faculty pay rate at DU (Rs 1,500/lecture, Rs 50,000 cap is from UGC 2019)
+
+**Sources**
+
+1. [DU college screening & shortlisting guidelines (Hindu College copy, 2022)](https://www.hinducollege.ac.in/download/2022/ad/4-Guidelines%20for%20Screening%20&%20Shortlisting%20Candidate.pdf)
+2. [DU Advt R&P/316/2026: Assistant Professor qualifications](https://www.du.ac.in/uploads/2026/17032026-3Advt.%20316%20Qualifications%20for%20(Asstt.%20Prof.).pdf)
+3. [Careers360: DU allows guest faculty only against leave vacancies](https://news.careers360.com/du-delhi-university-prohibits-guest-faculty-appointment-without-leave-vacancy-teachers-demand-withdrawal-order/amp)
+4. [Careers360: Sisodia on ~70% of ad-hocs displaced (Jan 2023)](https://news.careers360.com/facilitate-absorption-of-adhoc-teachers-in-28-delhi-university-colleges-under-delhi-govt-manish-sisodia-urges-du-vc)
+5. [UGC NET qualifying criteria (top 6%)](https://blog.ipleaders.in/faculty-crunch-india-6-criteria-qualifying-ugc-national-eligibility-test-exam/)
 
 ### Is KVS a good backup if Delhi govt doesn't work out?
 *Asked 2026-10-01*
