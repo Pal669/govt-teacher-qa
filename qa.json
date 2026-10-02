@@ -1249,6 +1249,27 @@
             "Download the official NTA Economics (code 01) syllabus PDF from ugcnet.nta.ac.in and save to syllabus/",
             "Confirm the pattern in the Dec 2026 information bulletin when it is released"
           ]
+        },
+        {
+          "date": "2026-10-02",
+          "q": "Is UGC NET an MCQ exam or a written (descriptive) exam?",
+          "a": [
+            "**100% MCQ, computer-based (CBT).** All 150 questions are objective, with 4 options each. There's no essay or descriptive part, and no negative marking.",
+            "**How the other routes compare:** DSSSB PGT is also fully MCQ (with 0.25 negative marking). EMRS PGT Tier-II mixes 40 objective + 15 descriptive questions. For DU, the non-MCQ part is the **interview** (often with a teaching demo/presentation), which is where the job is actually decided."
+          ],
+          "sources": [
+            {
+              "title": "PW: UGC NET exam pattern 2026",
+              "url": "https://www.pw.live/ugc-net/exams/ugc-net-syllabus"
+            },
+            {
+              "title": "EMRS ESSE-2025 Information Bulletin (saved in notifications/)",
+              "url": "https://nests.tribal.gov.in/"
+            }
+          ],
+          "open": [
+            "KVS PGT Tier-II: confirm whether it is fully objective or has a descriptive part (official CBSE/KVS notice)"
+          ]
         }
       ]
     }

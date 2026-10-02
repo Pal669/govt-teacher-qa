@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (3)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (4)
 
 ## Eligibility & Documents
 
@@ -913,3 +913,20 @@ Status: NET not held as of 2026-10-02. The next cycle is Dec 2026; the form usua
 2. [JRFAdda: UGC NET Economics syllabus (10 units)](https://www.jrfadda.com/exams/ugc-net/ugc-net-economics-syllabus/)
 3. [Careers360: UGC NET Paper 1 and Economics syllabus](https://www.careers360.com/question-what-is-the-syllabus-for-for-ugc-net-paper-1-and-ugc-net-economics)
 4. [DSSSB Advt 10/2024 (PGT exam scheme)](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf)
+
+### Is UGC NET an MCQ exam or a written (descriptive) exam?
+*Asked 2026-10-02*
+
+**100% MCQ, computer-based (CBT).** All 150 questions are objective, with 4 options each. There's no essay or descriptive part, and no negative marking.
+
+**How the other routes compare:** DSSSB PGT is also fully MCQ (with 0.25 negative marking). EMRS PGT Tier-II mixes 40 objective + 15 descriptive questions. For DU, the non-MCQ part is the **interview** (often with a teaching demo/presentation), which is where the job is actually decided.
+
+
+**Still to verify**
+
+- KVS PGT Tier-II: confirm whether it is fully objective or has a descriptive part (official CBSE/KVS notice)
+
+**Sources**
+
+1. [PW: UGC NET exam pattern 2026](https://www.pw.live/ugc-net/exams/ugc-net-syllabus)
+2. [EMRS ESSE-2025 Information Bulletin (saved in notifications/)](https://nests.tribal.gov.in/)
