@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (23)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (24)
 
 ## Eligibility & Documents
 
@@ -1489,3 +1489,33 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 4. [Referencer: CCS (Conduct) Rules, GoI decisions (higher studies permission, Rule 15)](https://www.referencer.in/CS_Regulations/CCS(Conduct)Rules1964/GOI_Decisions_15.aspx)
 5. [StaffNews: DoPT on forwarding applications for outside posts / technical resignation](https://www.staffnews.in/?p=130445)
 6. [DU 2023 screening guidelines (experience only at UGC pay)](https://www.du.ac.in/uploads/images/01102025-bharti-Guidelines%20for%20Screening%20and%20the%20Shortlisting.pdf)
+
+### What is a research paper and how do I write one (so it counts in DU screening)?
+*Asked 2026-10-02*
+
+**A research paper is a short study (usually 5,000-9,000 words in economics) that asks one specific question, answers it with data or analysis, and is checked by independent experts (peer review) before a journal publishes it.** Each published paper = 2 DU screening points (max 6).
+
+**Standard structure:** Title, Abstract (150-250 words), Introduction (question + why it matters + your finding), Literature Review, Data & Method, Results, Discussion / Policy implications, Conclusion, References.
+
+**Steps:** (1) pick a narrow question; (2) read 20-30 existing papers; (3) get data (RBI DBIE, AMFI, NSE, MoSPI, World Bank); (4) analyse (regression/econometrics in Excel/Stata/R/Python); (5) write; (6) get feedback from an academic; (7) submit to a suitable journal; (8) revise after reviewer comments. Review takes 3-12 months, so start now.
+
+**Where to publish (what counts):** DU's 2023 guidelines count papers in UGC-CARE (Consortium for Academic and Research Ethics) or Scopus-indexed journals, or as DU decides. UGC scrapped the CARE list on 11-02-2025 but kept the list as on 10-02-2025 for reference, so **Scopus-indexed journals are the safest bet.** Candidates (verify on Scopus Sources before submitting): Economic and Political Weekly, Indian Economic Review, Margin: The Journal of Applied Economic Research, Journal of Quantitative Economics.
+
+**Avoid:** predatory journals ('pay Rs 3,000, published in 7 days'). They earn 0 points and damage credibility in interviews.
+
+**Topic ideas from Ashish's own work (ESTIMATE of fit):** SIP (Systematic Investment Plan) flows and Nifty volatility; FII (Foreign Institutional Investor) flows and the rupee; RBI repo-rate transmission into debt mutual fund yields; gold as a hedge for Indian households.
+
+**PGT comparison:** papers don't count in DSSSB selection, but a PGT can publish (neutral, own views) under the CCS Conduct Rules.
+
+
+**Still to verify**
+
+- Does DU count co-authored papers fully (2 points each)?
+- Confirm Scopus indexing of the suggested journals
+- How DU treats papers after the CARE list was scrapped (any DU notification)
+
+**Sources**
+
+1. [Careers360: UGC scraps UGC-CARE list, suggests parameters (2025)](https://news.careers360.com/ugc-suggests-parameters-for-selecting-peer-reviewed-journals-after-scrapping-ugc-care-list-research-quality)
+2. [UGC suggestive parameters for choosing peer-reviewed journals](https://www.cugujarat.ac.in/AllDocuments/ResearchProgrammePhd/UGC_Notice_CRU_Rules/UGC-Suggestive_Parameters-For-Choosing-Peer-Reviewed-Journals.pdf)
+3. [DU 2023 screening guidelines, III(3): publications from UGC-CARE or Scopus](https://www.du.ac.in/uploads/images/01102025-bharti-Guidelines%20for%20Screening%20and%20the%20Shortlisting.pdf)
