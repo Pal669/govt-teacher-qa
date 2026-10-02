@@ -592,6 +592,70 @@
               "url": "https://www.tribuneindia.com/news/india/8th-pay-commission-cabinet-approves-terms-of-reference-likely-to-come-into-effect-from-jan-2026"
             }
           ]
+        },
+        {
+          "date": "2026-10-02",
+          "q": "Why does DA keep increasing as a percentage?",
+          "a": [
+            "**DA is not a raise. It only protects your basic pay from inflation.**",
+            "- Basic pay is fixed in the prices of the pay commission's base date (8th CPC: 1 Jan 2026).",
+            "- DA (dearness allowance) = the % rise in the 12-month average of CPI-IW (consumer prices for industrial workers) **since that base date**. It's cumulative, so as long as prices rise, it only climbs.",
+            "- Revised twice a year (1 Jan, 1 Jul), usually announced about 3 months late with arrears.",
+            "- At the next pay commission, the accumulated DA is merged into basic (most of the 'fitment factor'), a real raise goes on top, and DA resets to 0%.",
+            "- Under the 7th CPC: 0% in Jan 2016 to 60% in Jan 2026 (about 4.8% a year). Covid froze it Jan 2020-Jun 2021.",
+            "- Knock-on effects: HRA steps up when DA crosses 25% and 50%; TA, NPS and gratuity all rise with DA.",
+            "Your real raises come from the 3% yearly increment, MACP/promotion, and the real part of each pay commission."
+          ],
+          "open": [
+            "8th CPC: whether HRA percentages and DA-linked thresholds stay the same"
+          ],
+          "sources": [
+            {
+              "title": "Gratuity ceiling raised to Rs 25 lakh when DA hit 50% (Business Today)",
+              "url": "https://www.businesstoday.in/amp/personal-finance/retirement-planning/story/gratuity-amount-how-govt-employees-can-get-gratuity-up-to-rs-25-lakh-check-details-461304-2025-01-18"
+            },
+            {
+              "title": "8th Pay Commission status (Indian Pay Calculator)",
+              "url": "https://www.indianpaycalculator.in/8th-pay-commission"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-02",
+          "q": "What does a PGT salary look like over a full career, at age 47 and at retirement?",
+          "a": [
+            "**Model, not fact.** Assumes joining July 2029, 8th CPC fitment 1.92, 6% inflation driving DA, future pay commissions in 2036 and 2046 (+15% real), MACP after 10 and 20 years, no promotion.",
+            "- **At joining (Level 8):** gross about Rs 1.42 lakh/month. Basic 64%, DA 14%, HRA 15%, TA 6%.",
+            "- **At 47 (Feb 2042, Level 9 via MACP, 9th CPC):** gross about Rs 4.87 lakh/month nominal. Basic 55%, DA 22%, HRA 15%, TA 8%. Net in-hand about Rs 3.66 lakh, worth about Rs 1.5 lakh in today's money.",
+            "- **Last month at 60 (Feb 2055, Level 10, 10th CPC):** gross about Rs 16.8 lakh/month nominal. Basic 48%, DA 32%, HRA 14%, TA 5%.",
+            "- DA's share rises through each pay commission cycle and drops back to 0 when it merges into basic.",
+            "- Retirement: superannuation at 60. Delhi DoE re-employs teachers up to PGT level till 62 (subject to fitness). Gratuity = 1/4 x (basic + DA) x completed half-years, capped (Rs 25 lakh today). NPS: 60% lump sum tax-free, 40% buys a pension.",
+            "Full editable model (with personal figures) is in the local output folder."
+          ],
+          "open": [
+            "8th CPC fitment and pay matrix (report ~May 2027)",
+            "DGEHS monthly deduction for Delhi govt teachers",
+            "How much earned leave teachers ('vacation staff') can actually encash",
+            "Pay terms during re-employment from 60 to 62"
+          ],
+          "sources": [
+            {
+              "title": "DSSSB Advt. 10/2024, Combined PGT (Level 8 pay)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf"
+            },
+            {
+              "title": "8th Pay Commission status (Indian Pay Calculator)",
+              "url": "https://www.indianpaycalculator.in/8th-pay-commission"
+            },
+            {
+              "title": "Delhi teachers' re-employment till 62 (Lawyers Club India)",
+              "url": "https://www.lawyersclubindia.com/judiciary/notification-empower-the-school-to-re-employ-the-retiring-teacher-but-not-conferring-any-right-on-teacher-to-continue-in-employment-till-the-age-of-62-years-3369.asp"
+            },
+            {
+              "title": "MACP pay fixation (StaffNews)",
+              "url": "https://www.staffnews.in/2017/06/7th-cpc-pay-fixation-on-promotionmacp.html"
+            }
+          ]
         }
       ]
     },
