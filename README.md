@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (3)
 - [Exams & Timelines](#exams-timelines) (3)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (4)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (5)
 - [Pay & Perks](#pay-perks) (5)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
@@ -253,6 +253,47 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 
 
 ## Other Routes (KVS, EMRS, Other States)
+
+### Which government teaching jobs (school and college) can I apply for, from PGT to Assistant Professor?
+*Asked 2026-10-02*
+
+Master list lives in EA Demo/Govt_Jobs_By_Category_Ashish_Pal.xlsx, tab '3 Teaching' (7 posts, prepared 28-30 Sep 2026). Reviewed 2026-10-02: 2 corrections, 6 posts to add.
+
+**College (no B.Ed needed; NET or PhD is the gate):**
+
+- Assistant Professor, Economics: DU colleges/departments, JNU, Jamia and other central universities. Master's 55% (50% for OBC-NCL) + UGC NET, or a PhD. No upper age limit. Academic Level 10.
+- Assistant Professor at Delhi state universities (GGSIPU, Ambedkar University Delhi): same UGC rules, each university advertises separately.
+- Assistant Professor in state govt colleges via state commissions (UPHESC/UPPSC, HPSC, RPSC, etc.): NET/SET/PhD. Age is usually around 40 + state relaxation; the existing sheet's '~62' looks wrong.
+- UPSC teaching posts (e.g. Assistant Professor at NDA / central institutions): NET/PhD, age per advert (usually 35-40 + 3 for OBC).
+- Guest / ad-hoc lecturer (DU and others): needs NET; paid per lecture.
+- UGC NET JRF (funded PhD): OBC age limit 35, so about 4 more years.
+**School PGT (B.Ed required, except NDMC where it can be relaxed):**
+
+- DSSSB PGT, Delhi DoE: age 30, 33 with an OBC (Delhi) certificate. The existing sheet's '36' is wrong for DoE.
+- DSSSB PGT, NDMC: below 36 (Advt 07/2023); B.Ed relaxable for first-division candidates. Rare: about 5 posts per cycle.
+- KVS / NVS PGT: 40, 43 for OBC.
+- EMRS PGT (NESTS): 40, 43 for OBC; all-India residential postings.
+- Army Public Schools (AWES CSB): PG + B.Ed with 50% in each; freshers below 40. A society under the Army, not strictly government service.
+- Sainik School PGT: PG 50% + B.Ed, age 21-40 per school advert. Society under MoD.
+- Other states' PGT/lecturer posts (Haryana, UP, Rajasthan): need B.Ed + the state's eligibility test. Often a domicile advantage for locals.
+**Not open (yet):** TGT Social Science (needs B.Ed + CTET + the right graduation subjects); Associate Professor / Professor (need a PhD + 8-10 years of teaching); SCERT/DIET lecturer (usually needs an M.Ed).
+
+
+**Still to verify**
+
+- Has Ashish qualified UGC NET Economics? (decides whether all the college rows are open now)
+- State commission Assistant Professor age limits: check UPHESC/HPSC/RPSC adverts individually
+- UGC Regulations 2025: notified final or still a draft? Check whether NET/PhD rules changed for Economics
+- Sainik School and AWES: confirm the 2026 adverts' age and B.Ed rules
+- UPSC Assistant Professor (NDA etc.): find a recent Economics advert for the exact age limit
+
+**Sources**
+
+1. [DU Advt R&P/316/2026: qualifications for Assistant Professor (official)](https://www.du.ac.in/uploads/2026/17032026-3Advt.%20316%20Qualifications%20for%20(Asstt.%20Prof.).pdf)
+2. [UGC Regulations 2018 qualifications (college copy): 55%, 5% OBC relaxation, NET](https://mail.rlacollege.edu.in/pdf/3.%20Qualifications.pdf)
+3. [AWES CSB 2025 notice](https://awesindia.com/pdf/2025/JAN/Web%2007.PDF)
+4. [Sainik School Mainpuri PGT advert (2024)](https://sainikschoolmainpuri.com/files/news/NEWS_20240618_6670fdc0db085.pdf)
+5. [DSSSB Advt 10/2024 (PGT age 30)](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf)
 
 ### Is KVS a good backup if Delhi govt doesn't work out?
 *Asked 2026-10-01*
