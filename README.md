@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (21)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (22)
 
 ## Eligibility & Documents
 
@@ -1421,3 +1421,33 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 3. [Hansraj College Economics faculty CV (example career path)](https://www.hansrajcollege.ac.in/files/userResume/66/User-userResume-3295c76acbf4caaed33c36b1b5fc2cb1-56bd55b0dcd40a4822b42366cd4dbaa4.pdf)
 4. [Glassdoor: DU Assistant Professor Economics interview questions](https://www.glassdoor.co.in/Interview/University-of-Delhi-Assistant-Professor-Economics-Interview-Questions-EI_IE366137.0,19_KO20,49.htm)
 5. [The Mooknayak: DU Assistant Professor recruitment reforms spark faculty criticism](https://en.themooknayak.com/education/faculty-raises-concerns-over-recent-changes-in-delhi-universitys-assistant-professor-recruitment-process)
+
+### So even if I clear NET my score is only 50, and with the 55 minimum they won't call me?
+*Asked 2026-10-02*
+
+**Not automatically 'no', but NET alone puts you on the edge, and you can't count on it.**
+
+- **When a 50 IS called:** the shortlist is made per category. If fewer than 40 OBC (Other Backward Classes) candidates reach 55 for that advert, the floor relaxes step by step down to 50, and you can be called. Example: Hindu College's 2025 Economics EWS (Economically Weaker Section) list went down to 50.
+- **When a 50 is NOT called:** at popular colleges, if 40+ OBC applicants score 55 or more, the list stops above you (ESTIMATE: likely at well-known colleges; actual OBC shortlist data not found yet).
+- **Even above 55, rank matters:** only 40 (first vacancy) + 20 per extra vacancy are called. With a single OBC post, you need to be in the top ~40 OBC applicants.
+**Ways to reach 55+ (all within the screening table):**
+
+- **JRF (Junior Research Fellowship) + 2 papers** in UGC-CARE (Consortium for Academic and Research Ethics) or Scopus journals = 52 + 4 = 56
+- **NET + 3 papers** = 50 + 6 = 56
+- **NET + 3 years of teaching paid at least UGC (University Grants Commission) minimum pay + DA (Dearness Allowance)** = 50 + 6 = 56 (guest teaching does not count)
+- **PhD (Doctor of Philosophy)** = +25, i.e. 75-77: comfortably above any cut-off
+- **National award** = up to +3
+**Best mix for Ashish (ESTIMATE):** aim for JRF in NET and start writing 2-3 papers now (from his macro, monetary and markets work), so he is at 56-58 by the time NET results arrive. A PhD then makes him safe everywhere, including departments (65 floor).
+
+**PGT (Post Graduate Teacher) comparison:** DSSSB (Delhi Subordinate Services Selection Board) has no screening floor. Once eligible (Master's + B.Ed), your exam rank alone decides.
+
+
+**Still to verify**
+
+- Actual OBC Economics shortlist cut-offs at DU colleges in 2024-25 (find OBC shortlist PDFs)
+- Does the 'fewer than 40 available' relaxation apply per category (wording suggests yes; confirm with a college's OBC list)
+
+**Sources**
+
+1. [DU 2023 screening guidelines (Bharti copy, 01-10-2025), section III(1)(a)-(c)](https://www.du.ac.in/uploads/images/01102025-bharti-Guidelines%20for%20Screening%20and%20the%20Shortlisting.pdf)
+2. [Hindu College Economics shortlist, EWS (3-3-2025)](https://hinducollege.ac.in/download/2024/Teaching-Advertisement/Provisionaly%20shortlisted%20list%20Economics.pdf)
