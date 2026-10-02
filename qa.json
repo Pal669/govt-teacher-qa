@@ -1463,6 +1463,33 @@
               "url": "https://news.careers360.com/ugc-revises-fellowship-amount-jrf-srf-csir-net-ugc-net-phd-students"
             }
           ]
+        },
+        {
+          "date": "2026-10-02",
+          "q": "To sit for UGC NET, do I need a Master's degree?",
+          "a": [
+            "**Yes, for the Assistant Professor route a Master's is required.** UGC NET eligibility: Master's with 55% (50% for OBC-NCL, SC, ST, PwD). Final-year PG students can also apply, but must finish the Master's with the required marks within 2 years of the NET result.",
+            "**Exception:** since 2024, a 4-year undergraduate (FYUP / honours with research) with 75% can sit NET without a Master's, but that opens JRF / PhD admission. For Assistant Professor eligibility, the UGC 2018 rule still asks for Master's 55% + NET.",
+            "**Ashish:** PG in Economics already done and meets the 55% condition, so he is eligible to sit NET now. NET is the only missing gate for DU.",
+            "**PGT comparison:** DSSSB PGT also needs a Master's (50%+ in Economics), but no NET; its missing gate is the B.Ed. So the Master's is common to both tracks; DU adds NET, PGT adds B.Ed."
+          ],
+          "sources": [
+            {
+              "title": "PW: UGC NET eligibility (55%/50%, final-year PG)",
+              "url": "https://www.pw.live/exams/ugc-net/ugc-net-eligibility"
+            },
+            {
+              "title": "iPleaders: UGC NET eligibility incl. 4-year UG 75% rule",
+              "url": "https://blog.ipleaders.in/eligibility-criteria-for-ugc-net-exam/"
+            },
+            {
+              "title": "DU Advt R&P/316/2026 (local copy): Asst Prof = Master's 55% + NET or PhD",
+              "url": "notifications/2026-03-17_DU-Advt-316-AsstProf-Qualifications.pdf"
+            }
+          ],
+          "open": [
+            "Confirm the Master's 55% rule, final-year provision and 4-year UG (75%) scope in the official NTA UGC NET Dec 2026 information bulletin"
+          ]
         }
       ]
     }

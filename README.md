@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (10)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (11)
 
 ## Eligibility & Documents
 
@@ -1101,3 +1101,25 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 1. [UGC Regulations 2018, CAS for college teachers + direct recruitment eligibility (saved in notifications/)](https://thc.nic.in/Central%20Governmental%20Regulations/UGC%20(Minimum%20Qualifications%20for%20Appointment%20of%20Teachers%20and%20other%20Academic%20Staff%20in%20Universities%20and%20Colleges%20and%20other%20measures%20for%20the%20Maintenacne%20of%20Standards%20in%20Higher%20Education)%20Regulations,%202018.pdf)
 2. [DU college screening & shortlisting guidelines (PhD 25, JRF 10, NET 8; college floor 50, departments 65)](notifications/2022_DU-College-AsstProf-Screening-Guidelines.pdf)
 3. [Careers360: UGC revises JRF to Rs 37,000 / SRF Rs 42,000](https://news.careers360.com/ugc-revises-fellowship-amount-jrf-srf-csir-net-ugc-net-phd-students)
+
+### To sit for UGC NET, do I need a Master's degree?
+*Asked 2026-10-02*
+
+**Yes, for the Assistant Professor route a Master's is required.** UGC NET eligibility: Master's with 55% (50% for OBC-NCL, SC, ST, PwD). Final-year PG students can also apply, but must finish the Master's with the required marks within 2 years of the NET result.
+
+**Exception:** since 2024, a 4-year undergraduate (FYUP / honours with research) with 75% can sit NET without a Master's, but that opens JRF / PhD admission. For Assistant Professor eligibility, the UGC 2018 rule still asks for Master's 55% + NET.
+
+**Ashish:** PG in Economics already done and meets the 55% condition, so he is eligible to sit NET now. NET is the only missing gate for DU.
+
+**PGT comparison:** DSSSB PGT also needs a Master's (50%+ in Economics), but no NET; its missing gate is the B.Ed. So the Master's is common to both tracks; DU adds NET, PGT adds B.Ed.
+
+
+**Still to verify**
+
+- Confirm the Master's 55% rule, final-year provision and 4-year UG (75%) scope in the official NTA UGC NET Dec 2026 information bulletin
+
+**Sources**
+
+1. [PW: UGC NET eligibility (55%/50%, final-year PG)](https://www.pw.live/exams/ugc-net/ugc-net-eligibility)
+2. [iPleaders: UGC NET eligibility incl. 4-year UG 75% rule](https://blog.ipleaders.in/eligibility-criteria-for-ugc-net-exam/)
+3. [DU Advt R&P/316/2026 (local copy): Asst Prof = Master's 55% + NET or PhD](notifications/2026-03-17_DU-Advt-316-AsstProf-Qualifications.pdf)
