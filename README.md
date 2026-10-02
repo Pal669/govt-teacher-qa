@@ -10,7 +10,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Pay & Perks](#pay-perks) (5)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
-- [Service Rules & Side Work](#service-rules-side-work) (4)
+- [Service Rules & Side Work](#service-rules-side-work) (5)
 
 ## Eligibility & Documents
 
@@ -691,6 +691,36 @@ To get a real number: file an RTI (Right to Information request) with Delhi DoE 
 2. [KVS: powers and duties of officers (termination during probation)](https://kvsangathan.nic.in/en/powers-and-duties-of-officers-and-employees/)
 3. [Lok Sabha unstarred question on KVS teacher removals (2005)](https://eparlib.sansad.in/bitstream/123456789/519123/1/19631.pdf)
 4. [Delhi DoE order dt 19-08-2025 (probation extension)](https://edudel.nic.in/upload/upload_2025_26/982_987_dt_19082025.PDF)
+
+### What are the KRAs (Key Result Areas) of a PGT teacher?
+*Asked 2026-10-02*
+
+**Government schools don't issue a corporate-style KRA sheet.** The closest thing is the **APAR** (Annual Performance Assessment Report; simple: the yearly report card that also feeds probation, confirmation and promotion).
+
+**How the APAR scores you (DoPT-style numerical grading, used by KVS since 2011):** each item is graded 1-10. Overall score = **40% Work Output + 30% Personal Attributes + 30% Functional Competency**. KVS uses a separate form for teachers (Proforma-D).
+
+**The practical KRAs this translates into** (synthesis from the APAR structure + how DoE/KVS act; not an official list):
+
+- **1. Board results (biggest):** Class 12 (and 11) Economics pass % and quality of grades. KVS calculates a Performance Index (PI) per teacher; Delhi DoE issues show-cause notices for poor results.
+- **2. Teaching delivery:** finishing the syllabus on time, lesson plans, class tests, remedial classes for weak students.
+- **3. Records:** attendance, marks/assessment entry on the portal, result analysis.
+- **4. School duties:** exam invigilation and evaluation, admissions, class teacher work, events, CCA (co-curricular activities: debates, quizzes, competitions).
+- **5. Government duties:** Delhi teachers are often deployed on census, election (BLO) or survey work.
+- **6. Personal attributes:** punctuality, integrity, discipline, relations with students, parents and colleagues.
+- **7. Growth:** in-service training, CBSE/SCERT workshops, new methods (NEP 2020 competency-based teaching).
+
+**Still to verify**
+
+- Get the actual KVS Proforma-D (teaching posts) to confirm its exact indicators and that the 40/30/30 weightage applies to teachers
+- Delhi DoE teacher APAR format (filled online): exact parameters not found yet
+- Official weekly teaching workload (periods/week) for PGT in DoE and KVS
+
+**Sources**
+
+1. [KVS: APAR for various cadres (Proforma A-D, numerical grading), 29-03-2011](https://www.gconnect.in/admin-forms/apar-for-various-cadres-in-kendriya-vidyalaya.html)
+2. [MoSPI OM on APAR (40/30/30 weightage, 1-10 grading)](https://mospi.gov.in/sites/default/files/iss-orders/OM_APAR_12apr21.pdf)
+3. [Example KV result analysis with Performance Index (KV CRPF Nagpur)](https://crpfnagpur.kvs.ac.in/sites/default/files/CLASS%20X%20RESULT%20ANALYSIS%20SESSION%202019-2020.pdf)
+4. [HT: Delhi teachers served notices over poor pre-board results](https://www.pressreader.com/india/hindustan-times-gurugram/20180216/281543701395083)
 
 ### As a PGT, can I publish research papers and give my opinion on government policies?
 *Asked 2026-09-30*
