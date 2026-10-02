@@ -1759,6 +1759,44 @@
               "url": "https://www.thefela.org/news/details/delhi-university-s-new-assistant-professor-hiring-criteria-sparks-controversy"
             }
           ]
+        },
+        {
+          "date": "2026-10-02",
+          "q": "Find credible sources (interviews, material, people who cracked it) on becoming a permanent DU Assistant Professor in Economics.",
+          "a": [
+            "**Finding:** no credible video or article from someone selected as a permanent DU Economics Assistant Professor turned up. YouTube results are recruitment-news and coaching-funnel channels. The most reliable material is primary documents plus the CVs of real DU Economics faculty.",
+            "- **Primary rules:** DU 2023 college screening guidelines (55 floor, 40+20 cap, presentation + essay, then interview), saved in notifications/.",
+            "- **Real shortlists:** Hindu College Economics shortlist (3-3-2025): scores of called candidates, 81 down to 50 in EWS.",
+            "- **Real career paths:** faculty CVs on college websites. E.g. a Hansraj Economics teacher: temporary posts at 3 DU colleges 2007-2010, then permanent at Hansraj 2010, then Associate Professor Oct 2024. A Shyam Lal Commerce teacher: ad-hoc 2017-2023, PhD from DSE 2022, then permanent 2023.",
+            "- **Interview content (Glassdoor, self-reported):** area of specialisation, core micro/macro, econometrics/time series depth, short demo lecture.",
+            "- **Context on the 2023 changes and criticism:** FELA (June 2024), The Mooknayak.",
+            "**Screened out:** generic 'permanent assistant professor vacancy' YouTube channels (news aggregation, no selected-candidate insight); coaching course funnels; a podcast with a Symbiosis Pune professor (not DU, 2021)."
+          ],
+          "open": [
+            "Look for a talk or interview by a recently selected DU Economics Assistant Professor (none verified yet)"
+          ],
+          "sources": [
+            {
+              "title": "DU 2023 screening guidelines (Bharti copy, 01-10-2025)",
+              "url": "https://www.du.ac.in/uploads/images/01102025-bharti-Guidelines%20for%20Screening%20and%20the%20Shortlisting.pdf"
+            },
+            {
+              "title": "Hindu College Economics shortlist (3-3-2025)",
+              "url": "https://hinducollege.ac.in/download/2024/Teaching-Advertisement/Provisionaly%20shortlisted%20list%20Economics.pdf"
+            },
+            {
+              "title": "Hansraj College Economics faculty CV (example career path)",
+              "url": "https://www.hansrajcollege.ac.in/files/userResume/66/User-userResume-3295c76acbf4caaed33c36b1b5fc2cb1-56bd55b0dcd40a4822b42366cd4dbaa4.pdf"
+            },
+            {
+              "title": "Glassdoor: DU Assistant Professor Economics interview questions",
+              "url": "https://www.glassdoor.co.in/Interview/University-of-Delhi-Assistant-Professor-Economics-Interview-Questions-EI_IE366137.0,19_KO20,49.htm"
+            },
+            {
+              "title": "The Mooknayak: DU Assistant Professor recruitment reforms spark faculty criticism",
+              "url": "https://en.themooknayak.com/education/faculty-raises-concerns-over-recent-changes-in-delhi-universitys-assistant-professor-recruitment-process"
+            }
+          ]
         }
       ]
     }

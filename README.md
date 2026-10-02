@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (20)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (21)
 
 ## Eligibility & Documents
 
@@ -1374,3 +1374,28 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 1. [DU Guidelines for Screening and Shortlisting, Assistant Professor in Colleges (Bharti College copy, 01-10-2025), saved in notifications/](https://www.du.ac.in/uploads/images/01102025-bharti-Guidelines%20for%20Screening%20and%20the%20Shortlisting.pdf)
 2. [Hindu College: Economics provisional shortlist, EWS (3-3-2025)](https://hinducollege.ac.in/download/2024/Teaching-Advertisement/Provisionaly%20shortlisted%20list%20Economics.pdf)
 3. [FELA: DU's new Assistant Professor hiring criteria spark controversy (June 2024)](https://www.thefela.org/news/details/delhi-university-s-new-assistant-professor-hiring-criteria-sparks-controversy)
+
+### Find credible sources (interviews, material, people who cracked it) on becoming a permanent DU Assistant Professor in Economics.
+*Asked 2026-10-02*
+
+**Finding:** no credible video or article from someone selected as a permanent DU Economics Assistant Professor turned up. YouTube results are recruitment-news and coaching-funnel channels. The most reliable material is primary documents plus the CVs of real DU Economics faculty.
+
+- **Primary rules:** DU 2023 college screening guidelines (55 floor, 40+20 cap, presentation + essay, then interview), saved in notifications/.
+- **Real shortlists:** Hindu College Economics shortlist (3-3-2025): scores of called candidates, 81 down to 50 in EWS.
+- **Real career paths:** faculty CVs on college websites. E.g. a Hansraj Economics teacher: temporary posts at 3 DU colleges 2007-2010, then permanent at Hansraj 2010, then Associate Professor Oct 2024. A Shyam Lal Commerce teacher: ad-hoc 2017-2023, PhD from DSE 2022, then permanent 2023.
+- **Interview content (Glassdoor, self-reported):** area of specialisation, core micro/macro, econometrics/time series depth, short demo lecture.
+- **Context on the 2023 changes and criticism:** FELA (June 2024), The Mooknayak.
+**Screened out:** generic 'permanent assistant professor vacancy' YouTube channels (news aggregation, no selected-candidate insight); coaching course funnels; a podcast with a Symbiosis Pune professor (not DU, 2021).
+
+
+**Still to verify**
+
+- Look for a talk or interview by a recently selected DU Economics Assistant Professor (none verified yet)
+
+**Sources**
+
+1. [DU 2023 screening guidelines (Bharti copy, 01-10-2025)](https://www.du.ac.in/uploads/images/01102025-bharti-Guidelines%20for%20Screening%20and%20the%20Shortlisting.pdf)
+2. [Hindu College Economics shortlist (3-3-2025)](https://hinducollege.ac.in/download/2024/Teaching-Advertisement/Provisionaly%20shortlisted%20list%20Economics.pdf)
+3. [Hansraj College Economics faculty CV (example career path)](https://www.hansrajcollege.ac.in/files/userResume/66/User-userResume-3295c76acbf4caaed33c36b1b5fc2cb1-56bd55b0dcd40a4822b42366cd4dbaa4.pdf)
+4. [Glassdoor: DU Assistant Professor Economics interview questions](https://www.glassdoor.co.in/Interview/University-of-Delhi-Assistant-Professor-Economics-Interview-Questions-EI_IE366137.0,19_KO20,49.htm)
+5. [The Mooknayak: DU Assistant Professor recruitment reforms spark faculty criticism](https://en.themooknayak.com/education/faculty-raises-concerns-over-recent-changes-in-delhi-universitys-assistant-professor-recruitment-process)
