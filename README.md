@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (7)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (8)
 
 ## Eligibility & Documents
 
@@ -1015,3 +1015,26 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 2. [Careers360: UGC revises JRF to Rs 37,000 / SRF Rs 42,000](https://news.careers360.com/ugc-revises-fellowship-amounts-for-jrf-srf-post-doctoral-other-schemes/amp)
 3. [UGC fellowship page](https://www.ugc.gov.in/Fellowship/stu_Fellowship1)
 4. [DU college screening guidelines (PhD 25, JRF 10, NET 8 points)](https://www.hinducollege.ac.in/download/2022/ad/4-Guidelines%20for%20Screening%20&%20Shortlisting%20Candidate.pdf)
+
+### Is my postgraduation (Master's in Economics) enough to be eligible for UGC NET and Assistant Professor, or do I need anything more?
+*Asked 2026-10-02*
+
+**Yes, your Master's in Economics is the qualification you need. Nothing more is required to sit for NET.**
+
+- **UGC NET:** Master's with 55% (50% for OBC-NCL) in the subject. Your PG is first division (60%+), so you clear this. No B.Ed, no PhD, no work experience needed. No age limit for Assistant Professor eligibility; for JRF it is 35 (OBC).
+- **Assistant Professor:** the same Master's 55% (50% OBC-NCL) + NET (or a PhD instead of NET). No B.Ed.
+- **Graduation marks** are not an eligibility condition, but they count in DU screening (60-80% = 19 points).
+- **PGT comparison:** the same Master's works (50% needed), but PGT additionally needs a B.Ed.
+**Keep ready:** PG degree + marksheets (the percentage is checked), and the central OBC-NCL certificate with a fresh NCL.
+
+
+**Still to verify**
+
+- Confirm exact PG percentage from marksheet (self-reported first division)
+- Confirm NET eligibility wording in the official Dec 2026 bulletin
+
+**Sources**
+
+1. [DU Advt R&P/316/2026: Assistant Professor qualifications](https://www.du.ac.in/uploads/2026/17032026-3Advt.%20316%20Qualifications%20for%20(Asstt.%20Prof.).pdf)
+2. [UGC Regulations 2018 qualifications (55%, 5% relaxation for OBC-NCL)](https://mail.rlacollege.edu.in/pdf/3.%20Qualifications.pdf)
+3. [DU college screening guidelines (graduation points)](https://www.hinducollege.ac.in/download/2022/ad/4-Guidelines%20for%20Screening%20&%20Shortlisting%20Candidate.pdf)
