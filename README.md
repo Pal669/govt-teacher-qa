@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (19)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (20)
 
 ## Eligibility & Documents
 
@@ -297,6 +297,8 @@ Master list lives in EA Demo/Govt_Jobs_By_Category_Ashish_Pal.xlsx, tab '3 Teach
 
 ### DU Assistant Professor (Economics) vs guest / ad-hoc lecturer: what is the difference, what is the route to a PERMANENT post, how long does it realistically take, and what does it depend on?
 *Asked 2026-10-02*
+
+**CORRECTION (2026-10-02):** DU's current college screening guidelines (Notification Estab.IV/047/2023, dated 20-07-2023, still used in Oct 2025 adverts) replace the 2022 table's cut-off rules. Floor is now **55** (not 50). Only **40 candidates for the first vacancy + 20 per extra vacancy, per category**, are called, in rank order. The floor drops to 50 only if fewer than 40 are available. Guest experience never counts. Selection has two stages: (1) a Presentation Assessment Committee (essay + presentation: writing, communication, humility/passion for teaching), then (2) the Selection Committee interview. Ashish at 50 (or 52 with JRF) is below 55, so he gets called only in categories/colleges with fewer than 40 applicants at 55+. See the 'current DU screening rules' Q&A.
 
 **Three different things:**
 
@@ -865,6 +867,8 @@ Full table: output/PGT-vs-DU-Assistant-Professor.xlsx
 ### I don't have NET yet. Once I qualify, is it valid for life?
 *Asked 2026-10-02*
 
+**CORRECTION (2026-10-02):** DU's current college screening guidelines (Notification Estab.IV/047/2023, dated 20-07-2023, still used in Oct 2025 adverts) replace the 2022 table's cut-off rules. Floor is now **55** (not 50). Only **40 candidates for the first vacancy + 20 per extra vacancy, per category**, are called, in rank order. The floor drops to 50 only if fewer than 40 are available. Guest experience never counts. Selection has two stages: (1) a Presentation Assessment Committee (essay + presentation: writing, communication, humility/passion for teaching), then (2) the Selection Committee interview. Ashish at 50 (or 52 with JRF) is below 55, so he gets called only in categories/colleges with fewer than 40 applicants at 55+. See the 'current DU screening rules' Q&A.
+
 **Yes, for Assistant Professor eligibility the NET certificate is valid for life.** You clear it once and can apply for posts for the rest of your career (no upper age limit for Assistant Professor).
 
 **The catch:** since June 2024, NET results come in 3 categories:
@@ -987,6 +991,8 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 ### If I score 75% in NET, what happens next? Do I give an interview for a PhD, for Assistant Professor, or do I get a permanent job directly?
 *Asked 2026-10-02*
 
+**CORRECTION (2026-10-02):** DU's current college screening guidelines (Notification Estab.IV/047/2023, dated 20-07-2023, still used in Oct 2025 adverts) replace the 2022 table's cut-off rules. Floor is now **55** (not 50). Only **40 candidates for the first vacancy + 20 per extra vacancy, per category**, are called, in rank order. The floor drops to 50 only if fewer than 40 are available. Guest experience never counts. Selection has two stages: (1) a Presentation Assessment Committee (essay + presentation: writing, communication, humility/passion for teaching), then (2) the Selection Committee interview. Ashish at 50 (or 52 with JRF) is below 55, so he gets called only in categories/colleges with fewer than 40 applicants at 55+. See the 'current DU screening rules' Q&A.
+
 **75% = 225/300. That's above the recent OBC JRF cut-off (212-216), so you'd likely land in Category 1 (JRF).** But NET is an eligibility certificate, **not a job**. Nobody appoints you on the NET score alone.
 
 **What 225 unlocks (three doors, all through an interview):**
@@ -1018,6 +1024,8 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 
 ### Is my postgraduation (Master's in Economics) enough to be eligible for UGC NET and Assistant Professor, or do I need anything more?
 *Asked 2026-10-02*
+
+**CORRECTION (2026-10-02):** DU's current college screening guidelines (Notification Estab.IV/047/2023, dated 20-07-2023, still used in Oct 2025 adverts) replace the 2022 table's cut-off rules. Floor is now **55** (not 50). Only **40 candidates for the first vacancy + 20 per extra vacancy, per category**, are called, in rank order. The floor drops to 50 only if fewer than 40 are available. Guest experience never counts. Selection has two stages: (1) a Presentation Assessment Committee (essay + presentation: writing, communication, humility/passion for teaching), then (2) the Selection Committee interview. Ashish at 50 (or 52 with JRF) is below 55, so he gets called only in categories/colleges with fewer than 40 applicants at 55+. See the 'current DU screening rules' Q&A.
 
 **Yes, your Master's in Economics is the qualification you need. Nothing more is required to sit for NET.**
 
@@ -1069,6 +1077,8 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 
 ### Explain the whole DU professor saga step by step: NET, JRF ('GRF'), PhD, Assistant Professor, Associate Professor, Professor. My only aim is to become a permanent professor at DU.
 *Asked 2026-10-02*
+
+**CORRECTION (2026-10-02):** DU's current college screening guidelines (Notification Estab.IV/047/2023, dated 20-07-2023, still used in Oct 2025 adverts) replace the 2022 table's cut-off rules. Floor is now **55** (not 50). Only **40 candidates for the first vacancy + 20 per extra vacancy, per category**, are called, in rank order. The floor drops to 50 only if fewer than 40 are available. Guest experience never counts. Selection has two stages: (1) a Presentation Assessment Committee (essay + presentation: writing, communication, humility/passion for teaching), then (2) the Selection Committee interview. Ashish at 50 (or 52 with JRF) is below 55, so he gets called only in categories/colleges with fewer than 40 applicants at 55+. See the 'current DU screening rules' Q&A.
 
 **'GRF' is JRF (Junior Research Fellowship).** It's the top result band in UGC NET: a paid PhD (Rs 37,000/month for years 1-2, then Rs 42,000 as SRF for years 3-5, plus HRA) on top of Assistant Professor eligibility.
 
@@ -1172,6 +1182,8 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 ### What percentage clear NET? If so many people clear it, so many show up for interviews, how can a panel possibly interview that many?
 *Asked 2026-10-02*
 
+**CORRECTION (2026-10-02):** DU's current college screening guidelines (Notification Estab.IV/047/2023, dated 20-07-2023, still used in Oct 2025 adverts) replace the 2022 table's cut-off rules. Floor is now **55** (not 50). Only **40 candidates for the first vacancy + 20 per extra vacancy, per category**, are called, in rank order. The floor drops to 50 only if fewer than 40 are available. Guest experience never counts. Selection has two stages: (1) a Presentation Assessment Committee (essay + presentation: writing, communication, humility/passion for teaching), then (2) the Selection Committee interview. Ashish at 50 (or 52 with JRF) is below 55, so he gets called only in categories/colleges with fewer than 40 applicants at 55+. See the 'current DU screening rules' Q&A.
+
 **About 6% of everyone who sits NET qualifies (all subjects, all categories).** That is the rule: total qualifiers = 6% of candidates who appeared in both papers.
 
 - **Economics, per cycle:** OBC Assistant Professor qualifiers were 500-625 per cycle (Jun 2024 to Dec 2025, PW data). If OBC is ~27% of seats, all-category Economics qualifiers are roughly 1,850-2,300 per cycle, ~4,000+ a year (ESTIMATE).
@@ -1201,6 +1213,8 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 
 ### What is this '50+' screening score? How is it calculated from percentages, and does clearing NET give everyone 50?
 *Asked 2026-10-02*
+
+**CORRECTION (2026-10-02):** DU's current college screening guidelines (Notification Estab.IV/047/2023, dated 20-07-2023, still used in Oct 2025 adverts) replace the 2022 table's cut-off rules. Floor is now **55** (not 50). Only **40 candidates for the first vacancy + 20 per extra vacancy, per category**, are called, in rank order. The floor drops to 50 only if fewer than 40 are available. Guest experience never counts. Selection has two stages: (1) a Presentation Assessment Committee (essay + presentation: writing, communication, humility/passion for teaching), then (2) the Selection Committee interview. Ashish at 50 (or 52 with JRF) is below 55, so he gets called only in categories/colleges with fewer than 40 applicants at 55+. See the 'current DU screening rules' Q&A.
 
 **NET does NOT give you 50. NET gives you 8 points. The 50 is the TOTAL of your graduation marks + PG marks + NET.** So people have different scores.
 
@@ -1235,6 +1249,8 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 ### So after clearing NET I'm eligible; I apply whenever there's an advert, and if I clear the interview I get the job? No prior teaching experience needed? Ad-hoc maybe?
 *Asked 2026-10-02*
 
+**CORRECTION (2026-10-02):** DU's current college screening guidelines (Notification Estab.IV/047/2023, dated 20-07-2023, still used in Oct 2025 adverts) replace the 2022 table's cut-off rules. Floor is now **55** (not 50). Only **40 candidates for the first vacancy + 20 per extra vacancy, per category**, are called, in rank order. The floor drops to 50 only if fewer than 40 are available. Guest experience never counts. Selection has two stages: (1) a Presentation Assessment Committee (essay + presentation: writing, communication, humility/passion for teaching), then (2) the Selection Committee interview. Ashish at 50 (or 52 with JRF) is below 55, so he gets called only in categories/colleges with fewer than 40 applicants at 55+. See the 'current DU screening rules' Q&A.
+
 **Yes, that's right, with three small corrections.**
 
 - **Correct NET result:** only Category 1 (JRF) or Category 2 makes you eligible. Category 3 (PhD only) does not.
@@ -1260,6 +1276,8 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 
 ### Will my OBC reservation help me in the DU interview? Will there be a specific seat for me?
 *Asked 2026-10-02*
+
+**CORRECTION (2026-10-02):** DU's current college screening guidelines (Notification Estab.IV/047/2023, dated 20-07-2023, still used in Oct 2025 adverts) replace the 2022 table's cut-off rules. Floor is now **55** (not 50). Only **40 candidates for the first vacancy + 20 per extra vacancy, per category**, are called, in rank order. The floor drops to 50 only if fewer than 40 are available. Guest experience never counts. Selection has two stages: (1) a Presentation Assessment Committee (essay + presentation: writing, communication, humility/passion for teaching), then (2) the Selection Committee interview. Ashish at 50 (or 52 with JRF) is below 55, so he gets called only in categories/colleges with fewer than 40 applicants at 55+. See the 'current DU screening rules' Q&A.
 
 **Yes, there are specific OBC seats. But OBC gives no extra marks in the interview.**
 
@@ -1288,6 +1306,8 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 ### I have 61% in graduation and 70% in PG. With NET (8), what is my screening total? Same calculation for someone with 79% and 79%.
 *Asked 2026-10-02*
 
+**CORRECTION (2026-10-02):** DU's current college screening guidelines (Notification Estab.IV/047/2023, dated 20-07-2023, still used in Oct 2025 adverts) replace the 2022 table's cut-off rules. Floor is now **55** (not 50). Only **40 candidates for the first vacancy + 20 per extra vacancy, per category**, are called, in rank order. The floor drops to 50 only if fewer than 40 are available. Guest experience never counts. Selection has two stages: (1) a Presentation Assessment Committee (essay + presentation: writing, communication, humility/passion for teaching), then (2) the Selection Committee interview. Ashish at 50 (or 52 with JRF) is below 55, so he gets called only in categories/colleges with fewer than 40 applicants at 55+. See the 'current DU screening rules' Q&A.
+
 **Both of you score exactly 50.** The table uses bands, not exact percentages.
 
 - **Ashish:** graduation 61% (60-80% band) = 19 + PG 70% (60-80% band) = 23 + NET 8 = **50**. With JRF: 52.
@@ -1311,6 +1331,8 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 ### If my interview goes well and they like me, can I be selected even though my screening score is 50 and someone else has 70?
 *Asked 2026-10-02*
 
+**CORRECTION (2026-10-02):** DU's current college screening guidelines (Notification Estab.IV/047/2023, dated 20-07-2023, still used in Oct 2025 adverts) replace the 2022 table's cut-off rules. Floor is now **55** (not 50). Only **40 candidates for the first vacancy + 20 per extra vacancy, per category**, are called, in rank order. The floor drops to 50 only if fewer than 40 are available. Guest experience never counts. Selection has two stages: (1) a Presentation Assessment Committee (essay + presentation: writing, communication, humility/passion for teaching), then (2) the Selection Committee interview. Ashish at 50 (or 52 with JRF) is below 55, so he gets called only in categories/colleges with fewer than 40 applicants at 55+. See the 'current DU screening rules' Q&A.
+
 **Yes. In DU colleges the screening score is only a ticket into the room.** The guidelines say screening marks 'shall not have any weightage/credit or merit' in the interview. Once called, a 50 and a 70 start level, and the panel picks on interview performance.
 
 **The honest caveat:** the 70-scorer usually has a PhD, papers or experience, and the panel sees and asks about those in the interview. So the advantage moves from the score sheet into the conversation. You beat them by being clearly stronger on subject depth, teaching ability and a clear research direction.
@@ -1323,3 +1345,32 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 **Sources**
 
 1. [DU college screening guidelines 2022, section III(4): screening marks carry no weightage in the interview](notifications/2022_DU-College-AsstProf-Screening-Guidelines.pdf)
+
+### What are the CURRENT DU college rules for shortlisting and selecting a permanent Assistant Professor (2023 guidelines)?
+*Asked 2026-10-02*
+
+**Same 100-point table, stricter shortlisting, plus a presentation round.**
+
+- **Scoring table (unchanged):** graduation up to 21, PG up to 25, M.Phil 7 / PhD 25 (max 25 together), NET 8 / JRF 10, publications 2 each up to 6 (UGC-CARE or Scopus journals only), experience 2/yr up to 10 (only at UGC pay; guest faculty experience is never counted), awards up to 3.
+- **Floor:** 55 (SC/ST/PwD 50).
+- **Cap:** 40 candidates for the first vacancy + 20 per additional vacancy, **per category**, in rank order (ties at the cut-off are all called). If fewer than 40 reach 55, the floor relaxes down to 50 (45 for SC/ST/PwBD).
+- **Ad-hoc carve-out:** people who were ad-hoc/contract/temporary in DU between 01-01-2022 and 31-03-2022 can be called in addition to the cap (if they meet the floor).
+- **Stage 1, Presentation Assessment Committee:** an essay written on the day (writing skills), plus a presentation judged on communication and 'humility, passion and zeal for teaching'. The grades go in a sealed cover to the Selection Committee. Skip it and you cannot be interviewed.
+- **Stage 2, Selection Committee interview** (DU Ordinance XVIII) decides the appointment.
+**Real example:** Hindu College, Economics, advert 6-8-2024, shortlist dated 3-3-2025. The EWS list called 30 people scoring 81 down to 50, which shows the relaxation to 50 kicking in when a category is thin.
+
+**For Ashish (61% / 70%):** NET = 50, JRF = 52, both below 55. To clear 55 on his own: JRF + 2 UGC-CARE/Scopus papers = 56, or NET + 3 papers = 56. A PhD takes him to 75-77. In thin categories he could still be called at 50-54. In OBC lists at top colleges, expect 40+ candidates above 55 (ESTIMATE).
+
+**PGT comparison:** DSSSB has no screening, presentation or interview. The written-exam rank decides.
+
+
+**Still to verify**
+
+- Whether any newer (2026) amendment to the 2023 guidelines exists
+- Typical OBC Economics shortlist cut-off at major DU colleges (find OBC shortlist PDFs)
+
+**Sources**
+
+1. [DU Guidelines for Screening and Shortlisting, Assistant Professor in Colleges (Bharti College copy, 01-10-2025), saved in notifications/](https://www.du.ac.in/uploads/images/01102025-bharti-Guidelines%20for%20Screening%20and%20the%20Shortlisting.pdf)
+2. [Hindu College: Economics provisional shortlist, EWS (3-3-2025)](https://hinducollege.ac.in/download/2024/Teaching-Advertisement/Provisionaly%20shortlisted%20list%20Economics.pdf)
+3. [FELA: DU's new Assistant Professor hiring criteria spark controversy (June 2024)](https://www.thefela.org/news/details/delhi-university-s-new-assistant-professor-hiring-criteria-sparks-controversy)
