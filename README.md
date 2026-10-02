@@ -11,6 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (1)
 
 ## Eligibility & Documents
 
@@ -826,3 +827,39 @@ To get a real number: file an RTI (Right to Information request) with Delhi DoE 
 1. [CCS (Conduct) Rules, Rule 8 (referencer.in)](https://www.referencer.in/cs_regulations/CCS(Conduct)Rules1964/Print_Rule_08.aspx?pf=true)
 2. [CCS (Conduct) Rules, Rule 9 (referencer.in)](https://referencer.in/CS_Regulations/CCS(Conduct)Rules1964/Rule_09.aspx)
 3. [CCS Conduct Rules (NTIPRIT PDF)](https://ntiprit.gov.in/pdf/vigilancematters/CCS_Conduct_Rules.pdf)
+
+
+## PGT vs DU Assistant Professor
+
+### Compare PGT (DSSSB/KVS) with DU Assistant Professor on everything: entry, pay, probation, KRA, work-life, growth.
+*Asked 2026-10-02*
+
+**DU wins on:** pay (Level 10, Rs 57,700 vs Level 8, Rs 47,600; about Rs 14.5 lakh vs Rs 11.5 lakh CTC, ESTIMATE), no B.Ed, no age limit, a shorter probation (1 year vs 2), retirement at 65 vs 60, 16 hours/week teaching, no board-result pressure, a fixed college with no transfers, and a career top of Professor (L14) vs Principal (L12).
+
+**PGT wins on:** certainty. Selection is an objective written exam where merit decides; DU is interview-only with panel discretion. PGT is also faster and more predictable once the B.Ed is done, and needs no PhD ever.
+
+**Probation:** PGT is 2 years, extendable, with no automatic confirmation. DU is 1 year + at most 1 more; you're confirmed at the end of year 1 unless extended by a specific order, and the confirmation order is due within 45 days (UGC 2018 cl. 11).
+
+**KRA:** PGT is judged by the APAR (40/30/30), with board results dominating. DU uses UGC Table 1: classes taught / assigned (80%+ Good) + 3 or more activities (exam duty, clubs, seminars, research).
+
+**Growth:** DU promotions are time-bound under CAS: L11 after 4 years (with PhD) or 6 years (without), L12 after 5 more, Associate Professor after 3 more (PhD MANDATORY), Professor after 3 more. PGT promotions depend on seniority and vacancies, plus MACP at 10/20/30 years.
+
+**Gate for Ashish:** PGT needs a B.Ed + OBC (Delhi) certificate. DU needs only NET (status to confirm).
+
+Full table: output/PGT-vs-DU-Assistant-Professor.xlsx
+
+
+**Still to verify**
+
+- UGC NET status: Ashish says he has the credentials, but NET is not yet confirmed
+- DU retirement age 65: confirm from the current DU ordinance
+- Official weekly teaching periods for PGT (DoE, KVS)
+- UGC Regulations 2025: final or draft, and any change to CAS/NET
+
+**Sources**
+
+1. [UGC Regulations 2018 (probation cl. 11, vacation cl. 14, workload cl. 15, CAS, App. II Table 1)](https://thc.nic.in/Central%20Governmental%20Regulations/UGC%20(Minimum%20Qualifications%20for%20Appointment%20of%20Teachers%20and%20other%20Academic%20Staff%20in%20Universities%20and%20Colleges%20and%20other%20measures%20for%20the%20Maintenacne%20of%20Standards%20in%20Higher%20Education)%20Regulations,%202018.pdf)
+2. [DU Advt R&P/316/2026: qualifications](https://www.du.ac.in/uploads/2026/17032026-3Advt.%20316%20Qualifications%20for%20(Asstt.%20Prof.).pdf)
+3. [Delhi DoE PGT offer of appointment, 27-05-2026](https://www.edudel.nic.in/upload/upload_2025_26/E2_OfferOfAppointmentToThePostOfPGTEnglish_Male_dt_27052026_529.PDF)
+4. [Delhi govt school summer vacation 2026 (Business Today)](https://www.businesstoday.in/amp/education/story/extended-summer-vacations-for-govt-schools-in-delhi-check-dates-and-more-530550-2026-05-08)
+5. [DU summer vacation squeezed (Careers360)](https://news.careers360.com/du-revises-academic-calendar-postpones-summer-vacation-june-14-unacademic-unnecessary-say-teachers/amp)
