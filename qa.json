@@ -1675,6 +1675,28 @@
               "url": "notifications/2022_DU-College-AsstProf-Screening-Guidelines.pdf"
             }
           ]
+        },
+        {
+          "date": "2026-10-02",
+          "q": "I have 61% in graduation and 70% in PG. With NET (8), what is my screening total? Same calculation for someone with 79% and 79%.",
+          "a": [
+            "**Both of you score exactly 50.** The table uses bands, not exact percentages.",
+            "- **Ashish:** graduation 61% (60-80% band) = 19 + PG 70% (60-80% band) = 23 + NET 8 = **50**. With JRF: 52.",
+            "- **79% / 79%:** graduation 79% = 19 + PG 79% = 23 + NET 8 = **50**. With JRF: 52.",
+            "- **Only crossing 80% changes it:** 80% in both = 21 + 25 + 8 = 54.",
+            "**Where the 79% person does beat you:** ties are broken by Master's marks, so they rank above you on the list. For colleges this rarely matters, because everyone at 50+ is called. It could matter where a list is cut, or as a soft impression in the interview.",
+            "**What actually separates you:** JRF (+2), research papers (+2 each, max 6), a PhD (+25), and the interview itself.",
+            "**PGT comparison:** the DSSSB PGT gate is just 50% in the Master's, with no banded scoring. Your exam marks decide."
+          ],
+          "open": [
+            "Confirm 61% / 70% against the marksheets (self-reported 2026-10-02)"
+          ],
+          "sources": [
+            {
+              "title": "DU college screening guidelines 2022, Table I and tie-break rule III(2)",
+              "url": "notifications/2022_DU-College-AsstProf-Screening-Guidelines.pdf"
+            }
+          ]
         }
       ]
     }

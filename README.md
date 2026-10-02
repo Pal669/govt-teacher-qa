@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (17)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (18)
 
 ## Eligibility & Documents
 
@@ -1284,3 +1284,26 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 2. [Careers360: DU teachers flag vacant reserved seats, NFS and roster anomalies before parliamentary committee](https://news.careers360.com/du-teachers-flag-issues-of-vacant-reserved-seats-roster-anomalies-parliamentary-committee)
 3. [Zakir Husain Delhi College teaching roster (example of a college roster)](https://www.zakirhusaindelhicollege.ac.in/wp-content/uploads/2025/04/Teaching-Roster.pdf)
 4. [DU college screening guidelines 2022 (5-mark relaxation only for SC/ST/PwD)](notifications/2022_DU-College-AsstProf-Screening-Guidelines.pdf)
+
+### I have 61% in graduation and 70% in PG. With NET (8), what is my screening total? Same calculation for someone with 79% and 79%.
+*Asked 2026-10-02*
+
+**Both of you score exactly 50.** The table uses bands, not exact percentages.
+
+- **Ashish:** graduation 61% (60-80% band) = 19 + PG 70% (60-80% band) = 23 + NET 8 = **50**. With JRF: 52.
+- **79% / 79%:** graduation 79% = 19 + PG 79% = 23 + NET 8 = **50**. With JRF: 52.
+- **Only crossing 80% changes it:** 80% in both = 21 + 25 + 8 = 54.
+**Where the 79% person does beat you:** ties are broken by Master's marks, so they rank above you on the list. For colleges this rarely matters, because everyone at 50+ is called. It could matter where a list is cut, or as a soft impression in the interview.
+
+**What actually separates you:** JRF (+2), research papers (+2 each, max 6), a PhD (+25), and the interview itself.
+
+**PGT comparison:** the DSSSB PGT gate is just 50% in the Master's, with no banded scoring. Your exam marks decide.
+
+
+**Still to verify**
+
+- Confirm 61% / 70% against the marksheets (self-reported 2026-10-02)
+
+**Sources**
+
+1. [DU college screening guidelines 2022, Table I and tie-break rule III(2)](notifications/2022_DU-College-AsstProf-Screening-Guidelines.pdf)
