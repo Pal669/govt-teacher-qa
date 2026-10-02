@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (13)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (14)
 
 ## Eligibility & Documents
 
@@ -1168,3 +1168,33 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 
 1. [UGC Regulations 2018: Associate Professor via CAS (PhD + 3 yrs at Level 12) and direct recruitment (PhD + 8 yrs + 7 pubs + score 75)](https://thc.nic.in/Central%20Governmental%20Regulations/UGC%20(Minimum%20Qualifications%20for%20Appointment%20of%20Teachers%20and%20other%20Academic%20Staff%20in%20Universities%20and%20Colleges%20and%20other%20measures%20for%20the%20Maintenacne%20of%20Standards%20in%20Higher%20Education)%20Regulations,%202018.pdf)
 2. [DU college screening guidelines 2022: experience 2 pts/yr, max 10, only if paid at least UGC minimum + DA](notifications/2022_DU-College-AsstProf-Screening-Guidelines.pdf)
+
+### What percentage clear NET? If so many people clear it, so many show up for interviews, how can a panel possibly interview that many?
+*Asked 2026-10-02*
+
+**About 6% of everyone who sits NET qualifies (all subjects, all categories).** That is the rule: total qualifiers = 6% of candidates who appeared in both papers.
+
+- **Economics, per cycle:** OBC Assistant Professor qualifiers were 500-625 per cycle (Jun 2024 to Dec 2025, PW data). If OBC is ~27% of seats, all-category Economics qualifiers are roughly 1,850-2,300 per cycle, ~4,000+ a year (ESTIMATE).
+- **The pool keeps growing:** NET is valid for life, so every year's qualifiers stay in the pool. Tens of thousands of people hold NET in Economics (ESTIMATE).
+**How panels handle the crowd:**
+
+- **Screening filters only weakly:** colleges call everyone with 50+ out of 100, and NET-only is exactly 50. So a college with 2-4 Economics posts can call hundreds. One report (IP College, 2023) said about 600 were shortlisted across departments for 8 posts (unverified).
+- **Interviews run over several days in short slots:** one selection committee (principal, head of department, two subject experts, the VC's nominee, a reserved-category observer) sees dozens of candidates a day. That means only minutes each (exact length unverified).
+- **The same people apply everywhere:** most candidates apply to every college, so the 'crowd' is the same few thousand people moving between interviews.
+**What this means for Ashish:** in a short interview the panel only remembers what stands out: deep command of your area (Money & Banking, Macro, Indian Economy is a genuine edge), a clear research area, a PhD or publications, and composure. NET-only at 50 puts you in the crowd; a PhD (~77) moves you up the shortlist, and university departments need 65+.
+
+**PGT comparison:** DSSSB PGT is decided by written-exam merit rank. It's transparent, with no interview and no panel discretion. The DU route is the opposite: the exam (NET) only gets you in the room, and the interview decides.
+
+
+**Still to verify**
+
+- Verify the IP College 2023 '600 shortlisted for 8 posts' figure from a primary source
+- Typical interview length per candidate in DU college selections (reported anecdotally as a few minutes)
+- Number of Economics NET holders who apply per DU college advert
+
+**Sources**
+
+1. [DU college screening guidelines 2022 (college floor 50; all shortlisted called; screening marks carry no weight in interview)](notifications/2022_DU-College-AsstProf-Screening-Guidelines.pdf)
+2. [PW: UGC NET Economics cut-offs and qualified counts](https://www.pw.live/ugc-net/exams/ugc-net-economics-cut-off)
+3. [The Quint: ad-hoc teachers removed at IP College, 8 posts (Oct 2023)](https://www.thequint.com/news/education/delhi-university-indraprastha-college-sociology-department-teachers-removed)
+4. [Outlook: struggle of ad-hoc teachers (DU, ~4,500 ad-hocs, 2023)](https://www.outlookindia.com/national/equal-work-unequal-benefits-the-struggle-of-ad-hoc-teachers-for-permanence-and-dignity-news-288857)
