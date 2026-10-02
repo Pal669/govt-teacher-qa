@@ -10,7 +10,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Pay & Perks](#pay-perks) (5)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (1)
-- [Service Rules & Side Work](#service-rules-side-work) (3)
+- [Service Rules & Side Work](#service-rules-side-work) (4)
 
 ## Eligibility & Documents
 
@@ -662,6 +662,35 @@ Plain English: probation (simple: a trial period). You get full pay, but the job
 4. [Delhi DoE order dt 19-08-2025 (probation extension / vigilance clearance)](https://edudel.nic.in/upload/upload_2025_26/982_987_dt_19082025.PDF)
 5. [HT: Delhi teachers served notices over poor pre-board results (2018)](https://www.pressreader.com/india/hindustan-times-gurugram/20180216/281543701395083)
 6. [EMRS ESSE-2025 Information Bulletin (saved in notifications/)](https://nests.tribal.gov.in/)
+
+### What percentage of selected PGTs are removed at or after probation (failed probation)?
+*Asked 2026-10-02*
+
+**No official percentage is published anywhere: not by DSSSB, Delhi DoE, KVS, NVS or EMRS.** Searches of official sites and Parliament Q&A (as of 2026-10-02) turned up no failure-rate statistic.
+
+What the evidence does show (qualitative only, not a number):
+
+- Terminations that do get reported are mostly about **conduct**: unauthorised absence, refusing a transfer, misconduct, or fake/mismatched documents. Not about teaching performance.
+- KVS example: a 2005 Lok Sabha answer covered teachers removed for not joining after a transfer (577 of 1,036 appeals rejected). That is about transfer non-compliance, not probation performance.
+- KVS Education Code: probation is 2 years, extendable to 3. During that time services can be ended on one month's notice without giving a reason.
+- Delhi DoE: the common outcome is an **extension** (e.g. 6 months to finish verification), not removal.
+Bottom line: being removed purely for performance after clearing a DSSSB/KVS exam looks rare, but this is an ESTIMATE, not a measured rate.
+
+To get a real number: file an RTI (Right to Information request) with Delhi DoE (and/or KVS) asking how many PGTs appointed from a given cycle (e.g. Advt 02/2020 or 07/2022) were confirmed, extended or terminated.
+
+
+**Still to verify**
+
+- No official failure rate exists. Get one via an RTI to Delhi DoE / KVS (confirmed vs extended vs terminated, per recruitment cycle)
+- Confirm the KVS 'extendable to 3 years' wording in the official Education Code on kvsangathan.nic.in (current copy is from a third-party site)
+- Confirm the exact figures in the 2005 Lok Sabha answer from the PDF itself
+
+**Sources**
+
+1. [KVS Education Code (revised), probation clause](https://kvspgtcs.org/wp-content/uploads/2020/04/EducationCodeRevised.pdf)
+2. [KVS: powers and duties of officers (termination during probation)](https://kvsangathan.nic.in/en/powers-and-duties-of-officers-and-employees/)
+3. [Lok Sabha unstarred question on KVS teacher removals (2005)](https://eparlib.sansad.in/bitstream/123456789/519123/1/19631.pdf)
+4. [Delhi DoE order dt 19-08-2025 (probation extension)](https://edudel.nic.in/upload/upload_2025_26/982_987_dt_19082025.PDF)
 
 ### As a PGT, can I publish research papers and give my opinion on government policies?
 *Asked 2026-09-30*
