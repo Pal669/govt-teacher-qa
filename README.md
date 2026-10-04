@@ -1,6 +1,6 @@
 # Government Teacher Q&A
 
-Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-03.
+Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-04.
 
 - [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
@@ -280,7 +280,7 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 ### Which government teaching jobs (school and college) can I apply for, from PGT to Assistant Professor?
 *Asked 2026-10-02*
 
-Master list lives in EA Demo/Govt_Jobs_By_Category_Ashish_Pal.xlsx, tab '3 Teaching' (7 posts, prepared 28-30 Sep 2026). Reviewed 2026-10-02: 2 corrections, 6 posts to add.
+Master list lives in EA Demo/Govt_Jobs_By_Category_Ashish_Pal.xlsx, tab '3 Teaching' (now 20 posts). **Updated 2026-10-04:** 13 teaching posts added (NDMC PGT, EMRS, Army Public School, Sainik School, Uttarakhand, Himachal, other states, Delhi state universities, UPSC Assistant Professor, UPSC Vice-Principal, UPSC Principal, SCERT/DIET, Deputy Director of Education) and the DSSSB age (30, not 36) and state-college age corrected - also in Govt_Jobs_Ashish_Pal_2026-27.xlsx and its '-2' copy.
 
 **College (no B.Ed needed; NET or PhD is the gate):**
 
