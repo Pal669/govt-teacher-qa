@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (3)
 - [Exams & Timelines](#exams-timelines) (3)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (7)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (8)
 - [Pay & Perks](#pay-perks) (5)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
@@ -299,6 +299,33 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 
 1. [DSSSB Advt 10/2024, Combined PGT (official PDF)](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf)
 2. [NDMC recruitment 2021 (aggregator)](https://cracku.in/latest-govt-jobs/?p=47074)
+
+### How many NDMC schools are there in Delhi? Name them.
+*Asked 2026-10-04*
+
+**51 schools on NDMC's own list:** 40 NDMC schools + 11 Navyug schools. The page is undated.
+
+- NDMC schools: 13 Senior Secondary, 8 Secondary, 1 Middle (day boarding), 14 Primary, 4 Nursery.
+- Navyug schools (run by the Navyug School Education Society, set up by NDMC in 1973): 7 Senior Secondary, 1 Secondary, 3 Primary.
+- The 'N.P.' (Nagar Palika) senior secondary and secondary schools now carry the name **Atal Adarsh Vidyalaya** (22 CBSE-affiliated, same localities).
+- **Senior Secondary (where PGT Economics would be posted): 20.** NDMC / Atal Adarsh: Mandir Marg (Boys), Gole Market (Girls), Gole Market (Bengali Girls), Ansari Nagar, Moti Bagh, Tilak Marg, Lodhi Estate, Bapu Dham, Havelock Square (Girls), Aurangzeb Lane, Lodhi Road, Laxmi Bai Nagar, Nauroji Nagar. Navyug: Sarojini Nagar, Peshwa Road, Laxmi Bai Nagar, Moti Bagh, Lodhi Road, Vinay Marg, Mandir Marg.
+- Secondary (8): Kidwai Nagar, Babar Road, Sangli Mess, Kitchener Road, Netaji Nagar, Babu Market (Sarojini Nagar), Aliganj, Balmiki Basti (Girls). Middle: Hanuman Lane (day boarding).
+- Primary (14) and Nursery (4) are listed on the NDMC page; not relevant to PGT.
+- A search summary cited a total of 82 NDMC schools; that likely counts the 33 nursery sections attached to other schools. Not confirmed.
+- DU comparison: not relevant to the DU Assistant Professor track.
+
+**Still to verify**
+
+- Which of the 20 senior secondary schools actually offer Economics in Class 11-12.
+- Whether Navyug School Education Society PGTs are recruited through DSSSB or directly by the society.
+- Navyug Secondary School location: one NDMC page says Pandara Park, another says Tilak Marg.
+- Source of the '82 NDMC schools' figure.
+
+**Sources**
+
+1. [NDMC: List of NDMC / Navyug Schools](https://www.ndmc.gov.in/departments/education_school.aspx)
+2. [NDMC: CBSE Affiliated NDMC Schools (Atal Adarsh Vidyalayas)](https://www.ndmc.gov.in/departments/education_cbse_ndmc.aspx)
+3. [NDMC: Navyug Schools](https://www.ndmc.gov.in/departments/education_non_affiliated_navyug.aspx)
 
 ### Which government teaching jobs (school and college) can I apply for, from PGT to Assistant Professor?
 *Asked 2026-10-02*

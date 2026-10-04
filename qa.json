@@ -628,6 +628,41 @@
             "Exact number of NDMC senior secondary schools offering Economics.",
             "Official copy of DSSSB Advt 07/2023 NDMC PGT Economics rows, to save in notifications/."
           ]
+        },
+        {
+          "date": "2026-10-04",
+          "q": "How many NDMC schools are there in Delhi? Name them.",
+          "a": [
+            "**51 schools on NDMC's own list:** 40 NDMC schools + 11 Navyug schools. The page is undated.",
+            "- NDMC schools: 13 Senior Secondary, 8 Secondary, 1 Middle (day boarding), 14 Primary, 4 Nursery.",
+            "- Navyug schools (run by the Navyug School Education Society, set up by NDMC in 1973): 7 Senior Secondary, 1 Secondary, 3 Primary.",
+            "- The 'N.P.' (Nagar Palika) senior secondary and secondary schools now carry the name **Atal Adarsh Vidyalaya** (22 CBSE-affiliated, same localities).",
+            "- **Senior Secondary (where PGT Economics would be posted): 20.** NDMC / Atal Adarsh: Mandir Marg (Boys), Gole Market (Girls), Gole Market (Bengali Girls), Ansari Nagar, Moti Bagh, Tilak Marg, Lodhi Estate, Bapu Dham, Havelock Square (Girls), Aurangzeb Lane, Lodhi Road, Laxmi Bai Nagar, Nauroji Nagar. Navyug: Sarojini Nagar, Peshwa Road, Laxmi Bai Nagar, Moti Bagh, Lodhi Road, Vinay Marg, Mandir Marg.",
+            "- Secondary (8): Kidwai Nagar, Babar Road, Sangli Mess, Kitchener Road, Netaji Nagar, Babu Market (Sarojini Nagar), Aliganj, Balmiki Basti (Girls). Middle: Hanuman Lane (day boarding).",
+            "- Primary (14) and Nursery (4) are listed on the NDMC page; not relevant to PGT.",
+            "- A search summary cited a total of 82 NDMC schools; that likely counts the 33 nursery sections attached to other schools. Not confirmed.",
+            "- DU comparison: not relevant to the DU Assistant Professor track."
+          ],
+          "sources": [
+            {
+              "title": "NDMC: List of NDMC / Navyug Schools",
+              "url": "https://www.ndmc.gov.in/departments/education_school.aspx"
+            },
+            {
+              "title": "NDMC: CBSE Affiliated NDMC Schools (Atal Adarsh Vidyalayas)",
+              "url": "https://www.ndmc.gov.in/departments/education_cbse_ndmc.aspx"
+            },
+            {
+              "title": "NDMC: Navyug Schools",
+              "url": "https://www.ndmc.gov.in/departments/education_non_affiliated_navyug.aspx"
+            }
+          ],
+          "open": [
+            "Which of the 20 senior secondary schools actually offer Economics in Class 11-12.",
+            "Whether Navyug School Education Society PGTs are recruited through DSSSB or directly by the society.",
+            "Navyug Secondary School location: one NDMC page says Pandara Park, another says Tilak Marg.",
+            "Source of the '82 NDMC schools' figure."
+          ]
         }
       ]
     },
