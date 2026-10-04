@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (25)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (26)
 
 ## Eligibility & Documents
 
@@ -928,6 +928,38 @@ To get a real number: file an RTI (Right to Information request) with Delhi DoE 
 2. [DU Advt R&P/316/2026: advertisement, Economics/CS/Psychology departments (official PDF)](https://www.du.ac.in/uploads/2026/17032026-1Advt.%20316%20%20Advertisement%20(Assistant%20Prof.).pdf)
 3. [DU Addendum 17-04-2026: Economics now 2 posts (1 UR, 1 OBC) (official PDF)](https://www.du.ac.in/uploads/2026/17042026-Addendum%20Advt.%20316.pdf)
 4. [UGC Regulations 2018 (Associate Professor / Professor criteria, selection committees)](https://www.ugc.gov.in/pdfnews/4033931_UGC-Regulation_min_Qualification_Jul2018.pdf)
+
+### If I clear JRF, do I have to enrol in a PhD to get the stipend? Will DU (Delhi School of Economics) admit me, and does my 12th or other past marks decide it?
+*Asked 2026-10-04*
+
+**Yes, the stipend only starts once you join a PhD.** JRF is a fellowship, not a salary for passing an exam. It is paid from the date you join a regular, full-time PhD (or the NET result date, whichever is later). You must get admission within **3 years** of the JRF award letter, or the fellowship lapses. Tenure: 5 years total; Rs 37,000/month for the first 2 years, then Rs 42,000 as SRF (Senior Research Fellow) after a review, plus HRA as per the university.
+
+**JRF does NOT guarantee a DU seat.** It gets you into the interview without an entrance test, but you still compete with other JRF holders for a few seats.
+
+**How DU decides (PhD Bulletin 2025-26):** Category I (JRF): **100% interview**. Category II/III (NET only): 70% NET score + 30% interview. At DSE the interview is a **research-proposal presentation** (5 slides, 6 minutes + 4 minutes of questions, Phase II, April 2026).
+
+**Competition at DSE:** in 2025-26 Phase II, **22 JRF candidates** (plus 48 NET candidates) were shortlisted for interview. Seat numbers weren't published in the notice; seats depend on how many supervisors have vacancies.
+
+**Does 12th matter? No, not for merit.** Eligibility is Master's 55% (50% for OBC-NCL). 10th/12th/graduation mark sheets are only checked as documents. What decides it: (1) the quality of your research proposal, (2) how well you defend it, (3) whether a DSE professor works in your area and has a free PhD slot.
+
+**Your JRF works elsewhere too:** JNU, Jamia, Ambedkar University Delhi, IIT Delhi (Humanities and Social Sciences), IGIDR, and many others. Apply to several in the same year.
+
+**Catch for you:** JRF requires a full-time PhD. You would have to leave your current job, and UGC fellowship rules generally bar other paid work, so your private advisory income needs checking against the rules before you join.
+
+**PGT comparison:** irrelevant for PGT; a PhD doesn't help in DSSSB/KVS selection. It is the core of the DU track: PhD = 30 screening points and the only realistic way into DSE.
+
+
+**Still to verify**
+
+- Number of PhD seats in DSE Economics for 2026-27
+- UGC fellowship rules on outside income during JRF: does private advisory/consulting income count as a bar? Check the UGC JRF guidelines and the DU PhD ordinance
+
+**Sources**
+
+1. [DU PhD Bulletin of Information 2025-26 (official PDF)](https://www.du.ac.in/uploads/new-web/17102025_PhD_BOI_compressed.pdf)
+2. [DSE PhD Admission Notice 2025-26 Phase II, 15-04-2026 (official PDF)](https://admission.uod.ac.in/userfiles/downloads/17042026_Econo.pdf)
+3. [UGC JRF award letter: 3-year validity, fellowship start rules (sample letter, GGU)](https://www.ggu.ac.in/media/notices/department-links/Jrfaward.pdf)
+4. [Careers360: JRF award letter validity 3 years](https://news.careers360.com/ugc-net-e-certificate-jrf-award-letter-out-december-2023-session-ugcnet-nta-ac-in)
 
 ### Compare PGT (DSSSB/KVS) with DU Assistant Professor on everything: entry, pay, probation, KRA, work-life, growth.
 *Asked 2026-10-02*
