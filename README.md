@@ -5,7 +5,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (3)
-- [Exams & Timelines](#exams-timelines) (3)
+- [Exams & Timelines](#exams-timelines) (4)
 - [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (9)
 - [Pay & Perks](#pay-perks) (5)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
@@ -209,6 +209,34 @@ If 36 is ever notified: 36 + 3 (OBC Delhi) = 39.
 
 
 ## Exams & Timelines
+
+### How many DSSSB PGT Economics vacancies are there in 2026?
+*Asked 2026-10-04*
+
+**Short answer: no new DSSSB PGT ad has come out in 2026 yet (checked 04-10-2026).** What you see online as "2026 vacancies" is one of two things:
+
+- **The old cycle, Advt 10/2024 (exam held in 2026):** PGT Economics, Post Code 829/24. Male: 60 posts (UR 31, OBC 21, SC 2, EWS 6), from the official ad. Female: 22 posts (UR 7, OBC 13, ST 2), from aggregator sites only. Total 82. Applications closed 14-02-2025. Economics exam held 15-07-2026; result pending.
+- **The next cycle (not yet notified):** a vacancy list (annexure) circulating since about July 2026 shows 510 PGT posts, including **Economics 43 male + 9 female = 52**. Source: Adda247 only. No ad number, no category split, no dates. Treat it as a rumour until DSSSB publishes the PDF.
+- **Advt 03/2026 (29-05-2026, 1,979 posts):** covers TGT, Special Educator, PRT and non-teaching posts. **No PGT posts.**
+When the next one may come: past PGT ads came out in late December or early January (Dec 2023, Dec 2024). So a PGT ad around **Dec 2026 to Jan 2027** fits the pattern. ESTIMATE, not announced.
+
+What it means for you: even if that ad comes out, you cannot apply. You don't have a B.Ed yet, and eligibility is checked on the ad's closing date. Your age is fine until about Feb 2029, and only with an OBC (Delhi) certificate.
+
+**DU Assistant Professor side:** the 2026 DU ad already came out (Advt R&P/316/2026, March 2026). You can't apply without NET, so the gate there is NET, not the ad. Comparison: PGT is blocked by B.Ed and age; DU is blocked by NET and the screening score. Neither track has an ad you can use in 2026.
+
+
+**Still to verify**
+
+- PGT Economics Female count for Advt 10/2024 (22: UR 7, OBC 13, ST 2) is from aggregators only. Confirm from the official female post-code table.
+- Is the 52-post Economics annexure (43 M + 9 F) real? Wait for the official DSSSB ad; get the category split and the NDMC share.
+- Check dsssb.delhi.gov.in directly for any 2026 PGT ad. This check used search results only; the DSSSB site would not load.
+
+**Sources**
+
+1. [DSSSB Advt 10/2024, Combined PGT (official PDF)](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf)
+2. [Adda247: DSSSB PGT Vacancy 2026 annexure (unofficial, updated 03-07-2026)](https://www.adda247.com/teaching-jobs-exam/dsssb-pgt-vacancy-2026-out/)
+3. [Testbook: DSSSB PGT 2026 (Advt 10/2024, female Economics split)](https://testbook.com/dsssb-pgt)
+4. [PW: DSSSB Advt 03/2026, 1,979 posts](https://www.pw.live/ssc/exams/dsssb-recruitment-2026-notification-out)
 
 ### How long is the gap between the DSSSB ad and the actual exam?
 *Asked 2026-10-01*
