@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (24)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (25)
 
 ## Eligibility & Documents
 
@@ -894,6 +894,40 @@ To get a real number: file an RTI (Right to Information request) with Delhi DoE 
 
 
 ## PGT vs DU Assistant Professor
+
+### How are the teachers at the Delhi School of Economics (who teach Master's students) appointed, and what are the criteria?
+*Asked 2026-10-04*
+
+**Who they are:** the MA Economics at DU is taught by the **Department of Economics, Delhi School of Economics (DSE)** faculty. They are University department teachers, not college teachers. Three ranks: Assistant Professor (Level 10, Rs 57,700) -> Associate Professor (Level 13A) -> Professor (Level 14).
+
+**How they are appointed:** all-India advertisement by DU -> online application -> screening score out of 100 -> Presentation Assessment (graded A-E, advisory only) -> Selection Committee interview. **Selection is on the interview alone**; the screening marks only decide who gets called. Committee (UGC 2018): Vice-Chancellor's nominee (chair), a Visitor's nominee, 3 outside subject experts, Dean, Head of Department, and a reserved-category academician where needed.
+
+**Minimum eligibility (Assistant Professor):** Master's 55% (50% for OBC-NCL) + UGC NET, or a PhD (UGC 2009/2016 rules), or a PhD from a top-500 world university (QS/THE/ARWU). Same paper eligibility as a college post.
+
+**The real filter is the department screening table (stricter than colleges):** graduation 80%+ = 15, 60-80% = 13; PG 80%+ = 25, 60-80% = 23; **PhD 30**; NET with JRF 7, NET 5; papers 2 each in UGC-CARE/Scopus journals (max 10); paid teaching/post-doc 2 per year (max 10; guest teaching doesn't count); awards max 3. **Cut-off 65** (relaxed to 60 only for SC/ST/PwBD, not OBC). 30 candidates called for the first vacancy + 10 per extra vacancy, per category.
+
+**Your score (department table):** graduation 61% = 13 + PG 70% = 23 + NET 5 = **41**; with JRF 43. Far below 65. With a **PhD + JRF = 73**, which clears it. Without a PhD the theoretical maximum is about 66, and that needs JRF + 5 Scopus papers + 5 years of properly paid teaching. **In practice: a PhD is the entry ticket to DSE.** (Note: in the college table your NET score is 50; departments use a different, harsher table.)
+
+**Senior posts (direct recruitment or promotion through CAS, the Career Advancement Scheme):** Associate Professor = PhD + Master's 55% + 8 years teaching/research + 7 peer-reviewed papers + research score 75. Professor = PhD + 10 years + 10 papers + research score 120 + has guided a PhD student.
+
+**Latest DSE vacancy:** Advt R&P/316/2026 (17-03-2026): 2 Assistant Professor posts in Economics (1 UR, 1 OBC after the 17-04-2026 addendum). Vacancies are rare: one or two at a time. The applicant pool usually includes PhDs from top Indian and foreign universities (that last point is an observation, not an official rule).
+
+**PGT comparison:** a school PGT teaches up to Class 12; there is no route from PGT to teaching Master's students. Teaching at DSE runs only through NET -> PhD -> research papers. DU colleges teach undergraduates and need a screening score of 55; DSE needs 65 and effectively a PhD.
+
+**Path if you want this:** NET (aim for JRF) -> PhD in Economics (4-6 years; JRF pays for it) -> 2-5 Scopus papers during the PhD -> apply to DSE and other departments; meanwhile a DU college post (score 55) is the nearer target.
+
+
+**Still to verify**
+
+- UGC Regulations 2025: if notified as final, check whether they change the department screening table or the NET/PhD rules
+- Exact 2026 DSE shortlist size and cut-off actually used (not published yet)
+
+**Sources**
+
+1. [DU Advt R&P/316/2026: department screening guidelines (official PDF)](https://www.du.ac.in/uploads/2026/17032026-4%20Advt.%20316%20%20Screening%20Guidelines%20of%20(Asstt.%20Prof.)).pdf)
+2. [DU Advt R&P/316/2026: advertisement, Economics/CS/Psychology departments (official PDF)](https://www.du.ac.in/uploads/2026/17032026-1Advt.%20316%20%20Advertisement%20(Assistant%20Prof.).pdf)
+3. [DU Addendum 17-04-2026: Economics now 2 posts (1 UR, 1 OBC) (official PDF)](https://www.du.ac.in/uploads/2026/17042026-Addendum%20Advt.%20316.pdf)
+4. [UGC Regulations 2018 (Associate Professor / Professor criteria, selection committees)](https://www.ugc.gov.in/pdfnews/4033931_UGC-Regulation_min_Qualification_Jul2018.pdf)
 
 ### Compare PGT (DSSSB/KVS) with DU Assistant Professor on everything: entry, pay, probation, KRA, work-life, growth.
 *Asked 2026-10-02*
