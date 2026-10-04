@@ -663,6 +663,36 @@
             "Navyug Secondary School location: one NDMC page says Pandara Park, another says Tilak Marg.",
             "Source of the '82 NDMC schools' figure."
           ]
+        },
+        {
+          "date": "2026-10-04",
+          "q": "Give me one flowchart of the whole government-teacher ecosystem in India: domains, variables, age limits, every route.",
+          "a": [
+            "Built as a one-page poster with 5 domains: **1. Ladder** (PRT, TGT, PGT, Vice Principal, Principal, college track), **2. Gates** (9 variables every route checks), **3. Who hires** (Delhi govt, central govt, defence societies, states, colleges), **4. Age clock** (how long each door stays open), **5. Sources**.",
+            "- **Crux:** B.Ed is the master key for every school door (NDMC is the only possible exception). Age is the clock, and each door shuts on a different birthday. The certificate format (OBC Delhi vs Central OBC) decides which clock applies. DU needs no B.Ed and has no age limit, but needs NET + a screening score of 55.",
+            "- **Age windows**, reading each limit as 'not exceeding' (eligible until the next birthday): DSSSB DoE (OBC Delhi 33) to ~Feb 2029; NDMC (below 36, +3) to ~Feb 2034 if the old rules hold; KVS/NVS/EMRS (43) to ~Feb 2039; Uttarakhand (General 42) to ~Feb 2038; Himachal (45) to ~Feb 2041; NET JRF (OBC 35) to ~Feb 2031.",
+            "- TGT check: DSSSB TGT age is **not over 30** (Advt 06/2025), Level 7. CTET is needed only for PRT/TGT, never for PGT.",
+            "- The diagram is generated from an editable data file (scripts/ecosystem_data.json in the local workspace), so new routes or variables can be added and the poster redrawn."
+          ],
+          "sources": [
+            {
+              "title": "DSSSB Advt 10/2024, Combined PGT (official PDF)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf"
+            },
+            {
+              "title": "CBSE KVS + NVS 2025 drive: 14,967 posts (careers360)",
+              "url": "https://news.careers360.com/kvs-nvs-recruitment-2025-cbse-begins-registration-for-14967-teaching-staff-vacancies-eligibility-fee-pay-scale-exam-pattern"
+            },
+            {
+              "title": "NDMC: List of NDMC / Navyug Schools",
+              "url": "https://www.ndmc.gov.in/departments/education_school.aspx"
+            }
+          ],
+          "open": [
+            "KVS 2025 ad: confirm TGT 35 / PRT 30 / PGT 40 and NVS PGT 40 from the official CBSE notification",
+            "Exact 'as on' cut-off wording for age in each ad (decides whether windows end a year earlier)",
+            "Army Public School pay terms and 2026 age rule"
+          ]
         }
       ]
     },
