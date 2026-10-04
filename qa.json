@@ -600,6 +600,34 @@
             "How many Economics Assistant Professor posts DU colleges advertised in 2025-26 (vacancy flow after the big drive)",
             "Current guest faculty pay rate at DU (Rs 1,500/lecture, Rs 50,000 cap is from UGC 2019)"
           ]
+        },
+        {
+          "date": "2026-10-04",
+          "q": "What are NDMC schools?",
+          "a": [
+            "**NDMC = New Delhi Municipal Council**, the civic body for the Lutyens' Delhi / Connaught Place / Chanakyapuri area (about 43 sq km). It is separate from the MCD (Municipal Corporation of Delhi) and from the Delhi Govt Directorate of Education (DoE).",
+            "- NDMC runs its own small set of schools (Navyug Schools, Atal Adarsh Vidyalayas and other NDMC schools) in that area, including senior secondary schools that need PGTs.",
+            "- Permanent NDMC PGTs are recruited **through DSSSB**, in the same combined ads as DoE PGTs, but under **NDMC's own recruitment rules**, so age and qualification can differ from DoE.",
+            "- **Why it matters for you:** in DSSSB Advt 07/2023, NDMC PGT Economics (5 posts) allowed age 'below 36' and let first-division candidates (Class 12 + degree + PG) join without a B.Ed and finish it within 3 years. You meet the first-division condition.",
+            "- In Advt 10/2024 NDMC sent no requisition, so its current rules are unknown. Posts are few (about 5 per cycle) and irregular.",
+            "- NDMC also hires contract / guest teachers directly (paid per day). That is a separate, non-permanent route.",
+            "- **DU Assistant Professor comparison:** no link. NDMC is a school employer; DU's gate is NET/PhD, no B.Ed, no age limit. NDMC matters only for the PGT track, as a possible no-B.Ed, higher-age back door."
+          ],
+          "sources": [
+            {
+              "title": "DSSSB Advt 10/2024, Combined PGT (official PDF)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf"
+            },
+            {
+              "title": "NDMC recruitment 2021 (aggregator)",
+              "url": "https://cracku.in/latest-govt-jobs/?p=47074"
+            }
+          ],
+          "open": [
+            "NDMC's current PGT recruitment rules (age limit and B.Ed relaxation): have they been amended since Advt 07/2023?",
+            "Exact number of NDMC senior secondary schools offering Economics.",
+            "Official copy of DSSSB Advt 07/2023 NDMC PGT Economics rows, to save in notifications/."
+          ]
         }
       ]
     },

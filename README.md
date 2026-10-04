@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (3)
 - [Exams & Timelines](#exams-timelines) (3)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (6)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (7)
 - [Pay & Perks](#pay-perks) (5)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
@@ -276,6 +276,29 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 
 
 ## Other Routes (KVS, EMRS, Other States)
+
+### What are NDMC schools?
+*Asked 2026-10-04*
+
+**NDMC = New Delhi Municipal Council**, the civic body for the Lutyens' Delhi / Connaught Place / Chanakyapuri area (about 43 sq km). It is separate from the MCD (Municipal Corporation of Delhi) and from the Delhi Govt Directorate of Education (DoE).
+
+- NDMC runs its own small set of schools (Navyug Schools, Atal Adarsh Vidyalayas and other NDMC schools) in that area, including senior secondary schools that need PGTs.
+- Permanent NDMC PGTs are recruited **through DSSSB**, in the same combined ads as DoE PGTs, but under **NDMC's own recruitment rules**, so age and qualification can differ from DoE.
+- **Why it matters for you:** in DSSSB Advt 07/2023, NDMC PGT Economics (5 posts) allowed age 'below 36' and let first-division candidates (Class 12 + degree + PG) join without a B.Ed and finish it within 3 years. You meet the first-division condition.
+- In Advt 10/2024 NDMC sent no requisition, so its current rules are unknown. Posts are few (about 5 per cycle) and irregular.
+- NDMC also hires contract / guest teachers directly (paid per day). That is a separate, non-permanent route.
+- **DU Assistant Professor comparison:** no link. NDMC is a school employer; DU's gate is NET/PhD, no B.Ed, no age limit. NDMC matters only for the PGT track, as a possible no-B.Ed, higher-age back door.
+
+**Still to verify**
+
+- NDMC's current PGT recruitment rules (age limit and B.Ed relaxation): have they been amended since Advt 07/2023?
+- Exact number of NDMC senior secondary schools offering Economics.
+- Official copy of DSSSB Advt 07/2023 NDMC PGT Economics rows, to save in notifications/.
+
+**Sources**
+
+1. [DSSSB Advt 10/2024, Combined PGT (official PDF)](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf)
+2. [NDMC recruitment 2021 (aggregator)](https://cracku.in/latest-govt-jobs/?p=47074)
 
 ### Which government teaching jobs (school and college) can I apply for, from PGT to Assistant Professor?
 *Asked 2026-10-02*
