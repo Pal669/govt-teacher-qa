@@ -12,7 +12,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (33)
-- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (6)
+- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (7)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
 ## Eligibility & Documents
@@ -2159,7 +2159,6 @@ Other fixed-campus options: Himachal Pradesh University, Shimla (no Economics po
 
 **Still to verify**
 
-- Can a non-Uttarakhand resident register at an Uttarakhand employment exchange? It usually needs a local address proof. Check with the exchange in Dehradun or on the Uttarakhand sevayojan portal.
 - Does every GIC have an Economics lecturer post? Arts stream is common, but the per-school sanctioned posts are not public.
 - When is the next UKPSC Lecturer advert? Not announced (the 2025 cycle exam is running now).
 
@@ -2168,6 +2167,29 @@ Other fixed-campus options: Himachal Pradesh University, Shimla (no Economics po
 1. [UKPSC Lecturer advert A-3/S-1/DR(L.I.C)/2025 (saved: notifications/2025-12-30_UKPSC-Lecturer-Advt-A-3-S-1-DR-LIC-2025.pdf)](https://psc.uk.gov.in/public/uploads/recruitment/942047021.pdf)
 2. [UKPSC notice 24-09-2026 (exam status, 725 + 83 posts)](https://psc.uk.gov.in/public/uploads/recruitment/1433940324.pdf)
 3. [UDISE+ Know Your School](https://kys.udiseplus.gov.in/)
+
+### I don't have any of the three Uttarakhand conditions (Class 10+12 in Uttarakhand, Uttarakhand employment-exchange registration, ex-serviceman).
+*Asked 2026-10-05*
+
+**Then the UKPSC Lecturer route is closed for you**, separately from the B.Ed problem.
+
+**Why the exchange route doesn't work:** registering at an Uttarakhand employment exchange needs a domicile certificate issued by the Uttarakhand government (Directorate of Skill Development & Employment document list). Without Uttarakhand domicile you cannot register.
+
+**Only exceptions in the advert:** (a) the spouse or child of an Uttarakhand permanent resident who lives outside the state for work or study; (b) a regular state or central government employee working in Uttarakhand whose service cannot be transferred out, plus their spouse and children.
+
+**What stays open for Uttarakhand:** central jobs located there, which have no domicile rule: KVS / EMRS / JNV PGT (still need a B.Ed) and Assistant Professor at HNB Garhwal (central university, needs NET, no B.Ed).
+
+**PGT vs DU comparison:** the school route in Uttarakhand is now only through central schools (KVS/JNV/EMRS). The professor route there (HNB Garhwal) has no domicile gate at all.
+
+
+**Still to verify**
+
+- What it takes to get an Uttarakhand domicile certificate (reportedly 15 years' residence). Not checked; only matters if Ashish plans to move there long term.
+
+**Sources**
+
+1. [Uttarakhand Directorate of Skill Development & Employment - registration documents](https://dsde.uk.gov.in/?p=6637)
+2. [UKPSC Lecturer advert A-3/S-1/DR(L.I.C)/2025, pages 14-15](https://psc.uk.gov.in/public/uploads/recruitment/942047021.pdf)
 
 
 ## Working in Other States (Pay, Language, Rules)
