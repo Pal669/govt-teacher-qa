@@ -12,7 +12,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (33)
-- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (4)
+- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (5)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
 ## Eligibility & Documents
@@ -2110,6 +2110,35 @@ Other fixed-campus options: Himachal Pradesh University, Shimla (no Economics po
 3. [Dharamshala: max four storeys, FAR 1.75 (Tribune)](https://www.tribuneindia.com/news/himachal/in-upper-dharamsala-20-buildings-violate-tcp-act-540522)
 4. [Dharamshala construction cost (India Land Converter)](https://www.indialandconverter.in/construction-cost/himachal-pradesh/dharamshala)
 5. [Dharamshala plot listings (RealEstateIndia)](https://www.realestateindia.com/dharamsala-property/residential-land-for-sale.htm)
+
+### UKPSC Lecturer Economics (Uttarakhand GIC): give me a list of all Uttarakhand state government schools, classified by city/town (e.g. Rishikesh).
+*Asked 2026-10-05*
+
+**Full list built:** output/Uttarakhand-Govt-Schools.xlsx, from UDISE+ (Ministry of Education's national school database), all 13 districts, pulled 2026-10-05. Sheets: Summary, By Town, GICs - Lecturer Posts, Rishikesh Area, All Govt Schools, Other Inter Colleges, Closed-Merged. Rebuild: scripts/build_uttarakhand_schools.py.
+
+**Headline numbers (operational):** 16,214 state-government schools. Of these, 1,411 are Government Inter Colleges (GIC/GGIC, Department of Education, up to Class 12) - the only schools where a UKPSC Lecturer is posted. 1,244 of the 1,411 GICs are rural; only 167 are urban.
+
+**Most GICs:** Tehri Garhwal 197, Pauri 189, Almora 167, Pithoragarh 130, Chamoli 128, Nainital 124. Fewest: Haridwar 36, Udham Singh Nagar 59, Bageshwar 62. Dehradun has 98.
+
+**Rishikesh area (PIN 249201-249205, 249137 Muni Ki Reti, 248145 Rani Pokhari):** 118 govt schools, 9 GICs - GGIC Rishikesh, GIC IDPL Veerbhadra, GIC Raiwala, GIC Haripur Kalan, GIC and GGIC Rani Pokhari, GIC Chhiddarwala, GIC Khadri Khadakmaf, Govt Reeta IC Garhi Shyampur.
+
+**Not UKPSC posts:** 356 other state-managed inter colleges (mostly aided Janta / Sanskrit colleges, e.g. Bharat Mandir IC Rishikesh). These recruit separately.
+
+**Reality check for UKPSC:** 88% of GICs are rural hill schools, and Uttarakhand transfer rules rotate teachers through remote (durgam) postings. An urban/Rishikesh posting is not something you can choose at entry.
+
+
+**Still to verify**
+
+- UKPSC Lecturer eligibility from the OFFICIAL advert (psc.uk.gov.in): aggregators say age 21-42 as on 01-07-2025 and B.Ed only 'preferred', not mandatory. If true, Ashish could apply without a B.Ed. Unverified.
+- Whether OBC relaxation applies to a non-Uttarakhand OBC (aggregators say only Uttarakhand domicile OBC gets +5). Unverified.
+- Economics posts in the 2025-26 cycle: aggregators say 84 (72 general branch + 12 female branch). Unverified.
+- Town for rural schools is the main post office of the PIN code, so some names are post-office names (e.g. 'S.N. Temple' = Shyampur/Rishikesh side).
+
+**Sources**
+
+1. [UDISE+ Know Your School (advanced search by district)](https://kys.udiseplus.gov.in/)
+2. [India Post PIN data (api.postalpincode.in)](https://api.postalpincode.in/pincode/249201)
+3. [UKPSC Lecturer 2026 ad summary (aggregator, not official)](https://www.projobalert.com/2025/12/ukpsc-lecturer-recruitment-808-posts.html)
 
 
 ## Working in Other States (Pay, Language, Rules)
