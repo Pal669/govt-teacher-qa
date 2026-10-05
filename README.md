@@ -12,7 +12,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (33)
-- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (10)
+- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (11)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
 ## Eligibility & Documents
@@ -2212,10 +2212,6 @@ Other fixed-campus options: Himachal Pradesh University, Shimla (no Economics po
 **PGT vs DU comparison:** state-level school jobs in the hills need local schooling/domicile; central jobs (KVS PGT and central university Assistant Professor) never do. That makes the central route the only way into the hills for you.
 
 
-**Still to verify**
-
-- Read the official HPRCA 2026 Teacher advert to confirm the Matric/10+2-in-HP condition still applies under HPRCA.
-
 **Sources**
 
 1. [HPPSC Advt 17/10-2023, Lecturer (School-New), general condition 4 (saved: notifications/2023-10-17_HPPSC-Advt-17-10-2023_Lecturer-School-New.pdf)](https://static.pw.live/5eb393ee95fab7468a79d189/GLOBAL_CMS_BLOGS/ea581141-755a-4b1c-9a26-ff144ddfcaaa.pdf)
@@ -2284,6 +2280,42 @@ Other fixed-campus options: Himachal Pradesh University, Shimla (no Economics po
 3. [HNBGU Economics faculty (Pauri)](https://hnbgu.ac.in/school/humanities/economics/pauri/faculty-staff)
 4. [HPPSC Advt 17/10-2023 (saved: notifications/2023-10-17_HPPSC-Advt-17-10-2023_Lecturer-School-New.pdf)](https://www.hppsc.hp.gov.in)
 5. [UKPSC Lecturer Advt A-3/S-1/DR(L.I.C)/2025 (saved: notifications/2025-12-30_UKPSC-Lecturer-Advt-A-3-S-1-DR-LIC-2025.pdf)](https://psc.uk.gov.in)
+
+### Are you sure? Check the Uttarakhand and Himachal state-schooling / domicile rules very thoroughly.
+*Asked 2026-10-05*
+
+**Confirmed for both states from the official adverts.**
+
+**Uttarakhand (UKPSC Lecturer, Advt A-3/S-1/DR(L.I.C)/2025, pages 12-15, read directly):** B.Ed/LT mandatory; and ANY ONE of (i) Class 10 + 12 from an institution in Uttarakhand, (ii) registration at an Uttarakhand employment exchange before the closing date, (iii) Uttarakhand ex-serviceman registration. Exception under (i): spouse/children of an Uttarakhand permanent resident living outside for work or study; non-transferable govt employees working in Uttarakhand and their families.
+
+**Uttarakhand employment exchange:** the Directorate of Skill Development & Employment lists 'Domicile (issued by Uttarakhand government)' as a required document. The permanent residence certificate needs about 15 years of continuous residence there.
+
+**Himachal, regular cadre (HPPSC Advt 17/10-2023, read directly):** eligible only if Matric AND 10+2 from an HP school/institution; waived only for Bonafide Himachalis. Same wording appears across HP Personnel Department recruitment notices.
+
+**Himachal 2026 (HPRCA Advt 09/2026, 16-04-2026, scanned original read page by page):** Teacher (Economics), Post Code 26030, 86 posts. Same Matric/10+2-in-HP condition. Also needs B.Ed 50% AND HP TET. And the job is scheme-based: 5 years, Rs 30,000 a month for 10 months a year, 'not against any sanctioned posts', 'no right of regularization', not a government employee.
+
+**Bonafide Himachali (HP Personnel instruction, 11-02-2016):** permanent home in HP, or 15+ years residing in HP, or a permanent home in HP while working outside. Not available to you.
+
+**Court check:** no judgment found striking down either schooling condition for direct recruitment. HP High Court did remove the bonafide-certificate requirement for compassionate appointments (Article 16(2), no discrimination by residence), but that does not cover these recruitments.
+
+**Bottom line:** both states' own teacher jobs are closed to you. Even if they weren't, the 2026 Himachal Economics posts are 5-year contracts at Rs 30,000, not permanent jobs.
+
+**PGT vs DU comparison:** central routes have no residence condition: KVS/JNV/EMRS PGT (B.Ed needed; transferable) and Assistant Professor at CUHP Dharamshala / HNB Garhwal (NET; permanent; no transfers).
+
+
+**Still to verify**
+
+- HPRCA 2026 advert copy came from a job-site mirror (HPRCA's own site serves it only through its app); content is the signed original scan.
+- Uttarakhand permanent-residence rule (15 years vs residence since 1985) - exact current order not read; does not change the conclusion.
+
+**Sources**
+
+1. [UKPSC Lecturer advert A-3/S-1/DR(L.I.C)/2025 (saved in notifications/)](https://psc.uk.gov.in/public/uploads/recruitment/942047021.pdf)
+2. [Uttarakhand DSDE: employment exchange registration documents](https://dsde.uk.gov.in/?p=6637)
+3. [HPPSC Advt 17/10-2023 (saved in notifications/)](https://static.pw.live/5eb393ee95fab7468a79d189/GLOBAL_CMS_BLOGS/ea581141-755a-4b1c-9a26-ff144ddfcaaa.pdf)
+4. [HPRCA Advt 09/2026 scanned copy (saved: notifications/2026-04-16_HPRCA-Advt-09-2026_Teacher-CBSE-schools.pdf)](https://img2.freejobalert.com/news/2026/04/852369-69e1b21aa9d9a83645215.pdf)
+5. [HP Bonafide Himachali certificate instructions compilation (saved in notifications/)](http://rtijnr.com/images/PDF/Section-B.pdf)
+6. [HP HC: bonafide certificate not needed for compassionate appointment (BNB Legal)](https://bnblegal.com/news/himachal-pradesh-high-court-ends-bonafide-himachali-certificate-barrier-to-compassionate-employment/)
 
 
 ## Working in Other States (Pay, Language, Rules)
