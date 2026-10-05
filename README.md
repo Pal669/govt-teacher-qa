@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (32)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (33)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (4)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
@@ -1214,6 +1214,42 @@ States/UTs with no central university: Goa, Chandigarh, Andaman & Nicobar, Laksh
 1. [HNB Garhwal University compendium (Ministry of Education)](https://www.education.gov.in/sites/upload_files/mhrd/files/ebook/universirt-compendium/uttrakhand/Hemwati-Nandan-Bahuguna-Garhwal-Univeristy-Srinagar-Garhwal.pdf)
 2. [DAV PG College Dehradun (official)](https://davpgcollegeddn.ac.in/about/pages.php?id=16)
 3. [Vasanta College for Women, admitted to BHU (annual report)](https://www.vasantakfi.ac.in/uploads/annualreport/Annual_Report_English_2021-22_-_Copy.pdf)
+
+### Tell me more about the 'UPSC Assistant Professor (NDA / central institutions)' option in my master workbook.
+*Asked 2026-10-05*
+
+**What it is:** UPSC (Union Public Service Commission) recruits Assistant Professors for colleges run directly by the central government. These are mainly Union Territory (UT) government colleges, with occasional posts at defence institutions like NDA (National Defence Academy). You become a central government Group A Gazetted officer (General Central Service), not a university employee.
+
+**The real Economics example: UPSC Advt 01/2025 (7 March 2025, applications 8-27 March 2025).** It had 2 Assistant Professor (Economics) posts at Jawaharlal Nehru Rajkeeya Mahavidyalaya (JNRM), Port Blair, Andaman & Nicobar Administration. Both posts were reserved for OBC. The advert had 36 posts in total (33 Assistant Professor posts across subjects, plus 3 Dangerous Goods Inspector posts). Fee Rs 25; women and SC/ST/PwBD (Persons with Benchmark Disabilities) candidates were exempt.
+
+**Qualification:** Master's 55% (50% for OBC-NCL, Other Backward Classes - Non-Creamy Layer) + NET (National Eligibility Test) or SET (State Eligibility Test), or a PhD. No B.Ed. Same as DU.
+
+**Age: the big difference.** Not exceeding 35, OBC +3 = 38. This is set by the A&N Recruitment Rules (draft 2019) and the UPSC advert. It is the ONLY professor route in your workbook with an age limit. Age is counted on the advert's closing date. You turn 38 on 12-02-2033, so the window closes around Feb 2033 (ESTIMATE: UPSC's exact reading of 'not exceeding 38' still needs checking).
+
+**Pay and terms:** Academic Level 10 (Rs 57,700 to 1,82,400), the same as a central university. 1 year probation. A&N Administration's two colleges (JNRM Port Blair and MGGC Mayabunder) are affiliated to Pondicherry University. Any move would be between those two colleges, not across India.
+
+**Selection:** UPSC shortlists candidates (by qualifications or experience, or through a recruitment test when there are many applicants) and then interviews them. This is unlike DU's 55-point screening floor, where your NET-only score of 50 does not qualify. On paper, a UPSC post is fairer to a NET-only candidate. The exact shortlisting criteria change with each advert (see the open points).
+
+**The catches:** adverts are tiny and irregular (often 1-2 Economics posts, sometimes none for years); the posting is on an island; and the NDA (National Defence Academy) part of the label is mostly theory. NDA has advertised other subjects through UPSC (English, Electronics), but no Assistant Professor (Economics) post at NDA was found. The workbook row has been corrected.
+
+**PGT comparison:** DSSSB PGT (Delhi Subordinate Services Selection Board, Post Graduate Teacher) is Level 8, Group B. It needs a B.Ed, and the age limit is 30 (OBC Delhi 33). UPSC Assistant Professor is Level 10, Group A Gazetted, with no B.Ed and a much wider age window (38). Both are one-off exam/interview routes. PGT has far more posts per cycle (60 in Advt 10/2024 vs 2 here).
+
+
+**Still to verify**
+
+- Fetch the official UPSC Advt 01/2025 PDF from upsc.gov.in and confirm the Economics details (2 posts, OBC, age 38). So far they come only from aggregator sites.
+- A&N Recruitment Rules seen are the 2019 DRAFT. Confirm the final notified version (age 35 and 1-year probation).
+- Exact age cut-off: does UPSC treat 'not exceeding 38' as before the 38th or the 39th birthday? Decides whether the window ends Feb 2033 or Feb 2034.
+- Shortlisting criteria for Economics in the last advert (recruitment test vs. shortlisting by PhD/experience)
+- Other UTs that recruit college Assistant Professors via UPSC (Dadra & Nagar Haveli and Daman & Diu, Lakshadweep, Chandigarh, Puducherry): which ones, and how often Economics comes up
+- NDA: has UPSC ever advertised Assistant Professor (Economics) at NDA Khadakwasla?
+
+**Sources**
+
+1. [UPSC Assistant Professor Recruitment 2025 (Advt 01/2025) - Adda247 summary](https://www.adda247.com/teaching-jobs-exam/upsc-assistant-professor-recruitment-2025/)
+2. [UPSC Assistant Professor 2025 - PW summary (qualification, Level 10, age 35)](https://www.pw.live/ugc-net/exams/upsc-assistant-professor-recruitment-2025)
+3. [A&N Administration draft Recruitment Rules, Assistant Professor JNRM/MGGC, 2019 (saved: notifications/AN-Admin_Assistant-Professor_Recruitment-Rules.pdf)](https://andamannicobar.gov.in/admin-pannel/recruitmentrules/1-26-Assistant%20Professor.pdf)
+4. [UPSC Recruitment Advertisements](https://upsc.gov.in/recruitment/recruitment-advertisements)
 
 ### How are the teachers at the Delhi School of Economics (who teach Master's students) appointed, and what are the criteria?
 *Asked 2026-10-04*
