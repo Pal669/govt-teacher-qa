@@ -7,7 +7,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Age Limits](#age-limits) (3)
 - [Exams & Timelines](#exams-timelines) (4)
 - [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (9)
-- [Pay & Perks](#pay-perks) (5)
+- [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
@@ -543,6 +543,37 @@ Age 45 means roughly 13 years of chances once the B.Ed is done.
 
 
 ## Pay & Perks
+
+### If I join Central University of Himachal Pradesh (Dharamshala) as Assistant Professor, what will my first salary be?
+*Asked 2026-10-05*
+
+**About Rs 94,600 in hand per month (ESTIMATE), on a gross of Rs 1,03,850.** Basic Rs 57,700 (Academic Level 10) + DA 60% Rs 34,620 + HRA 10% (Dharamshala is a Z city) Rs 5,770 + transport allowance Rs 3,600 + DA = Rs 5,760.
+
+**Deduction:** NPS (National Pension System) 10% of basic + DA = Rs 9,232. The university adds 14% (Rs 12,925) into your pension account on top; that is not in your hand but is your money.
+
+**Income tax: nil.** Annual gross Rs 12.46 lakh minus the Rs 75,000 standard deduction = Rs 11.71 lakh, under the Rs 12 lakh new-regime rebate.
+
+**If you take campus housing:** no HRA, so about Rs 88,800 in hand, minus a small licence fee.
+
+**For comparison, a DU college in Delhi:** gross Rs 1,21,150 (HRA 30%, transport Rs 11,520), tax about Rs 7,500/month, in hand about Rs 1,04,400. Delhi pays about Rs 9,800/month more in hand, but rent in Delhi eats much of it.
+
+**PGT comparison (DSSSB, Delhi):** gross Rs 96,200, NPS Rs 7,616, no tax, in hand about Rs 88,600. So CUHP in Dharamshala pays about Rs 6,000/month more in hand than a Delhi PGT, with lower living costs.
+
+**Coming soon:** DA is expected to rise to 63% from July 2026 (about +Rs 1,700/month on basic); the 8th Pay Commission will raise everything further.
+
+
+**Still to verify**
+
+- DA July 2026 (63%) not yet officially notified as of 2026-10-05.
+- Dharamshala HRA class Z and transport allowance slabs: confirm from official orders.
+- Small deductions not included (group insurance, any professional tax, licence fee); UPS vs NPS for central university teachers not confirmed.
+- Tax uses new-regime slabs (rebate up to Rs 12 lakh); confirm for FY 2026-27 under the Income-tax Act 2025.
+
+**Sources**
+
+1. [DA 60% from January 2026 (Indian Pay Calculator)](https://www.indianpaycalculator.in/news/da-hike-60-percent-january-2026-confirmed)
+2. [DA July 2026 expected 63% (Indian Pay Calculator)](https://indianpaycalculator.in/govt-news/da-hike-july-2026-3-percent-63-aicpi)
+3. [HRA city classification (Indian Pay Calculator)](https://www.indianpaycalculator.in/city-classification)
 
 ### How much will a PGT (Level 8) salary grow over 10 years after the 8th Pay Commission?
 *Asked 2026-10-02*
