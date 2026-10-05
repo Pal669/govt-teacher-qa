@@ -12,7 +12,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (32)
-- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (2)
+- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (3)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
 ## Eligibility & Documents
@@ -1988,6 +1988,29 @@ Other fixed-campus options: Himachal Pradesh University, Shimla (no Economics po
 3. [Uttarakhand Transfer Act 2017 (Chamoli district site)](https://chamoli.gov.in/past-notices/transfer-act-2017)
 4. [Drishti IAS: Uttarakhand teacher transfer rules](https://drishtiias.com/state-pcs-current-affairs/preparing-to-abolish-the-transfer-rights-of-teachers-by-making-rules-in-place-of-transfer-act)
 5. [HPU Assistant Professor 2026 (aggregator)](https://centralstatejobs.in/jobs/hpu-assistant-professor-recruitment-2026)
+
+### Central University of Himachal Pradesh doesn't seem to have many colleges. How does hiring work there?
+*Asked 2026-10-05*
+
+**Right: it has no colleges at all.** CU Himachal (set up in 2009) is a non-affiliating university. It teaches only in its own departments, so every Assistant Professor post is a direct university job: the advert comes from the Registrar and central rules apply.
+
+**Where you would work:** its temporary academic blocks at Shahpur, Dharamshala and Dehra (all in Kangra district) while the permanent campus is built. It has a Department of Economics.
+
+**What it means:** far fewer posts than DU (which has ~90 colleges), but each one is a clean central job with no college-vs-university question. Most central universities set up in 2009 or later (CU Haryana, Punjab, Rajasthan, Kerala and others) work the same way.
+
+**PGT comparison:** in Himachal, school jobs are state posts (HPRCA, transferable within HP, B.Ed needed); CU Himachal is the only central, non-transferable teaching employer there.
+
+
+**Still to verify**
+
+- Confirm on cuhimachal.ac.in: which campus houses the Economics department, and the number of sanctioned Economics faculty posts.
+- Confirm CUHP has no affiliated colleges (non-affiliating) from its Act or website.
+
+**Sources**
+
+1. [CU Himachal Pradesh compendium (Ministry of Education)](https://education.gov.in/sites/upload_files/mhrd/files/ebook/universirt-compendium/hp/Central-University-of-Himachal-Pradesh-Dharmshala-Kangra.pdf)
+2. [CUHP temporary academic blocks (Careers360)](https://www.careers360.com/question-how-many-temrory-campuses-central-university-of-himanchal-pradesh-university-have-and-which-campus-have-which-course)
+3. [CUHP Economics in RePEc EDIRC](https://edirc.repec.org/data/sbcuhin.html)
 
 
 ## Working in Other States (Pay, Language, Rules)

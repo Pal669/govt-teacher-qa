@@ -2462,6 +2462,34 @@
       "Uttarakhand: check whether the 2017 Transfer Act was replaced by teacher-specific transfer rules (reported in 2023) and what those rules say about first postings.",
       "Look for Uttarakhand government-aided inter colleges in Dehradun: their teachers are paid by the state but tied to one school (unverified)."
      ]
+    },
+    {
+     "date": "2026-10-05",
+     "q": "Central University of Himachal Pradesh doesn't seem to have many colleges. How does hiring work there?",
+     "a": [
+      "**Right: it has no colleges at all.** CU Himachal (set up in 2009) is a non-affiliating university. It teaches only in its own departments, so every Assistant Professor post is a direct university job: the advert comes from the Registrar and central rules apply.",
+      "**Where you would work:** its temporary academic blocks at Shahpur, Dharamshala and Dehra (all in Kangra district) while the permanent campus is built. It has a Department of Economics.",
+      "**What it means:** far fewer posts than DU (which has ~90 colleges), but each one is a clean central job with no college-vs-university question. Most central universities set up in 2009 or later (CU Haryana, Punjab, Rajasthan, Kerala and others) work the same way.",
+      "**PGT comparison:** in Himachal, school jobs are state posts (HPRCA, transferable within HP, B.Ed needed); CU Himachal is the only central, non-transferable teaching employer there."
+     ],
+     "sources": [
+      {
+       "title": "CU Himachal Pradesh compendium (Ministry of Education)",
+       "url": "https://education.gov.in/sites/upload_files/mhrd/files/ebook/universirt-compendium/hp/Central-University-of-Himachal-Pradesh-Dharmshala-Kangra.pdf"
+      },
+      {
+       "title": "CUHP temporary academic blocks (Careers360)",
+       "url": "https://www.careers360.com/question-how-many-temrory-campuses-central-university-of-himanchal-pradesh-university-have-and-which-campus-have-which-course"
+      },
+      {
+       "title": "CUHP Economics in RePEc EDIRC",
+       "url": "https://edirc.repec.org/data/sbcuhin.html"
+      }
+     ],
+     "open": [
+      "Confirm on cuhimachal.ac.in: which campus houses the Economics department, and the number of sanctioned Economics faculty posts.",
+      "Confirm CUHP has no affiliated colleges (non-affiliating) from its Act or website."
+     ]
     }
    ]
   },
