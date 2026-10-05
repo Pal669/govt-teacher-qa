@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (26)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (27)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (2)
 
 ## Eligibility & Documents
@@ -995,6 +995,36 @@ To get a real number: file an RTI (Right to Information request) with Delhi DoE 
 
 
 ## PGT vs DU Assistant Professor
+
+### If I clear UGC NET with good marks, can I apply for Assistant Professor (Economics) at every university in India? I want a permanent government job with a fixed salary, like DU.
+*Asked 2026-10-05*
+
+**Mostly yes, for eligibility.** NET (National Eligibility Test) is valid at every university and college in India, central or state. It never expires. A state SET (State Eligibility Test) works only in that one state. Since 1 July 2023, UGC (University Grants Commission) says NET/SET is the minimum for Assistant Professor and a PhD is optional (a PhD alone is also enough).
+
+**But NET is a ticket to apply, not a job.** Every university runs its own ad, shortlisting (screening) and interview. Your NET score does not count: you are either NET-qualified or JRF (Junior Research Fellowship). 'Good marks' only help if they get you JRF.
+
+**Permanent government employers that NET opens:** (1) 56 central universities (DU, JNU, BHU, AMU, Jamia and others) and their colleges, at Level 10, Rs 57,700 basic, the same scale everywhere; (2) state public universities; (3) state government degree colleges, hired through each state's PSC (Public Service Commission).
+
+**Where NET is not enough:** IITs (Indian Institutes of Technology), NITs (National Institutes of Technology), IIMs (Indian Institutes of Management) and IISERs (Indian Institutes of Science Education and Research) want a PhD. University departments (for example the Delhi School of Economics) are also practically closed without a PhD.
+
+**Catches:** (a) in other states' universities, reserved seats usually go to that state's domicile, so you compete as UR (Unreserved), as in the Doon University ad; (b) state PSC college posts usually have an upper age limit and some want the local language; (c) many 'Assistant Professor' ads are contract, guest or ad-hoc, not permanent; read the word 'regular' in the ad; (d) with NET only, your DU college screening score is 50, below the 55 cut-off. You need JRF plus 2 research papers or a PhD to clear it.
+
+**PGT vs Assistant Professor comparison:** PGT needs a B.Ed and each recruiter (DSSSB, KVS, EMRS, each state) runs its own exam with its own age limit. NET needs no B.Ed and has no upper age limit for Assistant Professor (state PSC posts excepted). One exam opens the whole country. The PGT selection is exam-merit (clear and objective); the Assistant Professor selection is screening plus interview (less predictable).
+
+
+**Still to verify**
+
+- Count of central universities (56) is from secondary sources; confirm on the UGC website.
+- State PSC age limits and language rules for government degree college Assistant Professor vary by state; check per state (Delhi, Uttarakhand, Himachal first).
+- IIT/NIT/IISER PhD requirement stated from general knowledge of their recruitment rules; confirm from a current ad if relevant.
+
+**Sources**
+
+1. [UGC: NET/SET/SLET minimum for Assistant Professor, PhD optional from 1 July 2023 (Business Standard)](https://www.business-standard.com/india-news/net-to-be-minimum-criteria-for-recruitment-of-assistant-professors-ugc-123070500548_1.html)
+2. [UGC clarifies PhD holders eligible (Careers360, 6 July 2023)](https://news.careers360.com/ugc-move-on-assistant-professor-eligibility-draws-mixed-reactions-commission-clarifies-phd-eligible)
+3. [SET valid only in the state that conducted it (WBCSC SET 2018 ad)](https://www.wbcsconline.in/UploadDocument/Exam/Notice/100002/SET-2018%20ADVT.pdf)
+4. [List of universities in India (56 central universities)](https://en.wikipedia.org/wiki/List_of_universities_in_India)
+5. [DU Advt R&P/316/2026 (saved: notifications/2026-03-17_DU-Advt-316-AsstProf-Qualifications.pdf)](https://www.du.ac.in)
 
 ### How are the teachers at the Delhi School of Economics (who teach Master's students) appointed, and what are the criteria?
 *Asked 2026-10-04*
