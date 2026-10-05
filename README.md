@@ -12,7 +12,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (26)
-- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (1)
+- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (2)
 
 ## Eligibility & Documents
 
@@ -1766,3 +1766,37 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 3. [OnlineSarkari: UKPSC Lecturer 2026 (808 posts, Economics 72+12)](https://onlinesarkari.com/ukpsc-lecturer-recruitment-2026/)
 4. [CareerPower: UKPSC Lecturer 2026](https://www.careerpower.in/blog/ukpsc-lecturer-recruitment-2026)
 5. [PW: HPPSC Assistant Professor 2026](https://www.pw.live/csir-net/exams/hppsc-assistant-professor-recruitment-2026)
+
+### Which permanent government teaching jobs (schools and universities) can keep me in Dehradun, Mussoorie or Manali without being transferred around, like KVS would?
+*Asked 2026-10-05*
+
+**Only a university job pins you to one place.** Every school job (and state government college job) in these hill states can transfer you within the state.
+
+**Fixed location, permanent: university Assistant Professor.** Doon University, Dehradun (state university) advertised 2 Assistant Professor (Economics) posts in Advt 991/212-V/2026 dated 12-03-2026 (SC 1, UR 1), Level 10, closed 15-04-2026. The same cycle had 2 Associate Professor (Economics) posts (Advt 992). Reserved seats are only for Uttarakhand domiciles, so you compete as UR. Needs Master's 55% + NET, or a PhD.
+
+Other fixed-campus options: Himachal Pradesh University, Shimla (no Economics post in its Aug 2026 ad); Central University of Himachal Pradesh, Dharamshala; HNB Garhwal University (central, but its campuses are Srinagar Garhwal / Tehri / Pauri, not Dehradun).
+
+**Uttarakhand state schools (UKPSC Pravakta):** permanent, Level 8, but transferable across the state. The Uttarakhand Transfer Act 2017 rotates staff from accessible (sugam) to remote (durgam) postings; staff with 4+ years in an accessible posting are compulsorily moved. Dehradun is the most sought-after posting, so do not expect to start or stay there.
+
+**Government degree colleges (UKPSC / HPPSC Assistant Professor):** permanent, but state cadre, so transferable across colleges in the state.
+
+**Manali:** no university there. The jobs nearby are Himachal state school/college posts (transferable), and Himachal school posts are currently contract-only for outsiders.
+
+**KVS:** permanent but all-India transferable, as you said.
+
+**PGT vs DU comparison:** this matches the existing pattern. A DSSSB PGT is transferable only within Delhi, KVS is all-India, and a DU college job has no transfers. The hill-state equivalent of DU is a university post such as Doon University: same NET gate, same Level 10, one fixed campus.
+
+
+**Still to verify**
+
+- Doon University Advt 991: confirm the age limit (if any) and the selection method (screening + interview).
+- Uttarakhand: check whether the 2017 Transfer Act was replaced by teacher-specific transfer rules (reported in 2023) and what those rules say about first postings.
+- Look for Uttarakhand government-aided inter colleges in Dehradun: their teachers are paid by the state but tied to one school (unverified).
+
+**Sources**
+
+1. [Doon University Advt 991/212-V/2026, Assistant Professor (official PDF)](https://doonuniversity.ac.in/admin/assets/uploads/docs/2026032516531621d60908c8.pdf)
+2. [Doon University Advt 992/212-V/2026, Associate Professor (official PDF)](https://doonuniversity.ac.in/admin/assets/uploads/docs/2026031518020872c4ea1fb5.pdf)
+3. [Uttarakhand Transfer Act 2017 (Chamoli district site)](https://chamoli.gov.in/past-notices/transfer-act-2017)
+4. [Drishti IAS: Uttarakhand teacher transfer rules](https://drishtiias.com/state-pcs-current-affairs/preparing-to-abolish-the-transfer-rights-of-teachers-by-making-rules-in-place-of-transfer-act)
+5. [HPU Assistant Professor 2026 (aggregator)](https://centralstatejobs.in/jobs/hpu-assistant-professor-recruitment-2026)
