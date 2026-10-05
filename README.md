@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (29)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (30)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (2)
 
 ## Eligibility & Documents
@@ -1094,6 +1094,38 @@ Other famous universities that are also state (not central): University of Calcu
 
 1. [University of Mumbai (official site)](https://mu.ac.in)
 2. [List of central universities in India (Wikipedia)](https://en.wikipedia.org/wiki/List_of_central_universities_in_India)
+
+### List the central universities by region, then by state within each region.
+*Asked 2026-10-05*
+
+Same 55 Ministry of Education central universities as the previous answer, regrouped as Region, then State, then University. * = specialised, Economics posts rare or none.
+
+**Delhi:** Delhi: DU, JNU, Jamia Millia Islamia, IGNOU, Central Sanskrit University*, Shri Lal Bahadur Shastri National Sanskrit University*
+
+**North (hills):** Himachal Pradesh: Central University of HP (Dharamshala). Uttarakhand: HNB Garhwal University (Srinagar Garhwal). Jammu & Kashmir: Central University of Jammu; Central University of Kashmir (Ganderbal). Ladakh: Sindhu Central University*
+
+**North (plains):** Punjab: Central University of Punjab (Bathinda). Haryana: Central University of Haryana (Mahendragarh). Rajasthan: Central University of Rajasthan (Ajmer). Uttar Pradesh: BHU, AMU, University of Allahabad, BBAU Lucknow, RGNAU Raebareli*, RLB Central Agricultural University Jhansi*
+
+**East:** Bihar: CU South Bihar (Gaya), Mahatma Gandhi CU (Motihari), Dr Rajendra Prasad Central Agricultural University (Pusa)*. Jharkhand: CU Jharkhand (Ranchi). Odisha: CU Odisha (Koraput). West Bengal: Visva-Bharati (Santiniketan)
+
+**Central:** Madhya Pradesh: Dr Harisingh Gour University (Sagar), IGNTU (Amarkantak). Chhattisgarh: Guru Ghasidas Vishwavidyalaya (Bilaspur)
+
+**West:** Maharashtra: MGAHV Wardha*. Gujarat: CU Gujarat (Gandhinagar), Gati Shakti Vishwavidyalaya (Vadodara)*
+
+**South:** Telangana: University of Hyderabad, MANUU, EFLU*, Sammakka Sarakka Central Tribal University. Andhra Pradesh: CU Andhra Pradesh (Anantapur), Central Tribal University of AP (Vizianagaram), National Sanskrit University (Tirupati)*. Karnataka: CU Karnataka (Kalaburagi). Kerala: CU Kerala (Kasaragod). Tamil Nadu: CU Tamil Nadu (Thiruvarur), Indian Maritime University (Chennai)*. Puducherry: Pondicherry University
+
+**North-East:** Assam: Assam University (Silchar), Tezpur University. Arunachal Pradesh: Rajiv Gandhi University (Itanagar). Manipur: Manipur University, Central Agricultural University*, National Sports University*. Meghalaya: NEHU (Shillong). Mizoram: Mizoram University. Nagaland: Nagaland University. Sikkim: Sikkim University. Tripura: Tripura University
+
+States/UTs with no central university: Goa, Chandigarh, Andaman & Nicobar, Lakshadweep, Dadra & Nagar Haveli and Daman & Diu.
+
+
+**Still to verify**
+
+- Confirm against the official UGC list when its page is back (it was down on 2026-10-05).
+
+**Sources**
+
+1. [List of central universities in India (Wikipedia)](https://en.wikipedia.org/wiki/List_of_central_universities_in_India)
 
 ### How are the teachers at the Delhi School of Economics (who teach Master's students) appointed, and what are the criteria?
 *Asked 2026-10-04*

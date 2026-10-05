@@ -2293,6 +2293,31 @@
      "open": [
       "Whether University of Mumbai teaching posts require Marathi knowledge, and its retirement age (state universities vary between 60 and 65): check its next ad."
      ]
+    },
+    {
+     "date": "2026-10-05",
+     "q": "List the central universities by region, then by state within each region.",
+     "a": [
+      "Same 55 Ministry of Education central universities as the previous answer, regrouped as Region, then State, then University. * = specialised, Economics posts rare or none.",
+      "**Delhi:** Delhi: DU, JNU, Jamia Millia Islamia, IGNOU, Central Sanskrit University*, Shri Lal Bahadur Shastri National Sanskrit University*",
+      "**North (hills):** Himachal Pradesh: Central University of HP (Dharamshala). Uttarakhand: HNB Garhwal University (Srinagar Garhwal). Jammu & Kashmir: Central University of Jammu; Central University of Kashmir (Ganderbal). Ladakh: Sindhu Central University*",
+      "**North (plains):** Punjab: Central University of Punjab (Bathinda). Haryana: Central University of Haryana (Mahendragarh). Rajasthan: Central University of Rajasthan (Ajmer). Uttar Pradesh: BHU, AMU, University of Allahabad, BBAU Lucknow, RGNAU Raebareli*, RLB Central Agricultural University Jhansi*",
+      "**East:** Bihar: CU South Bihar (Gaya), Mahatma Gandhi CU (Motihari), Dr Rajendra Prasad Central Agricultural University (Pusa)*. Jharkhand: CU Jharkhand (Ranchi). Odisha: CU Odisha (Koraput). West Bengal: Visva-Bharati (Santiniketan)",
+      "**Central:** Madhya Pradesh: Dr Harisingh Gour University (Sagar), IGNTU (Amarkantak). Chhattisgarh: Guru Ghasidas Vishwavidyalaya (Bilaspur)",
+      "**West:** Maharashtra: MGAHV Wardha*. Gujarat: CU Gujarat (Gandhinagar), Gati Shakti Vishwavidyalaya (Vadodara)*",
+      "**South:** Telangana: University of Hyderabad, MANUU, EFLU*, Sammakka Sarakka Central Tribal University. Andhra Pradesh: CU Andhra Pradesh (Anantapur), Central Tribal University of AP (Vizianagaram), National Sanskrit University (Tirupati)*. Karnataka: CU Karnataka (Kalaburagi). Kerala: CU Kerala (Kasaragod). Tamil Nadu: CU Tamil Nadu (Thiruvarur), Indian Maritime University (Chennai)*. Puducherry: Pondicherry University",
+      "**North-East:** Assam: Assam University (Silchar), Tezpur University. Arunachal Pradesh: Rajiv Gandhi University (Itanagar). Manipur: Manipur University, Central Agricultural University*, National Sports University*. Meghalaya: NEHU (Shillong). Mizoram: Mizoram University. Nagaland: Nagaland University. Sikkim: Sikkim University. Tripura: Tripura University",
+      "States/UTs with no central university: Goa, Chandigarh, Andaman & Nicobar, Lakshadweep, Dadra & Nagar Haveli and Daman & Diu."
+     ],
+     "sources": [
+      {
+       "title": "List of central universities in India (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/List_of_central_universities_in_India"
+      }
+     ],
+     "open": [
+      "Confirm against the official UGC list when its page is back (it was down on 2026-10-05)."
+     ]
     }
    ]
   },
