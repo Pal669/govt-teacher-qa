@@ -12,7 +12,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (33)
-- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (7)
+- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (8)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
 ## Eligibility & Documents
@@ -528,10 +528,12 @@ Posting: inside Uttarakhand, often hill districts. Order of steps is the same: *
 
 Age 45 means roughly 13 years of chances once the B.Ed is done.
 
+**Correction 2026-10-05:** NOT open to all citizens. The official HPPSC advert 17/10-2023 says you are eligible only if you passed Matric AND 10+2 from a school in Himachal Pradesh; this is waived only for bonafide Himachalis. Closed for Ashish (Delhi schooling). See the 2026-10-05 entry in Hill States.
+
 
 **Still to verify**
 
-- Confirm from the official HPRCA ad: post level (PGT?), domicile rule, age limit, job-trainee terms (hprca.hp.gov.in)
+- Confirm from the official HPRCA 2026 ad: post level, job-trainee terms (the Matric/10+2-in-HP condition is reported there too by aggregators).
 
 **Sources**
 
@@ -2190,6 +2192,31 @@ Other fixed-campus options: Himachal Pradesh University, Shimla (no Economics po
 
 1. [Uttarakhand Directorate of Skill Development & Employment - registration documents](https://dsde.uk.gov.in/?p=6637)
 2. [UKPSC Lecturer advert A-3/S-1/DR(L.I.C)/2025, pages 14-15](https://psc.uk.gov.in/public/uploads/recruitment/942047021.pdf)
+
+### Is the same true for Himachal Pradesh too (the state-schooling / domicile condition)?
+*Asked 2026-10-05*
+
+**Yes, and Himachal is stricter.** The official HPPSC advert 17/10-2023 (Lecturer School-New) says: 'The candidate shall be eligible for appointment, if he/she has passed his/her Matriculation and 10+2 from any school/institution situated within Himachal Pradesh, provided that this condition shall not apply to Bonafide Himachalis.'
+
+**No backdoor:** Uttarakhand at least had the employment-exchange route (which still needs Uttarakhand domicile). Himachal has none: either HP schooling or a bonafide Himachali certificate.
+
+**HPRCA 2026 teacher ads** (e.g. Teacher Economics, Post Code 26030, 86 posts) reportedly carry the same condition (aggregator; official ad not yet read).
+
+**Result for you:** both hill states' own school cadres are closed, even after a B.Ed. My earlier note that HP was 'likely open to all citizens' was wrong and is corrected.
+
+**Hill options still open:** (1) KVS / JNV / EMRS schools located in Himachal or Uttarakhand (central jobs, no domicile rule, but B.Ed needed and transferable); (2) Assistant Professor at central universities: CUHP Dharamshala and HNB Garhwal (NET, no B.Ed, no domicile rule, no transfers).
+
+**PGT vs DU comparison:** state-level school jobs in the hills need local schooling/domicile; central jobs (KVS PGT and central university Assistant Professor) never do. That makes the central route the only way into the hills for you.
+
+
+**Still to verify**
+
+- Read the official HPRCA 2026 Teacher advert to confirm the Matric/10+2-in-HP condition still applies under HPRCA.
+
+**Sources**
+
+1. [HPPSC Advt 17/10-2023, Lecturer (School-New), general condition 4 (saved: notifications/2023-10-17_HPPSC-Advt-17-10-2023_Lecturer-School-New.pdf)](https://static.pw.live/5eb393ee95fab7468a79d189/GLOBAL_CMS_BLOGS/ea581141-755a-4b1c-9a26-ff144ddfcaaa.pdf)
+2. [HPRCA Teacher Economics result 2026 (aggregator)](https://www.mysarkarinaukri.com/en/hprca-teacher-result-2026/)
 
 
 ## Working in Other States (Pay, Language, Rules)
