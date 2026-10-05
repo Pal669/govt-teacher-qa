@@ -2608,7 +2608,7 @@
      "date": "2026-10-05",
      "q": "UKPSC Lecturer Economics (Uttarakhand GIC): give me a list of all Uttarakhand state government schools, classified by city/town (e.g. Rishikesh).",
      "a": [
-      "**Full list built:** output/Uttarakhand-Govt-Schools.xlsx, from UDISE+ (Ministry of Education's national school database), all 13 districts, pulled 2026-10-05. Sheets: Summary, By Town, GICs - Lecturer Posts, Rishikesh Area, All Govt Schools, Other Inter Colleges, Closed-Merged. Rebuild: scripts/build_uttarakhand_schools.py.",
+      "**Full list built** from UDISE+ (Ministry of Education's school database), 13 districts, pulled 2026-10-05. Now replaced by the lean shortlist file output/UKPSC-Economics-Lecturer-Schools.xlsx (see next entry); the big all-schools file is parked in duplicate/2026-10-05/.",
       "**Headline numbers (operational):** 16,214 state-government schools. Of these, 1,411 are Government Inter Colleges (GIC/GGIC, Department of Education, up to Class 12) - the only schools where a UKPSC Lecturer is posted. 1,244 of the 1,411 GICs are rural; only 167 are urban.",
       "**Most GICs:** Tehri Garhwal 197, Pauri 189, Almora 167, Pithoragarh 130, Chamoli 128, Nainital 124. Fewest: Haridwar 36, Udham Singh Nagar 59, Bageshwar 62. Dehradun has 98.",
       "**Rishikesh area (PIN 249201-249205, 249137 Muni Ki Reti, 248145 Rani Pokhari):** 118 govt schools, 9 GICs - GGIC Rishikesh, GIC IDPL Veerbhadra, GIC Raiwala, GIC Haripur Kalan, GIC and GGIC Rani Pokhari, GIC Chhiddarwala, GIC Khadri Khadakmaf, Govt Reeta IC Garhi Shyampur.",
@@ -2630,10 +2630,40 @@
       }
      ],
      "open": [
-      "UKPSC Lecturer eligibility from the OFFICIAL advert (psc.uk.gov.in): aggregators say age 21-42 as on 01-07-2025 and B.Ed only 'preferred', not mandatory. If true, Ashish could apply without a B.Ed. Unverified.",
-      "Whether OBC relaxation applies to a non-Uttarakhand OBC (aggregators say only Uttarakhand domicile OBC gets +5). Unverified.",
-      "Economics posts in the 2025-26 cycle: aggregators say 84 (72 general branch + 12 female branch). Unverified.",
       "Town for rural schools is the main post office of the PIN code, so some names are post-office names (e.g. 'S.N. Temple' = Shyampur/Rishikesh side)."
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "q": "Put it in a lean Excel: if UKPSC posts an Economics Lecturer (PGT-level) job, which areas and which schools could I be posted to? I will scrutinise them myself.",
+     "a": [
+      "**File:** output/UKPSC-Economics-Lecturer-Schools.xlsx. Four sheets: Can I Apply, Districts, Areas, Schools. Yellow columns (My Rating, My Fit, Notes) are for your own scoring. Rebuild: scripts/build_ukpsc_econ_schools.py.",
+      "**Potential schools: 1,276** boys/co-ed Government Inter Colleges. Girls' GICs are left out because they are staffed by the women's branch. Of the 1,276, 97 are urban and 1,179 rural. Most: Tehri 190, Pauri 176, Almora 146; Dehradun 86; fewest Haridwar 24.",
+      "**Official advert checked (A-3/S-1/DR(L.I.C)/2025, 30-12-2025):** 808 posts (725 general + 83 women branch); Economics general branch 72. Pay Level 8 (Rs 47,600-1,51,100). Age 21-42 on 01-07-2025.",
+      "**Correction:** B.Ed (or LT diploma) is MANDATORY. Job sites saying 'preferred' were wrong.",
+      "**New gate:** you must meet ONE of three: Class 10 + 12 passed from a school in Uttarakhand; OR name registered at an Uttarakhand employment exchange (sevayojan karyalaya) before the closing date; OR registered Uttarakhand ex-serviceman. You were schooled in Delhi, so only the employment-exchange route is open.",
+      "**Reservation:** only for Uttarakhand categories, so you compete as General (Unreserved). The 42 age limit still gives you until roughly the 2037 cycle (ESTIMATE).",
+      "**Posting:** the Directorate allots the school after selection. You do not choose a school when applying. Treat the list as 'where I could land', not 'where I will go'. No public data shows which GIC has a vacant Economics post; that only appears at counselling.",
+      "**DU Assistant Professor comparison:** DU needs NET (no B.Ed), has no age limit and no domicile gate, and you stay in one place. UKPSC needs a B.Ed plus the Uttarakhand registration, and postings are mostly rural hill schools."
+     ],
+     "sources": [
+      {
+       "title": "UKPSC Lecturer advert A-3/S-1/DR(L.I.C)/2025 (saved: notifications/2025-12-30_UKPSC-Lecturer-Advt-A-3-S-1-DR-LIC-2025.pdf)",
+       "url": "https://psc.uk.gov.in/public/uploads/recruitment/942047021.pdf"
+      },
+      {
+       "title": "UKPSC notice 24-09-2026 (exam status, 725 + 83 posts)",
+       "url": "https://psc.uk.gov.in/public/uploads/recruitment/1433940324.pdf"
+      },
+      {
+       "title": "UDISE+ Know Your School",
+       "url": "https://kys.udiseplus.gov.in/"
+      }
+     ],
+     "open": [
+      "Can a non-Uttarakhand resident register at an Uttarakhand employment exchange? It usually needs a local address proof. Check with the exchange in Dehradun or on the Uttarakhand sevayojan portal.",
+      "Does every GIC have an Economics lecturer post? Arts stream is common, but the per-school sanctioned posts are not public.",
+      "When is the next UKPSC Lecturer advert? Not announced (the 2025 cycle exam is running now)."
      ]
     }
    ]
