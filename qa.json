@@ -2318,6 +2318,29 @@
      "open": [
       "Confirm against the official UGC list when its page is back (it was down on 2026-10-05)."
      ]
+    },
+    {
+     "date": "2026-10-05",
+     "q": "If I join a central university and am placed in one of its colleges, can I be moved to another college of the same university?",
+     "a": [
+      "**In DU, nobody 'posts' you to a college.** Each college has its own Governing Body, which advertises, interviews and appoints you. Your employer is that college, not DU as a whole. So there is no transfer between DU colleges: the university cannot move you, and you cannot ask to be moved.",
+      "**To change colleges, you apply fresh** to the other college's advert and go through screening and interview again. If selected, you leave through a 'technical resignation' (applying through proper channel), so your past service counts for pay, seniority and pension. That should be confirmed from the college's rules when it matters.",
+      "**Most other central universities have no colleges at all** (e.g. CU Himachal, CU Haryana, Hyderabad, JNU). You are appointed to a department, and the post belongs to that department.",
+      "**Multi-campus universities are different.** The university is the employer, so it may be able to move you between its own campuses (e.g. HNB Garhwal: Srinagar, Tehri, Pauri) if its statutes or your appointment letter allow. In practice, teaching posts are sanctioned to a specific department and campus, so moves are uncommon. Verify per university.",
+      "**Watch-out inside DU:** about 28 DU colleges are fully funded by the Delhi government, not the Centre. Pay is still on the UGC scale, but these colleges have had salary delays in the past. Check a college's funding source before joining.",
+      "**PGT comparison:** a DSSSB PGT can be transferred by the Delhi Directorate of Education between Delhi schools; a KVS PGT across India. A DU college teacher is the opposite: fixed to one college, with no transfer in or out."
+     ],
+     "sources": [
+      {
+       "title": "DU college screening guidelines 2023 (saved: notifications/2025-10-01_DU-College-Screening-Guidelines-2023-Bharti-copy.pdf)",
+       "url": "https://www.du.ac.in"
+      }
+     ],
+     "open": [
+      "Technical resignation: confirm DU/college rules on counting past service and pay protection when moving between colleges.",
+      "Number of Delhi-govt-funded DU colleges (about 28) and the current state of salary delays: confirm from a recent source.",
+      "Campus-to-campus transfer rules at multi-campus central universities (HNB Garhwal, CUHP, AMU centres): check statutes."
+     ]
     }
    ]
   },

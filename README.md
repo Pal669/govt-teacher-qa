@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (30)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (31)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (2)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
@@ -1127,6 +1127,32 @@ States/UTs with no central university: Goa, Chandigarh, Andaman & Nicobar, Laksh
 **Sources**
 
 1. [List of central universities in India (Wikipedia)](https://en.wikipedia.org/wiki/List_of_central_universities_in_India)
+
+### If I join a central university and am placed in one of its colleges, can I be moved to another college of the same university?
+*Asked 2026-10-05*
+
+**In DU, nobody 'posts' you to a college.** Each college has its own Governing Body, which advertises, interviews and appoints you. Your employer is that college, not DU as a whole. So there is no transfer between DU colleges: the university cannot move you, and you cannot ask to be moved.
+
+**To change colleges, you apply fresh** to the other college's advert and go through screening and interview again. If selected, you leave through a 'technical resignation' (applying through proper channel), so your past service counts for pay, seniority and pension. That should be confirmed from the college's rules when it matters.
+
+**Most other central universities have no colleges at all** (e.g. CU Himachal, CU Haryana, Hyderabad, JNU). You are appointed to a department, and the post belongs to that department.
+
+**Multi-campus universities are different.** The university is the employer, so it may be able to move you between its own campuses (e.g. HNB Garhwal: Srinagar, Tehri, Pauri) if its statutes or your appointment letter allow. In practice, teaching posts are sanctioned to a specific department and campus, so moves are uncommon. Verify per university.
+
+**Watch-out inside DU:** about 28 DU colleges are fully funded by the Delhi government, not the Centre. Pay is still on the UGC scale, but these colleges have had salary delays in the past. Check a college's funding source before joining.
+
+**PGT comparison:** a DSSSB PGT can be transferred by the Delhi Directorate of Education between Delhi schools; a KVS PGT across India. A DU college teacher is the opposite: fixed to one college, with no transfer in or out.
+
+
+**Still to verify**
+
+- Technical resignation: confirm DU/college rules on counting past service and pay protection when moving between colleges.
+- Number of Delhi-govt-funded DU colleges (about 28) and the current state of salary delays: confirm from a recent source.
+- Campus-to-campus transfer rules at multi-campus central universities (HNB Garhwal, CUHP, AMU centres): check statutes.
+
+**Sources**
+
+1. [DU college screening guidelines 2023 (saved: notifications/2025-10-01_DU-College-Screening-Guidelines-2023-Bharti-copy.pdf)](https://www.du.ac.in)
 
 ### How are the teachers at the Delhi School of Economics (who teach Master's students) appointed, and what are the criteria?
 *Asked 2026-10-04*
