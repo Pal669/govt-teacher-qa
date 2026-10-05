@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (31)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (32)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (2)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
@@ -1153,6 +1153,36 @@ States/UTs with no central university: Goa, Chandigarh, Andaman & Nicobar, Laksh
 **Sources**
 
 1. [DU college screening guidelines 2023 (saved: notifications/2025-10-01_DU-College-Screening-Guidelines-2023-Bharti-copy.pdf)](https://www.du.ac.in)
+
+### Outside DU, central universities also have colleges. When I interview, is the college my employer or the university? You said 'each university is its own employer', so I'm confused.
+*Asked 2026-10-05*
+
+**Clarification of 'each university is its own employer':** it meant there is no single central employer or national hiring. Each central university hires separately. It did not mean the university always employs you; that depends on WHERE the post is.
+
+**Type 1: university post (department, school, campus, or a college the university itself runs).** The advert comes from the university (Registrar). You interview before the university's Selection Committee, and the UNIVERSITY is your employer. Full central rules apply. This covers most central universities, which have no colleges at all (JNU, Hyderabad, CU Himachal, CU Haryana and others), plus the departments of DU, BHU, AMU, Allahabad and HNB Garhwal.
+
+**Type 2: affiliated / admitted college.** A trust, society or state government owns and runs it; the central university only grants degrees and sets academic standards. The advert comes from the COLLEGE (Principal / Governing Body). You interview before the college's Selection Committee (the university sends nominees as experts), and the COLLEGE is your employer.
+
+**Why Type 2 matters for your 'central rules only' goal:** a college's service rules follow whoever funds it. DU colleges are mostly UGC/centrally funded (about 28 are Delhi-govt funded). But many colleges affiliated to central universities in the states are state-aided or private: for example, Dehradun colleges like DAV PG College are affiliated to HNB Garhwal (a central university) but are not central institutions, so state rules (DA, pension, retirement) apply. The same pattern exists with colleges under Allahabad, BHU's admitted colleges, and North-East central universities.
+
+**One-line test:** look at who issued the advert and who signs the appointment letter. University Registrar = central university employee. College Principal / Governing Body = college employee; then check the college's funding.
+
+**Scope update:** in scope = central university departments and campuses, and centrally funded colleges (most DU colleges). Out of scope = state-aided or private colleges affiliated to a central university.
+
+**PGT comparison:** in DSSSB, the Delhi government is the employer; in KVS, the KVS Sangathan is. No such college-vs-university split exists for PGT.
+
+
+**Still to verify**
+
+- Service rules (DA, pension, retirement) of state-aided colleges affiliated to HNB Garhwal (Dehradun colleges): confirm whether Uttarakhand or central rules apply.
+- Funding and service rules of BHU's admitted colleges and Allahabad University's constituent colleges.
+- Which central universities run their own colleges (e.g. BHU Mahila Mahavidyalaya, AMU Women's College), where teachers are university employees.
+
+**Sources**
+
+1. [HNB Garhwal University compendium (Ministry of Education)](https://www.education.gov.in/sites/upload_files/mhrd/files/ebook/universirt-compendium/uttrakhand/Hemwati-Nandan-Bahuguna-Garhwal-Univeristy-Srinagar-Garhwal.pdf)
+2. [DAV PG College Dehradun (official)](https://davpgcollegeddn.ac.in/about/pages.php?id=16)
+3. [Vasanta College for Women, admitted to BHU (annual report)](https://www.vasantakfi.ac.in/uploads/annualreport/Annual_Report_English_2021-22_-_Copy.pdf)
 
 ### How are the teachers at the Delhi School of Economics (who teach Master's students) appointed, and what are the criteria?
 *Asked 2026-10-04*
