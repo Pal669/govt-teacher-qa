@@ -1,6 +1,6 @@
 # Government Teacher Q&A
 
-Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-04.
+Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-05.
 
 - [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
@@ -12,6 +12,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (26)
+- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (1)
 
 ## Eligibility & Documents
 
@@ -1726,3 +1727,42 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 1. [Careers360: UGC scraps UGC-CARE list, suggests parameters (2025)](https://news.careers360.com/ugc-suggests-parameters-for-selecting-peer-reviewed-journals-after-scrapping-ugc-care-list-research-quality)
 2. [UGC suggestive parameters for choosing peer-reviewed journals](https://www.cugujarat.ac.in/AllDocuments/ResearchProgrammePhd/UGC_Notice_CRU_Rules/UGC-Suggestive_Parameters-For-Choosing-Peer-Reviewed-Journals.pdf)
 3. [DU 2023 screening guidelines, III(3): publications from UGC-CARE or Scopus](https://www.du.ac.in/uploads/images/01102025-bharti-Guidelines%20for%20Screening%20and%20the%20Shortlisting.pdf)
+
+
+## Hill States (Himachal & Uttarakhand)
+
+### What teaching jobs (schools and colleges) are there in hill states like Shimla / Himachal and Uttarakhand, and which permanent government jobs are in well-connected hill towns?
+*Asked 2026-10-05*
+
+**Short answer: Uttarakhand is open to you; Himachal schools are effectively closed right now.** In both states an out-of-state candidate is treated as General (UR): no OBC relaxation, no reservation.
+
+**Himachal schools (HPRCA PGT 2026, Advt 07-09/2026):** 86 Economics posts, but they are **5-year contract jobs at Rs 30,000/month for 10 months, with no claim to regularisation**. Also needs B.Ed + HP TET, and Class 10 and 12 passed from a Himachal school (bonafide Himachalis exempted). Not permanent, and you fail the schooling condition.
+
+**Uttarakhand schools (UKPSC Pravakta / Lecturer, Group C, 2025-26):** 84 Economics posts (72 general + 12 women's branch), Level 8 (Rs 47,600-1,51,100, same as DSSSB PGT), permanent. Age 21-42 (UR, so 42 for you = window to about Feb 2037). Needs Master's + B.Ed. Written exam only, no interview. Applications closed 20-01-2026.
+
+**Colleges, Himachal (HPPSC Assistant Professor, College Cadre, 2026):** about 10 Economics posts, age 18-45, Master's 55% + NET/SET. No B.Ed needed. Closed 14-07-2026.
+
+**Colleges, Uttarakhand (UKPSC Assistant Professor):** age 21-42, PG + NET/SET. No B.Ed needed.
+
+**Central (all-India, uses your central OBC certificate, age 43):** KVS PGT posts in Shimla, Dehradun and other hill towns; HNB Garhwal University (central) and Central University of Himachal Pradesh (Dharamshala) for Assistant Professor (NET or PhD).
+
+**Most commutable hill base from Delhi: Dehradun** (roughly 4.5-6 hrs by train/road, plus flights; ESTIMATE). Shimla is about 7-8 hrs by road (ESTIMATE). Dehradun also has the most KVs and central offices.
+
+**PGT vs DU track comparison:** the B.Ed gate decides the school side (Uttarakhand Pravakta, KVS); the NET gate decides the college side (HPPSC/UKPSC Assistant Professor, same as DU). Hill-state college posts have an age limit (42/45) and written/interview selection, while DU has no age limit but a 55 screening floor.
+
+
+**Still to verify**
+
+- All figures are from aggregator sites; fetch the official HPRCA, UKPSC and HPPSC PDFs before relying on them.
+- Uttarakhand Pravakta: confirm whether other-state candidates need Uttarakhand employment exchange (Sevayojan) registration or any domicile condition (Group C cadre).
+- Uttarakhand Pravakta: confirm the age reference date and whether Hindi (Devanagari) knowledge is required.
+- Himachal: check whether any regular (non-contract) School Lecturer (New) recruitment is still running.
+- UKPSC Assistant Professor Economics: number of posts and next cycle date.
+
+**Sources**
+
+1. [Adda247: HPRCA PGT 2026 (2092 posts, contract, HP schooling condition)](https://www.adda247.com/teaching-jobs-exam/hprca-pgt-teacher-recruitment-2026/)
+2. [Testbook: HPRCA PGT notification 2026](https://testbook.com/news/hp-pgt-notification-2026-out/)
+3. [OnlineSarkari: UKPSC Lecturer 2026 (808 posts, Economics 72+12)](https://onlinesarkari.com/ukpsc-lecturer-recruitment-2026/)
+4. [CareerPower: UKPSC Lecturer 2026](https://www.careerpower.in/blog/ukpsc-lecturer-recruitment-2026)
+5. [PW: HPPSC Assistant Professor 2026](https://www.pw.live/csir-net/exams/hppsc-assistant-professor-recruitment-2026)
