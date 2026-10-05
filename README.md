@@ -12,7 +12,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (33)
-- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (9)
+- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (10)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
 ## Eligibility & Documents
@@ -2245,6 +2245,45 @@ Other fixed-campus options: Himachal Pradesh University, Shimla (no Economics po
 
 1. [HPPSC Advt 17/10-2023, Lecturer (School-New), general condition 4 (saved: notifications/2023-10-17_HPPSC-Advt-17-10-2023_Lecturer-School-New.pdf)](https://static.pw.live/5eb393ee95fab7468a79d189/GLOBAL_CMS_BLOGS/ea581141-755a-4b1c-9a26-ff144ddfcaaa.pdf)
 2. [HPRCA Teacher Economics result 2026 (aggregator)](https://www.mysarkarinaukri.com/en/hprca-teacher-result-2026/)
+
+### How often does someone with a Delhi domicile get hired as a permanent teacher or Assistant Professor in Himachal Pradesh or Uttarakhand? Give me data to make up my mind.
+*Asked 2026-10-05*
+
+**No official body publishes the domicile of people it hires**, so there is no direct number. The answer splits by employer type, and for central universities the faculty CVs work as a proxy.
+
+**State school cadres (HPPSC/HPRCA Lecturer, UKPSC GIC Lecturer): close to zero, by rule.** Himachal needs Class 10 + 12 passed in HP (or bonafide Himachali). Uttarakhand needs Class 10 + 12 in Uttarakhand, or Uttarakhand employment-exchange registration (which needs Uttarakhand domicile). A Delhi-schooled candidate is shut out, so Delhi-domicile permanent hires here are essentially nil.
+
+**Central universities: outsiders are hired all the time. Proxy = where today's economics faculty studied (CVs on official sites, read 2026-10-05).**
+
+**CU Himachal Pradesh (Dharamshala), 7 faculty:** only 1 is from Himachal (HP Board school, HPU degrees). The other 6 are from Telangana, Odisha (2), Punjab, Chandigarh and Karnataka. 6 of 7 are outsiders (86%). One, Dr Narendra Dalei, did his PhD at the University of Delhi and worked in Delhi (DU college, IGNOU, FICCI) before joining as Associate Professor in 2022. None was schooled in Delhi.
+
+**HNB Garhwal (Srinagar + Pauri), 8 faculty:** at least 4 are clearly local (HNBGU degrees, Uttarakhand SET, Garhwal-focused careers). 1 is clearly an outsider (Assam). 3 are mixed or unclear. Local share is roughly 50-75%. None was schooled in Delhi.
+
+**Reading it:** across both, about 8 of 15 (roughly half) are from outside the state. No domicile filter applies, and CUHP hired mostly outsiders. HNBGU leans local because its own PhDs and Uttarakhand SET holders apply in large numbers and have taught there as guest faculty first (Dr Rukmani was guest faculty at HNBGU in 2017-18 before her regular post in Dec 2023). That is an edge built from experience and local networks, not a rule.
+
+**Hiring is lumpy:** CUHP hired 3 economics faculty in Nov 2012 and 2 in Mar-Apr 2022; HNBGU hired 2 in Dec 2023. Expect one recruitment drive every few years per university, with 1-3 economics posts each time.
+
+**What actually decides it:** the screening score and the interview, not domicile. Every regular hire in these 15 CVs had a PhD or was finishing one (Mr Bipin Kumar at Pauri lists NET/JRF without a PhD yet). Several had JRF or many years of experience. So NET alone is unlikely to be enough here either. PhD + JRF + publications is the real bar.
+
+**KVS/JNV/EMRS schools in HP or UK:** these are central schools with all-India transfer and posting, so Delhi people are posted there routinely. No domicile rule applies, and a B.Ed is still needed.
+
+**PGT vs Assistant Professor:** for school teaching in the hills, the state cadre is closed to you and the central school route (KVS/EMRS) is open but transferable. For college teaching, both hill central universities are fully open, and being from Delhi is not a handicap. The handicap is the missing PhD.
+
+
+**Still to verify**
+
+- Origin is a proxy (school board and degree locations from CVs), not legal domicile; no university publishes domicile of appointees.
+- Origin of 3 HNBGU faculty (Thakur Dev Pandey, Vipul Singh, Bipin Kumar) not determinable from their CVs.
+- Sample is economics only (15 people). A larger check across CUHP/HNBGU social-science departments would firm up the outsider share.
+- Number of applicants vs posts in the last CUHP/HNBGU economics drives (selection ratio) not found.
+
+**Sources**
+
+1. [CUHP Department of Economics, faculty details + CV PDFs](https://www.cuhimachal.ac.in/index.php/Home/faculty_details/dept_economics)
+2. [HNBGU Economics faculty (Srinagar)](https://hnbgu.ac.in/school/humanities/economics/srinagar/faculty-staff)
+3. [HNBGU Economics faculty (Pauri)](https://hnbgu.ac.in/school/humanities/economics/pauri/faculty-staff)
+4. [HPPSC Advt 17/10-2023 (saved: notifications/2023-10-17_HPPSC-Advt-17-10-2023_Lecturer-School-New.pdf)](https://www.hppsc.hp.gov.in)
+5. [UKPSC Lecturer Advt A-3/S-1/DR(L.I.C)/2025 (saved: notifications/2025-12-30_UKPSC-Lecturer-Advt-A-3-S-1-DR-LIC-2025.pdf)](https://psc.uk.gov.in)
 
 
 ## Working in Other States (Pay, Language, Rules)
