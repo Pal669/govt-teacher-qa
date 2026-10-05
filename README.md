@@ -13,6 +13,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Service Rules & Side Work](#service-rules-side-work) (5)
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (30)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (2)
+- [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (1)
 
 ## Eligibility & Documents
 
@@ -1931,3 +1932,42 @@ Other fixed-campus options: Himachal Pradesh University, Shimla (no Economics po
 3. [Uttarakhand Transfer Act 2017 (Chamoli district site)](https://chamoli.gov.in/past-notices/transfer-act-2017)
 4. [Drishti IAS: Uttarakhand teacher transfer rules](https://drishtiias.com/state-pcs-current-affairs/preparing-to-abolish-the-transfer-rights-of-teachers-by-making-rules-in-place-of-transfer-act)
 5. [HPU Assistant Professor 2026 (aggregator)](https://centralstatejobs.in/jobs/hpu-assistant-professor-recruitment-2026)
+
+
+## Working in Other States (Pay, Language, Rules)
+
+### Once I clear NET and apply to colleges in different states, what changes from state to state: HRA, other pay, rules? Do I have to learn the local language?
+*Asked 2026-10-05*
+
+**Rule 1: what changes depends on who employs you.** At a central university, the central rules apply everywhere; only the city changes your HRA and transport allowance. At a state university or state government college, that state's rules decide almost everything.
+
+**HRA (House Rent Allowance), central rules:** depends on the city class, not the state. X city 30% of basic, Y 20%, Z 10% (rates since DA crossed 50% in Jan 2024). At Level 10 (Rs 57,700 basic), that is Rs 17,310 in Delhi (X), Rs 11,540 in Dehradun (Y), and Rs 5,770 in Shimla or Dharamshala (Z). Rent is also much lower in Z towns, so the gap matters less than it looks.
+
+**Other central allowances:** DA (Dearness Allowance) is the same everywhere. Transport allowance at Level 9 and above: Rs 7,200 + DA in the bigger cities, Rs 3,600 + DA elsewhere.
+
+**At state universities and colleges, these vary by state:** (1) DA rate, which often lags the central rate; (2) the HRA slabs and city list; (3) when the state adopted the UGC 7th pay scales; (4) pension: Himachal Pradesh, Punjab, Rajasthan, Jharkhand and Chhattisgarh told the Centre they were going back to the Old Pension Scheme (OPS); (5) retirement age (60 to 65); (6) upper age limit in the state PSC (Public Service Commission) exam; (7) reserved seats, usually for state domiciles only, so you compete as UR (Unreserved); (8) state government college posts can be transferred across the state.
+
+**Language: central universities have no state-language rule.** Exceptions: Maulana Azad National Urdu University (teaches in Urdu) and the Hindi university at Wardha.
+
+**Language: state posts often do.** Tamil Nadu requires passing a Class 10 level Tamil exam for state service. Punjab requires Punjabi. Karnataka uses Kannada. Maharashtra mandates Marathi in official work (2024 Marathi Language Policy). Jharkhand requires regional or tribal languages. Himachal (HPPSC) lists 'knowledge of customs, manners and dialects of Himachal Pradesh' as desirable, not mandatory. Hindi states (UP, Uttarakhand, HP, MP, Rajasthan, Bihar, Haryana) are no problem for you.
+
+**What this means for you:** central universities are the cleanest option: same rules everywhere, no language test, and your OBC certificate counts. In the Hindi belt, state universities are fine too. In the South, Maharashtra, Bengal, Odisha and the North-East, state posts usually need the local language, so stick to central universities there.
+
+**PGT comparison:** the same logic applies. KVS and EMRS (central) pay HRA by city class, with no language test. DSSSB pays X-city HRA (Delhi) and has no language test. Other states' PGT jobs carry the same state-language and domicile hurdles.
+
+
+**Still to verify**
+
+- Shimla shown as a Z city by a secondary source: confirm on the official Finance Ministry HRA city list.
+- Whether OPS actually covers state UNIVERSITY teachers (not just state government employees) in HP, Punjab, Rajasthan, Jharkhand and Chhattisgarh; Rajasthan and Chhattisgarh status after the change of government.
+- Exact language rules (mandatory vs desirable, and the stage at which you must pass) for Punjab, Karnataka, West Bengal, Odisha and Gujarat college posts: check each state's PSC/university ad.
+- Whether the North-East Special Duty Allowance or hard-area allowances apply to central university teachers.
+- Transport allowance figures (Rs 7,200 / Rs 3,600 for Level 9+) are from 7th CPC knowledge; confirm from the official order.
+
+**Sources**
+
+1. [HRA city classification list (Indian Pay Calculator, secondary)](https://www.indianpaycalculator.in/city-classification)
+2. [7th CPC HRA OM, Finance Ministry (staffnews)](https://www.staffnews.in/2017/07/7th-cpc-house-rent-allowance-hra-finance-ministry-om.html)
+3. [Restoration of OPS by states: Lok Sabha Q&A (gconnect)](https://www.gconnect.in/orders-in-brief/pension/restoration-old-pension-scheme-state-govt.html)
+4. [Maharashtra mandates Marathi (Drishti IAS)](https://www.drishtiias.com/daily-updates/daily-news-analysis/maharashtra-mandates-marathi-language-use/print_manually)
+5. [HPPSC Assistant Professor eligibility, desirable qualification (JRF Adda)](https://www.jrfadda.com/exams/?p=29507)
