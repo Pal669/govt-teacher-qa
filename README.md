@@ -409,7 +409,6 @@ Master list lives in EA Demo/Govt_Jobs_By_Category_Ashish_Pal.xlsx, tab '3 Teach
 - State commission Assistant Professor age limits: check UPHESC/HPSC/RPSC adverts individually
 - UGC Regulations 2025: notified final or still a draft? Check whether NET/PhD rules changed for Economics
 - Sainik School and AWES: confirm the 2026 adverts' age and B.Ed rules
-- UPSC Assistant Professor (NDA etc.): find a recent Economics advert for the exact age limit
 
 **Sources**
 
