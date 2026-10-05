@@ -2270,6 +2270,29 @@
       "Pension for a new central university teacher: NPS (National Pension System) applies; whether UPS (Unified Pension Scheme) is extended to central autonomous bodies is not confirmed.",
       "Which specialised universities (marked *) have an Economics department: check each before applying."
      ]
+    },
+    {
+     "date": "2026-10-05",
+     "q": "You left out the University of Mumbai from the central universities list. Why?",
+     "a": [
+      "**University of Mumbai is a state university, not a central one.** It is run under the Maharashtra Public Universities Act, 2016 and funded by the Maharashtra government, so it is not on the central list.",
+      "**You can still apply there with NET.** NET is valid at state universities too. It has a strong Economics department (the Mumbai School of Economics and Public Policy). A regular post there is also permanent, at the UGC Level 10 scale as adopted by Maharashtra.",
+      "**Differences from a central university:** reserved posts usually go to Maharashtra domiciles, so you would likely compete as UR (Unreserved). Your central OBC certificate does not carry over. State rules apply to pay timing, pension and retirement.",
+      "Other famous universities that are also state (not central): University of Calcutta, University of Madras, Savitribai Phule Pune University, Osmania University. Panjab University, Chandigarh, is a special inter-state body, not a central university."
+     ],
+     "sources": [
+      {
+       "title": "University of Mumbai (official site)",
+       "url": "https://mu.ac.in"
+      },
+      {
+       "title": "List of central universities in India (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/List_of_central_universities_in_India"
+      }
+     ],
+     "open": [
+      "Whether University of Mumbai teaching posts require Marathi knowledge, and its retirement age (state universities vary between 60 and 65): check its next ad."
+     ]
     }
    ]
   },

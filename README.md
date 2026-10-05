@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (28)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (29)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (2)
 
 ## Eligibility & Documents
@@ -1073,6 +1073,27 @@ Not in this list: Nalanda University (Rajgir) and South Asian University (Delhi)
 1. [List of central universities in India (Wikipedia, cross-check against UGC)](https://en.wikipedia.org/wiki/List_of_central_universities_in_India)
 2. [UGC central universities page (was under maintenance on 2026-10-05)](https://www.ugc.gov.in/centraluniversity.aspx)
 3. [UGC Regulations 2018 (saved: notifications/2018-07-18_UGC-Regulations-2018_Teachers.pdf)](https://www.ugc.gov.in)
+
+### You left out the University of Mumbai from the central universities list. Why?
+*Asked 2026-10-05*
+
+**University of Mumbai is a state university, not a central one.** It is run under the Maharashtra Public Universities Act, 2016 and funded by the Maharashtra government, so it is not on the central list.
+
+**You can still apply there with NET.** NET is valid at state universities too. It has a strong Economics department (the Mumbai School of Economics and Public Policy). A regular post there is also permanent, at the UGC Level 10 scale as adopted by Maharashtra.
+
+**Differences from a central university:** reserved posts usually go to Maharashtra domiciles, so you would likely compete as UR (Unreserved). Your central OBC certificate does not carry over. State rules apply to pay timing, pension and retirement.
+
+Other famous universities that are also state (not central): University of Calcutta, University of Madras, Savitribai Phule Pune University, Osmania University. Panjab University, Chandigarh, is a special inter-state body, not a central university.
+
+
+**Still to verify**
+
+- Whether University of Mumbai teaching posts require Marathi knowledge, and its retirement age (state universities vary between 60 and 65): check its next ad.
+
+**Sources**
+
+1. [University of Mumbai (official site)](https://mu.ac.in)
+2. [List of central universities in India (Wikipedia)](https://en.wikipedia.org/wiki/List_of_central_universities_in_India)
 
 ### How are the teachers at the Delhi School of Economics (who teach Master's students) appointed, and what are the criteria?
 *Asked 2026-10-04*
