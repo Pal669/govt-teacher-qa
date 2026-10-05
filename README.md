@@ -13,7 +13,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Service Rules & Side Work](#service-rules-side-work) (5)
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (30)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (2)
-- [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (1)
+- [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
 ## Eligibility & Documents
 
@@ -1971,3 +1971,29 @@ Other fixed-campus options: Himachal Pradesh University, Shimla (no Economics po
 3. [Restoration of OPS by states: Lok Sabha Q&A (gconnect)](https://www.gconnect.in/orders-in-brief/pension/restoration-old-pension-scheme-state-govt.html)
 4. [Maharashtra mandates Marathi (Drishti IAS)](https://www.drishtiias.com/daily-updates/daily-news-analysis/maharashtra-mandates-marathi-language-use/print_manually)
 5. [HPPSC Assistant Professor eligibility, desirable qualification (JRF Adda)](https://www.jrfadda.com/exams/?p=29507)
+
+### Exclude state universities completely. I only want central universities (in any state), where the rules are set by the central government. What is the same and what changes by location?
+*Asked 2026-10-05*
+
+**Done: state universities and state government colleges are out of scope** (logged in decisions/log.md).
+
+**Same at every central university, in any state:** Level 10 pay (Rs 57,700 basic) and the CAS (Career Advancement Scheme) promotion ladder (UGC Regulations 2018); central DA (Dearness Allowance); NPS/UPS pension; retirement at 65; the central OBC list, so your central OBC certificate works everywhere; no domicile rule; no state-language requirement; no transfers to another university.
+
+**What changes with the city:** HRA (House Rent Allowance) by city class: X 30% (Rs 17,310), Y 20% (Rs 11,540), Z 10% (Rs 5,770). Transport allowance: Rs 7,200 + DA in big cities, Rs 3,600 + DA elsewhere. If you take campus housing, you get no HRA and pay a small licence fee instead.
+
+**One nuance:** the central rules (UGC Regulations 2018 + Ministry of Education) set pay, qualification and promotion. But each central university is its own employer under its own Act, Statutes and Ordinances. Each one advertises and selects separately (its own screening and interview), and housing allotment and some service details differ.
+
+**Exceptions to remember:** MANUU teaches in Urdu; the Wardha university is Hindi-medium; multi-campus universities can move you between their own campuses.
+
+**PGT comparison:** KVS and EMRS work the same way (central rules everywhere, HRA by city), but they transfer you across India. A central university keeps you on one campus.
+
+
+**Still to verify**
+
+- Whether UPS (Unified Pension Scheme) is extended to central university teachers (NPS applies by default).
+- Whether North-East Special Duty Allowance or hard-area allowances (e.g. Ladakh, J&K) apply to central university teachers.
+
+**Sources**
+
+1. [UGC Regulations 2018 (saved: notifications/2018-07-18_UGC-Regulations-2018_Teachers.pdf)](https://www.ugc.gov.in)
+2. [7th CPC HRA OM (staffnews)](https://www.staffnews.in/2017/07/7th-cpc-house-rent-allowance-hra-finance-ministry-om.html)
