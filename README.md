@@ -12,7 +12,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (32)
-- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (3)
+- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (4)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
 ## Eligibility & Documents
@@ -2042,6 +2042,39 @@ Other fixed-campus options: Himachal Pradesh University, Shimla (no Economics po
 1. [CU Himachal Pradesh compendium (Ministry of Education)](https://education.gov.in/sites/upload_files/mhrd/files/ebook/universirt-compendium/hp/Central-University-of-Himachal-Pradesh-Dharmshala-Kangra.pdf)
 2. [CUHP temporary academic blocks (Careers360)](https://www.careers360.com/question-how-many-temrory-campuses-central-university-of-himanchal-pradesh-university-have-and-which-campus-have-which-course)
 3. [CUHP Economics in RePEc EDIRC](https://edirc.repec.org/data/sbcuhin.html)
+
+### If I settle near CU Himachal (Dharamshala / Shahpur / Dehra), which area is most expensive, and what would a 300 gaj plot with 4-5 floors cost?
+*Asked 2026-10-05*
+
+**Legal hurdle first: Section 118 (HP Tenancy and Land Reforms Act).** A non-Himachali cannot buy land without state government permission. For a house, permission is capped at 500 sq m; 300 gaj = 251 sq m, within the cap. A 2025 amendment bill to ease this (finished flats without permission) went to a Select Committee in Dec 2025; status not confirmed.
+
+**Most expensive: Dharamshala town** (Khanyara, Dari, Sidhbari; Upper Dharamshala/McLeodganj is premium tourist land). Listings: about Rs 2.8-5 lakh per marla. Shahpur and Dehra are semi-rural and cheaper; no reliable per-marla data found.
+
+**300 gaj = 2,700 sq ft = about 10 marla.** Land in Dharamshala: about Rs 28-50 lakh (ESTIMATE from listings), plus stamp duty and registration.
+
+**4-5 full floors is not allowed.** Dharamshala is in a high earthquake zone: TCP (Town and Country Planning) rules allow max 4 storeys / 21 m, and FAR (Floor Area Ratio) 1.75. So total built-up area on 2,700 sq ft is capped at about 4,725 sq ft, roughly 4 floors of ~1,180 sq ft each, not 4 floors of 2,700.
+
+**Construction (legal 4,725 sq ft):** at Rs 2,530-3,500 per sq ft, about Rs 1.2-1.65 crore (ESTIMATE). Four and a half full floors (12,150 sq ft) would cost Rs 3.1-4.3 crore and would be illegal.
+
+**All-in for Dharamshala: about Rs 1.5-2.2 crore (ESTIMATE).** Against an in-hand salary of about Rs 94,600/month, that is roughly 16 years of take-home. A Rs 1.5 crore home loan at 8.5% for 20 years = EMI about Rs 1.30 lakh/month, more than the salary.
+
+**Realistic path:** buy the land (with Section 118 permission) + build 1-2 floors first (about Rs 30-65 lakh of construction, ESTIMATE), add floors later; or buy a finished flat if the amendment passes.
+
+
+**Still to verify**
+
+- Current status of the Section 118 amendment (Select Committee, Dec 2025) and whether a central university employee gets any easing.
+- Current TCP height/FAR rules for Dharamshala planning area (Tribune figures may be dated) and ground-coverage limits.
+- Land rates in Shahpur and Dehra: check circle rates (via patwari / HimBhoomi) and local dealers.
+- HP stamp duty and registration rates for a male buyer (commonly quoted 6% + 2%).
+
+**Sources**
+
+1. [How to buy land in Himachal Pradesh, Section 118 (1acre.in)](https://1acre.in/guides/how-to-buy-land-in-himachal-pradesh)
+2. [HP proposes update to Section 118 (Outlook Money)](https://www.outlookmoney.com/invest/hp-proposes-major-update-to-section-118-rules-key-points-explained)
+3. [Dharamshala: max four storeys, FAR 1.75 (Tribune)](https://www.tribuneindia.com/news/himachal/in-upper-dharamsala-20-buildings-violate-tcp-act-540522)
+4. [Dharamshala construction cost (India Land Converter)](https://www.indialandconverter.in/construction-cost/himachal-pradesh/dharamshala)
+5. [Dharamshala plot listings (RealEstateIndia)](https://www.realestateindia.com/dharamsala-property/residential-land-for-sale.htm)
 
 
 ## Working in Other States (Pay, Language, Rules)
