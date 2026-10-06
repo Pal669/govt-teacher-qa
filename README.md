@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (33)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (34)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (11)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
@@ -1069,6 +1069,44 @@ To get a real number: file an RTI (Right to Information request) with Delhi DoE 
 
 
 ## PGT vs DU Assistant Professor
+
+### What is the actual work of an Assistant Professor at a central university (DU, hill universities like CUHP / HNB Garhwal)? Working hours, how many classes, what work apart from teaching, what is the job like? Give sources.
+*Asked 2026-10-06*
+
+**The rule (same at every central university):** UGC Regulations 2018, clause 15.1: at least 40 hours/week of work, for 30 teaching weeks (180 teaching days) a year; you must be physically present on campus at least 5 hours a day. Direct teaching: **16 hours/week for an Assistant Professor** (14 for Associate Professor/Professor). Clause 15.2: up to 2 hours/week off teaching if you hold an admin or extension role.
+
+**What 16 hours means:** lectures + tutorials + practicals counted together. In DU, about 3 hours of teaching a day over a 5-6 day week. DU follows the same 16/14 split through its own Ordinance XIII.
+
+**The other ~24 hours/week (cl. 15.1):** at least 2 hours/day mentoring UG students (min 15 students per teacher: extra-curricular, community work, library, research) and/or 2 hours/day research if you teach PG. Plus preparing lectures, internal assessment, and evaluation.
+
+**Non-teaching work (UGC Appendix II Table 1, the yardstick for promotion):** exam invigilation, setting papers, evaluating answer scripts (DU central evaluation), internal assessment; admission duty; college committees (timetable, NAAC accreditation paperwork, societies, placement cell, discipline); organising seminars/conferences; refresher/orientation courses; research papers; PhD supervision (once eligible); NSS/NCC or club in-charge.
+
+**Year shape (cl. 14):** 30 weeks teaching, 12 weeks admissions + exams, 2 weeks public holidays, vacation of 8 weeks (university departments) or 10 weeks (colleges). Vacation is not fully free: evaluation and admission duty often fall in it.
+
+**DU college vs hill university department:** DU college = mostly undergraduate teaching, very few PhD students, research optional in practice but needed for promotion (CAS). Hill central universities (CUHP Dharamshala, HNB Garhwal Srinagar) = you are in a university department, so you teach both UG and PG, supervise PhD scholars, and research expectation is higher. Small towns, fewer distractions; CUHP is multi-campus, so you can be moved between its own campuses.
+
+**Recent DU friction (know before you join):** Aug 2025, DU Executive Council told colleges to run 8 am-8 pm from 2025-26 (for FYUP space), so timetable slots can land early morning or evening; teachers called it impractical. Oct 2024, DU issued and the same day withdrew a circular raising senior teachers' load from 14 to 16 hours. Your 16 hours stays the same.
+
+**Typical DU day (ESTIMATE):** 2-4 classes, 2-3 hours on campus for mentoring/committees/meetings, prep at home in the evening. Peaks: exam/evaluation season and admissions (July-August). Lighter than a school day in hours, but self-driven: nobody makes you do research, yet promotion (CAS) needs it.
+
+**PGT comparison:** KVS PGT: 7.5-hour school day (45 hours/week, set by the KVS Board of Governors per the RTE Act 2009), about 30 periods/week proposed for PGT (2012 KVS JCM minutes; current figure to verify). Delhi DoE PGT: 6-6.5 hour school day, Saturdays not guaranteed, plus BLO/election/census duty, which professors are generally not given. Bottom line: the professor has fewer fixed hours and more freedom; the PGT has a fixed timetable, more classes, and more government side-duty.
+
+
+**Still to verify**
+
+- DU Ordinance XIII workload text: read the official ordinance directly (figure seen only via news reports).
+- CUHP / HNB Garhwal: their own ordinances on workload, PhD supervision quotas and campus timings.
+- KVS PGT periods per week: current official figure (30 was a 2012 proposal).
+- Whether DU's 8 am-8 pm college hours order is still in force for 2026-27.
+
+**Sources**
+
+1. [UGC Regulations 2018, cl. 14 (teaching days), cl. 15 (workload), Appendix II Table 1 (saved: notifications/2018-07-18_UGC-Regulations-2018_Teachers.pdf)](https://thc.nic.in/Central%20Governmental%20Regulations/UGC%20(Minimum%20Qualifications%20for%20Appointment%20of%20Teachers%20and%20other%20Academic%20Staff%20in%20Universities%20and%20Colleges%20and%20other%20measures%20for%20the%20Maintenacne%20of%20Standards%20in%20Higher%20Education)%20Regulations,%202018.pdf)
+2. [DU 8 am-8 pm college hours, Aug 2025 (Careers360)](https://news.careers360.com/delhi-university-fyup-notifies-8-am-8-pm-college-hours-professors-assistant-call-it-impractical)
+3. [DU withdraws workload circular, 15-10-2024 (The Week / PTI)](https://www.theweek.in/wire-updates/national/2024/10/15/des46-dl-du-circular.html)
+4. [DU workload circular withdrawn (Careers360)](https://news.careers360.com/delhi-university-withdraws-du-circular-ugc-guidelines-increasing-workload-professors-promotion-after-backlash)
+5. [KVS JCM minutes 25-07-2012: PGT periods, 7.5-hour day (gconnect)](https://www.gconnect.in/orders-in-brief/kv-orders-in-brief/minutes-of-the-meeting-of-the-jcm-of-kvs-held-on-25-07-2012.html)
+6. [Delhi teachers on BLO/SIR duty, Aug 2026 (Newslaundry)](https://newslaundry.com/2026/08/03/11-hour-days-zero-rest-delhis-teachers-say-they-are-breaking-under-sir-duty)
 
 ### If I clear UGC NET with good marks, can I apply for Assistant Professor (Economics) at every university in India? I want a permanent government job with a fixed salary, like DU.
 *Asked 2026-10-05*
