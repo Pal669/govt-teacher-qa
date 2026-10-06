@@ -1,12 +1,12 @@
 # Government Teacher Q&A
 
-Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-05.
+Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-06.
 
 - [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (3)
 - [Exams & Timelines](#exams-timelines) (4)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (9)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (10)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
@@ -306,6 +306,44 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 
 
 ## Other Routes (KVS, EMRS, Other States)
+
+### Like Uttarakhand and Himachal, which government teaching jobs can I NOT apply for? Be thorough and clear.
+*Asked 2026-10-06*
+
+**A. Closed for life (domicile / schooling / permanent-resident rules; a B.Ed or NET will not fix these):** Uttarakhand state Lecturer (UKPSC GIC); Himachal state Lecturer (HPPSC/HPRCA); Jammu & Kashmir (UT domicile mandatory for all posts; 15 yrs residence or 7 yrs study + Class 10/12 there); Ladakh (domicile certificate mandatory, Gazette 03-06-2025); Sikkim (Certificate of Identification / Sikkim Subject); Assam (Permanent Resident Certificate); Arunachal, Nagaland, Mizoram, Manipur, Meghalaya (PRC needed); Goa (15 yrs residence + Konkani); Telangana and Andhra Pradesh (95% local-cadre quota under Art 371-D; only 5% open merit, so effectively closed).
+
+**B. Closed in practice by language (could only open if you pass a state-language test):** Tamil Nadu (Tamil eligibility paper, SSLC standard, 40% to qualify, since 2022); Karnataka (Kannada test, 150 marks, 50 to pass); Punjab (Punjabi at matric level; 2026 ERD Lecturer ad has Economics posts but you cannot meet this); Odisha (Odia studied at Class 10/12 level + OSSTET); Maharashtra (Marathi + MAHA TET); West Bengal (exam medium Bengali). Kerala, Gujarat: language rules not yet verified.
+
+**C. Shrunk sharply but technically open to outsiders:** Bihar TRE-4/5: 84.4% of seats reserved for Bihar domiciles (matric/inter from Bihar), only ~15% open to outsiders (cabinet decision Aug 2025).
+
+**D. Open to outsiders as General (Unreserved), but you are blocked today only by B.Ed + state TET:** Haryana PGT (HPSC; needs HTET/STET + Hindi/Sanskrit in matric or Hindi in 12th/BA/MA); Rajasthan School Lecturer (RPSC; Hindi in Devanagari + Rajasthani culture); UP GIC Lecturer (UPPSC; outsiders treated as General). Madhya Pradesh, Chhattisgarh, Jharkhand, Tripura not yet verified.
+
+**E. Closed today, but YOU can unlock:** DSSSB PGT (needs B.Ed + OBC-Delhi certificate; age window to ~Feb 2029); KVS, NVS, EMRS, Sainik, Army Public School PGT (all need B.Ed); every Assistant Professor post (needs NET); DU colleges (needs JRF + 2 papers, or PhD, to cross the 55 screening floor); Delhi School of Economics and other university departments, IITs, NITs, IIMs, IISERs (need PhD).
+
+**F. Closed by your own choice (2026-10-05):** state universities, state govt colleges, and state-aided/private colleges affiliated to central universities.
+
+**G. Guest / ad-hoc / contract posts:** you can apply once you have NET, but they are never permanent. The HPRCA 2026 'Teacher' posts are a 5-year scheme contract, not a government job.
+
+
+**Still to verify**
+
+- Most state rules here come from news/aggregator sources, not the official ad. Re-read the official advert before acting on any state.
+- Not yet verified: Kerala, Gujarat, Madhya Pradesh, Chhattisgarh, Jharkhand, Tripura, Manipur (PRC claim from one source).
+- UP: a pending HC appeal on non-domicile female candidates (Special Appeal 233/2026), so check this.
+- Haryana Hindi/Sanskrit condition: confirm exact wording (CBSE Hindi in Class 10 should satisfy it).
+
+**Sources**
+
+1. [J&K domicile criterion for all UT posts (Tribune)](https://www.tribuneindia.com/news/j-k/cabinet-gives-nod-to-domicile-criterion-for-employment-in-jk-87705)
+2. [Ladakh domicile rules 2025 (Tribune)](https://www.tribuneindia.com/news/india/government-notifies-reservation-policy-domicile-rules-for-ladakh)
+3. [Bihar 84.4% domicile in teacher recruitment (AIR News)](https://www.newsonair.gov.in/bihar-cm-nitish-kumar-announces-domicile-policy-for-4th-phase-teacher-recruitment-exam)
+4. [Tamil compulsory in all recruitment exams (DT Next)](https://www.dtnext.in/tamilnadu/2021/12/03/state-issues-go-to-make-tamil-compulsory-in-all-competitive-exams)
+5. [Punjabi eligibility test mandatory (Tribune)](https://www.tribuneindia.com/news/punjab/50-marks-in-punjabi-eligibility-test-made-mandatory-to-secure-govt-job-443571)
+6. [Karnataka Kannada test (Udayavani)](https://www.udayavani.com/english-news/karnataka-civil-services-kannada-test-mandatory-for-recruitment)
+7. [Telangana 95% local quota Presidential Order 2018 (Deccan Chronicle)](https://deccanchronicle.com/nation/current-affairs/310818/president-nod-for-telangana-zonal-system.html)
+8. [Sikkim PGT form: Certificate of Identification (Sikkim Education Dept)](https://education.sikkim.gov.in/GeneralSection/UploadedFiles/UploadedForms/18.pdf)
+9. [Meghalaya PRC requirement](https://www.meghalaya.gov.in/meghalaya/sites/default/files/forms/PRC.compressed_0.pdf)
+10. [Goa University adverts: 15 yrs residence + Konkani](https://www.unigoa.ac.in/uploads/confg_docs/20260105.131539~Vacancy_Teach_Comm_Jan26.pdf)
 
 ### What are NDMC schools?
 *Asked 2026-10-04*
