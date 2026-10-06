@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (34)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (35)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (11)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
@@ -1107,6 +1107,38 @@ To get a real number: file an RTI (Right to Information request) with Delhi DoE 
 4. [DU workload circular withdrawn (Careers360)](https://news.careers360.com/delhi-university-withdraws-du-circular-ugc-guidelines-increasing-workload-professors-promotion-after-backlash)
 5. [KVS JCM minutes 25-07-2012: PGT periods, 7.5-hour day (gconnect)](https://www.gconnect.in/orders-in-brief/kv-orders-in-brief/minutes-of-the-meeting-of-the-jcm-of-kvs-held-on-25-07-2012.html)
 6. [Delhi teachers on BLO/SIR duty, Aug 2026 (Newslaundry)](https://newslaundry.com/2026/08/03/11-hour-days-zero-rest-delhis-teachers-say-they-are-breaking-under-sir-duty)
+
+### For an Assistant Professor at a central university, are Saturday and Sunday off? (and compared with PGT)
+*Asked 2026-10-06*
+
+**Sunday: off everywhere.**
+
+**Saturday as Assistant Professor: depends on the college/university, not a central rule.** UGC Regulations 2018 cl. 14.1 allows either a 6-day week (30 teaching weeks) or a 5-day week (36 teaching weeks to make up the same 180 days). Each university/college picks.
+
+**DU:** varies by college. Some run Mon-Fri (e.g. Delhi College of Arts and Commerce closed Saturdays), others run 6 days (e.g. Kirori Mal, Dyal Singh, per a Careers360 answer). Even in 6-day colleges, teacher timetables often give each teacher one free day (some DU teacher timetables show Saturday as that teacher's off day). Your 16 hours are spread over the days the college runs.
+
+**Not guaranteed even when off:** exam invigilation, evaluation, admissions, seminars and NAAC work can fall on Saturdays. The 2025 DU 8 am-8 pm order is about daily hours, not weekends.
+
+**Hill central universities (CUHP, HNB Garhwal):** official working-day pattern not found yet; to verify.
+
+**PGT comparison:** Delhi DoE PGT: Sundays off, Saturdays usually off but not guaranteed (PTMs, remedial classes, trainings). KVS PGT: 6-day week, only the 2nd Saturday of each month off; working a 2nd Saturday/Sunday/holiday earns compensatory leave (KVS order 08-01-2019).
+
+**Bottom line:** a professor in a 5-day college gets a proper 2-day weekend most weeks; in a 6-day college you usually still get one weekday or Saturday free via the timetable. KVS is the most weekend-heavy of all the options.
+
+
+**Still to verify**
+
+- CUHP and HNB Garhwal: 5-day or 6-day week (check their academic calendars).
+- KVS 5-day week proposal (Deccan Herald report): status unverified.
+- Which specific DU colleges run Economics on a 5-day week (Careers360 answer is user-level, not official).
+
+**Sources**
+
+1. [UGC Regulations 2018 cl. 14.1 (saved: notifications/2018-07-18_UGC-Regulations-2018_Teachers.pdf)](https://thc.nic.in/Central%20Governmental%20Regulations/UGC%20(Minimum%20Qualifications%20for%20Appointment%20of%20Teachers%20and%20other%20Academic%20Staff%20in%20Universities%20and%20Colleges%20and%20other%20measures%20for%20the%20Maintenacne%20of%20Standards%20in%20Higher%20Education)%20Regulations,%202018.pdf)
+2. [Careers360 Q&A: DU class timings and whether Saturdays are off](https://www.careers360.com/question-what-is-the-timing-of-classes-in-du-colleges-and-are-saturdaysunday-are-off)
+3. [Janki Devi Memorial College teacher timetable 2025-26 (example)](https://www.jdm.du.ac.in/pdf/timetable-2025-26/Teacher/Phy-Edu.pdf)
+4. [KVS compensatory leave order (gconnect)](https://www.gconnect.in/orders-in-brief/kv-orders-in-brief/compensatory-leave-teaching-staff-kvs.html)
+5. [KVS order 22-01-2019 (kvs.ac.in)](https://kvs.ac.in/sites/default/files/hq/ANN%281%29-22-01-2019.PDF)
 
 ### If I clear UGC NET with good marks, can I apply for Assistant Professor (Economics) at every university in India? I want a permanent government job with a fixed salary, like DU.
 *Asked 2026-10-05*
