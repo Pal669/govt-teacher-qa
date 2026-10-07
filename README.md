@@ -5,7 +5,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (4)
-- [Exams & Timelines](#exams-timelines) (5)
+- [Exams & Timelines](#exams-timelines) (6)
 - [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (10)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
@@ -264,6 +264,27 @@ If 36 is ever notified: 36 + 3 (OBC Delhi) = 39.
 1. [UGC NET Bureau — official subject-wise syllabus page](https://www.ugcnetonline.in/syllabus-new.php)
 2. [Economics (code 01) syllabus PDF (saved: syllabus/UGC-NET/UGC-NET-Economics-Code01_Syllabus_English.pdf)](https://www.ugcnetonline.in/NTA_All_R_Syllabus/01/Economics_English.pdf)
 3. [NTA UGC NET portal](https://ugcnet.nta.nic.in/)
+
+### So the UGC NET Economics syllabus has stayed the same since 2019?
+*Asked 2026-10-07*
+
+**Yes.** The Economics (code 01) syllabus on the official UGC NET page is the version brought in for the June 2019 cycle, and no revision to it has been notified since. Exams from Dec 2019 to 2025 have all been set on it.
+
+**What this means:** every NTA-era Economics paper (Dec 2018 / June 2019 onward) tests the same 10 units, so those papers are the best guide to what gets asked. CBSE-era papers (2016-2018) were set on the older syllabus, so use them only for overlapping topics.
+
+**The one thing that has changed is the subject list, not this syllabus:** NTA added new subjects (Forestry, Statistics) in a 2026 session.
+
+**PGT comparison:** DSSSB's PGT Economics syllabus is printed in each advertisement and can change from one cycle to the next, so check it in every new ad. The NET syllabus has stayed fixed.
+
+
+**Still to verify**
+
+- Watch for an NEP-linked (National Education Policy) syllabus revision notice from UGC/NTA before each cycle; none was found as of 2026-10-07.
+
+**Sources**
+
+1. [UGC NET Bureau — official syllabus page](https://www.ugcnetonline.in/syllabus-new.php)
+2. [Shiksha — UGC NET syllabus 2026 (aggregator)](https://www.shiksha.com/exams/ugc-net-exam-syllabus)
 
 ### How many DSSSB PGT Economics vacancies are there in 2026?
 *Asked 2026-10-04*
