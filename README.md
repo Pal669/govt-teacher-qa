@@ -1,6 +1,6 @@
 # Government Teacher Q&A
 
-Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-06.
+Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-07.
 
 - [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (35)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (36)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (11)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
@@ -1069,6 +1069,45 @@ To get a real number: file an RTI (Right to Information request) with Delhi DoE 
 
 
 ## PGT vs DU Assistant Professor
+
+### Work-life balance: how many holidays and leaves does a permanent Assistant Professor get at DU? Is it different at other central universities? (and compared with PGT)
+*Asked 2026-10-07*
+
+**Short answer:** roughly 10 weeks of vacation + about 2 weeks of public holidays + 8 days casual leave a year at a DU college. One central rulebook (UGC Regulations 2018, cl. 8.4 and cl. 14) covers every central university, so leave TYPES are the same everywhere; only vacation DATES and a few local holidays differ.
+
+**Vacation (UGC cl. 14):** college on a 6-day week = 10 weeks vacation, no earned leave. University department on a 6-day week = 8 weeks vacation + earned leave credit. Any institution on a 5-day week = only 6 weeks vacation (more teaching weeks to reach 180 days). If called in during vacation, 1/3 of the days worked is credited as earned leave (cl. 14.2).
+
+**DU 2026-27 actual calendar (official, AC Appendix 41, 11-08-2026):** Autumn 18-25 Oct 2026; Winter 25-31 Dec 2026; Mid-semester 21-28 Mar 2027; Summer 3 Jun-20 Jul 2027. About 70 days in all (about 10 weeks). Catch: the first 2-3 weeks of summer usually go to answer-script evaluation, and admissions run in July, so the truly free stretch is shorter.
+
+**Public holidays:** about 2 weeks a year (UGC cl. 14.1). DU publishes its own list, in line with central government holidays in Delhi (ESTIMATE: 14-17 days).
+
+**Leave (UGC 2018 cl. 8, same at every central university):** Casual leave 8 days/year. Special casual leave up to 10 days/year (for exam duty at another university/PSC, inspections). Duty leave up to 30 days/year on full pay (conferences, invited lectures, committees). Earned leave: none in a college that gives the full 10 weeks, except 1/3 credit for vacation days worked; university departments earn it, cap 300 days, max 60 at a time; encashment as per central government rules. Half-pay leave 20 days per completed year (medical, private or academic reasons). Commuted leave up to 240 days in career (full pay, medical). Extraordinary leave without pay (max 5 years in career). Leave not due up to 360 days in career.
+
+**Family leave:** maternity 180 days (twice in career); paternity 15 days (up to 2 children); child care leave 730 days in career (women); adoption and surrogacy leave as per central government rules.
+
+**Academic leave (the real edge over PGT):** study leave after 3 years of continuous service as Assistant Professor, up to 3 years at a stretch, max 5 years in career, paid, counts for pension (e.g. to do a PhD). Sabbatical up to 1 year at a time (2 in career), but only after 7 years as Associate Professor or Professor. Also a Rs 3 lakh research start-up grant in social sciences (cl. 9).
+
+**Rough count of days off at a DU college (ESTIMATE):** 5-day college: about 104 weekend days + ~15 holidays + ~50 vacation weekdays + 8 casual leave = about 175 days off, ~190 working days. 6-day college: about 52 Sundays + ~15 + ~60 + 8 = about 135 off, ~230 working days. Exam, evaluation and admission duty eat into the vacation part.
+
+**Is it different at other central universities?** Rules no, calendar yes. (1) University departments (e.g. hill universities CUHP, HNB Garhwal) = 8 weeks vacation + earned leave, vs 10 weeks at DU colleges. (2) A 5-day week means only 6 weeks vacation. (3) Each university sets its own dates and local holidays; hill universities often shift the long break toward winter. Example: HNB Garhwal 2024-25 had Winter 1-15 Jan 2025 and Summer 9 Jun-12 Jul 2025 (about 7 weeks in all). CUHP calendar not found yet.
+
+**PGT comparison:** Delhi DoE PGT: summer ~51 days (2026: 11 May-30 Jun) + winter break + Delhi holiday list; casual leave 8; no earned leave in a full-vacation year; half-pay leave 20/year; child care leave 730 days; paternity 15. KVS PGT: summer + winter + autumn breaks, 6-day week with only the 2nd Saturday off. The basic leave package is almost identical (both follow central-style rules). The professor wins on duty leave (30 days), paid study leave and sabbatical, and a 5-day week at many DU colleges; the PGT's vacation is more fully free (no evaluation duty), but election/BLO/census duty can cut into it.
+
+
+**Still to verify**
+
+- DU's own 2026-27 holiday list (exact number of gazetted holidays).
+- DU summer 2027 dates (3 Jun-20 Jul) read from news reports; the official PDF's even-semester table did not extract cleanly. Re-check in the PDF.
+- Earned leave credit for university-department teachers: exact days per year (UGC formula 1/30 of service vs cl. 14.2's 1/3 of curtailed vacation).
+- CUHP (Dharamshala) academic calendar: vacation dates and 5- or 6-day week.
+- HNB Garhwal 2025-26 / 2026-27 vacation dates (2024-25 used as example; OCR read of the scanned PDF).
+
+**Sources**
+
+1. [UGC Regulations 2018, cl. 8 (leave), cl. 9 (research grant), cl. 14 (vacation) (saved: notifications/2018-07-18_UGC-Regulations-2018_Teachers.pdf)](https://thc.nic.in/Central%20Governmental%20Regulations/UGC%20(Minimum%20Qualifications%20for%20Appointment%20of%20Teachers%20and%20other%20Academic%20Staff%20in%20Universities%20and%20Colleges%20and%20other%20measures%20for%20the%20Maintenacne%20of%20Standards%20in%20Higher%20Education)%20Regulations,%202018.pdf)
+2. [DU Academic Calendar 2026-27, AC Appendix 41 (official, 11-08-2026)](https://www.du.ac.in/uploads/2026/11082026-AC-Appendix-41.pdf)
+3. [DU academic calendar 2026-27 summary (Careers360)](https://news.careers360.com/delhi-university-academic-calendar-2026-27-out-ug-pg-courses-classes-from-july-28-students-vacations-semester-1-to-8-exam-schedule/amp)
+4. [HNB Garhwal University Academic Calendar 2024-25 (official)](https://www.hnbgu.ac.in/sites/default/files/2025-04/Academic%20Calandar%202024-25.PDF)
 
 ### What is the actual work of an Assistant Professor at a central university (DU, hill universities like CUHP / HNB Garhwal)? Working hours, how many classes, what work apart from teaching, what is the job like? Give sources.
 *Asked 2026-10-06*
