@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (36)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (37)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (11)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
@@ -1109,6 +1109,29 @@ To get a real number: file an RTI (Right to Information request) with Delhi DoE 
 3. [DU academic calendar 2026-27 summary (Careers360)](https://news.careers360.com/delhi-university-academic-calendar-2026-27-out-ug-pg-courses-classes-from-july-28-students-vacations-semester-1-to-8-exam-schedule/amp)
 4. [HNB Garhwal University Academic Calendar 2024-25 (official)](https://www.hnbgu.ac.in/sites/default/files/2025-04/Academic%20Calandar%202024-25.PDF)
 
+### Can I become a permanent professor of Economics at an IIT?
+*Asked 2026-10-07*
+
+**Not today. Possible only after a PhD, and the window is tight.** NET does not count at IITs.
+
+- **Gate 1, PhD (mandatory):** PhD plus first class in the preceding degree (your PG 70% qualifies). No PhD, no application.
+- **Gate 2, age:** "preferably below 35" plus GoI relaxation (OBC-NCL +3, about 38). You turn 38 on 12-02-2033. It is a preference, not a hard bar, but older applicants need a strong record.
+- **Gate 3, research record:** IIT Delhi's Humanities and Social Sciences department wants modern research areas (quantitative macro/DSGE, econometrics and causal inference, game theory, public/urban/energy economics) with original published research. In practice, papers in good journals carry the decision.
+- **Grades:** Grade II (PhD, under 3 years' post-PhD experience) starts at Level 10, Rs 70,900, moves to Level 11 after a year. Grade I (3+ years' post-PhD experience) starts at Level 12, Rs 1,01,500, with 1-year probation, then Level 13A1 after 3 years.
+- **Realistic path (ESTIMATE):** full-time PhD 2027-2032 (JRF funds it), publish during the PhD, apply at about age 37 for Grade II. A miss on timing leaves central university posts as the fallback.
+- **Compared with PGT:** PGT needs a B.Ed and age under 33 (DSSSB, OBC Delhi) or 43 (KVS/EMRS); pay Level 8, Rs 47,600. IIT pay is much higher but the entry bar is a PhD plus publications, not an exam.
+- IITs with Economics faculty: Delhi, Bombay, Kanpur, Madras, Kharagpur, Roorkee, Hyderabad, Gandhinagar and most others (inside Humanities and Social Sciences). IIT Delhi's School of Public Policy also hires economists.
+
+**Still to verify**
+
+- Whether Grade II is a regular post from day one or a contract converted later varies by IIT. IIT Delhi's 2026 advert does not say. Check each IIT's advert.
+- How strictly IITs apply the 'preferably below 35' age in HSS hiring. No hard data found.
+
+**Sources**
+
+1. [IIT Delhi Rolling Advt. IITD/2026/AP-1, 23-03-2026 (saved: notifications/2026-03-23_IITD-Rolling-Advt-2026-AP-1.pdf)](https://home.iitd.ac.in/jobs-iitd/uploads/Rollling%20Advt.%20IITD%202026%20AP-1_23.3.2026.pdf)
+2. [IIT Hyderabad Faculty Recruitment Advt 2024 (same PhD + first class + under-35 rules)](https://iith.ac.in/assets/files/careers/faculty/IITH-Faculty-Recruitment-Advt-2024-Regular-drive.pdf)
+
 ### What is the actual work of an Assistant Professor at a central university (DU, hill universities like CUHP / HNB Garhwal)? Working hours, how many classes, what work apart from teaching, what is the job like? Give sources.
 *Asked 2026-10-06*
 
@@ -1199,7 +1222,6 @@ To get a real number: file an RTI (Right to Information request) with Delhi DoE 
 
 - Count of central universities (56) is from secondary sources; confirm on the UGC website.
 - State PSC age limits and language rules for government degree college Assistant Professor vary by state; check per state (Delhi, Uttarakhand, Himachal first).
-- IIT/NIT/IISER PhD requirement stated from general knowledge of their recruitment rules; confirm from a current ad if relevant.
 
 **Sources**
 

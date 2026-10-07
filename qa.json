@@ -2322,8 +2322,7 @@
      ],
      "open": [
       "Count of central universities (56) is from secondary sources; confirm on the UGC website.",
-      "State PSC age limits and language rules for government degree college Assistant Professor vary by state; check per state (Delhi, Uttarakhand, Himachal first).",
-      "IIT/NIT/IISER PhD requirement stated from general knowledge of their recruitment rules; confirm from a current ad if relevant."
+      "State PSC age limits and language rules for government degree college Assistant Professor vary by state; check per state (Delhi, Uttarakhand, Himachal first)."
      ]
     },
     {
@@ -2636,6 +2635,34 @@
       "Earned leave credit for university-department teachers: exact days per year (UGC formula 1/30 of service vs cl. 14.2's 1/3 of curtailed vacation).",
       "CUHP (Dharamshala) academic calendar: vacation dates and 5- or 6-day week.",
       "HNB Garhwal 2025-26 / 2026-27 vacation dates (2024-25 used as example; OCR read of the scanned PDF)."
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "q": "Can I become a permanent professor of Economics at an IIT?",
+     "a": [
+      "**Not today. Possible only after a PhD, and the window is tight.** NET does not count at IITs.",
+      "- **Gate 1, PhD (mandatory):** PhD plus first class in the preceding degree (your PG 70% qualifies). No PhD, no application.",
+      "- **Gate 2, age:** \"preferably below 35\" plus GoI relaxation (OBC-NCL +3, about 38). You turn 38 on 12-02-2033. It is a preference, not a hard bar, but older applicants need a strong record.",
+      "- **Gate 3, research record:** IIT Delhi's Humanities and Social Sciences department wants modern research areas (quantitative macro/DSGE, econometrics and causal inference, game theory, public/urban/energy economics) with original published research. In practice, papers in good journals carry the decision.",
+      "- **Grades:** Grade II (PhD, under 3 years' post-PhD experience) starts at Level 10, Rs 70,900, moves to Level 11 after a year. Grade I (3+ years' post-PhD experience) starts at Level 12, Rs 1,01,500, with 1-year probation, then Level 13A1 after 3 years.",
+      "- **Realistic path (ESTIMATE):** full-time PhD 2027-2032 (JRF funds it), publish during the PhD, apply at about age 37 for Grade II. A miss on timing leaves central university posts as the fallback.",
+      "- **Compared with PGT:** PGT needs a B.Ed and age under 33 (DSSSB, OBC Delhi) or 43 (KVS/EMRS); pay Level 8, Rs 47,600. IIT pay is much higher but the entry bar is a PhD plus publications, not an exam.",
+      "- IITs with Economics faculty: Delhi, Bombay, Kanpur, Madras, Kharagpur, Roorkee, Hyderabad, Gandhinagar and most others (inside Humanities and Social Sciences). IIT Delhi's School of Public Policy also hires economists."
+     ],
+     "sources": [
+      {
+       "title": "IIT Delhi Rolling Advt. IITD/2026/AP-1, 23-03-2026 (saved: notifications/2026-03-23_IITD-Rolling-Advt-2026-AP-1.pdf)",
+       "url": "https://home.iitd.ac.in/jobs-iitd/uploads/Rollling%20Advt.%20IITD%202026%20AP-1_23.3.2026.pdf"
+      },
+      {
+       "title": "IIT Hyderabad Faculty Recruitment Advt 2024 (same PhD + first class + under-35 rules)",
+       "url": "https://iith.ac.in/assets/files/careers/faculty/IITH-Faculty-Recruitment-Advt-2024-Regular-drive.pdf"
+      }
+     ],
+     "open": [
+      "Whether Grade II is a regular post from day one or a contract converted later varies by IIT. IIT Delhi's 2026 advert does not say. Check each IIT's advert.",
+      "How strictly IITs apply the 'preferably below 35' age in HSS hiring. No hard data found."
      ]
     }
    ]
