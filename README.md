@@ -1,11 +1,11 @@
 # Government Teacher Q&A
 
-Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-07.
+Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-08.
 
 - [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (4)
-- [Exams & Timelines](#exams-timelines) (6)
+- [Exams & Timelines](#exams-timelines) (7)
 - [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (10)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
@@ -238,6 +238,38 @@ If 36 is ever notified: 36 + 3 (OBC Delhi) = 39.
 
 
 ## Exams & Timelines
+
+### Which microeconomics books does Delhi University prescribe (BA Hons and MA), what do students and NET coaching actually use, and which should I read for NET?
+*Asked 2026-10-08*
+
+**DU BA (Hons), current UGCF 2022 syllabus, Semester I Introductory Micro:** Mankiw (8th ed., 2018), Frank & Cartwright, Dixit & Skeath (Games of Strategy), Acemoglu-Laibson-List.
+
+**DU intermediate micro (2019 Hons list and current B.A. Programme ECON007):** Varian, Intermediate Microeconomics (8th ed.) is the backbone, plus Snyder & Nicholson, Bernheim & Whinston and Osborne (game theory).
+
+**DU MA Economics (2025-26):** Microeconomics uses Mas-Colell-Whinston-Green, Jehle & Reny, Kreps (Microeconomic Foundations I), Laffont & Martimort, Feldman & Serrano and Sen. Game Theory uses Gibbons, Fudenberg & Tirole, Kreps II, Osborne & Rubinstein and Tadelis.
+
+**Not on any DU list checked:** Dwivedi (a market guide book), Gravelle & Rees, Henderson & Quandt, Kreps's 1990 Course. Pindyck & Rubinfeld appears only in DU School of Open Learning material, though NET coaching sites favour it.
+
+**For NET, the core three:** Varian, then Gibbons, then Jehle & Reny. Add Mas-Colell as a by-topic reference and Pindyck for worked examples. Drill the PYQ bank in parallel.
+
+**Corrections to the first (Haiku) version:** 7 of 17 ISBNs pointed to the wrong books; Z-Library is not legal; the coverage percentages were invented; free DU library access is not assured. Originals kept in notes/duplicate/.
+
+
+**Still to verify**
+
+- Official UGCF reading list for B.A. (Hons) Semester III/IV Intermediate Microeconomics not found; only the B.A. Programme ECON007 list and the 2019 Hons list were verified.
+- Book prices are estimates; check live on Amazon or Flipkart.
+- Author names and editions of the NET guide books (Trueman's, Sanjay Kumar) are unverified.
+- Whether an outsider can get DU library access is unverified.
+
+**Sources**
+
+1. [DU UGCF 2022 Economics Semester 1 (Appendix XLIX)](https://www.du.ac.in/uploads/06092022_49_Appendix-XLIX.pdf)
+2. [DU BA (Hons) Economics 2019 syllabus](https://www.du.ac.in/uploads/RevisedSyllabi1/Annexure-170%20(B.A.%20(Hons.)%20Economics).pdf)
+3. [DU MA Economics Year 1, 2025-26 (Appendix-59)](https://www.du.ac.in/uploads/new-web/12082025-ec-Appendix-59.pdf)
+4. [DU ECON007 Intermediate Micro I (college copy)](https://www.aurobindo.du.ac.in/images/department/economics/odd%20semester/syllabus-sem.-iii.pdf)
+5. [DSE MA Handbook 2017 (entrance references)](http://econdse.org/wp-content/uploads/2014/03/MA-Handbook-of-Information-2017.pdf)
+6. [Full notes saved: Government Teacher/notes/DU-Microeconomics-Resource-Research.md and Microeconomics-Books-Complete-List.md](https://www.du.ac.in/)
 
 ### What is the UGC NET JRF (Junior Research Fellowship) syllabus for Economics? I want to start preparing.
 *Asked 2026-10-07*
