@@ -4,7 +4,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 
 - [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
-- [Age Limits](#age-limits) (3)
+- [Age Limits](#age-limits) (4)
 - [Exams & Timelines](#exams-timelines) (5)
 - [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (10)
 - [Pay & Perks](#pay-perks) (6)
@@ -149,6 +149,33 @@ Also watch: NCTE's proposed **1-year B.Ed for postgraduates**. Announced, but no
 
 
 ## Age Limits
+
+### What age is suitable to become a DU teacher, going by past records? If I get hired at 35, will they actually hire me, or quietly reject me because of age without saying it?
+*Asked 2026-10-07*
+
+**Short answer: 35 is not a problem at DU, on paper or in practice.** DU Assistant Professor has no upper age limit (DU Advt R&P/316/2026; UGC Regulations 2018). Retirement is at 65, so joining at 35 still gives you about 30 years of service.
+
+**What past records show:** in the 2022-24 permanent-hiring drive, the people being interviewed and selected were mostly the ad-hoc (temporary) teachers already in DU colleges, who were largely aged 35-45 with 10+ years of teaching (Careers360). Some were absorbed and many were displaced: about 465 out of 615 interviewed in one round lost out, roughly 75% (NewsClick). The complaints were about 2-minute interviews, 100% weight on the interview, and alleged ideological preference. Age was not one of them. No public data on the age of selected candidates was found, so this cannot be proven either way.
+
+**Where age really bites on this track (the real gates):** (1) JRF (Junior Research Fellowship) through NET has an age limit of 35 for OBC (Other Backward Classes), so you lose the JRF option around Feb 2030. NET for Assistant Professor itself has no age limit. (2) IITs say 'preferably below 35' + 3 years for OBC (about 38). (3) Indirectly, at 35 you will compete with candidates who have a PhD and years of teaching. Your screening score with NET alone is 50, under the 55 floor, so the score is the barrier, not your age.
+
+**The honest risk:** the interview is opaque and no reasons are given, so a silent age preference can never be fully ruled out. But nothing in the record points to it. The documented problem is the interview itself.
+
+**PGT comparison:** PGT has hard written age limits. DSSSB is 30 + 3 OBC (Delhi) = 33, so at 35 you are out (unless the proposed raise to 36 is notified). KVS and EMRS are 40 + 3 OBC = 43, so 35 is fine there. In short: for PGT, age is a written rule; for DU, age is not a rule, and your score and interview decide it.
+
+
+**Still to verify**
+
+- No public data on the age profile of candidates actually selected in DU's 2022-24 drive; an RTI (Right to Information) request to DU colleges would settle it
+- The displacement figures (40%, 75%, 80%) come from news reports and teacher unions, not official DU data
+
+**Sources**
+
+1. [DU Advt R&P/316/2026 (saved: notifications/2026-03-17_DU-Advt-316-AsstProf-Qualifications.pdf)](https://www.du.ac.in/index.php?page=work-with-du)
+2. [Careers360: DU directs colleges to continue ad hoc teachers (ad-hocs mostly aged 35-45)](https://news.careers360.com/delhi-university-du-directs-colleges-continue-services-of-ad-hoc-teachers/amp)
+3. [NewsClick: displacement of ad hoc faculty (465 of 615 displaced)](https://www.newsclick.in/du-displacement-ad-hoc-faculty-unprecedented-assault-academics-say-teachers-organisations)
+4. [Careers360: protest over 80% displacement of ad-hoc teachers](https://news.careers360.com/delhi-university-du-teachers-stage-protest-over-80-massive-displacement-of-ad-hoc-teachers/amp)
+5. [Wikipedia: Suicide of Samarveer Singh (Hindu College ad hoc, displaced at 33)](https://en.wikipedia.org/wiki/Suicide_of_Samarveer_Singh)
 
 ### Someone told me the PGT age limit has moved up to 36. Is that true?
 *Asked 2026-10-01*
