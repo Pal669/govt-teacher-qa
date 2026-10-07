@@ -5,7 +5,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (3)
-- [Exams & Timelines](#exams-timelines) (4)
+- [Exams & Timelines](#exams-timelines) (5)
 - [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (10)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
@@ -211,6 +211,32 @@ If 36 is ever notified: 36 + 3 (OBC Delhi) = 39.
 
 
 ## Exams & Timelines
+
+### What is the UGC NET JRF (Junior Research Fellowship) syllabus for Economics? I want to start preparing.
+*Asked 2026-10-07*
+
+**Yes, there is an official syllabus.** UGC's NET Bureau sets it; NTA (National Testing Agency) runs the exam. Economics is subject code 01. The current version has been in force since the June 2019 cycle. NET and JRF use the same exam and same syllabus; JRF is just a higher cut-off.
+
+**Paper II (Economics), 10 units:** 1 Micro Economics; 2 Macro Economics; 3 Statistics and Econometrics; 4 Mathematical Economics; 5 International Economics; 6 Public Economics; 7 Money and Banking; 8 Growth and Development Economics; 9 Environmental Economics and Demography; 10 Indian Economy.
+
+**Paper I (Teaching & Research Aptitude, code 00), 10 units, 5 questions each:** Teaching Aptitude; Research Aptitude; Comprehension; Communication; Mathematical Reasoning; Logical Reasoning (incl. Indian logic); Data Interpretation; ICT; People, Development & Environment; Higher Education System.
+
+**Pattern:** one 3-hour computer-based test. Paper I 50 questions (100 marks) + Paper II 100 questions (200 marks) = 300 marks, no negative marking.
+
+**Saved:** official PDFs (English + Hindi) and a full topic-wise list in syllabus/UGC-NET/. 15 previous Economics papers (2016-2025) are already in syllabus/previous-papers/UGC-NET-Economics/.
+
+**PGT comparison:** DSSSB PGT Economics tests the same core (micro, macro, Indian economy, statistics) but at a lower depth, plus a general section and teaching methods. NET Units 3, 4 and 9 (econometrics, mathematical economics, environment and demography) go well beyond PGT level. Preparing for NET covers most of the PGT Economics section, not the other way round.
+
+
+**Still to verify**
+
+- Confirm the exam pattern (3 hours, 50+100 questions, no negative marking) in the NTA Information Bulletin for the December 2026 / June 2027 cycle when it is released.
+
+**Sources**
+
+1. [UGC NET Bureau — official subject-wise syllabus page](https://www.ugcnetonline.in/syllabus-new.php)
+2. [Economics (code 01) syllabus PDF (saved: syllabus/UGC-NET/UGC-NET-Economics-Code01_Syllabus_English.pdf)](https://www.ugcnetonline.in/NTA_All_R_Syllabus/01/Economics_English.pdf)
+3. [NTA UGC NET portal](https://ugcnet.nta.nic.in/)
 
 ### How many DSSSB PGT Economics vacancies are there in 2026?
 *Asked 2026-10-04*
