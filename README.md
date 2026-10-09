@@ -1,6 +1,6 @@
 # Government Teacher Q&A
 
-Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-09.
+Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-10.
 
 - [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
@@ -12,7 +12,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (37)
-- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (14)
+- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (15)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
 ## Eligibility & Documents
@@ -2303,6 +2303,39 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 
 
 ## Hill States (Himachal & Uttarakhand)
+
+### If I am an Assistant Professor at a Himachal Pradesh state university (set up by an Act of the state assembly) and that university closes, what happens to my job? What has happened in the past - are teachers shifted to another university?
+*Asked 2026-10-10*
+
+**Short answer:** a state university can only be shut by the state assembly repealing (cancelling) its Act. The repealing Act decides what happens to staff. In past Indian cases, permanent staff were moved to an older 'parent' university, not sacked. Contract and guest teachers are the ones who usually lose out.
+
+**Rajasthan precedent (closest real case):** Haridev Joshi University of Journalism (set up by the 2012 Congress govt) was closed by the next BJP govt through the Repeal Act of 2017. Its students and faculty were merged into the Centre for Mass Communication at the University of Rajasthan. The university was re-created by a new Act in 2019 after the government changed again.
+
+**Karnataka (2025):** the Congress govt moved to merge 9 universities created by the previous BJP govt in 2022 (Hassan, Chamarajanagar, Haveri, Kodagu, Koppal, Bagalkot, Mandya, Nrupatunga, Maharani cluster) back into their parent universities, citing no funds. The proposal was that staff transfer to the parent university. Most of these new universities had very few permanent teachers.
+
+**Himachal itself:** no HP state university has been fully closed so far (as far as found). But Sardar Patel University, Mandi (set up 2022 by the BJP govt) was cut down after the Dec 2022 change of government: about 125-130 affiliated colleges reduced to 44 (Kangra and Chamba colleges sent back to HPU Shimla), and several departments still run on guest teachers. The CM said there is no plan to close it.
+
+**The pattern:** the real risk is a NEW university created by one party and disliked by the next. Old, established universities (HPU Shimla, 1970) carry almost no closure risk.
+
+**Central university comparison:** a central university is created by an Act of Parliament; closing one would need Parliament. No central university has been closed so far (from general knowledge, not separately sourced). This is one more reason behind the 2026-10-05 decision to exclude state universities.
+
+**PGT comparison:** a DSSSB PGT is employed by the Delhi Directorate of Education, not by a school. If a school closes or merges, the teacher is posted to another government school. KVS/EMRS work the same way at the central level. So PGT jobs have essentially no 'employer closes' risk.
+
+
+**Still to verify**
+
+- Read the actual staff-transfer (savings) clause in the Rajasthan 2017 Repeal Act - were all permanent teachers absorbed on the same pay and seniority?
+- Karnataka 2025: confirm the final cabinet decision and what actually happened to staff of the merged universities.
+- Confirm that no central university has ever been closed or abolished.
+
+**Sources**
+
+1. [Rajasthan Act 17 of 2017 - Haridev Joshi University (Repeal) Act](https://www.casemine.com/act/in/5ed4fb0e894ef23297d8bc6c)
+2. [Haridev Joshi University - Wikipedia](https://en.wikipedia.org/wiki/Haridev_Joshi_University_of_Journalism_and_Mass_Communication)
+3. [Careers360 - Karnataka Deputy CM announces merger of new universities](https://news.careers360.com/karnataka-deputy-chief-minister-announces-merger-of-new-universities-parent-institutions)
+4. [The Mooknayak - Karnataka to close nine new universities](https://en.themooknayak.com/education/karnataka-to-close-nine-newly-established-universities-amid-operational-challenges)
+5. [Tribune - ABVP accuses govt of slowly destroying Sardar Patel varsity](https://www.tribuneindia.com/news/himachal/abvp-accuses-govt-of-slowly-destroying-sardar-patel-varsity)
+6. [Tribune - No plan to shut Mandi varsity: Sukhu](https://www.tribuneindia.com/news/himachal/no-plan-to-shut-mandi-varsity-sukhu-496556/amp)
 
 ### Once I clear NET, can I apply to all central universities and become a permanent Assistant Professor of Economics there? Himachal and Uttarakhand school jobs need domicile, so can this route give me a permanent job based in Uttarakhand or Himachal, so I can live in the northern hills if not Delhi?
 *Asked 2026-10-09*
