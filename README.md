@@ -12,7 +12,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (37)
-- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (12)
+- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (13)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
 ## Eligibility & Documents
@@ -2336,6 +2336,35 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 2. [CUHP recruitment notice Jan 2025 (IndGovtJobs, aggregator)](https://www.indgovtjobs.in/2025/01/CUHP-Recruitment.html)
 3. [HNB Garhwal University - Appointments page (official)](https://www.hnbgu.ac.in/index.php/appointment)
 4. [UGC Regulations 2018 (saved: notifications/2018-07-18_UGC-Regulations-2018_Teachers.pdf)](https://www.ugc.gov.in/pdfnews/4033931_UGC-Regulation_min_Qualification_Jul2018.pdf)
+
+### How many colleges come under the hill universities discussed (CU Himachal, HNB Garhwal, Doon University, HP University)?
+*Asked 2026-10-09*
+
+**CU Himachal Pradesh (central): 0.** Non-affiliating; teaches only in its own departments. Every post is a direct central university job.
+
+**HNB Garhwal (central): about 121 affiliated colleges/institutes** across the 7 Garhwal districts (Wikipedia/aggregator figure; official 'List of affiliated colleges 2025-26' PDF exists on hnbgu.ac.in but is in legacy Hindi font and could not be counted). The list opens with Dehradun aided PG colleges (DAV, DBS, SGRR). These are NOT central jobs: the college or state is the employer, so they are outside Ashish's central-only scope (decision 2026-10-05). Only HNBGU's own campus departments (Srinagar, Tehri, Pauri) count.
+
+**Doon University (state): effectively 0.** Unitary, residential university in Dehradun; its Act allows affiliation but it works through its own departments.
+
+**HP University, Shimla (state): about 165 colleges** after a May 2022 cabinet decision moved 137 colleges in Mandi, Kangra, Chamba, Kullu and Lahaul-Spiti to Sardar Patel University, Mandi (careers360). Older '221' figures pre-date the split. These are mostly HP govt degree colleges (hired via HPPSC, transferable) and private colleges.
+
+**Takeaway:** the number of colleges does not add central hill jobs. For a permanent central post in the hills, only the CUHP and HNBGU departments count, which is why posts are few. DU is the contrast: about 90 colleges, most centrally funded, so far more posts.
+
+**PGT comparison:** school jobs in these states are state cadre and closed to Ashish by domicile/schooling rules; college count matters only for state-cadre college posts (HPPSC/UKPSC), which have their own state conditions.
+
+
+**Still to verify**
+
+- Exact HNBGU affiliated count from the official 2025-26 list (legacy Kruti Dev font; needs manual count).
+- Whether the 2022 HPU/SPU Mandi split still stands or was partly reversed after 2023; current HPU college count.
+- Confirm Doon University has zero affiliated colleges today.
+
+**Sources**
+
+1. [HNB Garhwal University - Wikipedia](https://en.wikipedia.org/wiki/Hemwati_Nandan_Bahuguna_Garhwal_University)
+2. [HNBGU downloads page (List of affiliated colleges 2025-26)](https://hnbgu.ac.in/download)
+3. [Careers360: 137 colleges of five districts come under Sardar Patel University](https://news.careers360.com/himachal-pradesh-137-colleges-of-five-districts-come-under-sardar-patel-university)
+4. [Ministry of Education university compendium: Doon University](https://education.gov.in/sites/upload_files/mhrd/files/ebook/universirt-compendium/uttrakhand/Doon-University-Dehradun.pdf)
 
 ### What teaching jobs (schools and colleges) are there in hill states like Shimla / Himachal and Uttarakhand, and which permanent government jobs are in well-connected hill towns?
 *Asked 2026-10-05*
