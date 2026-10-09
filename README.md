@@ -12,7 +12,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (37)
-- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (15)
+- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (16)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
 ## Eligibility & Documents
@@ -2336,6 +2336,37 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 4. [The Mooknayak - Karnataka to close nine new universities](https://en.themooknayak.com/education/karnataka-to-close-nine-newly-established-universities-amid-operational-challenges)
 5. [Tribune - ABVP accuses govt of slowly destroying Sardar Patel varsity](https://www.tribuneindia.com/news/himachal/abvp-accuses-govt-of-slowly-destroying-sardar-patel-varsity)
 6. [Tribune - No plan to shut Mandi varsity: Sukhu](https://www.tribuneindia.com/news/himachal/no-plan-to-shut-mandi-varsity-sukhu-496556/amp)
+
+### And what if a CENTRAL university (e.g. CU Himachal Pradesh) closes? What happens to an Assistant Professor's job, and what has happened in the past?
+*Asked 2026-10-10*
+
+**Short answer:** no central university has ever been closed (none found in a search of central university Acts and amendments). Closing one would need Parliament to pass a law, and that law would decide what happens to the staff. The closest real cases are conversions and splits, and in those, permanent teachers kept their jobs.
+
+**Built-in protection (Central Universities Act, 2009):** when state universities were converted into central universities in 2009 (HNB Garhwal, Guru Ghasidas, Dr Harisingh Gour Sagar), the Act said every employee continues 'by the same tenure, at the same remuneration and upon the same terms and conditions', including pension, leave, gratuity and PF. The catch: if the new Statutes change your terms and you refuse them, the university can end your service with 3 months' pay as compensation (permanent staff) or 1 month's pay (others).
+
+**Real test case - HNB Garhwal:** teachers appointed between 2004 and 2007, while it was still a state university, had their service questioned after it became central in 2009. The Uttarakhand High Court ruled against them in 2013. The fight went to the Supreme Court (Somesh Thapliyal v. Vice Chancellor, HNBGU, decided 03-09-2021) after 15-17 years of service. Lesson: in a change of structure, the risk comes from HOW you were appointed (the self-financing department, the selection process), not from the university disappearing.
+
+**Split case:** in 2009, Parliament split the Central University of Jammu and Kashmir into two universities (Kashmir and Jammu). The universities were reorganised; none were shut.
+
+**The realistic central-university risk is starvation, not closure:** AMU's off-campus centres at Malappuram, Murshidabad and Kishanganj (opened from 2010) have been short of funds for years. For example, Kishanganj got only Rs 10 crore of the Rs 136.82 crore sanctioned. The centres still run, but slowly, with few courses. A new campus or centre can stay small for years.
+
+**What decides your safety at a central university:** (1) a regular, sanctioned, Level 10 post. Avoid self-financing, contract, guest or ad hoc posts, which have no such protection. (2) Being appointed through the full UGC 2018 selection process, so your appointment can't be questioned later. (3) A main campus over a new off-campus centre.
+
+**Comparison:** central university = Parliament-level protection and no closure in history. State university = one state government change can merge or cut it (Rajasthan 2017, Karnataka 2025, SPU Mandi 2023). PGT (DSSSB/KVS/EMRS) = the employer is the Directorate or the Sangathan, so a school closing only means a transfer.
+
+
+**Still to verify**
+
+- Read the full 2021 Supreme Court judgment (Somesh Thapliyal) and record the final outcome for the HNBGU teachers.
+- Confirm the exact section number of the Central Universities Act 2009 that carries the 'same tenure, same remuneration' clause.
+
+**Sources**
+
+1. [Central Universities Act, 2009 (India Code)](https://indiacode.nic.in/bitstream/123456789/14971/1/central_university_act_2009.pdf)
+2. [Supreme Court - Somesh Thapliyal v. VC, HNB Garhwal University, 03-09-2021](https://api.sci.gov.in/supremecourt/2013/27330/27330_2013_44_1501_29771_Judgement_03-Sep-2021.pdf)
+3. [Central Universities (Amendment) Act, 2009 (J&K split)](https://www.casemine.com/act/in/5a979d9e4a93263ca60b714c)
+4. [Sabrang - AMU West Bengal campus faces uncertain future](https://sabrangindia.in/no-central-funds-aligarh-muslim-universitys-second-campus-west-bengal-faces-uncertain)
+5. [Maktoob - AMU Kishanganj](https://maktoobmedia.com/india/they-fear-educated-muslims-how-governments-betrayed-the-promise-of-amu-kishanganj/)
 
 ### Once I clear NET, can I apply to all central universities and become a permanent Assistant Professor of Economics there? Himachal and Uttarakhand school jobs need domicile, so can this route give me a permanent job based in Uttarakhand or Himachal, so I can live in the northern hills if not Delhi?
 *Asked 2026-10-09*
