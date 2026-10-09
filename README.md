@@ -1,6 +1,6 @@
 # Government Teacher Q&A
 
-Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-08.
+Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-09.
 
 - [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
@@ -12,7 +12,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (37)
-- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (11)
+- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (12)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
 ## Eligibility & Documents
@@ -2303,6 +2303,39 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 
 
 ## Hill States (Himachal & Uttarakhand)
+
+### Once I clear NET, can I apply to all central universities and become a permanent Assistant Professor of Economics there? Himachal and Uttarakhand school jobs need domicile, so can this route give me a permanent job based in Uttarakhand or Himachal, so I can live in the northern hills if not Delhi?
+*Asked 2026-10-09*
+
+**Yes on eligibility, and this is the only permanent route into the hills that is open to you.** NET (Assistant Professor or JRF category, not 'PhD only') makes you eligible at every central university in India. There is no domicile or schooling rule at central universities, and your central OBC certificate counts everywhere.
+
+**The two hill central universities:** CU Himachal Pradesh (Dharamshala / Shahpur / Dehra, Kangra district) and HNB Garhwal University (Srinagar Garhwal, plus Tehri and Pauri campuses, Uttarakhand). Both have Economics departments. The job is a regular (permanent) Level 10 post, Rs 57,700 basic, retirement at 65, no transfer to another university (only possibly between that university's own campuses).
+
+**Eligibility is not selection.** These are university-department posts. CUHP shortlists 'strictly on the basis of Academic/Research Score' under UGC Regulations 2018, then interview. PhD is not mandatory for Assistant Professor (UGC amendment), but PhD holders score far higher. With NET alone you are likely to be below the cut-off when PhD + publication candidates apply. Same pattern as the DU departments (65 floor, closed without PhD).
+
+**Who actually gets hired (faculty CV check, 2026-10-05):** CUHP 6 of 7 economics faculty are from outside Himachal; HNBGU leans local (own PhDs, guest faculty first). So outsiders do get in, but on research records.
+
+**Few posts:** each university advertises a handful of Economics posts every few years. Realistic timeline: 3-8 years (ESTIMATE).
+
+**What raises your odds:** JRF (+ fellowship) -> PhD (ideally with 2+ papers) -> apply. Doing the PhD or guest teaching at CUHP/HNBGU itself puts you in the hills early and builds the local edge HNBGU hires show.
+
+**Other hill doors (not central-university):** state universities like Doon University (Dehradun) and HP University (Shimla) are open with NET as Unreserved, fixed campus (outside your 2026-10-05 central-only scope, noted for reference). KVS/JNV/EMRS schools in the hills need a B.Ed (done Aug 2028) but are transferable, so no guarantee of a hill posting.
+
+**PGT vs DU comparison:** hill PGT (state cadre) is closed for life by domicile/schooling rules; hill Assistant Professor (central) has no such gate, needs NET (no B.Ed), but selection rewards a PhD. DU colleges are the easier professor entry (screening 55 floor; you are at 50 with NET, 52 with JRF).
+
+
+**Still to verify**
+
+- Read the official CUHP and HNBGU adverts and screening proforma (Academic/Research Score table, floor, how many called per post) to compute Ashish's exact score there.
+- Count Economics posts in the last 2-3 CUHP and HNBGU adverts to estimate frequency.
+- Check whether CUHP/HNBGU run a PhD in Economics with JRF seats, and guest-faculty openings for NET holders.
+
+**Sources**
+
+1. [CU Himachal Pradesh recruitment 2025 (Adda247, aggregator)](https://www.adda247.com/teaching-jobs-exam/cu-himachal-pradesh-recruitment-2025-notification-out-apply-link-salary/)
+2. [CUHP recruitment notice Jan 2025 (IndGovtJobs, aggregator)](https://www.indgovtjobs.in/2025/01/CUHP-Recruitment.html)
+3. [HNB Garhwal University - Appointments page (official)](https://www.hnbgu.ac.in/index.php/appointment)
+4. [UGC Regulations 2018 (saved: notifications/2018-07-18_UGC-Regulations-2018_Teachers.pdf)](https://www.ugc.gov.in/pdfnews/4033931_UGC-Regulation_min_Qualification_Jul2018.pdf)
 
 ### What teaching jobs (schools and colleges) are there in hill states like Shimla / Himachal and Uttarakhand, and which permanent government jobs are in well-connected hill towns?
 *Asked 2026-10-05*
