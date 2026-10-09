@@ -12,7 +12,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (37)
-- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (13)
+- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (14)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 
 ## Eligibility & Documents
@@ -2365,6 +2365,45 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 2. [HNBGU downloads page (List of affiliated colleges 2025-26)](https://hnbgu.ac.in/download)
 3. [Careers360: 137 colleges of five districts come under Sardar Patel University](https://news.careers360.com/himachal-pradesh-137-colleges-of-five-districts-come-under-sardar-patel-university)
 4. [Ministry of Education university compendium: Doon University](https://education.gov.in/sites/upload_files/mhrd/files/ebook/universirt-compendium/uttrakhand/Doon-University-Dehradun.pdf)
+
+### List all the colleges (mostly Uttarakhand, some Himachal) under HNB Garhwal / CU Himachal and government universities where I can apply for Assistant Professor and get a permanent Level 10 government job. Put them in categories.
+*Asked 2026-10-09*
+
+**File:** output/Hill-Assistant-Professor-Colleges.xlsx (rebuild: scripts/build_hill_asst_prof_colleges.py). Uttarakhand lists are the official Dept of Higher Education lists (he.uk.gov.in), pulled 2026-10-09.
+
+**A. YES, best fit: central university campuses (5).** HNB Garhwal: Birla Campus Srinagar, Chauras Campus, SRT Campus Badshahithaul (Tehri), BGR Campus Pauri. CU Himachal: Dharamshala/Shahpur/Dehra. Level 10, permanent, no domicile rule, no transfer to another university. HNBGU's affiliated colleges do NOT give central jobs.
+
+**B. YES but transferable: 118 Uttarakhand Government Degree/PG Colleges** (Nainital 11, Almora 15, Bageshwar 4, Pithoragarh 7, Champawat 6, Udham Singh Nagar 9, Pauri 17, Chamoli 11, Rudraprayag 4, Uttarkashi 6, Tehri 14, Dehradun 6, Haridwar 8; about 85 in the hills). Hired by UKPSC. Level 10, permanent state job, but transferable across all of them. No domicile condition found in the 2022 ad (455 posts, 42 Economics, interview only, age 21-43 on 01-07-2021); you compete as General. Outside the 2026-10-05 central-only scope.
+
+**C. YES, fixed campus: 5 Uttarakhand state universities** (Kumaun Nainital, Soban Singh Jeena Almora, Sri Dev Suman Tehri, Doon Dehradun, Uttarakhand Open Univ Haldwani). Level 10, permanent, compete as UR. Outside central-only scope.
+
+**D. MAYBE, risky: 21 government-aided colleges** (e.g. DAV, DBS, SGRR, MKP Dehradun; MPG Mussoorie; BSM Roorkee; Rath Paithani). State pays UGC-scale salary on sanctioned posts, but the college management hires and is the employer. HNBGU voted in 2023 to disaffiliate 10 of them over unfunded salaries; the High Court stayed it for DAV.
+
+**E. NO: ~100 private/self-financed colleges under HNBGU.** Not government, no guaranteed Level 10.
+
+**F. Himachal govt colleges (HPPSC College Cadre): probably yes,** Level 10, permanent, transferable across HP; age 18-45; 2026 cycle 369 posts incl. Economics; no HP-schooling condition found for college cadre (that rule is for school lecturers). Official HP college list could not be downloaded.
+
+**PGT comparison:** in the hills the school side is closed for you (state domicile/schooling rules; KVS/JNV/EMRS need a B.Ed and are transferable). The college side opens with NET alone across categories A, B, C and F.
+
+
+**Still to verify**
+
+- Read the official UKPSC govt-college Assistant Professor advert: domicile wording, Hindi requirement, current age limit (42 vs 43).
+- Which of the 118 Uttarakhand govt colleges have a sanctioned Economics post.
+- Aided colleges: is recruitment currently allowed (state approval/grant) and current HNBGU affiliation status after the 2023 disaffiliation case.
+- HPPSC college cadre: confirm no HP-schooling/bonafide condition in the official ad; pull the current HP government college list.
+- HNBGU Chauras and Tehri campuses: does each have an Economics department?
+- District and terrain columns in the Excel are inferred from list order and town name, not stated by the source.
+
+**Sources**
+
+1. [Uttarakhand Higher Education: Government Colleges (official)](https://he.uk.gov.in/government-colleges-2/)
+2. [Uttarakhand Higher Education: Government Aided Colleges (official)](https://he.uk.gov.in/government-aided-colleges/)
+3. [Uttarakhand Higher Education: Government Universities (official)](https://he.uk.gov.in/government-universities/)
+4. [HNBGU downloads: affiliated colleges 2025-26 (official)](https://hnbgu.ac.in/download)
+5. [UKPSC Assistant Professor (Govt Degree Colleges) 2022 summary (aggregator)](https://govt-jobs.careeruttarakhand.com/ukpsc-assistant-professor-recruitment-govt-degree-colleges.html)
+6. [Garhwal Post: HC stays HNBGU decision to disaffiliate DAV PG College](https://garhwalpost.in/hc-stays-hnb-garhwal-universitys-decision-to-disaffiliate-dav-pg-college/)
+7. [HPPSC Assistant Professor College Cadre 2026 (aggregator)](https://www.freejobalert.com/articles/hppsc-assistant-professor-recruitment-2026-apply-online-for-369-posts-3054336)
 
 ### What teaching jobs (schools and colleges) are there in hill states like Shimla / Himachal and Uttarakhand, and which permanent government jobs are in well-connected hill towns?
 *Asked 2026-10-05*
