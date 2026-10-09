@@ -5,7 +5,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (4)
-- [Exams & Timelines](#exams-timelines) (7)
+- [Exams & Timelines](#exams-timelines) (9)
 - [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (10)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
@@ -270,6 +270,45 @@ If 36 is ever notified: 36 + 3 (OBC Delhi) = 39.
 4. [DU ECON007 Intermediate Micro I (college copy)](https://www.aurobindo.du.ac.in/images/department/economics/odd%20semester/syllabus-sem.-iii.pdf)
 5. [DSE MA Handbook 2017 (entrance references)](http://econdse.org/wp-content/uploads/2014/03/MA-Handbook-of-Information-2017.pdf)
 6. [Full notes saved: Government Teacher/notes/DU-Microeconomics-Resource-Research.md and Microeconomics-Books-Complete-List.md](https://www.du.ac.in/)
+
+### Is the UGC NET Economics paper based more on Masters (MA) material or graduation (BA) material?
+*Asked 2026-10-08*
+
+**Mostly MA (Master's) level.** NET is the eligibility test for Assistant Professor and JRF (Junior Research Fellowship), and only postgraduates (or final-year PG students) can sit it. Paper II (Economics, Code 01) is set to MA core-course depth.
+
+**Most topic names look like BA (Hons) topics, but the depth is MA.** Elasticity, IS-LM, national income and the multiplier are BA (Hons) foundations. Under the same headings the syllabus also includes MA content: duality (Roy's identity, Shephard's lemma), general equilibrium and welfare theorems, asymmetric information, rational expectations, econometrics, growth models.
+
+**By unit (rough):** MA-heavy: 1 Micro, 2 Macro, 3 Statistics & Econometrics, 4 Mathematical Economics, 8 Growth & Development. BA (Hons) base plus MA extensions: 5 International, 6 Public, 7 Money & Banking. Factual, policy and data-driven (neither BA nor MA theory): 9 Environment & Demography, 10 Indian Economy.
+
+**How we prepare:** learn the BA (Hons) foundations first (Varian, Koutsoyiannis), then go to MA depth (Jehle & Reny, Nicholson & Snyder). This is the approach in Economics/01-Micro/subtopic-map.md.
+
+**PGT comparison:** DSSSB and KVS PGT Economics papers test the subject at graduation-to-PG level, on top of general sections (reasoning, teaching, etc.). Questions are mostly shallower and more factual than NET. If you are ready for NET, the PGT subject section is largely covered too.
+
+
+**Still to verify**
+
+- Check the exact syllabus-level wording in the latest DSSSB and KVS PGT Economics notifications (graduation vs PG level).
+
+**Sources**
+
+1. [UGC NET Economics syllabus Code 01 (saved: syllabus/UGC-NET/)](https://www.ugcnetonline.in/syllabus-new.php)
+2. [Unit 1 subtopic map: NET headings + DU/JMI/VB/CUK MA syllabi (Economics/01-Micro/subtopic-map.md)]()
+
+### Follow-up: should I rebuild my understanding of NET topics at MA level through the economics teacher?
+*Asked 2026-10-08*
+
+**Yes, but rebuild rather than start over.** You already have an MA (70%, self-reported). For each topic: quickly go over the BA intuition and diagram, then take it to MA depth with the maths, the derivation and the exceptions.
+
+**Order:** follow Economics/curriculum.md (Micro, then Macro, Money, International, Public, Environment, Growth, Maths, Econometrics, Indian Economy). Maths is taught inside each topic as it is needed.
+
+**Biggest gap to expect:** the maths side (Lagrange, duality, econometrics). Spend extra time there, not on diagrams you already know.
+
+**PGT benefit:** the same base covers the DSSSB/KVS PGT subject section.
+
+
+**Sources**
+
+1. [Economics/curriculum.md and Economics/01-Micro/subtopic-map.md]()
 
 ### What is the UGC NET JRF (Junior Research Fellowship) syllabus for Economics? I want to start preparing.
 *Asked 2026-10-07*
