@@ -1,6 +1,6 @@
 # Government Teacher Q&A
 
-Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-18.
+Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-19.
 
 - [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
@@ -14,6 +14,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (37)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (16)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
+- [Exam Preparation Strategy](#exam-preparation-strategy) (1)
 
 ## Eligibility & Documents
 
@@ -2993,3 +2994,34 @@ Other fixed-campus options: Himachal Pradesh University, Shimla (no Economics po
 
 1. [UGC Regulations 2018 (saved: notifications/2018-07-18_UGC-Regulations-2018_Teachers.pdf)](https://www.ugc.gov.in)
 2. [7th CPC HRA OM (staffnews)](https://www.staffnews.in/2017/07/7th-cpc-house-rent-allowance-hra-finance-ministry-om.html)
+
+
+## Exam Preparation Strategy
+
+### What is the best way to crack the aptitude, logical reasoning and answer-writing parts of government teaching exams, and which credible sources should I use?
+*Asked 2026-10-18*
+
+**Where these parts sit:** DSSSB PGT Section I (100 marks, includes reasoning + numerical ability, 0.25 negative); KVS/NVS Tier I and EMRS Tier I (reasoning, qualifying/screening); UGC NET Paper 1 (mathematical + logical reasoning, data interpretation). Descriptive answer writing matters in EMRS Tier II (15 descriptive questions, merit decided on Tier II) and the DU Presentation Assessment (essay).
+
+**Method:** previous-year papers first (they define the real syllabus), then concept books for weak chapters, then timed sectional and full mocks, with an error log reviewed weekly.
+
+**Quant sources:** R.S. Aggarwal Quantitative Aptitude (concepts), Rakesh Yadav 7300+ (SSC-level volume), Kiran chapter-wise previous papers; Rodha (Ravi Prakash) free YouTube arithmetic playlist for method.
+
+**Reasoning sources:** R.S. Aggarwal A Modern Approach to Verbal & Non-Verbal Reasoning; M.K. Pandey Analytical Reasoning for arrangements/puzzles; KVS Madaan (Pearson) for NET Paper 1 including Indian logic.
+
+**Answer writing:** Pyramid Principle (Barbara Minto) structure: answer first, then 3-4 supporting points, then a forward-looking close; the question's directive word (explain / examine / compare) decides the shape. Practise against real past descriptive questions under time.
+
+**Negative marking maths (DSSSB, +1 / -0.25, 4 options):** a pure random guess has a small positive expected value (+0.06); eliminating one option raises it to +0.17. So guess whenever at least one option is clearly wrong.
+
+
+**Still to verify**
+
+- KVS PGT Tier I scheme (negative marking, reasoning question count) conflicts across aggregator sites: check the next official CBSE/KVS notification.
+- EMRS Tier II descriptive word limits not published in secondary sources: check the NESTS notification.
+
+**Sources**
+
+1. [PracticeMock: best SSC quant books](https://www.practicemock.com/blog/best-books-for-ssc-cgl-quantitative-aptitude/)
+2. [Careers360: best UGC NET Paper 1 books](https://www.careers360.com/question-which-are-the-best-books-for-ugc-net-paper-1)
+3. [PW: EMRS PGT exam pattern](https://www.pw.live/teaching/exams/emrs-pgt-biology-syllabus)
+4. [Rodha (Ravi Prakash): free quant playlist](https://www.youtube.com/playlist?list=PLG4bwc5fquzgfMh4YFDnv7fttM0RIKiUQ)
