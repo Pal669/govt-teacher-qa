@@ -1,11 +1,11 @@
 # Government Teacher Q&A
 
-Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-10.
+Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-18.
 
 - [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (4)
-- [Exams & Timelines](#exams-timelines) (9)
+- [Exams & Timelines](#exams-timelines) (10)
 - [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (10)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
@@ -238,6 +238,44 @@ If 36 is ever notified: 36 + 3 (OBC Delhi) = 39.
 
 
 ## Exams & Timelines
+
+### People talk about UGC NET, SET (State Eligibility Test), ICMR and ICAR NET. What is each one, and what does each open up for me?
+*Asked 2026-10-18*
+
+**Short answer:** UGC NET is the one that matters. SET is a narrower, state-only version of it. ICAR NET and ICMR JRF are built for other fields (agriculture and health research) and do little for an MA Economics holder aiming at central universities.
+
+**1. UGC NET (National Eligibility Test)** - run by NTA (National Testing Agency) twice a year (June and December). Three result categories: (1) JRF (Junior Research Fellowship) + Assistant Professor + PhD admission, (2) Assistant Professor + PhD admission, (3) PhD admission only.
+
+- Opens: Assistant Professor eligibility at every university and college in India, central or state. Valid for life.
+- JRF adds a paid PhD: Rs 37,000/month for 2 years, then Rs 42,000/month as SRF (Senior Research Fellow) (UGC rates from 01-01-2023). JRF age limit 30, +5 for OBC-NCL (Other Backward Classes, Non-Creamy Layer) = 35, so about Feb 2030 for you.
+**2. SET / SLET (State Eligibility Test)** - run by a state (MH-SET, KSET, TNSET, GSET, etc.), accredited by UGC (University Grants Commission). Same purpose as NET, but since June 2002 it makes you eligible only in universities and colleges of that one state. No JRF, no fellowship. Delhi has no SET.
+
+- For you: weak fit, because state universities and state colleges are out of scope (decision 2026-10-05). Only possible use: a central university located in that state (e.g. Uttarakhand SET for HNB Garhwal), if its ad accepts NET/SET. Not yet confirmed.
+**3. ICAR NET (run by ASRB, Agricultural Scientists Recruitment Board)** - eligibility test for Lecturer / Assistant Professor in State Agricultural Universities (agriculture, veterinary, fisheries). Agricultural Economics is one of its subjects, but secondary sources say it needs a Master's in Agricultural Economics / Dairy Economics / Veterinary Economics. An MA Economics likely does not qualify (to verify from the official ASRB table). No upper age limit.
+
+**4. ICMR JRF (Indian Council of Medical Research)** - not an eligibility test for teaching. It is a PhD fellowship exam for health research. Most seats are life sciences; social sciences get a small share (30 of 150 in 2022), and economics enters only as health economics. Age 28 + 3 for OBC = 31, judged around 30 September of the exam year, so 2026 is roughly your last year. Does not make you eligible for Assistant Professor.
+
+**PGT track comparison:** none of these four is needed for DSSSB / KVS / EMRS PGT. PGT needs a Master's 50%+ + B.Ed + that recruiter's own exam. NET helps only the Assistant Professor track.
+
+**Bottom line:** keep UGC NET (target JRF) as the single focus. Skip ICAR NET (degree mismatch). ICMR JRF only if you want a health-economics PhD and can sit it in 2026. SET only as a backup tied to one hill-state central university, once confirmed.
+
+
+**Still to verify**
+
+- ICAR (ASRB) NET Agricultural Economics: confirm from the official ASRB subject table whether MA Economics is accepted (secondary sources say Agricultural / Dairy / Veterinary Economics only).
+- ICMR JRF: confirm the current cycle is still held, whether health economics still counts, and the exact age cut-off date.
+- SET: confirm whether a central university located in a state (e.g. HNB Garhwal, CU Himachal) accepts that state's SET in place of NET in its current ads.
+- ICAR NET validity period (life or limited) - not yet checked.
+
+**Sources**
+
+1. [UGC Regulations 2018 (SET valid only in the respective state)](https://www.hpuniv.ac.in/hpuniv/upload/uploadfiles/files/UGC_regulations_2018.pdf)
+2. [GSET office, MSU Baroda: post-June 2002 SET valid only in that state](https://msubaroda.ac.in/Offices/111)
+3. [ICMR: Junior Research Fellowships (official page)](https://icmr.gov.in/junior-research-fellowships-jrf)
+4. [ICMR JRF 2022 notice summary (150 fellowships, 30 social sciences)](https://www.biotecnika.org/2022/07/icmr-jrf-2022-registration-icmr-jrf-application-form-2022)
+5. [Testbook: ASRB NET eligibility (subject-wise degrees)](https://testbook.com/asrb-net/eligibility-criteria)
+6. [Careers360: UGC revises JRF/SRF fellowship amounts (2023)](https://news.careers360.com/ugc-revises-fellowship-amounts-for-jrf-srf-post-doctoral-other-schemes)
+7. [Careers360: UGC NET eligibility (JRF age 30, +5 relaxation)](https://competition.careers360.com/articles/ugc-net-eligibility-criteria/amp)
 
 ### Which microeconomics books does Delhi University prescribe (BA Hons and MA), what do students and NET coaching actually use, and which should I read for NET?
 *Asked 2026-10-08*
