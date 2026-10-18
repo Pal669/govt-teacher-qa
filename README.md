@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (4)
 - [Exams & Timelines](#exams-timelines) (11)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (12)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (13)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
@@ -555,6 +555,35 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 2. [Shriram Institute: NABET accreditation annexure listing FAEs (incl. SE, in-house status)](https://shriraminstitute.org/wp-content/uploads/2025/09/NABET-Accreditation-20.04.2026.pdf)
 3. [VNSGU: sample MoU engaging an external socio-economics FAE per project, 1-year validity](https://vnsgu.ac.in/uploads/assetlinks/c40d6c3b-e10a-4c48-b551-ab160ad83bbb.pdf)
 4. [SPCE: 2025 NABET EIA re-accreditation record (Category A/B, mentor-based FAEs)](https://spce.ac.in/Documents/Civil/Faculty%20achievement/2025/2025_HSJ_NABET-EIA.pdf)
+
+### What does the Institute of Economic Growth (IEG), near DU North Campus, do? Can I become a permanent teacher there?
+*Asked 2026-10-18*
+
+**IEG is a research institute, not a teaching college. Yes, it has permanent faculty posts, and on paper you would qualify for one once you clear NET. In practice you would also need research papers to be selected.**
+
+- **What it is:** an autonomous research and training institution, set up in 1952 (founder V.K.R.V. Rao), at University of Delhi Enclave, North Campus. It researches economics, sociology and demography for policy.
+- **What the faculty actually do:** research and policy studies, not classroom teaching. Units include the Agricultural Economic Research Unit (AERU) and the Population Research Centre (PRC), plus an Indian Economic Service (IES) unit that trains IES officers. Field work across India is mandatory.
+- **Posts are permanent:** the 23-06-2026 advert says faculty positions 'on regular basis', Assistant Professor at Academic Level 10 (Rs 57,700-1,82,400), the same pay as a DU college or central university.
+- **Eligibility (same base as DU):** Master's 55% (50% OBC-NCL) in a relevant subject + UGC NET (SET also accepted), or a PhD. No age limit stated. Your central-format OBC certificate is the one they ask for (Govt of India format).
+- **The catch:** each unit adds conditions. AERU (Agricultural Economics) wanted a 'demonstrable track record of research and policy analysis in agriculture' and at least one very good peer-reviewed journal paper. PRC (Population) wanted a 1-year demography course if your PG isn't in demography. Shortlisting uses the UGC academic score (Table 3A); final selection is only on the interview / presentation.
+- **Size:** about 1 post per unit per advert (June 2026: 1 SC at PRC, 1 UR at AERU). Rare and very competitive.
+**PGT vs Assistant Professor comparison:** for PGT, IEG doesn't count. On the professor track it is a third door next to DU colleges and central university departments. The pay is the same (Level 10), but the job is research rather than teaching, and you would realistically need NET + a PhD or published papers.
+
+**For you:** good fit if you enjoy research, data and policy work (it matches your finance-macro background). Route: NET (ideally JRF) -> PhD or 1-2 journal papers in agriculture/macro/development -> watch iegindia.org/career.
+
+
+**Still to verify**
+
+- Who funds IEG (ICSSR / ministries) and whether faculty get pension vs NPS (National Pension System); retirement age (60 or 65).
+- Whether IEG faculty supervise PhDs (DU-registered) or teach any regular course besides IES training.
+- How often IEG advertises Assistant Professor posts in Economics units (past adverts 2022, 2023, 2026).
+
+**Sources**
+
+1. [IEG Advt IEG/Admin/CO/Estab-IV/66/2026/1620, Assistant Professor (23-06-2026), saved: notifications/2026-06-23_IEG-Advt-AsstProf-PRC-AERU.pdf](https://iegindia.org/wp-content/uploads/2026/06/Final_FullAdvtforpostofAsst_Prof_23_06_26.pdf)
+2. [IEG: About](https://iegindia.org/about-ieg/)
+3. [IEG: Professor (IES unit) rolling advert, 08-07-2026](https://iegindia.org/wp-content/uploads/2026/07/Final-Advertisement_Professor_Rolling-basis_8.7.26.pdf)
+4. [Wikipedia: Institute of Economic Growth](https://en.wikipedia.org/wiki/Institute_of_Economic_Growth)
 
 ### Like Uttarakhand and Himachal, which government teaching jobs can I NOT apply for? Be thorough and clear.
 *Asked 2026-10-06*
