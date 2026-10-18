@@ -5,7 +5,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (4)
-- [Exams & Timelines](#exams-timelines) (10)
+- [Exams & Timelines](#exams-timelines) (11)
 - [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (10)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
@@ -276,6 +276,26 @@ If 36 is ever notified: 36 + 3 (OBC Delhi) = 39.
 5. [Testbook: ASRB NET eligibility (subject-wise degrees)](https://testbook.com/asrb-net/eligibility-criteria)
 6. [Careers360: UGC revises JRF/SRF fellowship amounts (2023)](https://news.careers360.com/ugc-revises-fellowship-amounts-for-jrf-srf-post-doctoral-other-schemes)
 7. [Careers360: UGC NET eligibility (JRF age 30, +5 relaxation)](https://competition.careers360.com/articles/ugc-net-eligibility-criteria/amp)
+
+### What is NABET?
+*Asked 2026-10-18*
+
+**NABET is not an exam.** It is the National Accreditation Board for Education and Training, a board under QCI (Quality Council of India).
+
+- It accredits (gives a quality stamp to) schools, mostly private ones, after checking about 50 areas: governance, teaching, curriculum, exams, infrastructure, safety. The stamp lasts about 4 years.
+- It does not make you eligible for any job. Not needed for PGT (DSSSB / KVS / EMRS) or Assistant Professor.
+- Where it touches you: a school's NABET stamp can signal a well-run employer if you ever look at private schools. Government schools (DoE Delhi, KVS) rarely carry it.
+- If you heard it alongside NET / SET, the person probably meant one of those, or NAAC (National Assessment and Accreditation Council), which grades colleges and universities (A++, A+, etc.).
+
+**Still to verify**
+
+- Confirm NABET scheme details (parameters, 4-year validity) from the official QCI/NABET page; current sources are school press releases.
+
+**Sources**
+
+1. [Chitkara International School: NABET accreditation from QCI](https://www.punekarnews.in/chitkara-international-school-becomes-the-first-school-in-the-region-to-receive-nabet-school-accreditation-certificate-from-the-quality-council-of-india/)
+2. [Delhi World Public School Ajmer: NABET accreditation](https://educationworld.in/delhi-world-public-school-ajmer-receives-nabet-accreditation/)
+3. [Lok Sabha answer on NABET school accreditation](https://eparlib.nic.in/bitstream/123456789/646159/1/78217.pdf)
 
 ### Which microeconomics books does Delhi University prescribe (BA Hons and MA), what do students and NET coaching actually use, and which should I read for NET?
 *Asked 2026-10-08*

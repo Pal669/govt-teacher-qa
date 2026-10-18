@@ -640,6 +640,34 @@
       "SET: confirm whether a central university located in a state (e.g. HNB Garhwal, CU Himachal) accepts that state's SET in place of NET in its current ads.",
       "ICAR NET validity period (life or limited) - not yet checked."
      ]
+    },
+    {
+     "date": "2026-10-18",
+     "q": "What is NABET?",
+     "a": [
+      "**NABET is not an exam.** It is the National Accreditation Board for Education and Training, a board under QCI (Quality Council of India).",
+      "- It accredits (gives a quality stamp to) schools, mostly private ones, after checking about 50 areas: governance, teaching, curriculum, exams, infrastructure, safety. The stamp lasts about 4 years.",
+      "- It does not make you eligible for any job. Not needed for PGT (DSSSB / KVS / EMRS) or Assistant Professor.",
+      "- Where it touches you: a school's NABET stamp can signal a well-run employer if you ever look at private schools. Government schools (DoE Delhi, KVS) rarely carry it.",
+      "- If you heard it alongside NET / SET, the person probably meant one of those, or NAAC (National Assessment and Accreditation Council), which grades colleges and universities (A++, A+, etc.)."
+     ],
+     "sources": [
+      {
+       "title": "Chitkara International School: NABET accreditation from QCI",
+       "url": "https://www.punekarnews.in/chitkara-international-school-becomes-the-first-school-in-the-region-to-receive-nabet-school-accreditation-certificate-from-the-quality-council-of-india/"
+      },
+      {
+       "title": "Delhi World Public School Ajmer: NABET accreditation",
+       "url": "https://educationworld.in/delhi-world-public-school-ajmer-receives-nabet-accreditation/"
+      },
+      {
+       "title": "Lok Sabha answer on NABET school accreditation",
+       "url": "https://eparlib.nic.in/bitstream/123456789/646159/1/78217.pdf"
+      }
+     ],
+     "open": [
+      "Confirm NABET scheme details (parameters, 4-year validity) from the official QCI/NABET page; current sources are school press releases."
+     ]
     }
    ]
   },
