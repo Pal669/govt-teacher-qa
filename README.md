@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (4)
 - [Exams & Timelines](#exams-timelines) (11)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (11)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (12)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
@@ -533,6 +533,28 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 3. [QCI post details (2025)](https://qcin.org/wp-content/uploads/2025/07/Post-details-.pdf)
 4. [BBV Pilani: staff qualified as NABET school accreditation assessors after 3-day workshop](https://bbvpilani.edu.in/?p=34063)
 5. [CAHO: NABET-QCI assessor enrolment (paid per man-day)](https://caho.in/media/nabet-qci-enrolling-nurses-for-assessing-nursing-schools-colleges)
+
+### Someone I know is a 'NABET EIA SE expert' (social / socio-economic). What is his job, and is he permanent?
+*Asked 2026-10-18*
+
+**He is not a NABET employee. He works in the private sector. NABET has approved him as a Functional Area Expert (FAE) in SE (Socio-Economics) under its EIA (Environmental Impact Assessment) scheme.**
+
+- **The system:** before a big project (mine, highway, dam, factory, port) gets environmental clearance from MoEFCC (Ministry of Environment, Forest and Climate Change), it needs an EIA report. Only consultancy firms accredited by NABET can prepare it. Each firm must field approved experts in about 12 'functional areas' (air, water, ecology, geology, noise, SE and so on).
+- **His job as SE expert:** study the people side of the project: baseline survey of nearby villages (population, jobs, income, literacy, health), how land acquisition and displacement affect them, R&R (Resettlement and Rehabilitation), livelihood loss, CSR (Corporate Social Responsibility) suggestions, inputs for the public hearing, then write the socio-economic chapter of the EIA report.
+- **Permanent?** Not in the government sense. He is either (a) an in-house employee of an accredited private consultancy, or (b) an empanelled freelancer paid per project, often under a 1-year MoU (Memorandum of Understanding). His NABET approval is tied to the firm and gets re-checked in each re-accreditation cycle. No pension or government service rules.
+- **Relevance to you:** SE is the one EIA functional area that fits an Economics postgraduate. A possible side income or private-sector option, not a route to a permanent government post. Exact SE expert eligibility (degree, years of experience, Category A vs B) not yet verified.
+
+**Still to verify**
+
+- Verify SE Functional Area Expert eligibility (minimum degree, years of experience, Category A vs B) from the official QCI-NABET EIA scheme document.
+- Ask the contact: in-house or empanelled, pay per project, how he got approved.
+
+**Sources**
+
+1. [Voyants: QCI-NABET Category-A EIA accreditation (functional areas)](https://www.voyants.in/?p=2502)
+2. [Shriram Institute: NABET accreditation annexure listing FAEs (incl. SE, in-house status)](https://shriraminstitute.org/wp-content/uploads/2025/09/NABET-Accreditation-20.04.2026.pdf)
+3. [VNSGU: sample MoU engaging an external socio-economics FAE per project, 1-year validity](https://vnsgu.ac.in/uploads/assetlinks/c40d6c3b-e10a-4c48-b551-ab160ad83bbb.pdf)
+4. [SPCE: 2025 NABET EIA re-accreditation record (Category A/B, mentor-based FAEs)](https://spce.ac.in/Documents/Civil/Faculty%20achievement/2025/2025_HSJ_NABET-EIA.pdf)
 
 ### Like Uttarakhand and Himachal, which government teaching jobs can I NOT apply for? Be thorough and clear.
 *Asked 2026-10-06*
