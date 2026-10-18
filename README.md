@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (4)
 - [Exams & Timelines](#exams-timelines) (11)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (10)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (11)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
@@ -509,6 +509,30 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 
 
 ## Other Routes (KVS, EMRS, Other States)
+
+### Can I get a government job at NABET (Quality Council of India)?
+*Asked 2026-10-18*
+
+**You can get a job there, but it isn't a government job in the sense you want: it isn't permanent, it doesn't come with a pension, and nobody is hired through a government exam.**
+
+- QCI (Quality Council of India) is a registered society set up in 1997 by the Government of India (Ministry of Commerce, DPIIT) together with industry bodies (CII, FICCI, ASSOCHAM). Its staff are QCI employees, not central government employees.
+- Hiring is direct (CV + interview, ads on qcin.org), mostly on contract: e.g. Assistant Director posts start on a 2-year contract with regularisation subject to review; board CEOs get 3-year terms; many 'professional' roles are filled through outsourcing agencies on 6-month contracts.
+- No UGC NET / DSSSB-type exam, no age-relaxation framework like government recruitment, no government pay level or service security guaranteed.
+- Second door: become a NABET school accreditation assessor. Assessors are trained (e.g. a 3-day NABET workshop) and paid per assignment. Teachers and school staff typically do it. It is side work, not a job.
+**Compared with your two tracks:** PGT (Level 8) and central-university Assistant Professor (Level 10) are permanent posts with service rules and retirement at 60/65. QCI/NABET is closer to a policy-consulting job. Useful as experience; not a substitute for your goal of a permanent government post.
+
+
+**Still to verify**
+
+- Check QCI careers page for NABET-specific openings and whether any are regular posts with pension; confirm current school-assessor eligibility rules.
+
+**Sources**
+
+1. [QCI: Assistant Director ad (contract 2 yrs, regularisation subject to review)](https://qcin.org/wp-content/uploads/2025/12/Job-Description-AD-NABCB.pdf)
+2. [QCI RFP: service provider for hiring professionals (6-month contract)](https://qcin.org/wp-content/uploads/2025/07/461-RFP-for-Engagement-of-service-provider-for-hiring-of-professionals.pdf)
+3. [QCI post details (2025)](https://qcin.org/wp-content/uploads/2025/07/Post-details-.pdf)
+4. [BBV Pilani: staff qualified as NABET school accreditation assessors after 3-day workshop](https://bbvpilani.edu.in/?p=34063)
+5. [CAHO: NABET-QCI assessor enrolment (paid per man-day)](https://caho.in/media/nabet-qci-enrolling-nurses-for-assessing-nursing-schools-colleges)
 
 ### Like Uttarakhand and Himachal, which government teaching jobs can I NOT apply for? Be thorough and clear.
 *Asked 2026-10-06*
