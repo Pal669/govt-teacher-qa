@@ -668,6 +668,35 @@
      "open": [
       "Confirm NABET scheme details (parameters, 4-year validity) from the official QCI/NABET page; current sources are school press releases."
      ]
+    },
+    {
+     "date": "2026-10-19",
+     "q": "Here is the UGC NET December 2026 PDF. Does it answer any of my open questions?",
+     "a": [
+      "**Yes. It is NTA's official Information Bulletin for UGC-NET December 2026, and it settles the dates that were only estimates.**",
+      "- Apply online 08-28 Oct 2026 (fee by 28 Oct, 11:50 PM). Late window 29-31 Oct with Rs 500 extra. Corrections 02-04 Nov.",
+      "- Exam city slip 23 Nov, admit card 07 Dec, exam 14-18 Dec and 21 Dec 2026. The Economics (code 01) date and shift come later.",
+      "- Pattern: 180 minutes, no break. Paper I 50 Qs (100 marks), Paper II 100 Qs (200 marks). 2 marks each, no negative marking.",
+      "- Fee for OBC-NCL (Central list): Rs 600. General: Rs 1,150.",
+      "- JRF age: up to 30 on 01-12-2026, +5 years for OBC-NCL, so up to 35. You qualify on age this cycle. No age limit for Assistant Professor or PhD.",
+      "- How you qualify: only the top 6% of those who sit both papers qualify for Assistant Professor, split by category. First you need at least 35% aggregate (105/300) as OBC-NCL (40% for General). The real cut-off is the score of the last person who fits into your category's slots in Economics.",
+      "- Result categories: 1 = JRF + Assistant Professor + PhD; 2 = Assistant Professor + PhD; 3 = PhD only (not valid for Assistant Professor). For PhD admission NET marks count 70%, interview 30%."
+     ],
+     "sources": [
+      {
+       "title": "NTA UGC-NET December 2026 Information Bulletin (PDF)",
+       "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/20261016860019603.pdf"
+      },
+      {
+       "title": "UGC-NET official site",
+       "url": "https://ugcnet.nta.nic.in/"
+      }
+     ],
+     "open": [
+      "Confirm whether the application has been submitted (deadline 28 Oct 2026).",
+      "Economics exam date and shift (NTA to announce).",
+      "Which NCL certificate date NTA / UGC accept (bulletin does not say)."
+     ]
     }
    ]
   },
