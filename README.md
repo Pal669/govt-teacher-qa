@@ -1,17 +1,17 @@
 # Government Teacher Q&A
 
-Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-19.
+Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-21.
 
 - [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (4)
-- [Exams & Timelines](#exams-timelines) (11)
+- [Exams & Timelines](#exams-timelines) (12)
 - [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (13)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (37)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (38)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (16)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 - [Exam Preparation Strategy](#exam-preparation-strategy) (1)
@@ -239,6 +239,30 @@ If 36 is ever notified: 36 + 3 (OBC Delhi) = 39.
 
 
 ## Exams & Timelines
+
+### Here is the UGC NET December 2026 PDF. Does it answer any of my open questions?
+*Asked 2026-10-19*
+
+**Yes. It is NTA's official Information Bulletin for UGC-NET December 2026, and it settles the dates that were only estimates.**
+
+- Apply online 08-28 Oct 2026 (fee by 28 Oct, 11:50 PM). Late window 29-31 Oct with Rs 500 extra. Corrections 02-04 Nov.
+- Exam city slip 23 Nov, admit card 07 Dec, exam 14-18 Dec and 21 Dec 2026. The Economics (code 01) date and shift come later.
+- Pattern: 180 minutes, no break. Paper I 50 Qs (100 marks), Paper II 100 Qs (200 marks). 2 marks each, no negative marking.
+- Fee for OBC-NCL (Central list): Rs 600. General: Rs 1,150.
+- JRF age: up to 30 on 01-12-2026, +5 years for OBC-NCL, so up to 35. You qualify on age this cycle. No age limit for Assistant Professor or PhD.
+- How you qualify: only the top 6% of those who sit both papers qualify for Assistant Professor, split by category. First you need at least 35% aggregate (105/300) as OBC-NCL (40% for General). The real cut-off is the score of the last person who fits into your category's slots in Economics.
+- Result categories: 1 = JRF + Assistant Professor + PhD; 2 = Assistant Professor + PhD; 3 = PhD only (not valid for Assistant Professor). For PhD admission NET marks count 70%, interview 30%.
+
+**Still to verify**
+
+- Confirm whether the application has been submitted (deadline 28 Oct 2026).
+- Economics exam date and shift (NTA to announce).
+- Which NCL certificate date NTA / UGC accept (bulletin does not say).
+
+**Sources**
+
+1. [NTA UGC-NET December 2026 Information Bulletin (PDF)](https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/20261016860019603.pdf)
+2. [UGC-NET official site](https://ugcnet.nta.nic.in/)
 
 ### People talk about UGC NET, SET (State Eligibility Test), ICMR and ICAR NET. What is each one, and what does each open up for me?
 *Asked 2026-10-18*
@@ -1348,6 +1372,42 @@ To get a real number: file an RTI (Right to Information request) with Delhi DoE 
 
 
 ## PGT vs DU Assistant Professor
+
+### How realistic is it for me to get a PERMANENT Assistant Professor (Economics) job at a central university, including DU?
+*Asked 2026-10-21*
+
+**Short answer: realistic, but not with NET alone, and not quickly.** With NET only, the odds are low. With NET + JRF + a PhD + 2-3 papers, it becomes a fair bet within about 7-10 years (ESTIMATE). There is no upper age limit, so time is on your side; the PhD is the real gate.
+
+**Step 0: today you are not eligible.** No NET yet. Dec 2026 NET (exam 14-21 Dec) is the first door. Only about the top 6% of those who sit the exam qualify, so plan for 1-3 attempts.
+
+**DU colleges (centrally funded):** current screening (Estab.IV/047/2023) has a 55 floor and calls only 40 candidates for the first vacancy + 20 per extra vacancy, per category. Your score: NET = 50, JRF = 52, JRF + 2 papers = about 56, PhD + JRF = about 77. So NET alone usually does not even get you an interview call in a popular college; it only works where fewer than 40 people above 55 apply (floor drops to 50).
+
+**DU departments (Delhi School of Economics):** harsher table, 65 floor, no OBC relaxation. Without a PhD your score is about 41, so closed. PhD + JRF is about 73.
+
+**Other central universities (CUHP, HNB Garhwal, etc.):** no domicile filter, outsiders are hired routinely. But in the 15 economics faculty CVs checked (2026-10-05) every regular hire had a PhD or was finishing one. Hiring is lumpy: 1-3 economics posts per university every few years.
+
+**After screening, the interview decides everything.** Screening marks are not carried into the interview. DU adds a Presentation Assessment (essay + presentation) first. The panel's discretion is opaque, which is the biggest uncertainty on this track.
+
+**Rough odds by profile (ESTIMATE, judgement not data):** NET only = low (rare interview calls, mostly smaller or less-contested posts); NET + JRF = low-to-moderate (still below the DU 55 floor); JRF + 2 papers = moderate (crosses the DU floor); PhD + JRF + papers + some teaching = good across the 55 central universities if you apply widely for 2-4 years.
+
+**The path that makes it realistic:** (1) NET with JRF (Dec 2026 or June 2027); (2) PhD, full-time on JRF (Rs 37,000 then 42,000/month) or part-time while working; (3) 2-4 papers in UGC-CARE / Scopus journals during the PhD; (4) guest teaching for practice and contacts (adds 0 screening points); (5) apply to every central university Economics advert, not only DU. Realistic arrival: late 30s.
+
+**Compared with PGT:** PGT (DSSSB/KVS/EMRS) is a written-exam merit list, so more predictable, but needs the B.Ed (Aug 2028) and has age windows (DSSSB ~Feb 2029, KVS/EMRS ~Feb 2038). Assistant Professor pays more (Level 10 vs 8) and retires at 65 but is interview-decided and needs a PhD in practice. The two don't conflict: a PGT job can fund a part-time PhD.
+
+
+**Still to verify**
+
+- Confirm graduation and PG percentages from marksheets (screening score depends on them)
+- Number of Economics Assistant Professor posts advertised across central universities in 2025-26 (vacancy flow)
+- Applicants per post in recent DU college Economics interviews (selection ratio) not found
+- Odds by profile are a judgement estimate, not published data
+
+**Sources**
+
+1. [DU college screening guidelines, Estab.IV/047/2023 (saved in notifications/)](https://www.du.ac.in)
+2. [DU Advt R&P/316/2026 (department screening table, saved in notifications/)](https://www.du.ac.in)
+3. [NTA UGC-NET Dec 2026 Information Bulletin](https://ugcnet.nta.ac.in)
+4. [UGC Regulations 2018 (Teachers)](https://www.ugc.gov.in)
 
 ### Work-life balance: how many holidays and leaves does a permanent Assistant Professor get at DU? Is it different at other central universities? (and compared with PGT)
 *Asked 2026-10-07*
