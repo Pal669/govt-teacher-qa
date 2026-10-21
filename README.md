@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (4)
 - [Exams & Timelines](#exams-timelines) (12)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (14)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (15)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
@@ -546,7 +546,7 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 
 **Pay/posting:** UGC Level 10 scale in most states, but under state service rules: transferable within the state (often to district/rural colleges), state pension rules, state's own promotion pace.
 
-**Conflict with scope decision:** on 2026-10-05 state universities and state government colleges were EXCLUDED; only central universities are in scope. State PSC Assistant Professor posts are state government college posts, so they fall in the excluded bucket unless that decision is reopened.
+**Scope:** the 2026-10-05 decision excluded state colleges; on 2026-10-21 Ashish added state PSC Assistant Professor posts as an option (state universities stay out).
 
 **2026 activity (aggregator sources):** MPPSC 949 Assistant Professor posts (Economics included, window closed mid-2026); JKPSC Government Degree Colleges (J&K domicile only); CGPSC Economics expected; APPSC 145 posts (window closed Feb 2026).
 
@@ -557,7 +557,6 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 
 - All 2026 PSC facts are from aggregator sites; read the official MPPSC / RPSC / UPESSC / CGPSC adverts before relying on them
 - Exact age limits per state for outsiders (UPESSC reported as 62 general; RPSC 40; HPSC ~42) unverified
-- Whether Ashish wants to reopen the 2026-10-05 central-only scope decision to include state PSC posts
 
 **Sources**
 
@@ -567,6 +566,52 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 4. [VedPrep: RPSC Assistant Professor eligibility](https://www.vedprep.com/exams/rpsc/rpsc-assistant-professor-eligibility/)
 5. [Adda247: UPESSC Assistant Professor eligibility](https://www.adda247.com/teaching-jobs-exam/uppsc-assistant-professor-eligibility-criteria/)
 6. [UnlockIAS: State PCS domicile rules](https://www.unlockias.in/state-pcs-domicile-eligibility)
+
+### How are state PSC Assistant Professor exams conducted (pattern, marks, interview), state by state?
+*Asked 2026-10-21*
+
+**Decision:** state PSC Assistant Professor (state govt degree colleges) added to the college track as an option on 2026-10-21. State universities stay out.
+
+**Three shapes:** (A) objective written + interview: UP (UPESSC), MP (MPPSC), Uttarakhand (UKPSC). (B) qualifying screening MCQ + descriptive subject paper + interview: Haryana (HPSC), Himachal (HPPSC). (C) three papers incl. state GK + interview: Rajasthan (RPSC). Interview is small (12.5-50 marks); written marks decide merit.
+
+**UP (UPESSC):** 120 MCQ in 2 hrs (30 GK + 90 Economics), 360 marks, reported -1 per wrong; interview ~40. Advt 04/2026, ~1,936 posts all subjects.
+
+**MP (MPPSC):** Paper 1 GK 50 Q/200 marks/1 hr; Paper 2 Economics 150 Q/600 marks/3 hrs; interview ~50. 949 posts in the 2025-26 cycle.
+
+**Rajasthan (RPSC):** Paper 1 + 2 Economics 75 marks each, Paper 3 Rajasthan GS 50 marks; interview 20-24; min 36% per paper and 40% aggregate (reported).
+
+**Haryana (HPSC):** screening 100 Q (qualifying, -0.25) then descriptive Subject Knowledge Test 150 marks (min 35%); interview 12.5.
+
+**Himachal (HPPSC):** screening (qualifying) then descriptive Subject Aptitude Test 120 marks/3 hrs; interview 30; age 18-45; 2026 Economics papers held 30-09-2026.
+
+**Uttarakhand (UKPSC):** reported 100 Q/200 marks/2 hrs + interview; 2022 cycle was interview only (42 Economics posts); age 21-42; no domicile rule found.
+
+**Closed/limited:** J&K (domicile only); Punjab (Punjabi at matric). Bihar BSUSC (state universities, still out of scope) has no written exam: 88 academic points + 12 interview incl. a live teaching demo.
+
+**For prep:** NET Paper 2 covers most of the subject syllabus everywhere; extras are state GK (UP, MP, Rajasthan) and descriptive answer writing (Haryana, HP).
+
+**PGT vs Asst Prof comparison:** PGT exams (DSSSB, KVS, EMRS) need B.Ed and are also written-exam merit; state PSC Asst Prof needs NET instead, pays Level 10 vs Level 8, but has state-wide transfers and UR competition for outsiders. Full guide: notes/2026-10-21_State-PSC-Assistant-Professor.md; master workbook sheet 'State PSC Exams'.
+
+
+**Still to verify**
+
+- HPPSC college cadre: is a Bonafide Himachali / HP-schooling condition attached? (decides whether HP is open)
+- HPSC Haryana: are outsiders eligible?
+- UPESSC interview weight (30 vs 40) and negative marking
+- RPSC negative marking and interview marks (20 vs 24)
+- Next cycles for UKPSC, CGPSC, RPSC
+
+**Sources**
+
+1. [Adda247: UPESSC syllabus and exam pattern](https://www.adda247.com/teaching-jobs-exam/uphesc-assistant-professor-syllabus-and-exam-pattern/)
+2. [Zenith: MPPSC Assistant Professor guide](https://store.zenitheducation.net/exam-blogs/mp-assistant-professor-mppsc-syllabus)
+3. [Prepp: RPSC Assistant Professor exam pattern](https://prepp.in/rpsc-assistant-professor-exam/exam-pattern)
+4. [Testbook: HPSC Assistant Professor exam pattern](https://testbook.com/hpsc-assistant-professor/syllabus-exam-pattern)
+5. [Zenith: HPPSC College Cadre exam pattern](https://store.zenitheducation.net/exam-blogs/hp-assistant-professor-syllabus)
+6. [Testbook: HPPSC 2026 notification](https://testbook.com/news/hppsc-assistant-professor-recruitment-2026-notification-out/)
+7. [Toppersexam: UKPSC Assistant Professor Economics](https://toppersexam.com/TEACHING-EXAMS/UKPSC-ASSISTANT-PROFESSOR-(ECONOMICS)/syllabus_3445.html)
+8. [Adda247: Bihar BSUSC Assistant Professor 2026](https://www.adda247.com/teaching-jobs-exam/bihar-assistant-professor-notification-2026/)
+9. [Testbook: Punjab Assistant Professor eligibility](https://testbook.com/punjab-assistant-professor/eligibility-criteria)
 
 ### Can I get a government job at NABET (Quality Council of India)?
 *Asked 2026-10-18*
