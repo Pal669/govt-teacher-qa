@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (4)
 - [Exams & Timelines](#exams-timelines) (12)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (13)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (14)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
@@ -534,6 +534,39 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 
 
 ## Other Routes (KVS, EMRS, Other States)
+
+### What is PSC (as opposed to PCS), and can I become an Assistant Professor through a state PSC exam?
+*Asked 2026-10-21*
+
+**PSC vs PCS:** PSC = Public Service Commission, the recruiting body (UPSC at the centre; one per state: UPPSC, RPSC, MPPSC, HPPSC, UKPSC, etc.). PCS = Provincial/State Civil Services, one exam a PSC conducts for SDM/DSP-type admin posts. PSC is the body; PCS is one of its exams.
+
+**Assistant Professor via PSC:** many state PSCs (or separate state boards, e.g. UP's UPESSC) recruit Assistant Professors for the state's own government degree colleges. Gate is the same UGC one: Master's 55% (50% OBC-NCL) + NET/SET, or PhD. No B.Ed. Selection is usually a written subject exam + interview, not the interview-only route of DU.
+
+**Outsiders:** most states let candidates from other states apply, but they compete as Unreserved (UR): no OBC seat, no age relaxation (reported for UP, MP, Rajasthan). Some states bar outsiders outright (J&K requires J&K domicile).
+
+**Pay/posting:** UGC Level 10 scale in most states, but under state service rules: transferable within the state (often to district/rural colleges), state pension rules, state's own promotion pace.
+
+**Conflict with scope decision:** on 2026-10-05 state universities and state government colleges were EXCLUDED; only central universities are in scope. State PSC Assistant Professor posts are state government college posts, so they fall in the excluded bucket unless that decision is reopened.
+
+**2026 activity (aggregator sources):** MPPSC 949 Assistant Professor posts (Economics included, window closed mid-2026); JKPSC Government Degree Colleges (J&K domicile only); CGPSC Economics expected; APPSC 145 posts (window closed Feb 2026).
+
+**PGT comparison:** state school PGT/Lecturer routes need B.Ed and often state schooling/domicile (HP closed, UK narrow). State PSC Assistant Professor needs NET instead of B.Ed and is usually open to outsiders as UR, so it is the less blocked state route of the two.
+
+
+**Still to verify**
+
+- All 2026 PSC facts are from aggregator sites; read the official MPPSC / RPSC / UPESSC / CGPSC adverts before relying on them
+- Exact age limits per state for outsiders (UPESSC reported as 62 general; RPSC 40; HPSC ~42) unverified
+- Whether Ashish wants to reopen the 2026-10-05 central-only scope decision to include state PSC posts
+
+**Sources**
+
+1. [Adda247: MPPSC Assistant Professor 2026 (949 posts)](https://www.adda247.com/teaching-jobs-exam/mppsc-assistant-professor-recruitment-2026/)
+2. [Adda247: JKPSC Assistant Professor 2026](https://www.adda247.com/teaching-jobs-exam/jkpsc-assistant-professor-notification-2026/)
+3. [Testbook: MPPSC Assistant Professor eligibility](https://testbook.com/mppsc-assistant-professor/eligibility)
+4. [VedPrep: RPSC Assistant Professor eligibility](https://www.vedprep.com/exams/rpsc/rpsc-assistant-professor-eligibility/)
+5. [Adda247: UPESSC Assistant Professor eligibility](https://www.adda247.com/teaching-jobs-exam/uppsc-assistant-professor-eligibility-criteria/)
+6. [UnlockIAS: State PCS domicile rules](https://www.unlockias.in/state-pcs-domicile-eligibility)
 
 ### Can I get a government job at NABET (Quality Council of India)?
 *Asked 2026-10-18*

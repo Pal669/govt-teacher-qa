@@ -1197,12 +1197,30 @@
             "**PGT comparison:** state school PGT/Lecturer routes need B.Ed and often state schooling/domicile (HP closed, UK narrow). State PSC Assistant Professor needs NET instead of B.Ed and is usually open to outsiders as UR, so it is the less blocked state route of the two."
           ],
           "sources": [
-            "https://www.adda247.com/teaching-jobs-exam/mppsc-assistant-professor-recruitment-2026/",
-            "https://www.adda247.com/teaching-jobs-exam/jkpsc-assistant-professor-notification-2026/",
-            "https://testbook.com/mppsc-assistant-professor/eligibility",
-            "https://www.vedprep.com/exams/rpsc/rpsc-assistant-professor-eligibility/",
-            "https://www.adda247.com/teaching-jobs-exam/uppsc-assistant-professor-eligibility-criteria/",
-            "https://www.unlockias.in/state-pcs-domicile-eligibility"
+            {
+              "title": "Adda247: MPPSC Assistant Professor 2026 (949 posts)",
+              "url": "https://www.adda247.com/teaching-jobs-exam/mppsc-assistant-professor-recruitment-2026/"
+            },
+            {
+              "title": "Adda247: JKPSC Assistant Professor 2026",
+              "url": "https://www.adda247.com/teaching-jobs-exam/jkpsc-assistant-professor-notification-2026/"
+            },
+            {
+              "title": "Testbook: MPPSC Assistant Professor eligibility",
+              "url": "https://testbook.com/mppsc-assistant-professor/eligibility"
+            },
+            {
+              "title": "VedPrep: RPSC Assistant Professor eligibility",
+              "url": "https://www.vedprep.com/exams/rpsc/rpsc-assistant-professor-eligibility/"
+            },
+            {
+              "title": "Adda247: UPESSC Assistant Professor eligibility",
+              "url": "https://www.adda247.com/teaching-jobs-exam/uppsc-assistant-professor-eligibility-criteria/"
+            },
+            {
+              "title": "UnlockIAS: State PCS domicile rules",
+              "url": "https://www.unlockias.in/state-pcs-domicile-eligibility"
+            }
           ],
           "open": [
             "All 2026 PSC facts are from aggregator sites; read the official MPPSC / RPSC / UPESSC / CGPSC adverts before relying on them",
