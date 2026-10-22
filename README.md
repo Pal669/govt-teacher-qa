@@ -1,6 +1,6 @@
 # Government Teacher Q&A
 
-Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-21.
+Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-22.
 
 - [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
@@ -11,7 +11,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (38)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (39)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (16)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 - [Exam Preparation Strategy](#exam-preparation-strategy) (1)
@@ -1450,6 +1450,35 @@ To get a real number: file an RTI (Right to Information request) with Delhi DoE 
 
 
 ## PGT vs DU Assistant Professor
+
+### For Assistant Professor screening, only UGC-pay teaching experience counts and DU now hires only guest faculty. Where can I get experience that counts? Is it permanent? Is the ad hoc rule just an old rule nobody changed?
+*Asked 2026-10-22*
+
+**Not an old rule.** DU's college screening guideline Estab.IV/047/2023 (20-07-2023), written after DU stopped ad hoc hiring, says: temporary/ad hoc/contractual/postdoc experience counts only if the pay was at least the UGC minimum basic (Rs 57,700) plus DA; experience as guest faculty shall not be considered. UGC Regulations 2018 cl. 10(e)-(g) say the same: guest lecturer service never counts; ad hoc/temporary/contractual service counts only if (i) the post needed UGC qualifications, (ii) a duly constituted Selection Committee picked you, (iii) gross pay was not below a regular Assistant Professor's; and private, government or local-body employer makes no difference.
+
+**Why it still says ad hoc:** the rule is about pay and selection, not the label. DU ad hocs were paid full Level 10 + DA via a selection committee, so their years counted. DU guest faculty (about Rs 1,500 per lecture, capped near Rs 50,000/month, per reports) fails the pay test and is excluded by name.
+
+**Where countable experience exists:** (1) contractual/temporary Assistant Professor posts at central or state universities, IF the advert's consolidated pay is at least Rs 57,700 + current DA and selection is by a committee; check every advert's pay line; (2) private or deemed universities that pay the full UGC scale and select through a UGC-pattern committee (cl. 10(g) allows private service); (3) state government colleges or universities that still fill leave/ad hoc vacancies on full scale. Most guest/contract jobs paying Rs 30,000-60,000 do not count.
+
+**Permanent?** No. Ad hoc, contractual and guest posts are not permanent; only a regular post through a selection committee is. The experience is only screening marks.
+
+**What it is worth:** 2 marks per year, max 10 out of 100 (pro-rata below one year). With NET your college score is 50 vs the 55 floor; about 2.5 years of countable experience (5 marks) clears it. A PhD adds far more (PhD + JRF = 77), and fellowship/PhD time does not count as teaching experience unless you were in active teaching service.
+
+**PGT comparison:** DSSSB/KVS/EMRS PGT selection is exam-merit only; prior teaching experience gives no marks.
+
+
+**Still to verify**
+
+- Whether final UGC Regulations 2025 have been notified and whether they change the screening table or the ad hoc/guest rule (only the Jan 2025 draft was found on 2026-10-22).
+- Current DA %, to know the exact monthly pay a contract post must offer to count.
+- DU guest faculty pay (Rs 1,500/lecture, ~Rs 50,000 cap) is from reports; confirm from a current DU circular.
+- Named universities currently hiring contractual Assistant Professors (Economics) at full UGC pay: not yet compiled.
+
+**Sources**
+
+1. [DU College Screening Guidelines Estab.IV/047/2023 (saved: notifications/2025-10-01_DU-College-Screening-Guidelines-2023-Bharti-copy.pdf)](https://www.du.ac.in)
+2. [UGC Regulations 2018, clause 10 and Table 3A/3B (saved: notifications/2018-07-18_UGC-Regulations-2018_Teachers.pdf)](https://www.ugc.gov.in/pdfnews/4033931_UGC-Regulation_min_Qualification_Jul2018.pdf)
+3. [Draft UGC Regulations 2025 (draft text)](https://pcla.co.in/images/2025/Draft_UGC_Regulations_2025.pdf)
 
 ### How realistic is it for me to get a PERMANENT Assistant Professor (Economics) job at a central university, including DU?
 *Asked 2026-10-21*
