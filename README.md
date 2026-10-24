@@ -1,6 +1,6 @@
 # Government Teacher Q&A
 
-Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-22.
+Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-24.
 
 - [Eligibility & Documents](#eligibility-documents) (5)
 - [B.Ed](#b-ed) (1)
@@ -12,7 +12,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (39)
-- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (16)
+- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (18)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 - [Exam Preparation Strategy](#exam-preparation-strategy) (1)
 
@@ -2604,6 +2604,68 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 
 
 ## Hill States (Himachal & Uttarakhand)
+
+### I can apply to different states' PSCs for Assistant Professor. Which hill states can I apply to, and how does it work?
+*Asked 2026-10-24*
+
+**Short answer:** only two hill states are realistically open through the state PSC route: **Himachal Pradesh (HPPSC)** and **Uttarakhand (UKPSC)**. Most other hill states block outsiders through domicile, local language or low age limits.
+
+**How it works:** a PSC (Public Service Commission) recruits Assistant Professors for state GOVERNMENT DEGREE COLLEGES, not for state universities (universities hire on their own). Gate: Master's 55% + UGC NET (or that state's SET), or PhD. No B.Ed. As an outsider you compete as General: no OBC seat, no OBC age relaxation.
+
+**Himachal:** open as General; the 2026 notification limits reservation to Bonafide Himachalis and treats other states' reserved candidates as General. Age 18-45. 2026 cycle closed (apply by 14-07-2026; Economics exam 30-09-2026).
+
+**Uttarakhand:** no domicile rule found. Age 21-42. Last Assistant Professor advert 2021 (455 posts, 42 Economics). Next advert expected, not out. 85 of 118 govt colleges are in the hills.
+
+**Unclear:** Manipur (age 21-38; 419 posts Dec 2025), Tripura (age up to 40; 201 posts 2025): residence rules not found.
+
+**Closed or likely closed:** J&K (UT domicile only), Arunachal (age limit 30; APST-heavy), Meghalaya (age 32, recruited by MERB), Sikkim (COI usually needed), Nagaland (many posts reserved for indigenous inhabitants), Mizoram (Mizo language), Assam (permanent resident certificate in other APSC posts), Ladakh (no PSC route).
+
+**Bigger hill opening:** central universities need only NET, accept the central OBC certificate, and have no domicile rule or age limit: CU Himachal, HNB Garhwal, CU Jammu, CU Kashmir, Sikkim University, NEHU (Shillong), Rajiv Gandhi University (Itanagar), Mizoram University, Nagaland University, Manipur University, Tripura University, Assam University.
+
+
+**Still to verify**
+
+- HPPSC 2026 college-cadre notification: read the official copy on hppsc.hp.gov.in (only an aggregator copy read)
+- Manipur and Tripura Assistant Professor adverts: any residence / local-language condition?
+- UKPSC next Assistant Professor (govt colleges) advert: date, age limit, domicile wording
+
+**Sources**
+
+1. [vault.drishtiteachingexams.com](https://vault.drishtiteachingexams.com/hindi_file_uploads/1781673976_HPPSC-Assistant-Professor-2026-Detailed-Notification-Out--Check-Full-Details.pdf)
+2. [adda247.com](https://www.adda247.com/teaching-jobs-exam/ukpsc-assistant-professor-notification/)
+3. [megeducation.gov.in](https://www.megeducation.gov.in/dhte/notices_and_circulars/2025/fresh_advertisement.pdf)
+4. [empsconline.gov.in](https://empsconline.gov.in/)
+5. [tpsc.tripura.gov.in](https://tpsc.tripura.gov.in/)
+6. [careerpower.in](https://www.careerpower.in/blog/appsc-assistant-professor-recruitment-2026)
+7. [govtjobsalert.in](https://govtjobsalert.in/jkpsc-assistant-professor-recruitment-2026/)
+8. [npsc.nagaland.gov.in](https://npsc.nagaland.gov.in/advertisement/177909945289247)
+
+### Put every Uttarakhand and Himachal university and college (central, state university, state college, government degree college) in the Excel, like the central university list.
+*Asked 2026-10-24*
+
+**Done:** output/Hill-Assistant-Professor-Colleges.xlsx has a sheet per type plus a Counts sheet. The master workbook has the same data in one filterable sheet, 'UK & HP Colleges'.
+
+**Uttarakhand:** 1 central university (HNB Garhwal, 4 campuses); 13 state universities (5 under the Higher Education Dept, 8 others such as Pantnagar, Bharsar, technical, Sanskrit, Ayurved, medical, sports, Aawasiya) + Gurukula Kangri (deemed, UGC-funded); 118 government degree/PG colleges; 21 government-aided colleges.
+
+**Himachal:** 1 central university (CU Himachal); 7 state universities (HPU Shimla, Sardar Patel Mandi, CSK Krishi Palampur, YS Parmar Nauni, HP National Law University, HP Technical, Atal Medical); 145 government colleges (official Directorate list, including Sanskrit, teacher-education and fine-arts colleges that have no Economics); 13 private general degree colleges on the HPU list (only St Bede's confirmed aided).
+
+**Where Economics posts are:** government degree colleges (via HPPSC / UKPSC), the general state universities (HPU, Kumaun, SSJ Almora, Doon, Sri Dev Suman), and the central university campuses. Agricultural universities hire Agricultural Economics (usually M.Sc Ag Econ).
+
+
+**Still to verify**
+
+- Which UK and HP govt colleges have a sanctioned Economics post
+- HP private colleges: which are aided (only St Bede's confirmed)
+- Sardar Patel University Mandi: own Economics department?
+
+**Sources**
+
+1. [education.hp.gov.in](https://education.hp.gov.in/colleges/)
+2. [hpuniv.ac.in](https://www.hpuniv.ac.in/university-detail/examination/Pvt-College)
+3. [he.uk.gov.in](https://he.uk.gov.in/government-colleges-2/)
+4. [he.uk.gov.in](https://he.uk.gov.in/government-universities/)
+5. [en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_institutions_of_higher_education_in_Himachal_Pradesh)
+6. [en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_institutions_of_higher_education_in_Uttarakhand)
 
 ### If I am an Assistant Professor at a Himachal Pradesh state university (set up by an Act of the state assembly) and that university closes, what happens to my job? What has happened in the past - are teachers shifted to another university?
 *Asked 2026-10-10*

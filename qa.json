@@ -3818,6 +3818,99 @@
             "Read the full 2021 Supreme Court judgment (Somesh Thapliyal) and record the final outcome for the HNBGU teachers.",
             "Confirm the exact section number of the Central Universities Act 2009 that carries the 'same tenure, same remuneration' clause."
           ]
+        },
+        {
+          "date": "2026-10-24",
+          "q": "I can apply to different states' PSCs for Assistant Professor. Which hill states can I apply to, and how does it work?",
+          "a": [
+            "**Short answer:** only two hill states are realistically open through the state PSC route: **Himachal Pradesh (HPPSC)** and **Uttarakhand (UKPSC)**. Most other hill states block outsiders through domicile, local language or low age limits.",
+            "**How it works:** a PSC (Public Service Commission) recruits Assistant Professors for state GOVERNMENT DEGREE COLLEGES, not for state universities (universities hire on their own). Gate: Master's 55% + UGC NET (or that state's SET), or PhD. No B.Ed. As an outsider you compete as General: no OBC seat, no OBC age relaxation.",
+            "**Himachal:** open as General; the 2026 notification limits reservation to Bonafide Himachalis and treats other states' reserved candidates as General. Age 18-45. 2026 cycle closed (apply by 14-07-2026; Economics exam 30-09-2026).",
+            "**Uttarakhand:** no domicile rule found. Age 21-42. Last Assistant Professor advert 2021 (455 posts, 42 Economics). Next advert expected, not out. 85 of 118 govt colleges are in the hills.",
+            "**Unclear:** Manipur (age 21-38; 419 posts Dec 2025), Tripura (age up to 40; 201 posts 2025): residence rules not found.",
+            "**Closed or likely closed:** J&K (UT domicile only), Arunachal (age limit 30; APST-heavy), Meghalaya (age 32, recruited by MERB), Sikkim (COI usually needed), Nagaland (many posts reserved for indigenous inhabitants), Mizoram (Mizo language), Assam (permanent resident certificate in other APSC posts), Ladakh (no PSC route).",
+            "**Bigger hill opening:** central universities need only NET, accept the central OBC certificate, and have no domicile rule or age limit: CU Himachal, HNB Garhwal, CU Jammu, CU Kashmir, Sikkim University, NEHU (Shillong), Rajiv Gandhi University (Itanagar), Mizoram University, Nagaland University, Manipur University, Tripura University, Assam University."
+          ],
+          "sources": [
+            {
+              "title": "vault.drishtiteachingexams.com",
+              "url": "https://vault.drishtiteachingexams.com/hindi_file_uploads/1781673976_HPPSC-Assistant-Professor-2026-Detailed-Notification-Out--Check-Full-Details.pdf"
+            },
+            {
+              "title": "adda247.com",
+              "url": "https://www.adda247.com/teaching-jobs-exam/ukpsc-assistant-professor-notification/"
+            },
+            {
+              "title": "megeducation.gov.in",
+              "url": "https://www.megeducation.gov.in/dhte/notices_and_circulars/2025/fresh_advertisement.pdf"
+            },
+            {
+              "title": "empsconline.gov.in",
+              "url": "https://empsconline.gov.in/"
+            },
+            {
+              "title": "tpsc.tripura.gov.in",
+              "url": "https://tpsc.tripura.gov.in/"
+            },
+            {
+              "title": "careerpower.in",
+              "url": "https://www.careerpower.in/blog/appsc-assistant-professor-recruitment-2026"
+            },
+            {
+              "title": "govtjobsalert.in",
+              "url": "https://govtjobsalert.in/jkpsc-assistant-professor-recruitment-2026/"
+            },
+            {
+              "title": "npsc.nagaland.gov.in",
+              "url": "https://npsc.nagaland.gov.in/advertisement/177909945289247"
+            }
+          ],
+          "open": [
+            "HPPSC 2026 college-cadre notification: read the official copy on hppsc.hp.gov.in (only an aggregator copy read)",
+            "Manipur and Tripura Assistant Professor adverts: any residence / local-language condition?",
+            "UKPSC next Assistant Professor (govt colleges) advert: date, age limit, domicile wording"
+          ]
+        },
+        {
+          "date": "2026-10-24",
+          "q": "Put every Uttarakhand and Himachal university and college (central, state university, state college, government degree college) in the Excel, like the central university list.",
+          "a": [
+            "**Done:** output/Hill-Assistant-Professor-Colleges.xlsx has a sheet per type plus a Counts sheet. The master workbook has the same data in one filterable sheet, 'UK & HP Colleges'.",
+            "**Uttarakhand:** 1 central university (HNB Garhwal, 4 campuses); 13 state universities (5 under the Higher Education Dept, 8 others such as Pantnagar, Bharsar, technical, Sanskrit, Ayurved, medical, sports, Aawasiya) + Gurukula Kangri (deemed, UGC-funded); 118 government degree/PG colleges; 21 government-aided colleges.",
+            "**Himachal:** 1 central university (CU Himachal); 7 state universities (HPU Shimla, Sardar Patel Mandi, CSK Krishi Palampur, YS Parmar Nauni, HP National Law University, HP Technical, Atal Medical); 145 government colleges (official Directorate list, including Sanskrit, teacher-education and fine-arts colleges that have no Economics); 13 private general degree colleges on the HPU list (only St Bede's confirmed aided).",
+            "**Where Economics posts are:** government degree colleges (via HPPSC / UKPSC), the general state universities (HPU, Kumaun, SSJ Almora, Doon, Sri Dev Suman), and the central university campuses. Agricultural universities hire Agricultural Economics (usually M.Sc Ag Econ)."
+          ],
+          "sources": [
+            {
+              "title": "education.hp.gov.in",
+              "url": "https://education.hp.gov.in/colleges/"
+            },
+            {
+              "title": "hpuniv.ac.in",
+              "url": "https://www.hpuniv.ac.in/university-detail/examination/Pvt-College"
+            },
+            {
+              "title": "he.uk.gov.in",
+              "url": "https://he.uk.gov.in/government-colleges-2/"
+            },
+            {
+              "title": "he.uk.gov.in",
+              "url": "https://he.uk.gov.in/government-universities/"
+            },
+            {
+              "title": "en.wikipedia.org",
+              "url": "https://en.wikipedia.org/wiki/List_of_institutions_of_higher_education_in_Himachal_Pradesh"
+            },
+            {
+              "title": "en.wikipedia.org",
+              "url": "https://en.wikipedia.org/wiki/List_of_institutions_of_higher_education_in_Uttarakhand"
+            }
+          ],
+          "open": [
+            "Which UK and HP govt colleges have a sanctioned Economics post",
+            "HP private colleges: which are aided (only St Bede's confirmed)",
+            "Sardar Patel University Mandi: own Economics department?"
+          ]
         }
       ]
     },
