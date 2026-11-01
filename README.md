@@ -14,7 +14,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (40)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (16)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
-- [Exam Preparation Strategy](#exam-preparation-strategy) (3)
+- [Exam Preparation Strategy](#exam-preparation-strategy) (4)
 
 ## Eligibility & Documents
 
@@ -3303,6 +3303,28 @@ Other fixed-campus options: Himachal Pradesh University, Shimla (no Economics po
 5. [Careerpower UP PGT 2026 papers](https://www.careerpower.in/blog/up-pgt-question-paper-2026)
 6. [Adda247 UKPSC Lecturer papers](https://www.adda247.com/teaching-jobs-exam/ukpsc-lecturer-previous-year-question-paper/)
 7. [Adda247 HPSC PGT papers](https://www.adda247.com/teaching-jobs-exam/hpsc-pgt-previous-year-question-paper/)
+
+### Decode the DSSSB PGT Economics exam for me.
+*Asked 2026-11-01*
+
+**Decoded from 7 papers (2014–2024), 1,800 questions.** Report: `DSSSB_PGT_Economics_Exam_Decode_Report.pdf` (EA Demo root; workings in `Exam Decoder/dsssb-pgt-economics/`).
+
+- 23 topics appeared in all 5 current papers (2018–2024) and carry about 111 of Section II's 200 marks (floor 68). With the 21 topics asked in 4 of 5, it is 152 marks (floor 102).
+- Biggest repeaters: market structures (~15), consumer behaviour (~13), basic concepts/PPC (~9), national income (~8), Indian growth and planning (~8), descriptive statistics (~7), budget and deficits (~6), production and costs (~6). Teaching Methodology is always 20, mostly general pedagogy (inclusive education, learning theories, language/art teaching).
+- About 159 of 200 Section II marks are inside the NET Economics syllabus; Section I (100 marks) and Teaching Methodology need separate preparation.
+- 2024 tilted toward NET-style econometrics and maths; a 2018–21 pattern covered 89% of 2023 but only 54% of 2024, by topic.
+- Target 190/300 against unverified cut-offs of UR ~175.5 and OBC ~126 (Male).
+**PGT vs Assistant Professor:** DSSSB rewards broad NCERT-level recall plus India facts and general aptitude; the Assistant Professor route rewards NET depth (no general section). NET prep covers ~79% of DSSSB Section II but none of Section I.
+
+
+**Still to verify**
+
+- Official DSSSB PGT Economics cut-off PDFs (post codes 67/20, 829/24) to replace aggregator figures.
+- 15-07-2026 paper not yet public; add it to the decode when released.
+
+**Sources**
+
+1. [DSSSB Advt 10/2024 (exam scheme)](https://dsssb.delhi.gov.in)
 
 ### What is the best way to crack the aptitude, logical reasoning and answer-writing parts of government teaching exams, and which credible sources should I use?
 *Asked 2026-10-18*
