@@ -1481,6 +1481,29 @@
             "Whether minority aided schools give preference to their community/language for PGT posts",
             "Whether DoE currently allows aided schools to fill regular PGT vacancies (or only guest teachers)"
           ]
+        },
+        {
+          "date": "2026-11-01",
+          "q": "What about PRT teachers in Delhi DoE?",
+          "a": [
+            "**PRT = Primary Teacher (Assistant Teacher, Primary), Classes 1-5.** In Delhi most primary schools are run by MCD, but DoE also hires PRTs for primary wings of its Sarvodaya schools. DSSSB recruits for both.",
+            "**Last DoE PRT ad: DSSSB Advt 05/2025, Post Code 802/25.** 1,180 posts in total: 1,055 DoE + 125 NDMC. Applications 17-09-2025 to 16-10-2025.",
+            "- A corrigendum dated 18-05-2026 reportedly cut DoE to **1,044** (EWS 128 to 117). NDMC later confirmed 115 vacant PRT posts.",
+            "- A separate MCD requisition of about 1,147 primary posts has been reported. Advt 03/2026 (29-05-2026) covers 1,417 DoE posts across TGT, PRT and special educator, with no PRT-only split.",
+            "**Pay:** Level 6, Rs 35,400-1,12,400. PGT is Level 8 (Rs 47,600-1,51,100).",
+            "**Fit for Ashish:** PRT needs D.El.Ed (or B.El.Ed) + CTET Paper I. Since the 2023 Supreme Court ruling (Devesh Sharma), a B.Ed does NOT qualify for primary posts. So even after the B.Ed, PRT is closed unless he does a D.El.Ed. The age limit is also 30 (+3 OBC Delhi), the same squeeze as PGT. Not a route for him; PGT/KVS/EMRS/NET stay the plan."
+          ],
+          "sources": [
+            "https://www.adda247.com/teaching-jobs-exam/dsssb-primary-teacher-notification-2025",
+            "https://www.adda247.com/teaching-jobs-exam/dsssb-prt-vacancy-2025-26-revised-check-official-notice/",
+            "https://www.pw.live/teaching/exams/dsssb-prt-recruitment-2025",
+            "https://www.adda247.com/teaching-jobs-exam/dsssb-prt-update-ndmc-confirms-115-vacant-prt-posts/"
+          ],
+          "open": [
+            "DoE PRT figures are from aggregator sites: confirm 1,055 / 1,044 against the DSSSB Advt 05/2025 PDF and its 18-05-2026 corrigendum",
+            "PRT age limit and exact qualification wording in Advt 05/2025: check against the official PDF",
+            "Sanctioned vs vacant PRT strength in DoE: no official figure found"
+          ]
         }
       ]
     },
