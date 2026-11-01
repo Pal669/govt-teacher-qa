@@ -1,22 +1,46 @@
 # Government Teacher Q&A
 
-Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-10-21.
+Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-11-01.
 
-- [Eligibility & Documents](#eligibility-documents) (5)
+- [Eligibility & Documents](#eligibility-documents) (6)
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (4)
-- [Exams & Timelines](#exams-timelines) (12)
+- [Exams & Timelines](#exams-timelines) (13)
 - [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (15)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
-- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (38)
+- [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (40)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (16)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
-- [Exam Preparation Strategy](#exam-preparation-strategy) (1)
+- [Exam Preparation Strategy](#exam-preparation-strategy) (2)
 
 ## Eligibility & Documents
+
+### I found a second OBC certificate. Is it the Delhi one?
+*Asked 2026-10-21*
+
+**Yes. It's an OBC (Delhi) certificate**, so the 'apply for a Delhi certificate' step is already done.
+
+- It says the community 'is recognised as a backward class under the **Govt. of N.C.T. of Delhi**', citing a Delhi government notification published in the **Gazette of Delhi** (Extraordinary, Part IV, 20-01-1995). That's the Delhi OBC list.
+- It has no 'for appointment to posts under the Government of India' title. The 2011 certificate has that title and cites the central list (Govt of India, Ministry of Welfare resolution, Gazette of India), which makes the 2011 one the central format.
+- Both were issued by the same Delhi Deputy Commissioner's office (North West). Who issued a certificate doesn't decide its type; the wording does.
+**What you hold now:** OBC (Delhi) dated 23-07-2010, for DSSSB / Delhi govt posts. OBC (Central) dated 31-05-2011, for NET/JRF, KVS, EMRS, NVS and central universities.
+
+**Still needed:** a FRESH non-creamy-layer (NCL) certificate for each format. The NCL lines on these certificates date from 2010/2011, and recruiters want a recent NCL issued before the closing date.
+
+**DSSSB PGT vs Assistant Professor:** for DSSSB, the Delhi certificate means the age limit is 30 + 3 = 33 (window to ~11-02-2029) instead of 30. For DU / central-university Assistant Professor, the central certificate plus a fresh central NCL is what counts; the Delhi one plays no part.
+
+
+**Still to verify**
+
+- Confirm in the next DSSSB ad how recent the OBC (Delhi) NCL must be (reportedly issued within 3 financial years before the closing date).
+- Address on the 2010 certificate reads 'C-104' and on the 2011 one 'H.No.104-C'. Check whether DSSSB document verification will query the difference.
+
+**Sources**
+
+1. [LawBeat: central OBC certificate can't be used for Delhi govt posts (Delhi HC)](https://lawbeat.in/news-updates/obc-certificate-meant-for-central-govt-jobs-cant-be-used-for-delhi-govt-posts-delhi-hc-1500880)
 
 ### What is EWS? (And the full forms of the abbreviations used so far.)
 *Asked 2026-10-02*
@@ -58,6 +82,8 @@ Pay: Level 8, Rs 47,600 – 1,51,100, Group B. Exam: one tier, 300 marks, 0.25 n
 
 ### Is my OBC certificate valid for DSSSB?
 *Asked 2026-10-01*
+
+**UPDATE 2026-10-21: you already hold an OBC (Delhi) certificate (dated 23-07-2010), found on 2026-10-21. See the 2026-10-21 entry 'Is my second OBC certificate the Delhi one?'. The answer below was written before that certificate was found.**
 
 **Not as it is, but it's fixable.**
 
@@ -263,6 +289,39 @@ If 36 is ever notified: 36 + 3 (OBC Delhi) = 39.
 
 1. [NTA UGC-NET December 2026 Information Bulletin (PDF)](https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/20261016860019603.pdf)
 2. [UGC-NET official site](https://ugcnet.nta.nic.in/)
+
+### Is it true that a lot of permanent government teaching jobs come out around elections? Check the past elections.
+*Asked 2026-10-19*
+
+**Short answer: partly.** Notifications rise before elections in UP, but not in Delhi, Uttarakhand or clearly at the Centre. Actual hiring does NOT rise before elections: India-wide school data shows teacher numbers rise about a year AFTER the election (Fagernas & Pelkonen, Journal of Human Resources 2020; DISE 2005-2011).
+
+**Event study (28 teaching drives, 2011-2026):** share of posts notified in the 12 months before a poll (neutral = 20%): UP 43%, Centre 33%, Delhi 0%, Uttarakhand 0%. UP's figure leans on one drive (72,825, advertised Nov 2011 just before the 2012 code); without it about 22%. But 5 of 9 UP drives fell in the pre-poll window.
+
+**UP is repeating it now:** PRT 12,405 (15 Sep 2026) and PGT 2,607 (Sep 2026), about 6 months before the 2027 poll. In Mar 2023 (mid-term) the minister said 51,112 posts were vacant but no new recruitment was planned.
+
+**Delhi (PGT track):** the big DSSSB batches came mid-term (2017: 15,044 + 9,232) and after the Feb 2025 election (TGT 5,346 + PRT 1,180 in Sep-Oct 2025), not before polls.
+
+**Catch:** pre-poll drives stall. 72,825 (2011) was in court until 2026; 69,000 (2018) spent years in litigation; the UP TGT 2022 exam was held only in June 2026.
+
+**For Ashish:** B.Ed due ~Aug 2028, so the 2027 pre-poll wave (UP/Uttarakhand) is mostly out of reach for school posts. The next overlapping cycle is the 2029 Lok Sabha (KVS/EMRS/NVS), where the pre-poll lean is weak.
+
+**DU / central-university Assistant Professor comparison:** no electoral cycle was found. Hiring follows UGC/Ministry drives and each university's own process; NET is the binding gate, not the election calendar.
+
+Full brief: research/briefs/Election_Cycle_Govt_Teaching_Jobs_2026-10-19.md; data: Election_Cycle_Teaching_Jobs_2026-10-19.xlsx (EA Demo root).
+
+
+**Still to verify**
+
+- Several post counts come from aggregator sites (UP 16,448 in 2016, UP TGT/PGT 2021 month, KVS+NVS Nov 2025 split): verify against official notices if the analysis is rerun.
+- Only UP, Delhi, Uttarakhand and the Centre were tested; other states on the Vacancy Desk (e.g. Bihar TRE before the 2025 poll) not yet checked.
+
+**Sources**
+
+1. [Fagernas & Pelkonen, IZA DP 8366 (free version)](https://docs.iza.org/dp8366.pdf)
+2. [Teachers, Electoral Cycles, and Learning in India (JHR 2020)](https://jhr.uwpress.org/content/55/2/699)
+3. [UP: 51,112 vacant, no new recruitment (Mar 2023)](https://news.careers360.com/up-government-school-basic-shiksha-primary-teacher-vacancy-education-minister-vidhan-sabha)
+4. [UP PRT 12,405 (Sep 2026)](https://www.careerpower.in/blog/up-prt-assistant-teacher-recruitment-2026)
+5. [DSSSB TGT 06/2025 official notice](https://vault.drishtiteachingexams.com/english_file_uploads/1759490514_DSSSB-TGT-2025-Advertisement--Official-NotificationPDF.pdf)
 
 ### People talk about UGC NET, SET (State Eligibility Test), ICMR and ICAR NET. What is each one, and what does each open up for me?
 *Asked 2026-10-18*
@@ -1486,6 +1545,61 @@ To get a real number: file an RTI (Right to Information request) with Delhi DoE 
 2. [DU Advt R&P/316/2026 (department screening table, saved in notifications/)](https://www.du.ac.in)
 3. [NTA UGC-NET Dec 2026 Information Bulletin](https://ugcnet.nta.ac.in)
 4. [UGC Regulations 2018 (Teachers)](https://www.ugc.gov.in)
+
+### Are the economics research institutes on the Vacancy Desk (IEG, CDS, IGIDR, NIPFP, ISI, DSE, MSE, Gokhale Institute) government jobs?
+*Asked 2026-10-19*
+
+**Short answer:** none of them makes you a government servant, except that DSE is part of Delhi University (a central university). The rest are autonomous bodies funded by the government or RBI. Their regular faculty posts are permanent, on UGC / 7th Pay Commission academic scales.
+
+**Delhi School of Economics:** Department of Economics, University of Delhi. A permanent post is a DU faculty post, same as any central-university job.
+
+**Indian Statistical Institute:** Institute of National Importance under an Act of Parliament, funded by the Ministry of Statistics. Closest to a central-government job in this list.
+
+**IEG Delhi and CDS Thiruvananthapuram:** ICSSR research institutes (autonomous societies funded by ICSSR plus the state government). IEG's 2026 adverts use Academic Level 10 for Assistant Professor and Level 14 for Professor.
+
+**NIPFP:** autonomous society; annual grant from the Ministry of Finance and state governments, but calls itself non-governmental in character.
+
+**IGIDR Mumbai:** set up and fully funded by RBI; deemed university.
+
+**Gokhale Institute, Pune:** deemed university since 1993, run by the Servants of India Society as trustee. Advertises regular (permanent) Professor posts.
+
+**Madras School of Economics:** autonomous institute; funding not checked this time.
+
+**Compared with PGT:** a Delhi PGT is a Delhi Government employee. DU / DSE is a central-university employee. The institutes are permanent jobs with government money behind them, but not government service.
+
+
+**Still to verify**
+
+- Pension type at each institute (NPS, UPS or their own CPF scheme): check each institute's service rules.
+- Madras School of Economics funding and status: not verified.
+- ISI and CDS status points are from general knowledge, not re-checked today.
+
+**Sources**
+
+1. [IEG Service and Financial Rules 2024](https://iegindia.org/wp-content/uploads/2025/02/IEG_Service_and_Financial_Rules2024.pdf)
+2. [IEG Professor advert, May 2026](https://iegindia.org/wp-content/uploads/2026/05/Final-full-adv._Prof._IES_06.05.2026.pdf)
+3. [NIPFP overview](https://nipfp.org.in/about-us/overview)
+4. [IGIDR (Wikipedia)](https://en.wikipedia.org/wiki/Indira_Gandhi_Institute_of_Development_Research)
+5. [GIPE (Wikipedia)](https://en.wikipedia.org/wiki/Gokhale_Institute_of_Politics_and_Economics)
+6. [GIPE regular Professor advert, June 2025](https://gipe.ac.in/wp-content/uploads/2025/06/Re-Advt-PRC-Professor-June-2025.pdf)
+
+### Is a job at the Indian Statistical Institute (ISI) a central government job?
+*Asked 2026-10-19*
+
+**In practice, yes:** ISI is an Institute of National Importance under the Indian Statistical Institute Act, 1959, and the Ministry of Statistics (MoSPI) funds it. A permanent faculty post is a public-sector job on central pay scales, and reservation applies. Most people would call it a central government job.
+
+**Strictly, no:** you would be employed by ISI, an autonomous body created by a law, not by a ministry. So you would not be a central government servant under the central civil service rules. IIT and IIM faculty are in the same position.
+
+**What matters day to day:** security, pay and status are close to a central government job. Service conditions come from ISI's own statutes, which follow the central rules.
+
+
+**Still to verify**
+
+- ISI faculty pension scheme (NPS or other) and exact pay level: confirm from an ISI faculty advert or ISI's statutes.
+
+**Sources**
+
+1. [Indian Statistical Institute (Wikipedia)](https://en.wikipedia.org/wiki/Indian_Statistical_Institute)
 
 ### Work-life balance: how many holidays and leaves does a permanent Assistant Professor get at DU? Is it different at other central universities? (and compared with PGT)
 *Asked 2026-10-07*
@@ -3135,6 +3249,29 @@ Other fixed-campus options: Himachal Pradesh University, Shimla (no Economics po
 
 
 ## Exam Preparation Strategy
+
+### Can you get me the DSSSB PGT Economics previous question papers?
+*Asked 2026-11-01*
+
+**Already collected: 10 files covering 6 exam dates (2014 to 2024)**, in `Govt Job/Government Teacher/syllabus/previous-papers/` (index in its README.md).
+
+- **Official papers with answers marked:** 03-07-2018 (Male), 07-07-2018 (Female Shift 1, English + Hindi), 17-07-2021 (Male + Female, straight from dsssb.delhi.gov.in), 21-06-2023 (Female Shift 2), 21-07-2024 (Shift 2, answer-key sheet added 2026-11-01).
+- **Economics section only, solved with explanations (YCT book extracts):** 30-11-2014, 28-06-2015 (Tier-II), 07-07-2018, 21-06-2023. Explanations are the publisher's own and can occasionally be wrong.
+- **Practice-ready JSON** (for timed mocks): 2021 Male, 2021 Female, 2024 Shift 2 in `practice/pyq/`.
+- **Not public:** the 15-07-2026 paper (Advt 10/2024, Post Code 829/24). DSSSB showed it only through candidate login during the answer-key window (notice dated 10-08-2026, objections 10-15 Aug 2026, per aggregators). Also not found: 2023 Male and the other 2024 shift.
+- Years with no PGT Economics exam: 2016, 2017, 2019, 2020, 2022, 2025 (DSSSB runs PGT cycles every 2-3 years).
+**PGT vs Assistant Professor:** DSSSB PGT is a written CBT, so past papers are the core of preparation. Central-university Assistant Professor has no written exam; NET is the gate, and its past papers (2009-2026) are already decoded in the NET Decode Report. State PSC Assistant Professor exams (UPESSC, UKPSC, HPPSC etc.) do have written papers; those are not collected yet.
+
+
+**Still to verify**
+
+- 15-07-2026 PGT Economics paper: check if DSSSB or coaching sites publish it after the final result.
+
+**Sources**
+
+1. [DSSSB official site](https://dsssb.delhi.gov.in)
+2. [DSSSB PGT Economics 21-07-2024 answer key (Adda247 copy)](https://adda247.com/jobs/wp-content/uploads/sites/13/2024/08/01120900/DSSSB-PGT-Answer-Key-Economics-1.pdf)
+3. [DSSSB answer key 2026 schedule (FreeJobAlert)](https://www.freejobalert.com/articles/dsssb-various-posts-answer-key-2026-3062333)
 
 ### What is the best way to crack the aptitude, logical reasoning and answer-writing parts of government teaching exams, and which credible sources should I use?
 *Asked 2026-10-18*
