@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (4)
 - [Exams & Timelines](#exams-timelines) (13)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (16)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (17)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
@@ -625,6 +625,50 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 1. [NCERT Advt 177/2026 (copy of official notice)](https://karnatakahelp.in/wp-content/uploads/2026/02/NCERT-Various-Academic-Positions-Recruitment-2026-Detailed-Notification.pdf)
 2. [CBSE DRQ2026 detailed advertisement, 02-12-2025](https://www.cbse.gov.in/cbsenew/documents/Detailed_Advertisement_Direct_Recruitment_02122025.pdf)
 3. [Adda247: NCERT RIE Ajmer contractual teaching recruitment 2026](https://www.adda247.com/teaching-jobs-exam/ncert-teaching-recruitment-2026/)
+
+### Bring in every permanent Economics teacher or professor job I may not know about (like NCERT and CBSE).
+*Asked 2026-11-01*
+
+**Sweep done (2026-11-01).** Already on the list before: DSSSB, NDMC, KVS, NVS, EMRS, Sainik Schools, Army Public Schools, state PGT, central universities, DU, state PSC colleges, UPSC Asst Prof (A&N/NDA), IEG, Delhi state universities, SCERT/DIET.
+
+**New, no B.Ed needed:**
+
+- NCERT Assistant Professor (Economics): NET or PhD, no age limit, Level 10 (Advt 177/2026: 1 Econ post, OBC; closed 20-02-2026).
+- CBSE Assistant Professor & Assistant Director (Academics): any PG 55%, no NET, Level 10, age 30 + 3 OBC -> ad must close before ~12-02-2028. CBSE Assistant Secretary (any graduate, 35 + 3) -> to ~Feb 2033.
+- NIOS Academic Officer (Economics): Master's, below 37 + 3 OBC (reported), Level 10.
+- Economics research institutes (ICSSR institutes, IGIDR, NIPFP, ISI): mostly need a PhD; later option.
+**New, after B.Ed (~Aug 2028):**
+
+- AEES PGT Economics (Atomic Energy Central Schools): age 40 + 3 OBC (reported), Level 8. Advt 01/2026 is open 02-22 Nov 2026 with 2 PGT Economics posts, but you cannot apply this round without a B.Ed.
+- Railway school PGT (RRB Ministerial & Isolated, CEN 07/2024): age 18-48 + 3 OBC (reported) - the widest PGT age window found. Very few Economics posts.
+- Delhi govt-aided school PGT: school's own selection committee with a DoE nominee, permanent on govt scale; old circular says PGT age 35 (verify).
+- Chandigarh UT PGT: 21-37 in 2023 (reported); whether outsiders can apply is unverified.
+- Rashtriya Military Schools / CTSA: regular ads are rare; recent RMS ads mostly contractual.
+**Not permanent:** NCERT Demonstration Multipurpose School teacher ads (contract).
+
+**PGT vs Assistant Professor:** the new school routes all need a B.Ed and mostly allow age 40+. The new academic routes (NCERT, NIOS, research institutes) need no B.Ed. CBSE Academics is the only one that needs neither NET nor B.Ed, but it has the tightest age deadline.
+
+
+**Still to verify**
+
+- AEES Advt 01/2026: official age limit, cut-off date, regular vs contract, transfer rules
+- RRB CEN 07/2024: official PGT subject list (is Economics there?), age reckoning date, pay level
+- Delhi aided school PGT: current age limit and recruitment procedure
+- Chandigarh UT PGT: is it open to non-Chandigarh candidates? current age limit
+- NIOS Academic Officer: current age limit and whether Economics is advertised
+- CTSA PGT recruitment rules (not found)
+
+**Sources**
+
+1. [NCERT Advt 177/2026](https://karnatakahelp.in/wp-content/uploads/2026/02/NCERT-Various-Academic-Positions-Recruitment-2026-Detailed-Notification.pdf)
+2. [CBSE DRQ2026 detailed advertisement](https://www.cbse.gov.in/cbsenew/documents/Detailed_Advertisement_Direct_Recruitment_02122025.pdf)
+3. [Testbook: AEES Teacher Recruitment 2026](https://testbook.com/news/aees-tgt-pgt-prt-recruitment-2026-out/)
+4. [Adda247: AEES Teacher Recruitment 2026](https://www.adda247.com/teaching-jobs-exam/aees-teacher-recruitment-2026/)
+5. [Testbook: Railway PGT eligibility](https://testbook.com/railway-pgt/eligibility)
+6. [RRB CEN 07/2024 page (Secunderabad)](https://rrbsecunderabad.gov.in/advertisement_category/cen-no-07-2024-ministerial-isolated-categories)
+7. [Delhi HC 2001 judgment citing aided-school PGT age 35](https://www.latestlaws.com/judgements/delhi-hc/2001/september/2001-latest-caselaw-1472-del)
+8. [Testbook: Chandigarh PGT eligibility](https://testbook.com/chandigarh-pgt/eligibility-criteria)
+9. [NIOS recruitment notices (aggregator)](https://testbook.com/blog/job/nios-recruitment)
 
 ### What is PSC (as opposed to PCS), and can I become an Assistant Professor through a state PSC exam?
 *Asked 2026-10-21*
