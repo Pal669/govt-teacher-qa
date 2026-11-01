@@ -4129,6 +4129,28 @@
             "Official DSSSB PGT Economics cut-off PDFs (post codes 67/20, 829/24) to replace aggregator figures.",
             "15-07-2026 paper not yet public; add it to the decode when released."
           ]
+        },
+        {
+          "date": "2026-11-01",
+          "q": "Make the DSSSB decode a Word file with a plan to score 280/300 (90%+ in both sections), using every DSSSB exam since 2000.",
+          "a": [
+            "**Done: v1.1, as Word and PDF** (`DSSSB_PGT_Economics_Exam_Decode_Report.docx` / `.pdf`, EA Demo root).",
+            "- **Every paper since 2000:** DSSSB's own question-bank archive and the coaching archives were searched. The earliest public DSSSB PGT Economics paper is 30-11-2014; none exists from 2000–2013. All 7 public papers (2014, 2015, 2018 x2, 2021, 2023, 2024) are in; DSSSB's own copies of 2014 and 2015 were added.",
+            "- **280 = 92 (Section I) + 188 (Section II).** With 0.25 negative marking that means about 283 of 300 known for certain (94–95%).",
+            "- **Section I targets:** Reasoning 20, Numerical 20, English 18, Hindi 18, GA 16. **Section II:** Tier 1 Economics 99/101, Tier 2 34/35, Tier 3 36/44, Teaching Methodology 19/20.",
+            "- **Hard truth:** the highest cut-off seen is about 175.5/300; 280 needs complete coverage, including topics asked only once or never before.",
+            "- **Timeline:** NET (Dec 2026) → NCERT 11–12 + India facts + daily Section I (2027) → Tier 2/3, Teaching Methodology via B.Ed and CTET (Jan–Aug 2028) → mocks to 280 three times before the likely mid-2029 exam.",
+            "**PGT vs Assistant Professor:** a 90%+ DSSSB plan is mostly breadth plus speed (300 MCQs in 180 minutes, general sections included); the Assistant Professor route is NET depth plus research and interview. NET work feeds about 159 of DSSSB's 200 Section II marks."
+          ],
+          "sources": [
+            {
+              "title": "DSSSB question bank (official archive)",
+              "url": "https://dsssb.delhi.gov.in/doit/tab-content/question-bank"
+            }
+          ],
+          "open": [
+            "No published DSSSB PGT Economics topper score found to benchmark 280 against."
+          ]
         }
       ]
     }

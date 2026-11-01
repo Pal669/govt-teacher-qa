@@ -14,7 +14,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (40)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (16)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
-- [Exam Preparation Strategy](#exam-preparation-strategy) (4)
+- [Exam Preparation Strategy](#exam-preparation-strategy) (5)
 
 ## Eligibility & Documents
 
@@ -3325,6 +3325,27 @@ Other fixed-campus options: Himachal Pradesh University, Shimla (no Economics po
 **Sources**
 
 1. [DSSSB Advt 10/2024 (exam scheme)](https://dsssb.delhi.gov.in)
+
+### Make the DSSSB decode a Word file with a plan to score 280/300 (90%+ in both sections), using every DSSSB exam since 2000.
+*Asked 2026-11-01*
+
+**Done: v1.1, as Word and PDF** (`DSSSB_PGT_Economics_Exam_Decode_Report.docx` / `.pdf`, EA Demo root).
+
+- **Every paper since 2000:** DSSSB's own question-bank archive and the coaching archives were searched. The earliest public DSSSB PGT Economics paper is 30-11-2014; none exists from 2000–2013. All 7 public papers (2014, 2015, 2018 x2, 2021, 2023, 2024) are in; DSSSB's own copies of 2014 and 2015 were added.
+- **280 = 92 (Section I) + 188 (Section II).** With 0.25 negative marking that means about 283 of 300 known for certain (94–95%).
+- **Section I targets:** Reasoning 20, Numerical 20, English 18, Hindi 18, GA 16. **Section II:** Tier 1 Economics 99/101, Tier 2 34/35, Tier 3 36/44, Teaching Methodology 19/20.
+- **Hard truth:** the highest cut-off seen is about 175.5/300; 280 needs complete coverage, including topics asked only once or never before.
+- **Timeline:** NET (Dec 2026) → NCERT 11–12 + India facts + daily Section I (2027) → Tier 2/3, Teaching Methodology via B.Ed and CTET (Jan–Aug 2028) → mocks to 280 three times before the likely mid-2029 exam.
+**PGT vs Assistant Professor:** a 90%+ DSSSB plan is mostly breadth plus speed (300 MCQs in 180 minutes, general sections included); the Assistant Professor route is NET depth plus research and interview. NET work feeds about 159 of DSSSB's 200 Section II marks.
+
+
+**Still to verify**
+
+- No published DSSSB PGT Economics topper score found to benchmark 280 against.
+
+**Sources**
+
+1. [DSSSB question bank (official archive)](https://dsssb.delhi.gov.in/doit/tab-content/question-bank)
 
 ### What is the best way to crack the aptitude, logical reasoning and answer-writing parts of government teaching exams, and which credible sources should I use?
 *Asked 2026-10-18*
