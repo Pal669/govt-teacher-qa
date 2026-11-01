@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (4)
 - [Exams & Timelines](#exams-timelines) (13)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (15)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (16)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
@@ -593,6 +593,38 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 
 
 ## Other Routes (KVS, EMRS, Other States)
+
+### Does NCERT give a permanent Economics teacher post? What about CBSE? Age limit and everything?
+*Asked 2026-11-01*
+
+**NCERT: yes, but it's an Assistant Professor post, not PGT.** NCERT Advt 177/2026 (direct recruitment, 117 academic posts at NCERT New Delhi + RIEs Ajmer, Bhopal, Bhubaneswar, Mysuru, Shillong) had Economics: 1 Assistant Professor (OBC) + 2 Associate Professor (OBC).
+
+- Gate: Master's 55% (relaxation for OBC-NCL) + NET, or a PhD under UGC 2009/2016 regulations. No B.Ed. Same gate as central universities.
+- Pay: Academic Level 10, entry Rs 57,700. Regular direct-recruitment post (permanent), service rules as per UGC/NCERT/GoI norms.
+- Age: no upper age limit stated (UGC norms; only superannuation). Ashish's age is not a problem.
+- Applications were 31-01-2026 to 20-02-2026, so this cycle is over. Economics openings are tiny (1 post).
+- NCERT also runs Demonstration Multipurpose Schools (DMS) at the RIEs, which have PGTs. Recent DMS/RIE teacher ads found were contractual (e.g. RIE Ajmer 2026-27, PGT max age 40). Regular DMS PGT recruitment not confirmed.
+**CBSE: no PGT post at all.** CBSE runs no schools of its own. It only conducts the KVS/NVS teacher exams; the employer is KVS/NVS.
+
+- The CBSE job that fits him: Assistant Professor & Assistant Director (Academics), Group A, Level 10. DRQ2026 notice CBSE/Rectt.Cell/14(88)/2025 dated 02-12-2025: 12 posts (UR 6, OBC 2, SC 2, ST 1, EWS 1); applications closed 22-12-2025.
+- Gate: PG in ANY discipline 55% (concession for reserved). B.Ed/M.Ed, NET, JRF, PhD only desirable. Exam: Tier-1 MCQ (GA, reasoning, numerical, etc.), Tier-2 objective + descriptive at PG level, then interview (1:10 then 1:5).
+- Age: max 30, OBC-NCL (Centre list) +3 = 33, counted on the closing date. DOB 12-02-1995 means eligible only if an ad closes before ~12-02-2028. Previous ads: Mar 2024 and Dec 2025, so one more cycle in that window is possible but not certain.
+- Also in the same CBSE ad: Assistant Secretary, Level 10, any Bachelor's, max 35 (+3 OBC = 38, to ~Feb 2033). Administrative, not teaching.
+**PGT vs Assistant Professor:** none of these is a school PGT route for him. NCERT is effectively a NET-gated Assistant Professor job (same as central universities, no age limit). CBSE Academics is an exam-based Level 10 post with no NET needed but a hard age cut-off around Feb 2028.
+
+
+**Still to verify**
+
+- Which unit (NCERT HQ dept or which RIE) the 2026 Economics Assistant Professor post was in
+- Whether NCERT DMS schools ever recruit regular (not contractual) PGT Economics
+- Whether the CBSE Dec 2025 qualification corrigendum (05-12-2025) changed the Academics post's PG/55% rule
+- When the next CBSE DRQ and NCERT academic ads come out
+
+**Sources**
+
+1. [NCERT Advt 177/2026 (copy of official notice)](https://karnatakahelp.in/wp-content/uploads/2026/02/NCERT-Various-Academic-Positions-Recruitment-2026-Detailed-Notification.pdf)
+2. [CBSE DRQ2026 detailed advertisement, 02-12-2025](https://www.cbse.gov.in/cbsenew/documents/Detailed_Advertisement_Direct_Recruitment_02122025.pdf)
+3. [Adda247: NCERT RIE Ajmer contractual teaching recruitment 2026](https://www.adda247.com/teaching-jobs-exam/ncert-teaching-recruitment-2026/)
 
 ### What is PSC (as opposed to PCS), and can I become an Assistant Professor through a state PSC exam?
 *Asked 2026-10-21*
