@@ -1494,10 +1494,22 @@
             "**Fit for Ashish:** PRT needs D.El.Ed (or B.El.Ed) + CTET Paper I. Since the 2023 Supreme Court ruling (Devesh Sharma), a B.Ed does NOT qualify for primary posts. So even after the B.Ed, PRT is closed unless he does a D.El.Ed. The age limit is also 30 (+3 OBC Delhi), the same squeeze as PGT. Not a route for him; PGT/KVS/EMRS/NET stay the plan."
           ],
           "sources": [
-            "https://www.adda247.com/teaching-jobs-exam/dsssb-primary-teacher-notification-2025",
-            "https://www.adda247.com/teaching-jobs-exam/dsssb-prt-vacancy-2025-26-revised-check-official-notice/",
-            "https://www.pw.live/teaching/exams/dsssb-prt-recruitment-2025",
-            "https://www.adda247.com/teaching-jobs-exam/dsssb-prt-update-ndmc-confirms-115-vacant-prt-posts/"
+            {
+              "title": "Adda247: DSSSB PRT notification 2025",
+              "url": "https://www.adda247.com/teaching-jobs-exam/dsssb-primary-teacher-notification-2025"
+            },
+            {
+              "title": "Adda247: DSSSB PRT revised vacancy (18-05-2026)",
+              "url": "https://www.adda247.com/teaching-jobs-exam/dsssb-prt-vacancy-2025-26-revised-check-official-notice/"
+            },
+            {
+              "title": "Physics Wallah: DSSSB PRT 2025",
+              "url": "https://www.pw.live/teaching/exams/dsssb-prt-recruitment-2025"
+            },
+            {
+              "title": "Adda247: NDMC confirms 115 PRT posts",
+              "url": "https://www.adda247.com/teaching-jobs-exam/dsssb-prt-update-ndmc-confirms-115-vacant-prt-posts/"
+            }
           ],
           "open": [
             "DoE PRT figures are from aggregator sites: confirm 1,055 / 1,044 against the DSSSB Advt 05/2025 PDF and its 18-05-2026 corrigendum",

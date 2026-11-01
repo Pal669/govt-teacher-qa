@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (4)
 - [Exams & Timelines](#exams-timelines) (13)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (18)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (19)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
@@ -689,6 +689,33 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 **Sources**
 
 1. [DoE: List of 1229 Sec. & Sr. Sec schools as per UDISE 2018-19](https://www.edudel.nic.in/upload/upload_2021_22/4223_59_dt_12012021a.pdf)
+
+### What about PRT teachers in Delhi DoE?
+*Asked 2026-11-01*
+
+**PRT = Primary Teacher (Assistant Teacher, Primary), Classes 1-5.** In Delhi most primary schools are run by MCD, but DoE also hires PRTs for primary wings of its Sarvodaya schools. DSSSB recruits for both.
+
+**Last DoE PRT ad: DSSSB Advt 05/2025, Post Code 802/25.** 1,180 posts in total: 1,055 DoE + 125 NDMC. Applications 17-09-2025 to 16-10-2025.
+
+- A corrigendum dated 18-05-2026 reportedly cut DoE to **1,044** (EWS 128 to 117). NDMC later confirmed 115 vacant PRT posts.
+- A separate MCD requisition of about 1,147 primary posts has been reported. Advt 03/2026 (29-05-2026) covers 1,417 DoE posts across TGT, PRT and special educator, with no PRT-only split.
+**Pay:** Level 6, Rs 35,400-1,12,400. PGT is Level 8 (Rs 47,600-1,51,100).
+
+**Fit for Ashish:** PRT needs D.El.Ed (or B.El.Ed) + CTET Paper I. Since the 2023 Supreme Court ruling (Devesh Sharma), a B.Ed does NOT qualify for primary posts. So even after the B.Ed, PRT is closed unless he does a D.El.Ed. The age limit is also 30 (+3 OBC Delhi), the same squeeze as PGT. Not a route for him; PGT/KVS/EMRS/NET stay the plan.
+
+
+**Still to verify**
+
+- DoE PRT figures are from aggregator sites: confirm 1,055 / 1,044 against the DSSSB Advt 05/2025 PDF and its 18-05-2026 corrigendum
+- PRT age limit and exact qualification wording in Advt 05/2025: check against the official PDF
+- Sanctioned vs vacant PRT strength in DoE: no official figure found
+
+**Sources**
+
+1. [Adda247: DSSSB PRT notification 2025](https://www.adda247.com/teaching-jobs-exam/dsssb-primary-teacher-notification-2025)
+2. [Adda247: DSSSB PRT revised vacancy (18-05-2026)](https://www.adda247.com/teaching-jobs-exam/dsssb-prt-vacancy-2025-26-revised-check-official-notice/)
+3. [Physics Wallah: DSSSB PRT 2025](https://www.pw.live/teaching/exams/dsssb-prt-recruitment-2025)
+4. [Adda247: NDMC confirms 115 PRT posts](https://www.adda247.com/teaching-jobs-exam/dsssb-prt-update-ndmc-confirms-115-vacant-prt-posts/)
 
 ### What is PSC (as opposed to PCS), and can I become an Assistant Professor through a state PSC exam?
 *Asked 2026-10-21*
