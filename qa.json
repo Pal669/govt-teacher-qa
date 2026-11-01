@@ -1402,7 +1402,7 @@
             "- NIOS Academic Officer (Economics): Master's, below 37 + 3 OBC (reported), Level 10.",
             "- Economics research institutes (ICSSR institutes, IGIDR, NIPFP, ISI): mostly need a PhD; later option.",
             "**New, after B.Ed (~Aug 2028):**",
-            "- AEES PGT Economics (Atomic Energy Central Schools): age 40 + 3 OBC (reported), Level 8. Advt 01/2026 is open 02-22 Nov 2026 with 2 PGT Economics posts, but you cannot apply this round without a B.Ed.",
+            "- AEES PGT Economics (Atomic Energy Central Schools): age 40 + 3 OBC on closing date, Master's 50% + B.Ed 50%, Level 8, posted anywhere in India (all VERIFIED from the official notice). Advt 01/2026 is open 02-22 Nov 2026 with 2 PGT Economics posts (EWS 1, UR 1), but you cannot apply this round without a B.Ed.",
             "- Railway school PGT (RRB Ministerial & Isolated, CEN 07/2024): age 18-48 + 3 OBC (reported) - the widest PGT age window found. Very few Economics posts.",
             "- Delhi govt-aided school PGT: school's own selection committee with a DoE nominee, permanent on govt scale; old circular says PGT age 35 (verify).",
             "- Chandigarh UT PGT: 21-37 in 2023 (reported); whether outsiders can apply is unverified.",
@@ -1418,6 +1418,10 @@
             {
               "title": "CBSE DRQ2026 detailed advertisement",
               "url": "https://www.cbse.gov.in/cbsenew/documents/Detailed_Advertisement_Direct_Recruitment_02122025.pdf"
+            },
+            {
+              "title": "AEES Recruitment Notice 01/2026 (official)",
+              "url": "https://www.aees.gov.in/DOCUMENTS/rv/1.%20AEES_Recruitment_Notice_01_2026_29.10.2026.pdf"
             },
             {
               "title": "Testbook: AEES Teacher Recruitment 2026",
@@ -1449,7 +1453,6 @@
             }
           ],
           "open": [
-            "AEES Advt 01/2026: official age limit, cut-off date, regular vs contract, transfer rules",
             "RRB CEN 07/2024: official PGT subject list (is Economics there?), age reckoning date, pay level",
             "Delhi aided school PGT: current age limit and recruitment procedure",
             "Chandigarh UT PGT: is it open to non-Chandigarh candidates? current age limit",
