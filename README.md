@@ -14,7 +14,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (40)
 - [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (16)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
-- [Exam Preparation Strategy](#exam-preparation-strategy) (2)
+- [Exam Preparation Strategy](#exam-preparation-strategy) (3)
 
 ## Eligibility & Documents
 
@@ -3272,6 +3272,37 @@ Other fixed-campus options: Himachal Pradesh University, Shimla (no Economics po
 1. [DSSSB official site](https://dsssb.delhi.gov.in)
 2. [DSSSB PGT Economics 21-07-2024 answer key (Adda247 copy)](https://adda247.com/jobs/wp-content/uploads/sites/13/2024/08/01120900/DSSSB-PGT-Answer-Key-Economics-1.pdf)
 3. [DSSSB answer key 2026 schedule (FreeJobAlert)](https://www.freejobalert.com/articles/dsssb-various-posts-answer-key-2026-3062333)
+
+### Get me the previous papers for KVS and the other PGT exams too (not just DSSSB).
+*Asked 2026-11-01*
+
+**Collected 14 new files across 6 exams**, saved in per-exam folders under `syllabus/previous-papers/` (README.md lists each one).
+
+- **KVS:** 2017 Economics (scanned); 23-02-2023 Economics response sheet + KVS provisional key; 11-01-2026 KVS-NVS Tier-I common paper (sets L2, L4) + key; 29-03-2026 KVS-NVS Tier-II Economics (answers ticked by uploader, unofficial).
+- **NVS:** 2019 Economics response sheet (180 Qs). From 2025 NVS recruits jointly with KVS.
+- **EMRS:** ESSE-2025 Tier-II Economics, 22-03-2026 (scanned, no key). Already had the 2023 paper and the 2025 Tier-I.
+- **UP PGT (UPSESSB/UPESSC):** 2018 cycle, 2021 (Set A), 10-05-2026. No keys.
+- **UKPSC Lecturer:** 2018 Economics.
+- **HPSC PGT (Haryana):** 2023 Economics subject paper, which is descriptive (18 Qs, attempt 15, 150 marks).
+**Not found:** RPSC School Lecturer Economics (only paid coaching copies), NVS 2022, KVS Dec 2018 Economics, UKPSC 2026. HP Lecturer skipped (route closed). Sainik/AWES have no standard paper.
+
+**PGT vs Assistant Professor:** every school route is a written exam, so papers matter for all of them. For central-university Assistant Professor the only written gate is NET (papers already decoded); state PSC Assistant Professor papers are not collected yet.
+
+
+**Still to verify**
+
+- RPSC School Lecturer Economics papers: try rpsc.rajasthan.gov.in manually in a browser.
+- Exact exam date of the 2019 NVS paper (blank on the sheet).
+
+**Sources**
+
+1. [Adda247 KVS previous papers](https://www.adda247.com/teaching-jobs-exam/kvs-previous-year-papers/)
+2. [Prepp KVS papers](https://prepp.in/kvs-recruitment-exam/practice-papers)
+3. [Careerpower NVS previous papers](https://www.careerpower.in/nvs-previous-year-question-paper.html)
+4. [Adda247 EMRS previous papers](https://www.adda247.com/teaching-jobs-exam/emrs-previous-year-question-paper/)
+5. [Careerpower UP PGT 2026 papers](https://www.careerpower.in/blog/up-pgt-question-paper-2026)
+6. [Adda247 UKPSC Lecturer papers](https://www.adda247.com/teaching-jobs-exam/ukpsc-lecturer-previous-year-question-paper/)
+7. [Adda247 HPSC PGT papers](https://www.adda247.com/teaching-jobs-exam/hpsc-pgt-previous-year-question-paper/)
 
 ### What is the best way to crack the aptitude, logical reasoning and answer-writing parts of government teaching exams, and which credible sources should I use?
 *Asked 2026-10-18*

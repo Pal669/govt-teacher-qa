@@ -4057,6 +4057,55 @@
           "open": [
             "15-07-2026 PGT Economics paper: check if DSSSB or coaching sites publish it after the final result."
           ]
+        },
+        {
+          "date": "2026-11-01",
+          "q": "Get me the previous papers for KVS and the other PGT exams too (not just DSSSB).",
+          "a": [
+            "**Collected 14 new files across 6 exams**, saved in per-exam folders under `syllabus/previous-papers/` (README.md lists each one).",
+            "- **KVS:** 2017 Economics (scanned); 23-02-2023 Economics response sheet + KVS provisional key; 11-01-2026 KVS-NVS Tier-I common paper (sets L2, L4) + key; 29-03-2026 KVS-NVS Tier-II Economics (answers ticked by uploader, unofficial).",
+            "- **NVS:** 2019 Economics response sheet (180 Qs). From 2025 NVS recruits jointly with KVS.",
+            "- **EMRS:** ESSE-2025 Tier-II Economics, 22-03-2026 (scanned, no key). Already had the 2023 paper and the 2025 Tier-I.",
+            "- **UP PGT (UPSESSB/UPESSC):** 2018 cycle, 2021 (Set A), 10-05-2026. No keys.",
+            "- **UKPSC Lecturer:** 2018 Economics.",
+            "- **HPSC PGT (Haryana):** 2023 Economics subject paper, which is descriptive (18 Qs, attempt 15, 150 marks).",
+            "**Not found:** RPSC School Lecturer Economics (only paid coaching copies), NVS 2022, KVS Dec 2018 Economics, UKPSC 2026. HP Lecturer skipped (route closed). Sainik/AWES have no standard paper.",
+            "**PGT vs Assistant Professor:** every school route is a written exam, so papers matter for all of them. For central-university Assistant Professor the only written gate is NET (papers already decoded); state PSC Assistant Professor papers are not collected yet."
+          ],
+          "sources": [
+            {
+              "title": "Adda247 KVS previous papers",
+              "url": "https://www.adda247.com/teaching-jobs-exam/kvs-previous-year-papers/"
+            },
+            {
+              "title": "Prepp KVS papers",
+              "url": "https://prepp.in/kvs-recruitment-exam/practice-papers"
+            },
+            {
+              "title": "Careerpower NVS previous papers",
+              "url": "https://www.careerpower.in/nvs-previous-year-question-paper.html"
+            },
+            {
+              "title": "Adda247 EMRS previous papers",
+              "url": "https://www.adda247.com/teaching-jobs-exam/emrs-previous-year-question-paper/"
+            },
+            {
+              "title": "Careerpower UP PGT 2026 papers",
+              "url": "https://www.careerpower.in/blog/up-pgt-question-paper-2026"
+            },
+            {
+              "title": "Adda247 UKPSC Lecturer papers",
+              "url": "https://www.adda247.com/teaching-jobs-exam/ukpsc-lecturer-previous-year-question-paper/"
+            },
+            {
+              "title": "Adda247 HPSC PGT papers",
+              "url": "https://www.adda247.com/teaching-jobs-exam/hpsc-pgt-previous-year-question-paper/"
+            }
+          ],
+          "open": [
+            "RPSC School Lecturer Economics papers: try rpsc.rajasthan.gov.in manually in a browser.",
+            "Exact exam date of the 2019 NVS paper (blank on the sheet)."
+          ]
         }
       ]
     }
