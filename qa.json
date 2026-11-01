@@ -349,6 +349,33 @@
             "No public data on the age profile of candidates actually selected in DU's 2022-24 drive; an RTI (Right to Information) request to DU colleges would settle it",
             "The displacement figures (40%, 75%, 80%) come from news reports and teacher unions, not official DU data"
           ]
+        },
+        {
+          "date": "2026-11-01",
+          "q": "PGT and TGT need a B.Ed, PRT needs a D.El.Ed. Which teaching post can still get me into Delhi government schools?",
+          "a": [
+            "**NDMC PGT (Economics), recruited through DSSSB. It is the only Delhi school post still on the old rules.**",
+            "- Official Advt 07/2023 (22-12-2023), NDMC PGT Economics, 5 posts: age **below 36** (+3 OBC Delhi = below 39). B.Ed **relaxable** for first division in Class 12, graduation and PG, if the B.Ed is done within 3 years of joining. Pay Level 8, same as DoE PGT.",
+            "- DoE had the same rule in 2023 but changed it: Advt 10/2024 says 'not exceeding 30' and B.Ed compulsory. NDMC sent no requisition in 2024, so its 2020 rules are the last known rules.",
+            "- For Ashish: eligible until about 11-02-2031 (general) or 11-02-2034 (OBC Delhi). The B.Ed due Aug 2028 meets the 3-year condition anyway.",
+            "**TGT and PRT are not options:** TGT needs a B.Ed (and the age limit is 32 for DoE TGT, to verify), and PRT needs a D.El.Ed (a B.Ed is not valid, Supreme Court 2023).",
+            "**Risks:** about 5 posts per cycle, none in 2024, and NDMC may switch to DoE's new rules at its next requisition."
+          ],
+          "sources": [
+            {
+              "title": "DSSSB Advt 07/2023 (official PDF)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_07-23_advt_combined_pgts_1.pdf"
+            },
+            {
+              "title": "DSSSB Advt 10/2024 (official PDF)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf"
+            }
+          ],
+          "open": [
+            "Whether NDMC has amended its PGT recruitment rules since 03-12-2020 (ask NDMC Education Dept / RTI)",
+            "Confirm each of Class 12, BA and MA counts as First Division on the marksheet",
+            "Whether OBC (Delhi) +3 applies to NDMC rows the same way (para 8 of the ad suggests yes)"
+          ]
         }
       ]
     },

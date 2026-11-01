@@ -4,7 +4,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 
 - [Eligibility & Documents](#eligibility-documents) (6)
 - [B.Ed](#b-ed) (1)
-- [Age Limits](#age-limits) (4)
+- [Age Limits](#age-limits) (5)
 - [Exams & Timelines](#exams-timelines) (13)
 - [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (20)
 - [Pay & Perks](#pay-perks) (6)
@@ -176,6 +176,30 @@ Also watch: NCTE's proposed **1-year B.Ed for postgraduates**. Announced, but no
 
 
 ## Age Limits
+
+### PGT and TGT need a B.Ed, PRT needs a D.El.Ed. Which teaching post can still get me into Delhi government schools?
+*Asked 2026-11-01*
+
+**NDMC PGT (Economics), recruited through DSSSB. It is the only Delhi school post still on the old rules.**
+
+- Official Advt 07/2023 (22-12-2023), NDMC PGT Economics, 5 posts: age **below 36** (+3 OBC Delhi = below 39). B.Ed **relaxable** for first division in Class 12, graduation and PG, if the B.Ed is done within 3 years of joining. Pay Level 8, same as DoE PGT.
+- DoE had the same rule in 2023 but changed it: Advt 10/2024 says 'not exceeding 30' and B.Ed compulsory. NDMC sent no requisition in 2024, so its 2020 rules are the last known rules.
+- For Ashish: eligible until about 11-02-2031 (general) or 11-02-2034 (OBC Delhi). The B.Ed due Aug 2028 meets the 3-year condition anyway.
+**TGT and PRT are not options:** TGT needs a B.Ed (and the age limit is 32 for DoE TGT, to verify), and PRT needs a D.El.Ed (a B.Ed is not valid, Supreme Court 2023).
+
+**Risks:** about 5 posts per cycle, none in 2024, and NDMC may switch to DoE's new rules at its next requisition.
+
+
+**Still to verify**
+
+- Whether NDMC has amended its PGT recruitment rules since 03-12-2020 (ask NDMC Education Dept / RTI)
+- Confirm each of Class 12, BA and MA counts as First Division on the marksheet
+- Whether OBC (Delhi) +3 applies to NDMC rows the same way (para 8 of the ad suggests yes)
+
+**Sources**
+
+1. [DSSSB Advt 07/2023 (official PDF)](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_07-23_advt_combined_pgts_1.pdf)
+2. [DSSSB Advt 10/2024 (official PDF)](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf)
 
 ### What age is suitable to become a DU teacher, going by past records? If I get hired at 35, will they actually hire me, or quietly reject me because of age without saying it?
 *Asked 2026-10-07*
