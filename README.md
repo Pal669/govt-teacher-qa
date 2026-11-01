@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (4)
 - [Exams & Timelines](#exams-timelines) (13)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (19)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (20)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
@@ -716,6 +716,28 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 2. [Adda247: DSSSB PRT revised vacancy (18-05-2026)](https://www.adda247.com/teaching-jobs-exam/dsssb-prt-vacancy-2025-26-revised-check-official-notice/)
 3. [Physics Wallah: DSSSB PRT 2025](https://www.pw.live/teaching/exams/dsssb-prt-recruitment-2025)
 4. [Adda247: NDMC confirms 115 PRT posts](https://www.adda247.com/teaching-jobs-exam/dsssb-prt-update-ndmc-confirms-115-vacant-prt-posts/)
+
+### What degree is mandatory for DoE PRT?
+*Asked 2026-11-01*
+
+**No degree is mandatory. The gate is Class 12 + a primary-teaching diploma + CTET Paper I.**
+
+- **Class 12 (Senior Secondary)** with at least 50% (SC/ST relaxation; sources disagree on whether OBC also gets it).
+- **Plus ONE of:** 2-year D.El.Ed / JBT (Diploma in Elementary Education); 4-year B.El.Ed (Bachelor of Elementary Education); or graduation + 2-year D.El.Ed.
+- **CTET Paper I** (Classes 1-5) passed.
+- **Hindi** at 10th level (listed by some sources).
+**What does NOT count:** B.Ed. The Supreme Court (Devesh Sharma, Aug 2023) held B.Ed is not valid for primary posts. Ashish's MA + B.Ed do not qualify him; he would need a 2-year D.El.Ed + CTET Paper I.
+
+
+**Still to verify**
+
+- Confirm exact PRT qualification wording, Hindi requirement and marks relaxation (SC/ST vs OBC) from the official Advt 05/2025 PDF
+
+**Sources**
+
+1. [Physics Wallah: DSSSB PRT eligibility](https://www.pw.live/teaching/exams/dsssb-prt-eligibility)
+2. [Career Power: DSSSB PRT](https://www.careerpower.in/dsssb-prt.html)
+3. [Blog breakdown of Post Code 802/25](https://jobindiaindin.blogspot.com/2026/02/here-is-comprehensive-breakdown-of.html)
 
 ### What is PSC (as opposed to PCS), and can I become an Assistant Professor through a state PSC exam?
 *Asked 2026-10-21*

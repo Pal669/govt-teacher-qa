@@ -1516,6 +1516,35 @@
             "PRT age limit and exact qualification wording in Advt 05/2025: check against the official PDF",
             "Sanctioned vs vacant PRT strength in DoE: no official figure found"
           ]
+        },
+        {
+          "date": "2026-11-01",
+          "q": "What degree is mandatory for DoE PRT?",
+          "a": [
+            "**No degree is mandatory. The gate is Class 12 + a primary-teaching diploma + CTET Paper I.**",
+            "- **Class 12 (Senior Secondary)** with at least 50% (SC/ST relaxation; sources disagree on whether OBC also gets it).",
+            "- **Plus ONE of:** 2-year D.El.Ed / JBT (Diploma in Elementary Education); 4-year B.El.Ed (Bachelor of Elementary Education); or graduation + 2-year D.El.Ed.",
+            "- **CTET Paper I** (Classes 1-5) passed.",
+            "- **Hindi** at 10th level (listed by some sources).",
+            "**What does NOT count:** B.Ed. The Supreme Court (Devesh Sharma, Aug 2023) held B.Ed is not valid for primary posts. Ashish's MA + B.Ed do not qualify him; he would need a 2-year D.El.Ed + CTET Paper I."
+          ],
+          "sources": [
+            {
+              "title": "Physics Wallah: DSSSB PRT eligibility",
+              "url": "https://www.pw.live/teaching/exams/dsssb-prt-eligibility"
+            },
+            {
+              "title": "Career Power: DSSSB PRT",
+              "url": "https://www.careerpower.in/dsssb-prt.html"
+            },
+            {
+              "title": "Blog breakdown of Post Code 802/25",
+              "url": "https://jobindiaindin.blogspot.com/2026/02/here-is-comprehensive-breakdown-of.html"
+            }
+          ],
+          "open": [
+            "Confirm exact PRT qualification wording, Hindi requirement and marks relaxation (SC/ST vs OBC) from the official Advt 05/2025 PDF"
+          ]
         }
       ]
     },
