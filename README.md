@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (4)
 - [Exams & Timelines](#exams-timelines) (13)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (17)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (18)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (2)
@@ -669,6 +669,26 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 8. [Delhi HC 2001 judgment citing aided-school PGT age 35](https://www.latestlaws.com/judgements/delhi-hc/2001/september/2001-latest-caselaw-1472-del)
 9. [Testbook: Chandigarh PGT eligibility](https://testbook.com/chandigarh-pgt/eligibility-criteria)
 10. [NIOS recruitment notices (aggregator)](https://testbook.com/blog/job/nios-recruitment)
+
+### Give me examples of Delhi govt-aided schools (for PGT).
+*Asked 2026-11-01*
+
+**The official DoE list (UDISE 2018-19, issued 12-01-2021) has 184 aided schools; 130 are Senior Secondary, so they have PGT posts.** Full list: output/Delhi-Aided-Schools-PGT.xlsx.
+
+- By district (Sr. Sec.): Central 38, North 29, New Delhi 14, East 9, West A 9, South West 8, South East 8, North West A 6, North East 3, West B 3, North West B 2, South 1.
+- Big groups: Ramjas schools (Darya Ganj, Anand Parbat, Chitragupta Road, Ramjas Road), DAV schools (Gandhi Nagar, Jangpura, Chitra Gupta Road, Darya Ganj, Yusuf Sarai), Salwan Boys + Girls (Rajinder Nagar), DTEA Tamil schools (Mandir Marg, Lodhi Estate, Pusa Road, Janakpuri, R K Puram), Andhra Education Society, Kerala Education Society, Bengali schools (Alipur Road, Raisina, Vinay Nagar), Khalsa schools, Jain schools, Birla schools, DCM schools, Sant Nirankari schools, Arya Samaj girls' schools, Lady Irwin, Harcourt Butler, Air Force Sr Sec (Palam, Race Course).
+- How hiring works: the school's managing committee advertises (newspaper/website) and selects with DoE nominees; salary is paid by the Delhi govt at the govt scale (Level 8 for PGT).
+- Caution: many are religious or linguistic minority schools (Art 30), which may prefer their own community or want the language. List is from 2018-19, so aided status may have changed.
+
+**Still to verify**
+
+- Current DoE aided school list (newer than 2018-19)
+- Whether minority aided schools give preference to their community/language for PGT posts
+- Whether DoE currently allows aided schools to fill regular PGT vacancies (or only guest teachers)
+
+**Sources**
+
+1. [DoE: List of 1229 Sec. & Sr. Sec schools as per UDISE 2018-19](https://www.edudel.nic.in/upload/upload_2021_22/4223_59_dt_12012021a.pdf)
 
 ### What is PSC (as opposed to PCS), and can I become an Assistant Professor through a state PSC exam?
 *Asked 2026-10-21*
