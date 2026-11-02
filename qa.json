@@ -376,6 +376,36 @@
             "Confirm each of Class 12, BA and MA counts as First Division on the marksheet",
             "Whether OBC (Delhi) +3 applies to NDMC rows the same way (para 8 of the ad suggests yes)"
           ]
+        },
+        {
+          "date": "2026-11-02",
+          "q": "What's the new update on age relaxation for DSSSB TGT and PGT?",
+          "a": [
+            "**No change as of 2 Nov 2026. Nothing is notified.** PGT and TGT are both still 'not exceeding 30' (33 for OBC Delhi).",
+            "- Candidates have asked for PGT 36 and TGT 32. In March 2026 the govt said it would **consider** this. No order has come out since.",
+            "- Adda247 reports a proposed **one-time TGT relaxation**: +2 years for men, +10 years for women, to make up for recruitment delays. It is still marked 'not approved'.",
+            "- No official DSSSB notice or Delhi Gazette order on either has been found. Coaching sites that print 36/32 are reusing pre-2024 rules.",
+            "**What it means for you:** your DSSSB window still closes ~11-02-2029. If 36 is notified for PGT: 39 with OBC Delhi, window to ~Feb 2034. The +2 TGT relaxation for men, if approved, applies only to the delayed TGT 2025 cycle, which you can't apply to anyway (no B.Ed yet).",
+            "**Assistant Professor comparison:** central universities have no upper age limit, so this news doesn't affect that track."
+          ],
+          "sources": [
+            {
+              "title": "Testbook: exams postponed, age limit likely to increase (2026)",
+              "url": "https://testbook.com/news/dsssb-exam-2026-postponed-for-tgt-pgt-prt-age-limit-likely-to-increase/"
+            },
+            {
+              "title": "Adda247: Delhi govt seeks one-time TGT age relaxation",
+              "url": "https://www.adda247.com/teaching-jobs-exam/dsssb-tgt-age-limit-2025-26-delhi-govt-seeks-one-time-relaxation-check-latest-status/"
+            },
+            {
+              "title": "DSSSB Advt. 06/2025 TGT (official)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/advertisement_no_06-2025.pdf"
+            }
+          ],
+          "open": [
+            "Whether the Delhi govt approves the one-time TGT relaxation (+2 men / +10 women), and whether it would extend to PGT",
+            "Any Delhi Gazette amendment to the PGT/TGT recruitment rules raising the age to 36/32"
+          ]
         }
       ]
     },
