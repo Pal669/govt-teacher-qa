@@ -173,12 +173,37 @@
           "sources": [
             {
               "title": "DSSSB Advt 07/2023 pp.24-25; Advt 10/2024 p.17; Advt 06/2025 (saved in Govt Job/Government Teacher/notifications)",
-              "url": "https://dsssb.delhi.gov.in"
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_07-23_advt_combined_pgts_1.pdf"
+            },
+            {
+              "title": "DSSSB Advt 10/2024 (official PDF), p.17",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf"
             }
           ],
           "open": [
             "NDMC's PGT rule for the next combined PGT ad (36 or 30) unknown until it is published."
           ]
+        },
+        {
+          "date": "2026-11-02",
+          "q": "Show me the official link for the PGT Economics ads (where NDMC eligibility is written).",
+          "a": [
+            "**Official DSSSB PDFs (both open, checked 2026-11-02; identical in size to the copies quoted):**",
+            "- **Advt 07/2023 (22-12-2023)**, Combined PGT. NDMC PGT Economics block (own rules, age below 36): physical page 24, age on page 25. Post code 809/23.",
+            "- **Advt 10/2024 (30-12-2024)**, Combined PGT, the most recent PGT ad. NDMC PGT Economics row: 'NO REQUISITION RECEIVED TILL DATE', physical page 17. DoE PGT Economics: post code 829/24.",
+            "**PGT vs Assistant Professor:** for professor posts the official source is each university's own advert (e.g. DU Advt R&P/316/2026), not one combined board ad."
+          ],
+          "sources": [
+            {
+              "title": "DSSSB Advt 07/2023 (official PDF)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_07-23_advt_combined_pgts_1.pdf"
+            },
+            {
+              "title": "DSSSB Advt 10/2024 (official PDF)",
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf"
+            }
+          ],
+          "open": []
         }
       ]
     },
@@ -855,7 +880,7 @@
           "sources": [
             {
               "title": "DSSSB Advt 07/2023 (22-12-2023), paras 4-6",
-              "url": "https://dsssb.delhi.gov.in"
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_07-23_advt_combined_pgts_1.pdf"
             }
           ],
           "open": [
@@ -1664,11 +1689,11 @@
           "sources": [
             {
               "title": "DSSSB Advt 07/2023 (22-12-2023), PGT Economics post code 809/23, pp.23-24, para 8",
-              "url": "https://dsssb.delhi.gov.in"
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_07-23_advt_combined_pgts_1.pdf"
             },
             {
               "title": "DSSSB Advt 10/2024 (30-12-2024), PGT Economics 829/24",
-              "url": "https://dsssb.delhi.gov.in"
+              "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf"
             },
             {
               "title": "ThePrint: North MCD teachers get June salary after HC order (2020)",

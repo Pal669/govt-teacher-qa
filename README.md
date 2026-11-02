@@ -2,7 +2,7 @@
 
 Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-11-02.
 
-- [Eligibility & Documents](#eligibility-documents) (7)
+- [Eligibility & Documents](#eligibility-documents) (8)
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (6)
 - [Exams & Timelines](#exams-timelines) (14)
@@ -36,7 +36,23 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 
 **Sources**
 
-1. [DSSSB Advt 07/2023 pp.24-25; Advt 10/2024 p.17; Advt 06/2025 (saved in Govt Job/Government Teacher/notifications)](https://dsssb.delhi.gov.in)
+1. [DSSSB Advt 07/2023 pp.24-25; Advt 10/2024 p.17; Advt 06/2025 (saved in Govt Job/Government Teacher/notifications)](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_07-23_advt_combined_pgts_1.pdf)
+2. [DSSSB Advt 10/2024 (official PDF), p.17](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf)
+
+### Show me the official link for the PGT Economics ads (where NDMC eligibility is written).
+*Asked 2026-11-02*
+
+**Official DSSSB PDFs (both open, checked 2026-11-02; identical in size to the copies quoted):**
+
+- **Advt 07/2023 (22-12-2023)**, Combined PGT. NDMC PGT Economics block (own rules, age below 36): physical page 24, age on page 25. Post code 809/23.
+- **Advt 10/2024 (30-12-2024)**, Combined PGT, the most recent PGT ad. NDMC PGT Economics row: 'NO REQUISITION RECEIVED TILL DATE', physical page 17. DoE PGT Economics: post code 829/24.
+**PGT vs Assistant Professor:** for professor posts the official source is each university's own advert (e.g. DU Advt R&P/316/2026), not one combined board ad.
+
+
+**Sources**
+
+1. [DSSSB Advt 07/2023 (official PDF)](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_07-23_advt_combined_pgts_1.pdf)
+2. [DSSSB Advt 10/2024 (official PDF)](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf)
 
 ### I found a second OBC certificate. Is it the Delhi one?
 *Asked 2026-10-21*
@@ -353,7 +369,7 @@ If 36 is ever notified: 36 + 3 (OBC Delhi) = 39.
 
 **Sources**
 
-1. [DSSSB Advt 07/2023 (22-12-2023), paras 4-6](https://dsssb.delhi.gov.in)
+1. [DSSSB Advt 07/2023 (22-12-2023), paras 4-6](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_07-23_advt_combined_pgts_1.pdf)
 
 ### Here is the UGC NET December 2026 PDF. Does it answer any of my open questions?
 *Asked 2026-10-19*
@@ -708,8 +724,8 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 
 **Sources**
 
-1. [DSSSB Advt 07/2023 (22-12-2023), PGT Economics post code 809/23, pp.23-24, para 8](https://dsssb.delhi.gov.in)
-2. [DSSSB Advt 10/2024 (30-12-2024), PGT Economics 829/24](https://dsssb.delhi.gov.in)
+1. [DSSSB Advt 07/2023 (22-12-2023), PGT Economics post code 809/23, pp.23-24, para 8](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_07-23_advt_combined_pgts_1.pdf)
+2. [DSSSB Advt 10/2024 (30-12-2024), PGT Economics 829/24](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf)
 3. [ThePrint: North MCD teachers get June salary after HC order (2020)](https://theprint.in/india/week-after-hc-order-north-mcd-school-teachers-get-june-salary-du-colleges-still-waiting/498369)
 4. [LiveLaw: Delhi HC warns North MCD over unpaid salaries](https://www.livelaw.in/amp/news-updates/delhi-high-court-warns-ndmc-for-non-payment-of-salaries-pensions-to-employees-amid-covid-174969)
 
