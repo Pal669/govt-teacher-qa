@@ -2,7 +2,7 @@
 
 Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-11-02.
 
-- [Eligibility & Documents](#eligibility-documents) (6)
+- [Eligibility & Documents](#eligibility-documents) (7)
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (6)
 - [Exams & Timelines](#exams-timelines) (14)
@@ -17,6 +17,26 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Exam Preparation Strategy](#exam-preparation-strategy) (5)
 
 ## Eligibility & Documents
+
+### DSSSB ads list NDMC below DoE without separate eligibility. Where is NDMC PGT Economics eligibility actually written? Show the most recent document.
+*Asked 2026-11-02*
+
+**Each department gets its own numbered block with its own rules, but only when it sends a requisition.** When it sends none, the ad prints just 'NO REQUISITION RECEIVED TILL DATE' and no eligibility.
+
+- **Most recent PGT ad, Advt 10/2024 (30-12-2024), physical page 17:** row 3, New Delhi Municipal Council, PGT (Economics): 'NO REQUISITION RECEIVED TILL DATE'. All 11 NDMC PGT rows in that ad say the same, so it gives no NDMC eligibility at all.
+- **Last ad with NDMC eligibility printed, Advt 07/2023 (22-12-2023), physical pages 24-25:** row 3, New Delhi Municipal Council, PGT (Economics), R.No. D/230-A/P.A.Dir(Edn)/2020 dated 03/12/2020, 5 posts; its own Educational Qualification (B.Ed relaxable for PhD or first division in Hr. Sec., graduation and PG) and Age Limit 'Below 36 years'.
+- **NDMC still uses this format in 2025:** Advt 06/2025 (TGT) has a separate NDMC block (Special Education Teacher, R.No. D/S.O./(Edn.Estt.)/2025/142 dated 03/04/2025) with its own qualification.
+- **So:** the 36-year rule is the last PUBLISHED NDMC rule (Dec 2023). It is not confirmed for the next ad; NDMC could print the DoE 30-year rule next time.
+**PGT vs Assistant Professor:** for professor posts each university's advert prints its own full eligibility every time, so there is no 'no requisition' gap like this.
+
+
+**Still to verify**
+
+- NDMC's PGT rule for the next combined PGT ad (36 or 30) unknown until it is published.
+
+**Sources**
+
+1. [DSSSB Advt 07/2023 pp.24-25; Advt 10/2024 p.17; Advt 06/2025 (saved in Govt Job/Government Teacher/notifications)](https://dsssb.delhi.gov.in)
 
 ### I found a second OBC certificate. Is it the Delhi one?
 *Asked 2026-10-21*
