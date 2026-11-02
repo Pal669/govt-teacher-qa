@@ -818,6 +818,28 @@
             "Several post counts come from aggregator sites (UP 16,448 in 2016, UP TGT/PGT 2021 month, KVS+NVS Nov 2025 split): verify against official notices if the analysis is rerun.",
             "Only UP, Delhi, Uttarakhand and the Centre were tested; other states on the Vacancy Desk (e.g. Bihar TRE before the 2025 poll) not yet checked."
           ]
+        },
+        {
+          "date": "2026-11-02",
+          "q": "What is the selection process for NDMC PGT, and is it the same as DoE?",
+          "a": [
+            "**Same process, same exam.** NDMC = New Delhi Municipal Council (not Corporation). DSSSB recruits for both through one combined PGT exam (Advt 07/2023 paras 4-6).",
+            "- **Exam:** one tier, 300 MCQs, 3 hrs. Section I 100 (reasoning, GA, English, Hindi, numerical; 20 each, no minimum). Section II 200 (Economics + teaching methodology). 0.25 negative. Minimum: UR/EWS 40%, OBC (Delhi) 35%, SC/ST/PwD 30% (Section II only). No interview.",
+            "- **Merit:** total of both sections (normalised if needed). Tie: higher Section II, then older candidate, then alphabetical name.",
+            "- **Allocation:** department preference (DoE / NDMC) is given at the e-dossier stage; allocation = merit + preference + eligibility under each department's RR. Once you get your first available preference you are not considered for later ones; preference is final and irreversible. No preference = DSSSB decides.",
+            "- **Then:** document verification (e-dossier), medical/police verification, appointment by the department.",
+            "- **For Ashish:** aged 30-36 he is eligible only for the NDMC rows, so he competes only for NDMC's few posts (5 in 2023). If eligible for both, list both and order them carefully.",
+            "**PGT vs Assistant Professor:** PGT selection is a single written exam with no interview; Assistant Professor selection is NET + screening score + presentation + interview."
+          ],
+          "sources": [
+            {
+              "title": "DSSSB Advt 07/2023 (22-12-2023), paras 4-6",
+              "url": "https://dsssb.delhi.gov.in"
+            }
+          ],
+          "open": [
+            "Next combined ad may change the scheme; re-check paras 4-6 when it comes."
+          ]
         }
       ]
     },

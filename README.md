@@ -5,7 +5,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Eligibility & Documents](#eligibility-documents) (6)
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (6)
-- [Exams & Timelines](#exams-timelines) (13)
+- [Exams & Timelines](#exams-timelines) (14)
 - [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (21)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
@@ -313,6 +313,27 @@ If 36 is ever notified: 36 + 3 (OBC Delhi) = 39.
 
 
 ## Exams & Timelines
+
+### What is the selection process for NDMC PGT, and is it the same as DoE?
+*Asked 2026-11-02*
+
+**Same process, same exam.** NDMC = New Delhi Municipal Council (not Corporation). DSSSB recruits for both through one combined PGT exam (Advt 07/2023 paras 4-6).
+
+- **Exam:** one tier, 300 MCQs, 3 hrs. Section I 100 (reasoning, GA, English, Hindi, numerical; 20 each, no minimum). Section II 200 (Economics + teaching methodology). 0.25 negative. Minimum: UR/EWS 40%, OBC (Delhi) 35%, SC/ST/PwD 30% (Section II only). No interview.
+- **Merit:** total of both sections (normalised if needed). Tie: higher Section II, then older candidate, then alphabetical name.
+- **Allocation:** department preference (DoE / NDMC) is given at the e-dossier stage; allocation = merit + preference + eligibility under each department's RR. Once you get your first available preference you are not considered for later ones; preference is final and irreversible. No preference = DSSSB decides.
+- **Then:** document verification (e-dossier), medical/police verification, appointment by the department.
+- **For Ashish:** aged 30-36 he is eligible only for the NDMC rows, so he competes only for NDMC's few posts (5 in 2023). If eligible for both, list both and order them carefully.
+**PGT vs Assistant Professor:** PGT selection is a single written exam with no interview; Assistant Professor selection is NET + screening score + presentation + interview.
+
+
+**Still to verify**
+
+- Next combined ad may change the scheme; re-check paras 4-6 when it comes.
+
+**Sources**
+
+1. [DSSSB Advt 07/2023 (22-12-2023), paras 4-6](https://dsssb.delhi.gov.in)
 
 ### Here is the UGC NET December 2026 PDF. Does it answer any of my open questions?
 *Asked 2026-10-19*
