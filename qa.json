@@ -1778,6 +1778,42 @@
             "NVS: any regional-language or minimum-qualifying rule in Tier II (one site says below 40% in a language part voids subject marks): confirm",
             "Read CBSE Press Notes 2 and 3 (Aug 2026) for current PGT result / interview status"
           ]
+        },
+        {
+          "date": "2026-11-07",
+          "q": "With my degrees (B.A. Hons Economics + M.Sc. Economics), can I also go for TGT in the same govt schools I am targeting for PGT? Which subject would I teach?",
+          "a": [
+            "**Subject: TGT Social Science / Social Studies** (Classes 6-10: History, Geography, Political Science, Economics). There is no TGT Economics post anywhere.",
+            "**Open: DSSSB TGT (Social Science), Delhi DoE.** 2024 RR (Advt 06/2025) accepts a B.A. or Master's in Social Science 50% with at least ONE of History / Pol Sci / Geography / Economics / Sociology / Business Studies / Statistics. Economics alone is enough. Also needs B.Ed + CTET Paper II. Age 30, OBC (Delhi) 33, so same window as PGT: ad must close by 11-02-2029. Last ad 310 Male + 92 Female posts, Level 7 (Rs 44,900). The written paper covers all of Social Science, so History and Geography must be built.",
+            "**Closed: KVS, NVS, EMRS, AEES TGT (Social Studies).** All need two of History/Geography/Economics/Pol Sci, one of them History or Geography as a main subject for 3 years (KVS RR; AEES Notice 01/2026 verbatim; EMRS bulletin). B.A. Hons Economics has neither.",
+            "**Likely closed / unclear:** UP UPESSC TGT (any-two rule, aggregator), Haryana TGT (unclear). Uttarakhand LT and Himachal school cadres closed anyway (state schooling/domicile link).",
+            "**Why TGT still matters in Delhi:** ~400 posts per ad vs ~60 PGT Economics, more frequent ads, and 50% of DoE PGT Economics posts go to in-house TGTs (Social Science) by promotion after 2 years, with no age limit for promotees (PGT RR, Gazette 29-09-2022).",
+            "**DU Assistant Professor track:** no TGT-type entry step exists; the gate is NET/PhD. TGT only helps the school track."
+          ],
+          "sources": [
+            {
+              "title": "DSSSB Advt 06/2025 TGT (saved: notifications/2025-10-03_DSSSB-Advt-06-2025_TGT.pdf)",
+              "url": "https://vault.drishtiteachingexams.com/english_file_uploads/1759490514_DSSSB-TGT-2025-Advertisement--Official-NotificationPDF.pdf"
+            },
+            {
+              "title": "AEES Recruitment Notice 01/2026 (saved: notifications/2026-10-29_AEES-Recruitment-Notice-01-2026.pdf)",
+              "url": "https://aees.gov.in/"
+            },
+            {
+              "title": "KVS Recruitment Rules, Teaching Posts (saved: notifications/2026-01-23_KVS-Recruitment-Rules-Teaching-Posts.pdf)",
+              "url": "https://kvsangathan.nic.in/"
+            },
+            {
+              "title": "Full analysis: output/2026-10-30_TGT-Route-and-PGT-Relaxation.pdf",
+              "url": "https://dsssb.delhi.gov.in/"
+            }
+          ],
+          "open": [
+            "NVS TGT Social Science official text not read yet (aggregators: History or Geography compulsory)",
+            "NDMC TGT Social Science rule (separate RR via DSSSB) not checked",
+            "UPESSC and Haryana TGT Social Science official text",
+            "CTET: can a final-year B.Ed student sit Paper II"
+          ]
         }
       ]
     },

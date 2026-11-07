@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (6)
 - [Exams & Timelines](#exams-timelines) (14)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (22)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (23)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (3)
@@ -752,6 +752,36 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 3. [Adda247: what is new in KVS recruitment 2025](https://www.adda247.com/teaching-jobs-exam/whats-new-in-kvs-recruitment-2025)
 4. [CBSE Press Note 2 (18-08-2026), official, not readable by automated fetch](https://www.cbse.gov.in/cbsenew/documents/Press_Note_2_KVS_NVS_2025_18082026.pdf)
 5. [CBSE Press Note 3 (20-08-2026), official, not readable by automated fetch](https://www.cbse.gov.in/cbsenew/documents/Press_Note_3_KVS_NVS_2025_20082026.pdf)
+
+### With my degrees (B.A. Hons Economics + M.Sc. Economics), can I also go for TGT in the same govt schools I am targeting for PGT? Which subject would I teach?
+*Asked 2026-11-07*
+
+**Subject: TGT Social Science / Social Studies** (Classes 6-10: History, Geography, Political Science, Economics). There is no TGT Economics post anywhere.
+
+**Open: DSSSB TGT (Social Science), Delhi DoE.** 2024 RR (Advt 06/2025) accepts a B.A. or Master's in Social Science 50% with at least ONE of History / Pol Sci / Geography / Economics / Sociology / Business Studies / Statistics. Economics alone is enough. Also needs B.Ed + CTET Paper II. Age 30, OBC (Delhi) 33, so same window as PGT: ad must close by 11-02-2029. Last ad 310 Male + 92 Female posts, Level 7 (Rs 44,900). The written paper covers all of Social Science, so History and Geography must be built.
+
+**Closed: KVS, NVS, EMRS, AEES TGT (Social Studies).** All need two of History/Geography/Economics/Pol Sci, one of them History or Geography as a main subject for 3 years (KVS RR; AEES Notice 01/2026 verbatim; EMRS bulletin). B.A. Hons Economics has neither.
+
+**Likely closed / unclear:** UP UPESSC TGT (any-two rule, aggregator), Haryana TGT (unclear). Uttarakhand LT and Himachal school cadres closed anyway (state schooling/domicile link).
+
+**Why TGT still matters in Delhi:** ~400 posts per ad vs ~60 PGT Economics, more frequent ads, and 50% of DoE PGT Economics posts go to in-house TGTs (Social Science) by promotion after 2 years, with no age limit for promotees (PGT RR, Gazette 29-09-2022).
+
+**DU Assistant Professor track:** no TGT-type entry step exists; the gate is NET/PhD. TGT only helps the school track.
+
+
+**Still to verify**
+
+- NVS TGT Social Science official text not read yet (aggregators: History or Geography compulsory)
+- NDMC TGT Social Science rule (separate RR via DSSSB) not checked
+- UPESSC and Haryana TGT Social Science official text
+- CTET: can a final-year B.Ed student sit Paper II
+
+**Sources**
+
+1. [DSSSB Advt 06/2025 TGT (saved: notifications/2025-10-03_DSSSB-Advt-06-2025_TGT.pdf)](https://vault.drishtiteachingexams.com/english_file_uploads/1759490514_DSSSB-TGT-2025-Advertisement--Official-NotificationPDF.pdf)
+2. [AEES Recruitment Notice 01/2026 (saved: notifications/2026-10-29_AEES-Recruitment-Notice-01-2026.pdf)](https://aees.gov.in/)
+3. [KVS Recruitment Rules, Teaching Posts (saved: notifications/2026-01-23_KVS-Recruitment-Rules-Teaching-Posts.pdf)](https://kvsangathan.nic.in/)
+4. [Full analysis: output/2026-10-30_TGT-Route-and-PGT-Relaxation.pdf](https://dsssb.delhi.gov.in/)
 
 ### Compare NDMC PGT Economics with DSSSB/DoE PGT Economics fully: age limit, age relaxation, B.Ed, posts, pay, transfers, promotion. A friend says NDMC may not pay salary on time.
 *Asked 2026-11-02*
