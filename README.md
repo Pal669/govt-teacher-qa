@@ -2,7 +2,7 @@
 
 Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-11-07.
 
-- [Eligibility & Documents](#eligibility-documents) (8)
+- [Eligibility & Documents](#eligibility-documents) (9)
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (6)
 - [Exams & Timelines](#exams-timelines) (14)
@@ -17,6 +17,26 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Exam Preparation Strategy](#exam-preparation-strategy) (5)
 
 ## Eligibility & Documents
+
+### I have a central OBC certificate. Does it help for UKPSC Assistant Professor (and where does it count)?
+*Asked 2026-11-07*
+
+**UKPSC (state posts): no.** OBC reservation, age relaxation and fee concession are only for Uttarakhand domiciles holding an Uttarakhand-issued certificate. Out-of-state OBC candidates compete as General/UR. So age stays 21-42 and merit is on the General list.
+
+**Where the central certificate DOES count (with a fresh central-format NCL):** central universities (HNB Garhwal, CU Himachal, all DU colleges), KVS, EMRS, NVS, AEES, NCERT, CBSE, and UGC NET itself (OBC-NCL 35% minimum, JRF age 35, 50% Master's for eligibility).
+
+**Where it does NOT count:** UKPSC and every other state PSC (domicile reservation), DSSSB (needs OBC Delhi format).
+
+
+**Still to verify**
+
+- Confirm domicile-only reservation wording in the next official UKPSC Assistant Professor advert
+
+**Sources**
+
+1. [Parcham Classes UKPSC guide (other-state SC/ST/OBC = General)](https://parchamclasses.in/ukpsc/)
+2. [biharhelp UKPSC Lecturer 2024 (reservation only for UK domicile)](https://biharhelp.in/ukpsc-lecturer-recruitment-2024/)
+3. [psc.uk.gov.in (official)](https://psc.uk.gov.in/)
 
 ### DSSSB ads list NDMC below DoE without separate eligibility. Where is NDMC PGT Economics eligibility actually written? Show the most recent document.
 *Asked 2026-11-02*
