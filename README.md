@@ -1,6 +1,6 @@
 # Government Teacher Q&A
 
-Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-11-02.
+Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-11-07.
 
 - [Eligibility & Documents](#eligibility-documents) (8)
 - [B.Ed](#b-ed) (1)
@@ -12,7 +12,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Career Growth](#career-growth) (3)
 - [Service Rules & Side Work](#service-rules-side-work) (5)
 - [PGT vs DU Assistant Professor](#pgt-vs-du-assistant-professor) (41)
-- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (18)
+- [Hill States (Himachal & Uttarakhand)](#hill-states-himachal-uttarakhand) (19)
 - [Working in Other States (Pay, Language, Rules)](#working-in-other-states-pay-language-rules) (2)
 - [Exam Preparation Strategy](#exam-preparation-strategy) (5)
 
@@ -3022,6 +3022,41 @@ Example (ESTIMATE, illustrative numbers): if 10,000 sit Economics, about 600 qua
 
 
 ## Hill States (Himachal & Uttarakhand)
+
+### What is the UKPSC Assistant Professor selection process?
+*Asked 2026-11-07*
+
+**Last cycle (Advt 134/01/Dr./Degree/Service-02/2021-22, applied 04-24 Dec 2021, 455 posts, 42 Economics: UR 8, OBC 15, SC 13, ST 4, EWS 2):** no written exam. Step 1: academic score (API) out of 100 to shortlist. Step 2: interview, 100 marks. Step 3: document verification. Interviews ran subject-wise from May 2023 to Jan 2025.
+
+**Final merit:** the notice text says selection is 'based only on the performance in the Interview'; the academic score only decides who gets called. One aggregator says both are combined. Read the official notice to settle it.
+
+**Shortlisting score (as reported, UGC 2018-style table):** Graduation 80%+ 21 / 60-80% 19 / 55-60% 16; PG 80%+ 25 / 60-80% 23 / 55-60% 20; M.Phil up to 7; PhD 25; NET+JRF 10 / NET 8 / SET 5; publications up to 6; teaching experience 2 per year, up to 10; awards up to 3.
+
+**Ashish's estimate (ESTIMATE, self-reported marks):** grad 61% = 19 + PG 70% = 23 + NET 8 = 50; with JRF 52; each year of teaching experience +2; a PhD +25.
+
+**The notice reserves a right to hold an objective screening test if applications are very high.** The 2018 cycle did hold screening tests for some subjects. Earlier note that UKPSC uses a '100 Q / 200 marks' written paper is NOT confirmed for 2021.
+
+**Gate:** Master's 55% (50% OBC-NCL in UK) + NET/SET or PhD. Age 21-42 on 1 July of the ad year (one site says 40). No domicile rule; outsiders apply as General/UR. SET only counts in Uttarakhand. Pay Level 10 (Rs 57,700-1,82,400).
+
+**PGT comparison:** UKPSC Lecturer (school, GIC) is written-exam merit and needs B.Ed + an Uttarakhand link (closed for now). The college post needs NET only, but merit comes from the interview. A central university (HNB Garhwal) uses screening score + interview and lets him use his OBC certificate.
+
+
+**Still to verify**
+
+- Read official UKPSC 2021 Asst Prof notice: is final merit interview-only or API + interview?
+- Exact UKPSC shortlisting table and how the 100 cap applies
+- Candidates called per post for interview
+- Age limit 42 vs 40, and reckoning date
+- Next UKPSC Assistant Professor advert (none out as of 2026-11-07)
+
+**Sources**
+
+1. [testbook.com (2021 cycle: no written test, interview 100)](https://testbook.com/ukpsc-assistant-professor)
+2. [testbook.com result page](https://testbook.com/ukpsc-assistant-professor/result)
+3. [exampathfinder (advt no., dates, Level 10)](https://alert.exampathfinder.com/en/event/view/JcpWgzzE-Assistant-Professor-Post-via-Direct-Recruitment-by-UKPSC)
+4. [adda247 (Economics 42, score table)](https://www.adda247.com/teaching-jobs-exam/ukpsc-assistant-professor-notification/)
+5. [mysarkarinaukri (notice text: interview-only merit)](https://www.mysarkarinaukri.com/find/uttarakhand-public-service-commission-jobs/98113)
+6. [psc.uk.gov.in (official)](https://psc.uk.gov.in/)
 
 ### I can apply to different states' PSCs for Assistant Professor. Which hill states can I apply to, and how does it work?
 *Asked 2026-10-24*
