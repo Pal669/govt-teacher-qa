@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (6)
 - [Exams & Timelines](#exams-timelines) (14)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (21)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (22)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (3)
@@ -718,6 +718,40 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 
 
 ## Other Routes (KVS, EMRS, Other States)
+
+### What is the selection process for PGT Economics in KVS and NVS?
+*Asked 2026-11-07*
+
+**One combined recruitment, run by CBSE for both KVS and NVS** (last cycle notified Nov 2025, 14,967 posts). One application, one exam.
+
+**Gate first (KVS Recruitment Rules, p.10-12):** Master's in Economics 50%+ with Economics also studied at graduation, AND B.Ed 50%+ (NCTE), AND proficiency in teaching in Hindi and English medium. No CTET needed for PGT. Age not over 40, +3 for OBC-NCL (central format) = 43.
+
+**Stage 1, Tier I (screening):** common objective paper for all subjects (reasoning, general awareness, teaching aptitude/pedagogy, computer basics, language). Only shortlists for Tier II, about 1:10 per vacancy (aggregator). Tier I marks do NOT count in the final merit (aggregator).
+
+**Stage 2, Tier II (main exam):** Economics subject paper (PG-level plus Class XI-XII content) with pedagogy. Last cycle: Tier I 11-01-2026, Tier II 29-03-2026. Exact pattern and negative marking differ across sites.
+
+**Stage 3, Interview (100 marks), demo teaching reported:** final merit = 85% Tier II + 15% interview (aggregator). Then document verification and medical.
+
+**After selection:** NVS posts are in residential Jawahar Navodaya Vidyalayas (mostly rural, hostel duties); KVS posts are all-India transferable. Two years probation (KVS rules p.12). In KVS, one-third of PGT Economics posts go to TGT (S.St.) via a Limited Departmental Exam, the rest (66.67%) by direct recruitment.
+
+**Compared with DU Assistant Professor:** PGT = written-exam dominated (Tier II is 85% of merit), B.Ed compulsory, age cap 43. DU = no written exam; screening score (floor 55) then presentation then interview, NET or PhD needed, no B.Ed, no age cap. For KVS/NVS your marks decide; for DU your profile (JRF, PhD, papers) decides.
+
+
+**Still to verify**
+
+- 85% Tier II + 15% interview weightage and 1:10 Tier II shortlist ratio: aggregator only, confirm from the official CBSE KVS/NVS 2025 notification
+- Tier I and Tier II negative marking (sites give -1/4, -1/3, -1): confirm from official notice
+- Whether the PGT interview includes a demo lesson: confirm
+- NVS: any regional-language or minimum-qualifying rule in Tier II (one site says below 40% in a language part voids subject marks): confirm
+- Read CBSE Press Notes 2 and 3 (Aug 2026) for current PGT result / interview status
+
+**Sources**
+
+1. [KVS Recruitment Rules, Teaching Posts (saved: notifications/2026-01-23_KVS-Recruitment-Rules-Teaching-Posts.pdf)](https://kvsangathan.nic.in/)
+2. [Careers360: CBSE registration for 14,967 KVS/NVS posts](https://news.careers360.com/kvs-nvs-recruitment-2025-cbse-begins-registration-for-14967-teaching-staff-vacancies-eligibility-fee-pay-scale-exam-pattern/amp)
+3. [Adda247: what is new in KVS recruitment 2025](https://www.adda247.com/teaching-jobs-exam/whats-new-in-kvs-recruitment-2025)
+4. [CBSE Press Note 2 (18-08-2026), official, not readable by automated fetch](https://www.cbse.gov.in/cbsenew/documents/Press_Note_2_KVS_NVS_2025_18082026.pdf)
+5. [CBSE Press Note 3 (20-08-2026), official, not readable by automated fetch](https://www.cbse.gov.in/cbsenew/documents/Press_Note_3_KVS_NVS_2025_20082026.pdf)
 
 ### Compare NDMC PGT Economics with DSSSB/DoE PGT Economics fully: age limit, age relaxation, B.Ed, posts, pay, transfers, promotion. A friend says NDMC may not pay salary on time.
 *Asked 2026-11-02*
