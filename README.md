@@ -1,12 +1,12 @@
 # Government Teacher Q&A
 
-Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-11-07.
+Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-11-10.
 
 - [Eligibility & Documents](#eligibility-documents) (9)
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (6)
 - [Exams & Timelines](#exams-timelines) (14)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (23)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (24)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (3)
@@ -718,6 +718,32 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 
 
 ## Other Routes (KVS, EMRS, Other States)
+
+### Does KVS expect me to teach in Hindi as well?
+*Asked 2026-11-10*
+
+**Yes, on paper.** The KVS Recruitment Rules list 'proficiency in teaching in Hindi and English medium' as an essential qualification for PGT, next to the Master's 50% and B.Ed 50%. It is a condition of eligibility, not a nice-to-have.
+
+**Why:** KVS is a central system built for transferable central-government families, so students come from every state. Schools run bilingual, and you can be posted anywhere, including Hindi-belt KVs where Class XI-XII Economics students ask for explanation in Hindi.
+
+**How it is checked in practice:** there is no separate scored Hindi test for PGT. Tier I has a language section (Hindi and English). In the interview/demo, the panel can ask you to explain a concept in Hindi. You do not need a Hindi degree or certificate; in practice you self-certify by applying.
+
+**What it means day to day:** CBSE lets Class XI-XII students answer in Hindi or English, so most KV classrooms are mixed: English textbook terms, explanation in both. You need to be able to teach demand, elasticity, national income etc. comfortably in Hindi, with Hindi terms (maang, lochta, rashtriya aay).
+
+**For you:** Hindi speaker from Delhi, so the condition is met. The real work is Economics vocabulary in Hindi (NCERT Hindi-medium books are the easiest source), useful for the demo lesson.
+
+**Compared with DU Assistant Professor:** no Hindi requirement in the eligibility. DU colleges allow exams in Hindi or English and many Economics classes have Hindi-medium students, so bilingual teaching helps but is not a gate. KVS = formal condition; DU = practical advantage.
+
+
+**Still to verify**
+
+- Whether the 2025 CBSE KVS/NVS notification tests Hindi proficiency anywhere beyond the Tier I language section (interview/demo practice is reported, not in an official document).
+
+**Sources**
+
+1. [KVS Recruitment Rules, Teaching Posts (saved: notifications/2026-01-23_KVS-Recruitment-Rules-Teaching-Posts.pdf, p.10-12)](https://kvsangathan.nic.in/)
+2. [PW: KVS PGT eligibility](https://www.pw.live/teaching/exams/kvs-pgt-eligibility)
+3. [Careerpower: KVS eligibility criteria](https://www.careerpower.in/blog/kvs-eligibility-criteria)
 
 ### What is the selection process for PGT Economics in KVS and NVS?
 *Asked 2026-11-07*
