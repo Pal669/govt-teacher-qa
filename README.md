@@ -5,7 +5,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [Eligibility & Documents](#eligibility-documents) (9)
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (6)
-- [Exams & Timelines](#exams-timelines) (14)
+- [Exams & Timelines](#exams-timelines) (15)
 - [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (24)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
@@ -369,6 +369,37 @@ If 36 is ever notified: 36 + 3 (OBC Delhi) = 39.
 
 
 ## Exams & Timelines
+
+### What is the DSSSB recruitment drive pattern for PGT Economics?
+*Asked 2026-11-10*
+
+**Drives (ads with PGT Economics posts), from the official ads saved in notifications/:**
+
+- **Advt 01/2014 (Jan 2014):** Male 12 UR, 7 OBC, 4 SC, 3 ST (total cell blank in the PDF text, so about 26) + Female 3. Two-tier exam: Tier-I 30-11-2014, Tier-II 28-06-2015. Age below 36.
+- **Advt 02/2017 (07-08-2017):** Male 10 + Female 22 = 32. Exam July 2018 (first one-tier, 300-mark paper). Age below 36.
+- **Advt 02/2020 (02-01-2020):** exam 17-07-2021 (COVID delay). Economics post count not read yet.
+- **Advt 07/2023 (22-12-2023):** DoE Male 23, Female 0, NDMC 5 = 28. Exam 21-07-2024. Age below 36 with first-division B.Ed relaxation.
+- **Advt 10/2024 (30-12-2024):** Male 60 (UR 31, OBC 21, SC 2, EWS 6) + Female 22 (aggregator) = 82; NDMC none. Exam 15-07-2026. NEW rule: age not above 30, B.Ed compulsory, no relaxation.
+- **Next:** not notified (checked 2026-11-10 from saved files only). Unofficial annexure: 43 M + 9 F = 52. Expected Dec 2026-Jan 2027 (ESTIMATE).
+**Pattern:** gaps were 3.5, 2.5 and ~4 years until 2023, then two December ads back to back. Recent ads land late Dec/early Jan, close mid-Feb, Economics exam in July, 5.5-17 months after closing; results 1+ year after the exam. Posts swing from 28 to 82 per drive.
+
+**Paper (since 2018):** one tier, 300 MCQs, 3 hrs, -0.25. Section I 100 (reasoning, GA, English, Hindi, numerical 20 each). Section II 200 (180 Economics + 20 teaching methodology). Section II minimum: UR/EWS 40%, OBC (Delhi) 35%. Merit = both sections. In past papers, Class XI-XII NCERT-level topics took about 66% of Section II marks, PG topics 24%.
+
+**Comparison with DU Assistant Professor:** DU colleges advertise college by college, roughly yearly (DU Advt R&P/316/2026 in March 2026); no written exam, screening score + presentation + interview. PGT = predictable written exam, irregular ads; DU = no exam but opaque interview selection.
+
+
+**Still to verify**
+
+- PGT Economics post count in Advt 02/2020: read from the saved PDF (text extraction missed it)
+- Advt 01/2014 Male total: confirm 26 from the PDF table
+- Which ad the 21-06-2023 Economics exam belonged to
+- Re-check dsssb.delhi.gov.in for a new PGT ad (Dec 2026-Jan 2027 window)
+
+**Sources**
+
+1. [DSSSB Advt 10/2024 (official)](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_10-2024_combined_pgts_1.pdf)
+2. [DSSSB Advt 07/2023 (official)](https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_07-23_advt_combined_pgts.pdf)
+3. [DSSSB official site](https://dsssb.delhi.gov.in/)
 
 ### What is the selection process for NDMC PGT, and is it the same as DoE?
 *Asked 2026-11-02*
