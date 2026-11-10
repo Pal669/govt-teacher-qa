@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (6)
 - [Exams & Timelines](#exams-timelines) (15)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (24)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (25)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (3)
@@ -775,6 +775,38 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 1. [KVS Recruitment Rules, Teaching Posts (saved: notifications/2026-01-23_KVS-Recruitment-Rules-Teaching-Posts.pdf, p.10-12)](https://kvsangathan.nic.in/)
 2. [PW: KVS PGT eligibility](https://www.pw.live/teaching/exams/kvs-pgt-eligibility)
 3. [Careerpower: KVS eligibility criteria](https://www.careerpower.in/blog/kvs-eligibility-criteria)
+
+### Get fully equipped with AEES (Atomic Energy Education Society) teacher rules and eligibility from Recruitment Notice 01/2026.
+*Asked 2026-11-10*
+
+**Full rules file:** notifications/2026-10-29_AEES-Recruitment-Notice-01-2026-summary.md (every post: vacancies, pay, age, qualifications, relaxations, certificates, fee, CBT pattern, skill test, merit, probation).
+
+**Advt 01/2026:** 254 posts (33 SC, 16 ST, 68 OBC, 25 EWS, 112 UR). Apply 02-22 Nov 2026 at aees.onlineregistrationforms.com. Eligibility is judged on 22-11-2026, even if the date is extended.
+
+**PGT (all subjects):** Level 8 (Rs 47,600-1,51,100), age not over 40. Master's 50% in the subject (Economics also studied at graduation) + B.Ed 50% (NCTE). No CTET needed for PGT. PGT Economics: 2 posts (EWS 1, UR 1).
+
+**TGT:** Level 7, age 35, graduation 50% + B.Ed 50% + CTET Paper-II (not for Computer Science, P&HE, Art). TGT Social Studies needs History or Geography as a 3-year main subject, so closed for B.A. (Hons) Economics.
+
+**Correction to earlier note:** the OBC +3 years applies only to vacancies reserved for OBC (notice p.12, note c). On a UR or EWS post the limit is 40. This round has no OBC PGT Economics post.
+
+**Other key rules:** relaxations do not stack (highest one only); women get 10 years for teacher posts; OBC-NCL certificate must be issued between 01-04-2026 and joining; Police Verification Certificate (not older than 6 months) needed at skill test; only one PGT subject per candidate; fee Rs 750 + Rs 250 (women/SC/ST/PwBD/ESM pay only Rs 250).
+
+**Selection:** CBT 120 MCQ / 120 marks / 2 hours, no negative marking (75 subject, 15 teaching methodology, 30 general). Shortlist cut-off 60% for UR/EWS posts, 54% for reserved posts. Then a Go/No-Go chalk-and-board skill test in Mumbai. Final merit = CBT marks only. 2-year probation; posting anywhere in India, no station change.
+
+**For you:** cannot apply this round (B.Ed due ~Aug 2028). Plan AEES as a door from late 2028 to about early 2035 (age 40), and to early 2038 only in a year that has an OBC Economics post (ESTIMATE).
+
+
+**Still to verify**
+
+- Detailed CBT syllabus for PGT Economics (only on the application portal)
+- How often AEES advertises PGT posts (previous cycle reported as 2022)
+- Pension scheme for AEES teachers (NPS assumed, not stated in the notice)
+- Exact last eligible date under 'not exceeding 40' (depends on each ad's closing date)
+
+**Sources**
+
+1. [AEES Recruitment Notice 01/2026 (official)](https://www.aees.gov.in/DOCUMENTS/rv/1.%20AEES_Recruitment_Notice_01_2026_29.10.2026.pdf)
+2. [AEES online application portal](https://aees.onlineregistrationforms.com)
 
 ### What is the selection process for PGT Economics in KVS and NVS?
 *Asked 2026-11-07*
