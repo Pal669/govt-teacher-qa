@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (6)
 - [Exams & Timelines](#exams-timelines) (15)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (26)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (27)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (3)
@@ -778,6 +778,37 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 3. [WBCSC Assistant Professor and Librarian (official)](https://wbcsc.org.in/wbcsc/AsstProfLib.aspx)
 4. [WBCSC Advertisement 1/2026 (official)](https://www.wbcsconline.in/UploadDocument/Notice/745/Advertisement.pdf)
 5. [upessc.up.gov.in (official)](https://upessc.up.gov.in/)
+
+### Give me the COMPLETE list of every way to become a permanent Assistant Professor, so I stop discovering routes one at a time.
+*Asked 2026-11-13*
+
+**Gate everywhere:** Master's 55% (50% OBC-NCL) + NET (or that state's SET, valid only in that state), or a PhD. UGC 2025 draft regulations not confirmed final; UGC chairman says NET stays mandatory for non-professional Master's.
+
+**8 employer types:** (1) central university departments (55 CUs); (2) DU / central-university colleges; (3) national bodies: UPSC for UT colleges (Andaman, Chandigarh), NCERT/RIEs, CBSE academics, IEG and research institutes; (4) IITs/IIMs/NITs/IISERs (PhD only); (5) state GOVT degree colleges via state PSC/board (UPPSC, MPPSC, RPSC, HPSC, HPPSC, UKPSC, CGPSC, OPSC, TN TRB, KEA, Kerala PSC, GPSC); (6) state GOVT-AIDED colleges via a commission (UPESSC UP, WBCSC West Bengal, SSB Odisha) or each college's own interview (Maharashtra 5,012 posts approved 2026, MP, Rajasthan, Haryana, Uttarakhand, Punjab, South); (7) state universities (own adverts; Bihar BSUSC); (8) private universities/colleges (not govt).
+
+**Not permanent:** guest, ad-hoc, contractual. No regularisation route.
+
+**Blind spots found:** aided colleges (type 6) and UP having TWO routes: UPPSC govt colleges (1,253 posts, exam 31-05-2026) and UPESSC aided colleges (1,936 posts, exam 19-20 Nov 2026).
+
+**Outsider reality:** Hindi belt open as UR; South, Gujarat, Maharashtra, Odisha, WB usually need the local language; Telangana/AP mostly closed (local cadre); J&K closed; Punjab needs Punjabi.
+
+
+**Still to verify**
+
+- Outsider + language rules: WB, Odisha, Maharashtra, TN, Karnataka, Kerala, Gujarat
+- UPPSC Economics post count and next cycle
+- UGC Regulations 2025: final or still draft
+- Vacancy Desk: add aided-college sources (WBCSC, SSB Odisha, Maharashtra college adverts) and UPPSC
+
+**Sources**
+
+1. [Scroll: UPPSC 1,253 Assistant Professor posts](https://scroll.in/announcements/1086280/scroll_in)
+2. [Careers360: Maharashtra 5,012 aided-college posts](https://news.careers360.com/maharashtra-approves-5012-assistant-professor-posts-in-non-government-aided-colleges-cctv-mandatory-for-interviews)
+3. [Scroll: SSB Odisha 786 lecturer posts](https://scroll.in/announcements/1065567/ssb-odisha-lecturer-registration-begins-for-786-posts-apply-now-at-ssbodisha-ac-in)
+4. [Scroll: TN TRB 4,000 posts](https://scroll.in/announcements/1065178/scroll_in)
+5. [Deccan Herald: KEA 1,242 posts](https://www.deccanherald.com/india/karnataka/over-30000-apply-for-1242-assistant-professors-posts-in-karnataka-1071782.html)
+6. [Careers360: UGC chairman on NET mandatory](https://news.careers360.com/ugc-net-mandatory-for-assistant-professor-jobs-jagadesh-kumar-clarifies-on-rules-regulations-vc-faculty-recruitment)
+7. [WBCSC (official)](https://wbcsc.org.in/wbcsc/AsstProfLib.aspx)
 
 ### Does KVS expect me to teach in Hindi as well?
 *Asked 2026-11-10*

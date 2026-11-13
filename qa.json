@@ -1948,6 +1948,53 @@
       "UPESSC next cycle timing; confirm aided posts have no inter-college transfer",
       "Add UPESSC + WBCSC adverts as tracked sources with alerts on the Vacancy Desk"
      ]
+    },
+    {
+     "date": "2026-11-13",
+     "q": "Give me the COMPLETE list of every way to become a permanent Assistant Professor, so I stop discovering routes one at a time.",
+     "a": [
+      "**Gate everywhere:** Master's 55% (50% OBC-NCL) + NET (or that state's SET, valid only in that state), or a PhD. UGC 2025 draft regulations not confirmed final; UGC chairman says NET stays mandatory for non-professional Master's.",
+      "**8 employer types:** (1) central university departments (55 CUs); (2) DU / central-university colleges; (3) national bodies: UPSC for UT colleges (Andaman, Chandigarh), NCERT/RIEs, CBSE academics, IEG and research institutes; (4) IITs/IIMs/NITs/IISERs (PhD only); (5) state GOVT degree colleges via state PSC/board (UPPSC, MPPSC, RPSC, HPSC, HPPSC, UKPSC, CGPSC, OPSC, TN TRB, KEA, Kerala PSC, GPSC); (6) state GOVT-AIDED colleges via a commission (UPESSC UP, WBCSC West Bengal, SSB Odisha) or each college's own interview (Maharashtra 5,012 posts approved 2026, MP, Rajasthan, Haryana, Uttarakhand, Punjab, South); (7) state universities (own adverts; Bihar BSUSC); (8) private universities/colleges (not govt).",
+      "**Not permanent:** guest, ad-hoc, contractual. No regularisation route.",
+      "**Blind spots found:** aided colleges (type 6) and UP having TWO routes: UPPSC govt colleges (1,253 posts, exam 31-05-2026) and UPESSC aided colleges (1,936 posts, exam 19-20 Nov 2026).",
+      "**Outsider reality:** Hindi belt open as UR; South, Gujarat, Maharashtra, Odisha, WB usually need the local language; Telangana/AP mostly closed (local cadre); J&K closed; Punjab needs Punjabi."
+     ],
+     "sources": [
+      {
+       "title": "Scroll: UPPSC 1,253 Assistant Professor posts",
+       "url": "https://scroll.in/announcements/1086280/scroll_in"
+      },
+      {
+       "title": "Careers360: Maharashtra 5,012 aided-college posts",
+       "url": "https://news.careers360.com/maharashtra-approves-5012-assistant-professor-posts-in-non-government-aided-colleges-cctv-mandatory-for-interviews"
+      },
+      {
+       "title": "Scroll: SSB Odisha 786 lecturer posts",
+       "url": "https://scroll.in/announcements/1065567/ssb-odisha-lecturer-registration-begins-for-786-posts-apply-now-at-ssbodisha-ac-in"
+      },
+      {
+       "title": "Scroll: TN TRB 4,000 posts",
+       "url": "https://scroll.in/announcements/1065178/scroll_in"
+      },
+      {
+       "title": "Deccan Herald: KEA 1,242 posts",
+       "url": "https://www.deccanherald.com/india/karnataka/over-30000-apply-for-1242-assistant-professors-posts-in-karnataka-1071782.html"
+      },
+      {
+       "title": "Careers360: UGC chairman on NET mandatory",
+       "url": "https://news.careers360.com/ugc-net-mandatory-for-assistant-professor-jobs-jagadesh-kumar-clarifies-on-rules-regulations-vc-faculty-recruitment"
+      },
+      {
+       "title": "WBCSC (official)",
+       "url": "https://wbcsc.org.in/wbcsc/AsstProfLib.aspx"
+      }
+     ],
+     "open": [
+      "Outsider + language rules: WB, Odisha, Maharashtra, TN, Karnataka, Kerala, Gujarat",
+      "UPPSC Economics post count and next cycle",
+      "UGC Regulations 2025: final or still draft",
+      "Vacancy Desk: add aided-college sources (WBCSC, SSB Odisha, Maharashtra college adverts) and UPPSC"
+     ]
     }
    ]
   },
