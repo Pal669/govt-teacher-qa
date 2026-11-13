@@ -1,12 +1,12 @@
 # Government Teacher Q&A
 
-Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-11-10.
+Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updated 2026-11-13.
 
 - [Eligibility & Documents](#eligibility-documents) (9)
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (6)
 - [Exams & Timelines](#exams-timelines) (15)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (25)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (26)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (3)
@@ -749,6 +749,35 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 
 
 ## Other Routes (KVS, EMRS, Other States)
+
+### UPESSC Assistant Professor exam is on 19-20 Nov 2026. Why was I not aware? How is it different from UPPSC / UKPSC, and which other states run a separate exam like this?
+*Asked 2026-11-13*
+
+**It was logged, but late:** the UPESSC route went into status.md, the State PSC guide (notes/2026-10-21) and the master workbook sheet 'State PSC Exams' on 20-21 Oct 2026. Applications had already closed on 07-10-2026. Before 20 Oct, state colleges were OUT of scope (2026-10-05 central-only decision). It was never flagged as a separate route with its own calendar.
+
+**He could not have applied anyway:** the gate is Master's 55% + NET/SET or PhD. NET is not held yet (exam Dec 2026). The next UPESSC cycle is the real target.
+
+**UPESSC vs UPPSC:** UPPSC recruits for UP GOVERNMENT degree colleges (state owns and runs them). UPESSC (Uttar Pradesh Education Service Selection Commission, replaced UPHESC) recruits for UP GOVERNMENT-AIDED colleges (run by a private trust or society, salary paid by the state). Aided posts are permanent, Level 10 pay, but you work at one college with no state-wide transfer. Govt-college posts can be transferred anywhere in UP.
+
+**UPESSC vs UKPSC:** UKPSC recruits only for Uttarakhand government degree colleges. The 2021 cycle had no written exam (API score shortlist + 100-mark interview). UPESSC is written-exam heavy (120 MCQ / 360 marks + small interview).
+
+**Other states with a separate aided-college commission (confirmed):** West Bengal College Service Commission (WBCSC), about 450 aided colleges, Advt 1/2026 out. Bihar BSUSC covers state universities and their colleges (still out of scope). Gujarat, Odisha, Maharashtra, Kerala, Tamil Nadu: not yet checked (in many states aided colleges hire through the college management).
+
+
+**Still to verify**
+
+- Is an outsider eligible for WBCSC (Bengali language rule?) and age limit
+- Aided-college Assistant Professor route in Gujarat, Odisha, Maharashtra, Kerala, Tamil Nadu, Haryana, Uttarakhand (21 aided colleges)
+- UPESSC next cycle timing; confirm aided posts have no inter-college transfer
+- Add UPESSC + WBCSC adverts as tracked sources with alerts on the Vacancy Desk
+
+**Sources**
+
+1. [Careers360: UPESSC exam 19-20 Nov 2026](https://news.careers360.com/up-assistant-professor-city-intimation-slip-2026-upessc-up-gov-in-1-27-lakh-candidates-uttar-pradesh-govt-jobs-sarkari-naukri)
+2. [Free Press Journal: 1,936 posts in UP govt-aided colleges](https://www.freepressjournal.in/education/up-announces-recruitment-for-1936-assistant-professor-posts-in-govt-aided-colleges)
+3. [WBCSC Assistant Professor and Librarian (official)](https://wbcsc.org.in/wbcsc/AsstProfLib.aspx)
+4. [WBCSC Advertisement 1/2026 (official)](https://www.wbcsconline.in/UploadDocument/Notice/745/Advertisement.pdf)
+5. [upessc.up.gov.in (official)](https://upessc.up.gov.in/)
 
 ### Does KVS expect me to teach in Hindi as well?
 *Asked 2026-11-10*
