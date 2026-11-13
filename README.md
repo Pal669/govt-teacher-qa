@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (6)
 - [Exams & Timelines](#exams-timelines) (15)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (28)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (29)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (3)
@@ -827,12 +827,28 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 **Still to verify**
 
 - Confirm CBSE funding model (self-financing) from CBSE annual accounts
-- Ashish to decide: bring state universities back into scope?
 
 **Sources**
 
 1. [Free Press Journal: UP govt-aided colleges (salary from state)](https://www.freepressjournal.in/education/up-announces-recruitment-for-1936-assistant-professor-posts-in-govt-aided-colleges)
 2. [wbxpress: WB aided college recruitment rules](https://wbxpress.com/recruitment-rules-of-assistant-professor-in-government-aided-affiliated-colleges/)
+
+### Bring state universities back into scope, and track every state's PSC / college recruiter.
+*Asked 2026-11-13*
+
+**Scope now:** every permanent Assistant Professor post whose salary the government pays, including state universities (reverses 2026-10-05) and aided colleges. Private, self-financing and guest posts stay out.
+
+**Vacancy Desk:** reads OPSC (Odisha govt colleges), SSB Odisha (aided), JPSC (Jharkhand universities), BSUSC (Bihar universities), PPSC (Punjab) directly; UPESSC re-routed so Hindi 'सहायक आचार्य' notices land in College & university; UPPSC, HPPSC, CGPSC, WBCSC, WBPSC, GPSC, TN TRB, KEA, Kerala PSC, APSC, Maharashtra aided shown as one-tap links; 14 new news searches cover every state recruiter + state universities.
+
+
+**Still to verify**
+
+- Telangana / AP left out of direct tracking (local-cadre reservation)
+- Watch first cloud runs for noise from the new sources
+
+**Sources**
+
+1. [Vacancy Desk](https://pal669.github.io/govt-vacancy-portal/)
 
 ### Does KVS expect me to teach in Hindi as well?
 *Asked 2026-11-10*

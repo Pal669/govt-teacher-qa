@@ -2017,8 +2017,25 @@
       }
      ],
      "open": [
-      "Confirm CBSE funding model (self-financing) from CBSE annual accounts",
-      "Ashish to decide: bring state universities back into scope?"
+      "Confirm CBSE funding model (self-financing) from CBSE annual accounts"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "q": "Bring state universities back into scope, and track every state's PSC / college recruiter.",
+     "a": [
+      "**Scope now:** every permanent Assistant Professor post whose salary the government pays, including state universities (reverses 2026-10-05) and aided colleges. Private, self-financing and guest posts stay out.",
+      "**Vacancy Desk:** reads OPSC (Odisha govt colleges), SSB Odisha (aided), JPSC (Jharkhand universities), BSUSC (Bihar universities), PPSC (Punjab) directly; UPESSC re-routed so Hindi 'सहायक आचार्य' notices land in College & university; UPPSC, HPPSC, CGPSC, WBCSC, WBPSC, GPSC, TN TRB, KEA, Kerala PSC, APSC, Maharashtra aided shown as one-tap links; 14 new news searches cover every state recruiter + state universities."
+     ],
+     "sources": [
+      {
+       "title": "Vacancy Desk",
+       "url": "https://pal669.github.io/govt-vacancy-portal/"
+      }
+     ],
+     "open": [
+      "Telangana / AP left out of direct tracking (local-cadre reservation)",
+      "Watch first cloud runs for noise from the new sources"
      ]
     }
    ]
