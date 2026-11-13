@@ -1995,6 +1995,31 @@
       "UGC Regulations 2025: final or still draft",
       "Vacancy Desk: add aided-college sources (WBCSC, SSB Odisha, Maharashtra college adverts) and UPPSC"
      ]
+    },
+    {
+     "date": "2026-11-13",
+     "q": "Only the routes where the GOVERNMENT pays the salary of a permanent Assistant Professor.",
+     "a": [
+      "**Govt pays (central):** central university departments; DU colleges (UGC-funded and Delhi-govt-funded); UPSC posts in UT govt colleges (Andaman, Chandigarh); NCERT/RIEs; IEG and ICSSR institutes (grant-funded); IITs/IIMs/NITs/IISERs (PhD only).",
+      "**Govt pays (state):** state govt degree colleges via PSC/board; SANCTIONED grant-in-aid posts in aided colleges (UPESSC, WBCSC, SSB Odisha, Maharashtra aided, etc.); state universities (state grant).",
+      "**Govt does NOT pay:** private universities and colleges; private deemed universities; self-financing colleges; self-financing courses/posts inside aided colleges and even inside govt universities (paid from fees); guest, ad-hoc, contract posts. CBSE is self-funded from fees (central autonomous body, Level 10 but not grant-paid).",
+      "**Check in every advert:** the words 'sanctioned post', 'grant-in-aid', 'regular', 'pay matrix Level 10'. 'Self-financing', 'contractual', 'fixed pay', 'on fees' = not govt-paid.",
+      "**Scope note:** state universities meet this rule but were excluded on 2026-10-05; awaiting Ashish's call."
+     ],
+     "sources": [
+      {
+       "title": "Free Press Journal: UP govt-aided colleges (salary from state)",
+       "url": "https://www.freepressjournal.in/education/up-announces-recruitment-for-1936-assistant-professor-posts-in-govt-aided-colleges"
+      },
+      {
+       "title": "wbxpress: WB aided college recruitment rules",
+       "url": "https://wbxpress.com/recruitment-rules-of-assistant-professor-in-government-aided-affiliated-colleges/"
+      }
+     ],
+     "open": [
+      "Confirm CBSE funding model (self-financing) from CBSE annual accounts",
+      "Ashish to decide: bring state universities back into scope?"
+     ]
     }
    ]
   },

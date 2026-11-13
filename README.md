@@ -6,7 +6,7 @@ Questions on the path to Delhi Govt PGT (Economics), with sourced answers. Updat
 - [B.Ed](#b-ed) (1)
 - [Age Limits](#age-limits) (6)
 - [Exams & Timelines](#exams-timelines) (15)
-- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (27)
+- [Other Routes (KVS, EMRS, Other States)](#other-routes-kvs-emrs-other-states) (28)
 - [Pay & Perks](#pay-perks) (6)
 - [Lifestyle & Posting](#lifestyle-posting) (4)
 - [Career Growth](#career-growth) (3)
@@ -809,6 +809,30 @@ For practice, any shift's paper is equally useful. Male and Female PGT Economics
 5. [Deccan Herald: KEA 1,242 posts](https://www.deccanherald.com/india/karnataka/over-30000-apply-for-1242-assistant-professors-posts-in-karnataka-1071782.html)
 6. [Careers360: UGC chairman on NET mandatory](https://news.careers360.com/ugc-net-mandatory-for-assistant-professor-jobs-jagadesh-kumar-clarifies-on-rules-regulations-vc-faculty-recruitment)
 7. [WBCSC (official)](https://wbcsc.org.in/wbcsc/AsstProfLib.aspx)
+
+### Only the routes where the GOVERNMENT pays the salary of a permanent Assistant Professor.
+*Asked 2026-11-13*
+
+**Govt pays (central):** central university departments; DU colleges (UGC-funded and Delhi-govt-funded); UPSC posts in UT govt colleges (Andaman, Chandigarh); NCERT/RIEs; IEG and ICSSR institutes (grant-funded); IITs/IIMs/NITs/IISERs (PhD only).
+
+**Govt pays (state):** state govt degree colleges via PSC/board; SANCTIONED grant-in-aid posts in aided colleges (UPESSC, WBCSC, SSB Odisha, Maharashtra aided, etc.); state universities (state grant).
+
+**Govt does NOT pay:** private universities and colleges; private deemed universities; self-financing colleges; self-financing courses/posts inside aided colleges and even inside govt universities (paid from fees); guest, ad-hoc, contract posts. CBSE is self-funded from fees (central autonomous body, Level 10 but not grant-paid).
+
+**Check in every advert:** the words 'sanctioned post', 'grant-in-aid', 'regular', 'pay matrix Level 10'. 'Self-financing', 'contractual', 'fixed pay', 'on fees' = not govt-paid.
+
+**Scope note:** state universities meet this rule but were excluded on 2026-10-05; awaiting Ashish's call.
+
+
+**Still to verify**
+
+- Confirm CBSE funding model (self-financing) from CBSE annual accounts
+- Ashish to decide: bring state universities back into scope?
+
+**Sources**
+
+1. [Free Press Journal: UP govt-aided colleges (salary from state)](https://www.freepressjournal.in/education/up-announces-recruitment-for-1936-assistant-professor-posts-in-govt-aided-colleges)
+2. [wbxpress: WB aided college recruitment rules](https://wbxpress.com/recruitment-rules-of-assistant-professor-in-government-aided-affiliated-colleges/)
 
 ### Does KVS expect me to teach in Hindi as well?
 *Asked 2026-11-10*
